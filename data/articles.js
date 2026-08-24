@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-24T17:21:38+09:00",
- "runCount": 448,
+ "generatedAt": "2026-08-24T17:31:29+09:00",
+ "runCount": 451,
  "price": {
   "price": "35,800",
   "pct": "+0.00",
-  "at": "2026-08-24T17:21:39+09:00"
+  "at": "2026-08-24T17:31:29+09:00"
  },
  "articles": [
   {
@@ -1498,7 +1498,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5raVYtd0t1U0dydWtob2NlMHRPUlNpTlN5RzI5RVpYeUl5Yk9kZWJETXRLSjVOWnBEbGVwU1l6ZUZvdS1CbzM5TG9mVm10UTA?oc=5",
    "publishedAt": "2026-08-21T10:55:49+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -1.0,
    "frames": [
     "AI전략",
     "밸류에이션"
@@ -3586,7 +3586,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRS1YcnhvaW5XQ05kR2xVV1NlalJIaGI5Ynd6STl1R1JQLUpwSVUweS1WNkdmX0prcGRPQV9HT01qNXY4d3E3T3JDUTJHcngt?oc=5",
    "publishedAt": "2026-08-21T13:51:20+09:00",
    "tone": "우려",
-   "toneScore": -2.8,
+   "toneScore": -3.8,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -3819,7 +3819,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wS2piZU43dVNuRWRpNDNVWEtHci1vS2c0eUNSZWdtbWR2VndpdVVXcGc5N3JUNGdHak9VVlQwYk1qT2lGYkhCWDMybFN2dVRaNWtDODExRjcteXo1YkU2RjJTTFZoSWpKM21lbFlB?oc=5",
    "publishedAt": "2026-08-21T14:06:40+09:00",
    "tone": "우려",
-   "toneScore": -7.0,
+   "toneScore": -6.8,
    "frame": "회사프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -4012,7 +4012,7 @@ window.KMW_DATA = {
    "publishedAt": "2026-08-21T14:43:41+09:00",
    "tone": "우려",
    "toneScore": -3.8,
-   "frame": "중립전달",
+   "frame": "회사프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
@@ -4386,7 +4386,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yOG1YbGhVclA4N2p4Rk8xZUhpalJneGRobllubGhmbVB2SjRxMm5ZdHdobE5QUXR1dE84N0FfOTY5NTc3dDRoWDM5TWhacmctTkt1cmpB?oc=5",
    "publishedAt": "2026-08-21T13:38:00+09:00",
    "tone": "우려",
-   "toneScore": -5.4,
+   "toneScore": -5.7,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -4415,7 +4415,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ycE4xcTY4NHdpX3p2VGo1cFpDRzY4M0lLRGJvazExck1wNUxlNlVQNU5QRER1VlQ4bGZQZnpvOS05a1hfLUVLV0E3R3lfS2NmMFhV?oc=5",
    "publishedAt": "2026-08-21T13:17:00+09:00",
    "tone": "우려",
-   "toneScore": -5.4,
+   "toneScore": -5.7,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -4652,7 +4652,7 @@ window.KMW_DATA = {
    "publishedAt": "2026-08-21T15:32:00+09:00",
    "tone": "우려",
    "toneScore": -2.0,
-   "frame": "중립전달",
+   "frame": "회사프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
@@ -4879,7 +4879,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ya0RyU1B6bERzOUEwOWk0V2Z3bHQzcmlmN3pVeG9OZE5CNTVBdHdvdklQbXoySWRYNXZJNy1jNEhjMHcxMm41TGhnaUNIeld1dVFLb2JEMXBvSm96bTlwRWRLMVVxaUFhcTV2d01DMnFJNlk0WlHSAXtBVV95cUxNWFhqWUszN0N6Ymk0dFZhRGxDQkFQTGFzeFBVV2k2ZHYzMTBqOF9WcEZ4eGZrNE5INWwwLVNwY2Q4VWZmR2Fia1NDUEFwc3JJVlVOUW5yeGx4VXRIWjk4SDhiMVcwaktwVEFVLWJPVTZycWx6aGFRNUc0U00?oc=5",
    "publishedAt": "2026-08-21T13:16:18+09:00",
    "tone": "우려",
-   "toneScore": -5.4,
+   "toneScore": -5.7,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -4910,7 +4910,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EcFI5TWFZckhzUmxDTmY5THhCNG9xU0J3U3lBNW9lc1pyR0djR3BmdTdGVjZOLW5laWtNWW84enhXNlc0ZjNJaE82OXlZNy1pTnZfcE92WGNzNlBnR1NwZTRJN1ozNVpmUThrbGYxUTV2MmItc2Q0NQ?oc=5",
    "publishedAt": "2026-08-21T15:41:00+09:00",
    "tone": "우려",
-   "toneScore": -8.5,
+   "toneScore": -8.2,
    "frame": "비판프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -5413,7 +5413,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kNXRLS1FjRlhWYjlRYmM5eGg4clhMcjVnTTUzeWVDRmo5VTd5TElkMXRoeXZZOWV0UnRYclpfQ1NwMzNfNmN5LXBsb1YwZ0lUX0g0?oc=5",
    "publishedAt": "2026-08-21T15:48:00+09:00",
    "tone": "우려",
-   "toneScore": -8.5,
+   "toneScore": -8.2,
    "frame": "비판프레임",
    "messages": [],
    "signals": [
@@ -5615,7 +5615,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FRXVjcmVidDZVbDlDTlVkdkdhaV9rYnF0QmhnSHd0MlVCTUxmZVlXN3UtcldrcnlETXc2Q0ZNMElkVTVyOWhQTF9PVHRvNWh1V1FhX1hPLU1mX2hOM285WHRGaVlueVJpN1NqN2w0SURUZnRkRnVUbg?oc=5",
    "publishedAt": "2026-08-21T16:24:00+09:00",
    "tone": "우려",
-   "toneScore": -4.5,
+   "toneScore": -4.2,
    "frame": "회사프레임",
    "messages": [],
    "signals": [
@@ -5889,7 +5889,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3WUdaaUo2OGdYeVV4S0pLNTFzbUNNVW5JRk9wcGxNeFZlZHoyUnk5TVViOHpkYmJNTDhzeE03Wmh5bmQyODFYRC1MbU1rSWF5ckZDQUVNa3c?oc=5",
    "publishedAt": "2026-08-21T16:15:03+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -1.0,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)",
@@ -6247,7 +6247,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hUUhLV1NaclYyYnVqNS1KODNtMWxUbnNTQlJYd1ZrME9hRHh2Uk1RbWM0OWQzLVZoZF83c1pEVURtcFRVbThuZER1Z0wwQVk?oc=5",
    "publishedAt": "2026-08-21T17:02:17+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -1.0,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -6304,7 +6304,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrcWJkV3Z6ekRKS0tOb0VSbmM2eGFPcjJwNnhWczVXdzJGUVc2LVJvMWdtSThpTm92SmhFWGFJRTNQMllmaUtXYl9LcjFJb00?oc=5",
    "publishedAt": "2026-08-21T17:16:36+09:00",
    "tone": "중립",
-   "toneScore": 0.0,
+   "toneScore": -1.0,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -6407,7 +6407,7 @@ window.KMW_DATA = {
    "publishedAt": "2026-08-21T17:16:00+09:00",
    "tone": "우려",
    "toneScore": -3.0,
-   "frame": "중립전달",
+   "frame": "회사프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
@@ -6769,7 +6769,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKYllnbUdPU3RpOUMxNFlkWG96TVpheEhNTFJNT1Q5VFZPR1pUYkVhSXZ6QWktRFo2OWlsNnV6dVhrcWhrN2JBQzZOYzJNX00?oc=5",
    "publishedAt": "2026-08-21T16:58:59+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -1.0,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -6991,7 +6991,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PY1FaYmhVWWRoTDc1X0hzdFlKRDBQcXpfNmt5UDJnZmF3ZHNGNVhvWUZZd2VfUlFSenJSeWZCbkdzRkZseEFfYzZ3QXhQaEJka2FwVTdMNlFtdWNKcDFmR3dBeG5iWlFtRDdCc3lmN0xvUdIBckFVX3lxTE1PY1FaYmhVWWRoTDc1X0hzdFlKRDBQcXpfNmt5UDJnZmF3ZHNGNVhvWUZZd2VfUlFSenJSeWZCbkdzRkZseEFfYzZ3QXhQaEJka2FwVTdMNlFtdWNKcDFmR3dBeG5iWlFtRDdCc3lmN0xvUQ?oc=5",
    "publishedAt": "2026-08-21T14:36:12+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -1.0,
    "frame": "회사프레임",
    "messages": [
     "카카오X = 미래가치 투자회사"
@@ -7020,7 +7020,7 @@ window.KMW_DATA = {
    "publishedAt": "2026-08-21T18:03:31+09:00",
    "tone": "우려",
    "toneScore": -2.5,
-   "frame": "중립전달",
+   "frame": "회사프레임",
    "messages": [],
    "signals": [
     "적대어:증발"
@@ -7238,7 +7238,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IV3pzdDI2UU9LZXByOVp5MlB0Yl9Xd25JTGhlQzZPNEU2VUFOQlJfakhXYjYxekZ5RUhad3ZfaTB3di1JWVJEWTVB?oc=5",
    "publishedAt": "2026-08-21T16:19:00+09:00",
    "tone": "우려",
-   "toneScore": -4.5,
+   "toneScore": -4.2,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -7292,7 +7292,7 @@ window.KMW_DATA = {
    "publishedAt": "2026-08-21T16:36:16+09:00",
    "tone": "중립",
    "toneScore": 0.0,
-   "frame": "중립전달",
+   "frame": "회사프레임",
    "messages": [],
    "signals": [],
    "frames": [
@@ -7312,13 +7312,14 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZEpoYzhFV0dEOC1sUUQtQ1Y3TjdXdFJQZjhtYTZzcWxtNlVfS25qeHJqN1JuZXowUXJFd2VPQnZPNnpuaHNFSEtDUW01LXowVVRCNHNLbWxVWFlfRU1yWDByZFQ?oc=5",
    "publishedAt": "2026-08-21T18:40:07+09:00",
    "tone": "우려",
-   "toneScore": -1.5,
+   "toneScore": -3.0,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
-    "적대어:어려워"
+    "적대어:어려워",
+    "적대어:만으로"
    ],
    "frames": [
     "기타"
@@ -7326,7 +7327,8 @@ window.KMW_DATA = {
    "hits": {
     "pos": [],
     "neg": [
-     "어려워"
+     "어려워",
+     "만으로"
     ]
    },
    "firstSeenAt": "2026-08-21T18:48:50+09:00"
@@ -7428,8 +7430,8 @@ window.KMW_DATA = {
    "outletGroup": "기타",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sZGtCaHN2dldOUUZQaWNRMEItVTBzaFlMY1gzVW1nZUZnU2duWHl3bkN1cFFfZFRHQzVVZWk0QU82cWFLVUNTVmJzMy1MSXFXQ0ZKd2pyVmx6c3p3dHBBX1J1RWszY1ZXY29KSnRVY0xPZnk4dTZV0gF3QVVfeXFMTWxka0Joc3Z2V05RRlBpY1EwQi1VMHNoWUxjWDNVbWdlRmdTZ25YeXduQ3VwUV9kVEdDNVVlaTRBTzZxYUtVQ1NWYnMzLUxJcVdDRkp3anJWbHpzend0cEFfUnVFazNjVldjb0pKdFVjTE9meTh1NlU?oc=5",
    "publishedAt": "2026-08-21T17:28:38+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -1.2,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -7531,7 +7533,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tZjhZdkYxSC1lOFNqRFVDcS1SYkhCUTBEMG9zWlk0OE0zMDhPLTRDc3Z2WWM2LV9MQnYwcU9idFozUmx0UjctSVZ2bXVQQlFDTFoxd3F1WnlDQQ?oc=5",
    "publishedAt": "2026-08-21T17:40:41+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -1.0,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -7762,7 +7764,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16bFk2b0YwNFhvUzNJQnRwVmQ3VjIzcldWZ0IwU09QYTY5WmtRdmFQZlNTRnJHWGxIRzBwbUo3WjBQLXUyMjE4RmVDRmN5aWtfWFdyczFtZ3FOU1VnZWFMak00d2cxZmtBNF9adXNn0gFuQVVfeXFMTXpsWTZvRjA0WG9TM0lCdHBWZDdWMjNyV1ZnQjBTT1BhNjlaa1F2YVBmU1NGckdYbEhHMHBtSjdaMFAtdTIyMThGZUNGY3lpa19YV3JzMW1ncU5TVWdlYUxqTTR3ZzFma0E0X1p1c2c?oc=5",
    "publishedAt": "2026-08-21T17:00:42+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -1.0,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -7818,7 +7820,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0VOa3BacHN2aV9uUzRKMXFVaE5pTFZYWHlmOVhEZkRGMk1icTh5UWtkbGlkRHZ4MXpjLWN0MGVLREFMQkVyeUJzckFQSE9WYlJPM1l4eENPenRvMEhleV81aTZsdlZnVl9HQWJkaTBJRk1RN2NGLWZHYmpPSXRTZVoyenV2UEtSUEt3WkpvTWVDc3lLQnfSAZYBQVVfeXFMUFdFTmtwWnBzdmlfblM0SjFxVWhOaUxWWFh5ZjlYRGZERjJNYnE4eVFrZGxpZER2eDF6Yy1jdDBlS0RBTEJFcnlCc3JBUEhPVmJSTzNZeHhDT3p0bzBIZXlfNWk2bHZWZ1ZfR0FiZGkwSUZNUTdjRi1mR2JqT0l0U2VaMnp1dlBLUlBLd1pKb01lQ3N5S0J3?oc=5",
    "publishedAt": "2026-08-21T16:22:00+09:00",
    "tone": "우려",
-   "toneScore": -4.5,
+   "toneScore": -4.2,
    "frame": "회사프레임",
    "messages": [],
    "signals": [
@@ -8714,7 +8716,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10a3h6LW9MUzBZZktWR0VnUDNKY0hEd1d0RVE0OHc1R01DdDJlMGR2R1hFWFZBNUtnVXZmc1QwYVA3Zi1RRE1qbWF1bDRfcl9ETWZiRDhCSjMzMWtkLVFCcUNIQ3JTUEp2MElN0gFrQVVfeXFMTXRreHotb0xTMFlmS1ZHRWdQM0pjSER3V3RFUTQ4dzVHTUN0MmUwZHZHWEVYVkE1S2dVdmZzVDBhUDdmLVFETWptYXVsNF9yX0RNZmJEOEJKMzMxa2QtUUJxQ0hDclNQSnYwSU0?oc=5",
    "publishedAt": "2026-08-21T20:33:33+09:00",
    "tone": "우려",
-   "toneScore": -3.8,
+   "toneScore": -4.8,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -10179,7 +10181,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55R2RoaHNqUTIxbnZfeHBjUTV2TXFQOThocGRGMGxtTGFkVTlaNGZpWUQxbDdId0FaS0JkMHdHZXNCbDRYR3pDSVpfQldDMWc?oc=5",
    "publishedAt": "2026-08-23T03:54:54+09:00",
    "tone": "우려",
-   "toneScore": -4.7,
+   "toneScore": -4.2,
    "frame": "회사프레임",
    "messages": [],
    "signals": [
@@ -10308,7 +10310,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iMXN6dkt6UDZfUUEtS2FoR3BVSXZfRHFaNE5mM1VwcXlwNS1tbU40MktvMGlTNGs2amlsUlg0TUlMTllwb0ZrSm9PVU8xOTNPMzF3eWdLUzdPcjlfVS1la3BJS3dYZ0RKMWhhWnhRbzFRUTZTNm1mbw?oc=5",
    "publishedAt": "2026-08-23T08:09:00+09:00",
    "tone": "우려",
-   "toneScore": -7.2,
+   "toneScore": -6.7,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -10804,7 +10806,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Y1NIMkxmT3NFNFM0MVMwSE01MXN5OFFDcXRvaE1xTXlKTG4yZFBxOXM0ZHlJRHZjOGl2TmlKYU9kOXFBMHFQMVZYQVhQSVJRcnlv?oc=5",
    "publishedAt": "2026-08-23T15:22:00+09:00",
    "tone": "우려",
-   "toneScore": -3.2,
+   "toneScore": -3.0,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -10945,7 +10947,7 @@ window.KMW_DATA = {
    "publishedAt": "2026-08-23T16:43:18+09:00",
    "tone": "우려",
    "toneScore": -3.0,
-   "frame": "중립전달",
+   "frame": "회사프레임",
    "messages": [],
    "signals": [
     "물음표:?",
@@ -11220,7 +11222,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xeXBnS2hHbFRvcmVKeno2eXBoRTl1UmgyZUIzcmxxMEN2dGF2UlpiWkRWOFkyMW5wZjNzbS1NQV9FWFNFYnFveXdBc1BoUFg0ajVQUUdUOFdtRGNGc055YlEwdzV3dFBvUFFtX1l0d2NXdw?oc=5",
    "publishedAt": "2026-08-23T21:38:57+09:00",
    "tone": "우려",
-   "toneScore": -2.5,
+   "toneScore": -2.0,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -11533,12 +11535,13 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZE9IT2tvaTR3eDNITWkxZVAzajhIZnZVM1pQZjdkaWRvWWhMZlVJR21weWpCYlJ4djZhVldqTWQ2MjZrcUFCU0R0bTB5Rm8tR3lVX2RfbHJuS1FYRHVSZDltbkxFSklnRUVVWjFUMUdsUjRX?oc=5",
    "publishedAt": "2026-08-24T07:29:00+09:00",
    "tone": "우려",
-   "toneScore": -1.5,
-   "frame": "중립전달",
+   "toneScore": -3.1,
+   "frame": "회사프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
+    "적대어:재평가 위해",
     "적대어:입증 필요"
    ],
    "frames": [
@@ -11548,6 +11551,7 @@ window.KMW_DATA = {
    "hits": {
     "pos": [],
     "neg": [
+     "재평가 위해",
      "입증 필요"
     ]
    },
@@ -11589,7 +11593,7 @@ window.KMW_DATA = {
    "publishedAt": "2026-08-24T07:30:00+09:00",
    "tone": "우려",
    "toneScore": -3.0,
-   "frame": "중립전달",
+   "frame": "회사프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
@@ -11674,11 +11678,12 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93bjBLV0FqQlBFLTBodjBuMVpLdTV2NTByNElJTWN5ZlJJdDFQOF9FWHJUU1NiVmpsZzRMWDhhZnZ1bDlGbXRzNHNsYW1MYmlMb2ZHc1R3OGFDZw?oc=5",
    "publishedAt": "2026-08-24T08:00:46+09:00",
    "tone": "우려",
-   "toneScore": -1.5,
-   "frame": "중립전달",
+   "toneScore": -3.7,
+   "frame": "회사프레임",
    "messages": [],
    "signals": [
-    "적대어:어려워"
+    "적대어:재평가 어려",
+    "적대어:만으로"
    ],
    "frames": [
     "AI전략"
@@ -11686,7 +11691,8 @@ window.KMW_DATA = {
    "hits": {
     "pos": [],
     "neg": [
-     "어려워"
+     "재평가 어려",
+     "만으로"
     ]
    },
    "firstSeenAt": "2026-08-24T08:11:58+09:00"
@@ -11722,12 +11728,13 @@ window.KMW_DATA = {
    "outletGroup": "매체 미상",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DWkNPVmg0VEJmVUJSRjlsSTI2T0hQa1c3S2hZMktCQ09JTWxxdGhCYVNyMFVVWEhRVHBDMlhGZWdtWlR5dTF1czRhWTFRbl8wMElN?oc=5",
    "publishedAt": "2026-08-24T08:02:00+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -0.7,
    "frame": "중립전달",
    "messages": [],
    "signals": [
-    "적대어:우려"
+    "적대어:우려",
+    "전언감쇠:-키움"
    ],
    "frames": [
     "AI전략"
@@ -11792,7 +11799,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04Q2w2UmN5bWdVVzdEWUhXdmZhRDdzLXlSdHVlV2g3QkFNX0ItbHpMVmxIRHVpalJUeVk1c19RMWRQRWZtLWttd2pqaGx3VDgwX0pyRVpyQUs0NHFUMzVtT044eDZ5QTlCY2duZzFn?oc=5",
    "publishedAt": "2026-08-24T08:20:17+09:00",
    "tone": "우려",
-   "toneScore": -7.5,
+   "toneScore": -8.5,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)",
@@ -11829,7 +11836,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LUUJ6czluNVlPWVR1aklzb3JnQnRjRnU2aXlEZ3BLcWsyNk8tcjFvWnZaNEN3MXZSMWNUODdQUVAtQjVTdXBVLWFxaTR4OE93Zlkw?oc=5",
    "publishedAt": "2026-08-24T08:22:00+09:00",
    "tone": "중립",
-   "toneScore": -1.0,
+   "toneScore": -0.8,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -11855,14 +11862,15 @@ window.KMW_DATA = {
    "outletGroup": "매체 미상",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10ME5zWERLeUVWbTJjZVBmaTliRTJZNm1RMUxGdEE0N0pTcUpRU2hlNU13V0kyWWl2enNlU0w0UEtUdmVubE9yLWtQVkFkc2M?oc=5",
    "publishedAt": "2026-08-24T08:36:05+09:00",
-   "tone": "우려",
-   "toneScore": -3.0,
+   "tone": "중립",
+   "toneScore": -1.6,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
-    "등락:뚝"
+    "등락:뚝",
+    "전언감쇠:애널리스트"
    ],
    "frames": [
     "밸류에이션"
@@ -11883,11 +11891,12 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VbTZUUm8zZ1JsQ1JiazFjeGROUzlJVV80aVlnd3hZRGRNTlYxZkExNFYzcjNYUnhjWmUybGlWN0RUYnZVNS1LYXBOOXRyVmFNVnc?oc=5",
    "publishedAt": "2026-08-24T08:35:27+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -0.5,
    "frame": "중립전달",
    "messages": [],
    "signals": [
-    "적대어:디스카운트"
+    "적대어:디스카운트",
+    "전언감쇠:증권가"
    ],
    "frames": [
     "밸류에이션"
@@ -12000,14 +12009,15 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oSjBHNGZaZklDek5fejRma29NTlVLSHNzenNZeV9hb1EyRDhwU0NhSGRETGQwcFQtVmd1TGtRMERjN2ZDMlZVbnFoTGRjNG5IaThj?oc=5",
    "publishedAt": "2026-08-24T08:45:00+09:00",
    "tone": "우려",
-   "toneScore": -4.2,
+   "toneScore": -2.2,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
     "등락:뚝",
-    "적대어:디스카운트"
+    "적대어:디스카운트",
+    "전언감쇠:증권가"
    ],
    "frames": [
     "밸류에이션"
@@ -12028,14 +12038,15 @@ window.KMW_DATA = {
    "outletGroup": "매체 미상",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YbFBUT3F1cjRHTFdfeFRqSTJvdGpGenAyRzc0Y25CZmpVV212M09nZUp0MTBNT29Ta2ZGRl8ySjB2M0NCa0pwVFlpNXJncENscEZr?oc=5",
    "publishedAt": "2026-08-24T08:43:00+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -0.7,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
-    "적대어:우려"
+    "적대어:우려",
+    "전언감쇠:-키움"
    ],
    "frames": [
     "AI전략"
@@ -12106,12 +12117,13 @@ window.KMW_DATA = {
    "outletGroup": "매체 미상",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FbHRhb0pmb2VNMVFxV0trOTBXYWxfTkJNNjEyTVZEQi12TnBFOUNjTFBoV3JKRDUxTmNraG5WcmtUeUNyd2JfUmozVVVNTXB2Yy0w?oc=5",
    "publishedAt": "2026-08-24T08:41:00+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -0.7,
    "frame": "중립전달",
    "messages": [],
    "signals": [
-    "적대어:우려"
+    "적대어:우려",
+    "전언감쇠:리포트"
    ],
    "frames": [
     "밸류에이션"
@@ -12131,14 +12143,15 @@ window.KMW_DATA = {
    "outletGroup": "경제지",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXSkFVUHE3Qkt0STFPY2lPWDFlc2V0Z3ozenppRHNLQS0waU5HamxRSHl2ekdCNmd1N0I3X0tySEhvWTlvOE9oLThUcl9IRnl3ZWZkT3ZBVkdqN01LNTRJNmpEY2RpeWcw0gFuQVVfeXFMTjMtS196V09vdHJ5SThkVGdYS3F5a01FNFpaS0tTMk5ELU44aEx2Wnh3MGlndnZEbUczX01jeDAzalF5YnVVNVpGWnV2WXQtNHRGWTVjeVYyXzQ3cVVEOXJiazh1ZVdXQ013XzI5V3c?oc=5",
    "publishedAt": "2026-08-24T08:42:46+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -0.7,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
-    "적대어:우려"
+    "적대어:우려",
+    "전언감쇠:-키움"
    ],
    "frames": [
     "AI전략"
@@ -12159,7 +12172,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzN3h6MWdxUFBGMy00bkg3a3YwTExQSkZwMTNpVzlqV2ZKQzlmVnRmeWEyQmVHNmdGVjJFaVlkcDJFeHRFY0pxQXo2THJVS2RWd1NaSlkycXNFVVB0dG9nM2lrbmlzcDd3U2UzQUZ2R2Y?oc=5",
    "publishedAt": "2026-08-24T08:57:00+09:00",
    "tone": "우려",
-   "toneScore": -3.0,
+   "toneScore": -2.4,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -12187,7 +12200,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XbUlNZ3RGRy1NU2VWZ0V4TTgyUlZwQkliem5PX2ZkOXItaUxxQUtjV2VsVjFlR19YSjBiRUNxVHB5QTREU0RnVEcwRGVleHI0QzYyZ0UtdGVOTlNuajhZS3pYZ1pYbWhCQ29DT05uRS15S2p4?oc=5",
    "publishedAt": "2026-08-24T09:00:00+09:00",
    "tone": "우려",
-   "toneScore": -2.2,
+   "toneScore": -2.0,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -12319,13 +12332,14 @@ window.KMW_DATA = {
    "outletGroup": "기타",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sOV8ydEx1dUxsMVVScHE2MmlmY056NHhFLUYyV2FsSmxLeHVxRHFDT0V4djQ3d0J5SXpDTGdwRThCeW5zVjVod0hJNDlac0Z2dDU5a2xJTlJfWkpn?oc=5",
    "publishedAt": "2026-08-24T08:56:00+09:00",
-   "tone": "우려",
-   "toneScore": -2.7,
+   "tone": "중립",
+   "toneScore": -1.2,
    "frame": "중립전달",
    "messages": [],
    "signals": [
     "적대어:풀어야",
-    "적대어:숙제"
+    "적대어:숙제",
+    "전언감쇠:리포트"
    ],
    "frames": [
     "밸류에이션"
@@ -12347,11 +12361,12 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKaG5Zbmlka3JEQjJRXzNSd3RLWEdtMmlFRmgzZU9fY0NUd1Z0UjhlY2VMQ0U4cThTS280Mk11QzFpUTU2aHJDemdVc01PdWFidlZaWmRtUEhhazVN?oc=5",
    "publishedAt": "2026-08-24T08:50:00+09:00",
    "tone": "중립",
-   "toneScore": -1.0,
+   "toneScore": -0.4,
    "frame": "중립전달",
    "messages": [],
    "signals": [
-    "적대어:증명"
+    "적대어:증명",
+    "전언감쇠:리포트"
    ],
    "frames": [
     "밸류에이션"
@@ -12508,18 +12523,22 @@ window.KMW_DATA = {
    "outletGroup": "기타",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kalVEaXpSNzhvTEJhYnU3NVloS09XekxYS1ZmZXk0TG9GQTJUbW51ZVd3MDlTR0Q0bzBXYXgyY0tlaWVaNWd0VVNILXYyTm5GWm03dkhFRHRJRi1m?oc=5",
    "publishedAt": "2026-08-24T09:29:00+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
+   "tone": "긍정",
+   "toneScore": 1.5,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
-   "signals": [],
+   "signals": [
+    "호재어:긍정적"
+   ],
    "frames": [
     "밸류에이션"
    ],
    "hits": {
-    "pos": [],
+    "pos": [
+     "긍정적"
+    ],
     "neg": []
    },
    "firstSeenAt": "2026-08-24T09:35:45+09:00"
@@ -12796,11 +12815,12 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ckZwYWxjV25OXzNucWtaa2pJelRmWVpGQmdDa2xEemVvYjdkdkNJaWdCMjlONmx1NHc3ZmxwWUR0OF9ubGlrUW5tVUk3YmVaNS16Y01GMHU?oc=5",
    "publishedAt": "2026-08-24T09:57:10+09:00",
    "tone": "중립",
-   "toneScore": -1.0,
+   "toneScore": -0.5,
    "frame": "중립전달",
    "messages": [],
    "signals": [
-    "물음표:?"
+    "물음표:?",
+    "전언감쇠:증권가"
    ],
    "frames": [
     "밸류에이션"
@@ -12847,8 +12867,8 @@ window.KMW_DATA = {
    "outletGroup": "기타",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53RXA2Y2p3YTFId1hxZW53ZU92S1NoQTNkZ1M4R2tBSjI2TldMMXpGbG1idDVGMVEzTTFTcEcwd3dJdVVYMnh2VUVKQ3NNODR6NGZITkZVSlBIaF8xenZJOW15S2liVVp3dlFV?oc=5",
    "publishedAt": "2026-08-24T09:19:01+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -1.2,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -13498,8 +13518,8 @@ window.KMW_DATA = {
    "outletGroup": "기타",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42X3dGSTkzXzNRY1pqNWR2dkJPejd4N2FPZG9GYm96NjFSSzBaS2VXLXRQS2ZkbzZvQ2FISktqdkk4OTk2U2UyNkVzTnFzNkgtODRGMC1wczVzeVpaN2Z6Nm43QkU5YUxUdnc?oc=5",
    "publishedAt": "2026-08-22T09:00:00+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -1.2,
    "frame": "중립전달",
    "messages": [
     "주주환원 정책",
@@ -13552,7 +13572,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nVkJibHpiOXhjWFJuT1BvbGdNdEF0VGpFNFpQV0lacUdhdnVVb3c4MXd6cmJzd0F3WGh4aVRKQnZKQ283M3F4WXdfZC02alo0YUE?oc=5",
    "publishedAt": "2026-08-21T16:56:41+09:00",
    "tone": "중립",
-   "toneScore": -1.2,
+   "toneScore": -1.0,
    "frame": "중립전달",
    "messages": [],
    "signals": [
@@ -14260,7 +14280,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclk5LU1JVmZpQzczQlFLZV9yS2pabW9rakFKcTZzVWpQNkdLVnNPdkFmNlpjMUdtOUdoR1FCSUFCQzBGZzJ6X2dCN3pQM3VMa2JYUlNLQmNuQjhSNnNMdUUwQklKVUFsMjhwN0owWEpMT2NLeHdfVHg2eXY2YlFJUw?oc=5",
    "publishedAt": "2026-08-24T09:10:00+09:00",
    "tone": "우려",
-   "toneScore": -7.5,
+   "toneScore": -8.5,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)",
@@ -14296,12 +14316,13 @@ window.KMW_DATA = {
    "outletGroup": "경제지",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1iVDZIR083OFNUbFFxRUg5Z2Vnc0doYmVGbW90Y0dvN1kyYWtBUm9WZk9lcC03cUdqT1ctTkl0RU0xOEhkeUE?oc=5",
    "publishedAt": "2026-08-24T08:35:27+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -0.7,
    "frame": "중립전달",
    "messages": [],
    "signals": [
-    "적대어:우려"
+    "적대어:우려",
+    "전언감쇠:증권가"
    ],
    "frames": [
     "주가/시장반응",
@@ -14367,7 +14388,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nMHFxTGZkSDZkTG9FOWJrWVh1RVkxalVFLWtsNHNVWTBxdVRjX1hjV1ZzbEd4eDNJMzBHb3Uxek5GakRUZVJEeHN3bUFfbE5selFIRS1qRVI5Nk5LODNteVhHYVBhUjRLMWZkelg3b1Y?oc=5",
    "publishedAt": "2026-08-24T09:49:00+09:00",
    "tone": "우려",
-   "toneScore": -7.5,
+   "toneScore": -8.5,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)",
@@ -14403,14 +14424,15 @@ window.KMW_DATA = {
    "outletGroup": "매체 미상",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BSFFnNTk1cVptN1VRbnJfMjJGbXp1b3JuaW9oUkV0V1U0NmpqMlZHcmVtemttdzFnb3dnb1h1dXBZdHgxNEI5WFVkemY4cWNvTjhz?oc=5",
    "publishedAt": "2026-08-24T11:16:00+09:00",
-   "tone": "우려",
-   "toneScore": -3.0,
+   "tone": "중립",
+   "toneScore": -1.6,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
-    "등락:뚝"
+    "등락:뚝",
+    "전언감쇠:증권가"
    ],
    "frames": [
     "주가/시장반응",
@@ -14463,14 +14485,14 @@ window.KMW_DATA = {
     "두 개의 엔진 구조"
    ],
    "signals": [
-    "호재어:재평가 기대감"
+    "호재어:재평가 기대"
    ],
    "frames": [
     "기타"
    ],
    "hits": {
     "pos": [
-     "재평가 기대감"
+     "재평가 기대"
     ],
     "neg": []
    },
@@ -14558,7 +14580,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uSXV5LXhTR244UENYS1dPYXpnRkpyV3cyRDM5dEd0TzZBekhlcXJQaHBSem9pam5rZ0lSSTBNbjlhWHJjUnlnZlNjek5fRVViMzBoVDhBRF80VDF6a3ZaaXJ1ajJRdnBY?oc=5",
    "publishedAt": "2026-08-21T15:40:30+09:00",
    "tone": "우려",
-   "toneScore": -8.5,
+   "toneScore": -8.2,
    "frame": "비판프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -14691,8 +14713,8 @@ window.KMW_DATA = {
    "outletGroup": "기타",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Bamlra1dVc0o3RnJBUEhZSDc0cF9LQm5uS3ViY3pNNllvTWRCbWVwTGU1TDF4c2hodlZxUnZxMEVLblJReFN5WWVrYUdTamxyRmNXWXVHWjBrY2w5M0I2aTY2NERZWkc0TXA0?oc=5",
    "publishedAt": "2026-08-24T12:27:11+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -1.2,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
@@ -14742,7 +14764,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nOFBoU1pzRm9UOGRpQUpoRVZ0cG1ja0lYX1hSTWMweEhaSzQxNkRZdy1CUG9Fbldkak16RTdwcmdaZGZOcTYyYVVBM29BYUltZW0zdHRldVNrTXVqSUVqN3o0a2tLeXc0d19DTF9RTTZlUdIBckFVX3lxTE5nOFBoU1pzRm9UOGRpQUpoRVZ0cG1ja0lYX1hSTWMweEhaSzQxNkRZdy1CUG9Fbldkak16RTdwcmdaZGZOcTYyYVVBM29BYUltZW0zdHRldVNrTXVqSUVqN3o0a2tLeXc0d19DTF9RTTZlUQ?oc=5",
    "publishedAt": "2026-08-24T12:07:01+09:00",
    "tone": "우려",
-   "toneScore": -2.4,
+   "toneScore": -2.0,
    "frame": "중립전달",
    "messages": [
     "카카오AI 2030 매출 6조"
@@ -14803,14 +14825,15 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Zbm5wOEQ0d0hkSU8tOXNNZW5TOUZ3blhsQm5EUHdwb1IxS0VxVVJ3c1hac3ROeUFHUll5QWVabGlmeXNSQU5ER1NJWWdVV3VrbFRj?oc=5",
    "publishedAt": "2026-08-24T14:11:00+09:00",
    "tone": "중립",
-   "toneScore": -1.0,
+   "toneScore": -0.5,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)",
     "카카오AI 2030 매출 6조"
    ],
    "signals": [
-    "물음표:?"
+    "물음표:?",
+    "전언감쇠:증권가"
    ],
    "frames": [
     "밸류에이션"
@@ -14953,7 +14976,7 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YQ2s1Y0lTRGlMcVRrR3lZT3pLaFBnYkRQbVo0a3V1clJjNUNwWlRnN19Ya1hGRDd2ZHNsMDQwaHVXNGFHSXBpdmU4LWpuenQzQlJYZTRfTUs5RkswcHJBRVN6ZmFteThNeHM2eENJT3HSAXRBVV95cUxPTjJHcFI1TzBraXN4akhjTmpKcDNoZjYyRTdhZl81WGdfZ2pqRFhfZjRLck1XdUVZbzFhYl9fMHEyemJfSWkyb05RQlZoR3BKdnppYmVkbGFQRFFXbGhGSUVQTzNiUWZBZXg2N01WOE1id0NBbw?oc=5",
    "publishedAt": "2026-08-24T14:56:27+09:00",
    "tone": "우려",
-   "toneScore": -4.2,
+   "toneScore": -4.0,
    "frame": "회사프레임",
    "messages": [],
    "signals": [
@@ -15055,15 +15078,19 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5peXc2amw1dUM0TXRFRXlHMGFFV3gyOFd3NWEydkRrekY5Yi1vTktva1hqMng0YUtzWW1qRmxka3o4S0JFVEhwUm5OeGhYYmcyQXdSLV9HdURMRUM2Ykx0RE5XMWw1d9IBakFVX3lxTE8tYmFjWjhTOXVudFlMTkF0YUlDUWVaVmJiLTI2MVRKTVFpSjd2ejNWeElPeXZYWExoaV9xQmxyVU5XclphRm5uOUVMZkRXZFk0Mkx2ZDc5THBkQlYtOHhEMHAtY0YzNkU1c0E?oc=5",
    "publishedAt": "2026-08-21T12:02:10+09:00",
    "tone": "중립",
-   "toneScore": 0.0,
+   "toneScore": 1.2,
    "frame": "중립전달",
    "messages": [],
-   "signals": [],
+   "signals": [
+    "호재어:기대"
+   ],
    "frames": [
     "기타"
    ],
    "hits": {
-    "pos": [],
+    "pos": [
+     "기대"
+    ],
     "neg": []
    },
    "firstSeenAt": "2026-08-24T15:21:31+09:00"
@@ -15075,8 +15102,8 @@ window.KMW_DATA = {
    "outletGroup": "매체 미상",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNWtIY2xzOHhHaGlZQm02SjJURkN6QTliVWRwOFhoN3V6d2gxdUEzYnR2YmNkUF9HT015Nnp1cDk5eDhwSWVFcWZLY3ZkckVRWTc0?oc=5",
    "publishedAt": "2026-08-24T15:23:00+09:00",
-   "tone": "우려",
-   "toneScore": -2.0,
+   "tone": "중립",
+   "toneScore": -1.8,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)",
@@ -15170,12 +15197,13 @@ window.KMW_DATA = {
    "outletGroup": "경제지",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSmJLRGJtb2hKRXVmNFEyYXF1dkR0TFhLM1ZHTElRd0wxOFoydUNKaDBMVE5BaTM5WFpaYTJMczc1QTNqVDZGUzQ5cEM4cHBpc0ZYVVRIdUJSZw?oc=5",
    "publishedAt": "2026-08-24T15:40:46+09:00",
-   "tone": "우려",
-   "toneScore": -2.0,
+   "tone": "중립",
+   "toneScore": -1.1,
    "frame": "중립전달",
    "messages": [],
    "signals": [
-    "적대어:싸늘"
+    "적대어:싸늘",
+    "전언감쇠:증권가"
    ],
    "frames": [
     "밸류에이션"
@@ -15333,20 +15361,24 @@ window.KMW_DATA = {
    "outletGroup": "IT전문",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zTFBEaDM4UEx1Mjk5cHlIcFFQbW9hOHBFTXl4VTEtaGxZbDhJUHl5X1UxaFJhODBiRFM0ejhKeXVqUlpQN3g5S0p6QUJOT1BfRVNaV2xxT3FETTBCZTl3NWNhT1FWd9IBakFVX3lxTE9idFphTU5TNXlzakdxNjczNWhuVVEtaHREVm5Zc0pqV1doZnEtbm1XLXpwZVA5cTFPanZwM3g3dzdOZ2lTRjhGTXpsM2VkUzc0THBrcHF5QWlVc0lKS0Z5aGdxd2RlNnBhM3c?oc=5",
    "publishedAt": "2026-08-24T15:34:08+09:00",
-   "tone": "우려",
-   "toneScore": -2.0,
+   "tone": "중립",
+   "toneScore": -0.3,
    "frame": "중립전달",
    "messages": [],
    "signals": [
     "적대어:과제",
-    "적대어:증명"
+    "적대어:증명",
+    "호재어:기대",
+    "전언감쇠:리포트"
    ],
    "frames": [
     "AI전략",
     "밸류에이션"
    ],
    "hits": {
-    "pos": [],
+    "pos": [
+     "기대"
+    ],
     "neg": [
      "과제",
      "증명"
@@ -15455,14 +15487,15 @@ window.KMW_DATA = {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUMVU1b1RDcHpvN1UzSGlfdklMLVFLRlVCUTE1b1JXRUtjYTkxem9selJ1Z0ctMm5YWDR0UDB4dE94M0h0bzl6dE1aQV9zMnc?oc=5",
    "publishedAt": "2026-08-24T16:31:29+09:00",
    "tone": "우려",
-   "toneScore": -4.5,
-   "frame": "중립전달",
+   "toneScore": -6.7,
+   "frame": "회사프레임",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
     "등락:뚝",
-    "적대어:어려워"
+    "적대어:재평가 어려",
+    "적대어:만으로"
    ],
    "frames": [
     "주가/시장반응",
@@ -15472,7 +15505,8 @@ window.KMW_DATA = {
     "pos": [],
     "neg": [
      "뚝",
-     "어려워"
+     "재평가 어려",
+     "만으로"
     ]
    },
    "firstSeenAt": "2026-08-24T17:00:04+09:00"
@@ -15515,14 +15549,15 @@ window.KMW_DATA = {
    "outletGroup": "경제지",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13UENLUnlBNkFpVDl0RzFsVE9TWkkzeHlxYXdPMDJUdWFRWUxOZ3Fhc0xOazlJd1R1ZWlPb1RZUjNkZXl4NjF4M1FVVnpmZmI5MngzbkttRWhNd9IBWEFVX3lxTE1PQ1U5LW9IQXVWZlNnclpEMUh0aHJGM2d0SHZTWW9DNldFR2syOUNSRUlweEh1TWYtOTFpc2hFeHpZc1ByX28wcEdoVEE1dEhNLUg4eHBXeWw?oc=5",
    "publishedAt": "2026-08-24T17:08:09+09:00",
-   "tone": "우려",
-   "toneScore": -1.5,
+   "tone": "중립",
+   "toneScore": -0.7,
    "frame": "중립전달",
    "messages": [
     "인적분할 성격(물적분할 아님)"
    ],
    "signals": [
-    "적대어:의문"
+    "적대어:의문",
+    "전언감쇠:증권가"
    ],
    "frames": [
     "밸류에이션"
@@ -15581,6 +15616,36 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-24T17:21:38+09:00"
+  },
+  {
+   "id": "1b9d22dda2ae7946",
+   "title": "정신아 카카오AI 2030년 매출 6조 목표에 가라앉지 않는 의구심 : AI 서비스 '카나나' 수익성 따라 인적분할 정당성 재평가 전망",
+   "outlet": "허프포스트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RVG9UUmhSVUZaa1VPQ21KWXFadG5peVU3YW9QaFBoNlNPRE5lYldiQl9Yd1o5Qkh3ZkVFZmdGRW1TaWlFd0FOWWMzUDZHbndOU09SZTlubw?oc=5",
+   "publishedAt": "2026-08-24T16:50:25+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "적대어:의구심"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "의구심"
+    ]
+   },
+   "firstSeenAt": "2026-08-24T17:29:42+09:00"
   }
  ]
 };
