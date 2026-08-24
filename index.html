@@ -1,0 +1,2354 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>카카오 인적분할 언론보도 모니터링</title>
+  <style>
+    :root {
+      --bg: #f7f8fa;
+      --card: #ffffff;
+      --line: #e5e7eb;
+      --text: #111827;
+      --muted: #6b7280;
+      --muted-2: #9ca3af;
+      --shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
+      --green: #1a7f5a;
+      --gray: #6b7280;
+      --orange: #c2410c;
+      --blue: #2563eb;
+      --red: #dc2626;
+      --radius: 10px;
+      --pos-soft: rgba(26, 127, 90, 0.13);
+      --neg-soft: rgba(194, 65, 12, 0.13);
+      --neutral-soft: rgba(107, 114, 128, 0.12);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); }
+    body {
+      font-family: "Apple SD Gothic Neo", -apple-system, BlinkMacSystemFont, sans-serif;
+      line-height: 1.4;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    button, input, select { font: inherit; }
+    button { cursor: pointer; }
+    .mono { font-variant-numeric: tabular-nums; font-feature-settings: "tnum" 1; }
+
+    .shell {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px 18px 40px;
+    }
+
+    .header {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 16px;
+      align-items: stretch;
+      margin-bottom: 16px;
+    }
+
+    .hero, .header-side, .panel, .chip-panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .hero {
+      padding: 18px 20px;
+      min-width: 0;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--green);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 8px;
+    }
+
+    .title {
+      margin: 0;
+      font-size: 28px;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+    }
+
+    .subtitle {
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .header-side {
+      min-width: 300px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      padding: 14px;
+    }
+
+    .stat-card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+      background: linear-gradient(180deg, #fff, #fafafa);
+      min-width: 0;
+    }
+
+    .stat-label {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .price-value {
+      font-size: 28px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+    }
+
+    .price-pct {
+      font-size: 15px;
+      font-weight: 700;
+      margin-top: 6px;
+    }
+
+    .meta-stack {
+      display: grid;
+      gap: 8px;
+    }
+
+    .meta-line {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .meta-line strong { color: var(--text); }
+
+    .section {
+      margin-top: 14px;
+    }
+
+    .panel {
+      padding: 16px;
+    }
+
+    .panel-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .panel-title {
+      margin: 0;
+      font-size: 16px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .panel-sub {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 4px;
+    }
+
+    .tone-summary {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr)) 240px;
+      gap: 12px;
+      align-items: stretch;
+    }
+
+    .tone-box {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+      background: #fff;
+    }
+
+    .tone-name {
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .tone-count {
+      font-size: 30px;
+      font-weight: 800;
+      line-height: 1;
+      letter-spacing: -0.03em;
+    }
+
+    .tone-rate {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 8px;
+    }
+
+    .tone-strip {
+      display: flex;
+      height: 12px;
+      overflow: hidden;
+      border-radius: 999px;
+      background: #eef2f7;
+      border: 1px solid #e5e7eb;
+      margin-top: 12px;
+    }
+
+    .tone-strip span {
+      display: block;
+      height: 100%;
+    }
+
+    .strip-pos { background: var(--green); }
+    .strip-mid { background: var(--gray); }
+    .strip-neg { background: var(--orange); }
+
+    .timeline-wrap {
+      position: relative;
+      margin-top: 6px;
+    }
+
+    .timeline-grid {
+      display: grid;
+      grid-auto-flow: column;
+      grid-auto-columns: minmax(30px, 1fr);
+      align-items: end;
+      gap: 10px;
+      min-height: 250px;
+      padding: 14px 10px 8px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background:
+        linear-gradient(to top, rgba(229, 231, 235, 0.55) 1px, transparent 1px) 0 100% / 100% 25%,
+        linear-gradient(to top, rgba(229, 231, 235, 0.55) 1px, transparent 1px) 0 100% / 100% 50%,
+        linear-gradient(to top, rgba(229, 231, 235, 0.55) 1px, transparent 1px) 0 100% / 100% 75%,
+        #fff;
+      overflow: hidden;
+    }
+
+    .timeline-bin {
+      display: flex;
+      flex-direction: column;
+      justify-content: end;
+      align-items: stretch;
+      min-width: 0;
+      height: 100%;
+      gap: 8px;
+    }
+
+    .bar-stack {
+      display: flex;
+      flex-direction: column;
+      justify-content: end;
+      height: 184px;
+      gap: 0;
+      overflow: hidden;
+      border-radius: 10px 10px 4px 4px;
+      background: #f3f4f6;
+      border: 1px solid #e5e7eb;
+    }
+
+    .bar-seg { width: 100%; }
+    .bar-seg.pos { background: var(--green); }
+    .bar-seg.mid { background: var(--gray); }
+    .bar-seg.neg { background: var(--orange); }
+
+    .bar-total {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--muted);
+      min-height: 16px;
+    }
+
+    .bar-label {
+      font-size: 11px;
+      text-align: center;
+      color: var(--muted);
+      line-height: 1.1;
+      white-space: nowrap;
+    }
+
+    .timeline-marker {
+      position: absolute;
+      top: 6px;
+      bottom: 18px;
+      width: 0;
+      border-left: 2px dashed rgba(37, 99, 235, 0.7);
+      pointer-events: none;
+    }
+
+    .timeline-marker span {
+      position: absolute;
+      top: 0;
+      transform: translate(-50%, -100%);
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: #eff6ff;
+      color: #1d4ed8;
+      border: 1px solid rgba(37, 99, 235, 0.2);
+      font-size: 11px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .stack-list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .group-row, .frame-row, .media-row {
+      display: grid;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .group-row {
+      grid-template-columns: 128px minmax(0, 1fr) 56px;
+    }
+
+    .frame-row {
+      grid-template-columns: 170px minmax(0, 1fr) 64px;
+    }
+
+    .media-row {
+      grid-template-columns: 1fr;
+      padding: 10px 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .row-label {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text);
+      min-width: 0;
+    }
+
+    .row-meta {
+      font-size: 12px;
+      color: var(--muted);
+      text-align: right;
+    }
+
+    .stack-bar {
+      display: flex;
+      height: 14px;
+      overflow: hidden;
+      border-radius: 999px;
+      border: 1px solid #e5e7eb;
+      background: #f3f4f6;
+    }
+
+    .stack-bar span { height: 100%; }
+
+    .stack-pos { background: var(--green); }
+    .stack-mid { background: var(--gray); }
+    .stack-neg { background: var(--orange); }
+
+    .frame-button {
+      width: 100%;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 12px;
+      padding: 10px 12px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 10px;
+      text-align: left;
+      transition: transform 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+    }
+
+    .frame-button:hover {
+      transform: translateY(-1px);
+      border-color: #cbd5e1;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+    }
+
+    .frame-button.active {
+      border-color: rgba(37, 99, 235, 0.45);
+      background: #eff6ff;
+    }
+
+    .frame-button .count {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .frame-axis-grid {
+      display: grid;
+      gap: 10px;
+    }
+
+    .frame-axis-cards {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .frame-axis-card {
+      width: 100%;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 12px;
+      padding: 12px;
+      display: grid;
+      gap: 8px;
+      text-align: left;
+      transition: transform 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+      --frame-color: #6b7280;
+      --frame-soft: rgba(107, 114, 128, 0.12);
+    }
+
+    .frame-axis-card:hover {
+      transform: translateY(-1px);
+      border-color: #cbd5e1;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+    }
+
+    .frame-axis-card.active {
+      border-color: var(--frame-color);
+      background: linear-gradient(180deg, var(--frame-soft), #fff);
+    }
+
+    .frame-axis-card .row-label {
+      color: var(--frame-color);
+    }
+
+    .frame-axis-count {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+    }
+
+    .frame-axis-count strong {
+      font-size: 22px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+    }
+
+    .frame-axis-count span {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .frame-axis-bar {
+      display: flex;
+      height: 14px;
+      overflow: hidden;
+      border-radius: 999px;
+      border: 1px solid #e5e7eb;
+      background: #f3f4f6;
+    }
+
+    .frame-axis-seg {
+      height: 100%;
+    }
+
+    .frame-axis-seg.company { background: #1a7f5a; }
+    .frame-axis-seg.mixed { background: #b45309; }
+    .frame-axis-seg.critical { background: #c2410c; }
+    .frame-axis-seg.neutral { background: #6b7280; }
+
+    .frame-axis-strip {
+      display: flex;
+      height: 14px;
+      overflow: hidden;
+      border-radius: 999px;
+      border: 1px solid #e5e7eb;
+      background: #f3f4f6;
+    }
+
+    .frame-axis-strip span {
+      height: 100%;
+    }
+
+    .frame-axis-strip .company { background: #1a7f5a; }
+    .frame-axis-strip .mixed { background: #b45309; }
+    .frame-axis-strip .critical { background: #c2410c; }
+    .frame-axis-strip .neutral { background: #6b7280; }
+
+    .frame-axis-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .frame-axis-legend span {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .frame-axis-legend i {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      display: inline-block;
+    }
+
+    .frame-axis-legend .company { background: #1a7f5a; }
+    .frame-axis-legend .mixed { background: #b45309; }
+    .frame-axis-legend .critical { background: #c2410c; }
+    .frame-axis-legend .neutral { background: #6b7280; }
+
+    .message-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .message-row {
+      display: grid;
+      grid-template-columns: minmax(0, 330px) minmax(0, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+      width: 100%;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 12px;
+      padding: 10px 12px;
+      text-align: left;
+      transition: transform 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+    }
+
+    .message-row:hover {
+      transform: translateY(-1px);
+      border-color: #cbd5e1;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+    }
+
+    .message-row.active {
+      border-color: rgba(37, 99, 235, 0.45);
+      background: #eff6ff;
+    }
+
+    .message-name {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text);
+      min-width: 0;
+    }
+
+    .message-bar {
+      display: flex;
+      align-items: center;
+      height: 14px;
+      overflow: hidden;
+      border-radius: 999px;
+      border: 1px solid #d1d5db;
+      background: #f3f4f6;
+    }
+
+    .message-fill {
+      height: 100%;
+      background: #2563eb;
+    }
+
+    .message-count {
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .tag.signal {
+      background: #f3f4f6;
+      color: #4b5563;
+      border-color: #e5e7eb;
+    }
+
+    .tag.empty {
+      background: #f3f4f6;
+      color: #6b7280;
+      border-color: #e5e7eb;
+    }
+
+    .frame-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 4px 8px;
+      font-size: 11px;
+      font-weight: 800;
+      white-space: nowrap;
+      border: 1px solid transparent;
+      min-width: 0;
+    }
+
+    .table-toolbar, .filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .toolbar-right {
+      margin-left: auto;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .toggle, .pill, .load-more {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .toggle.active, .pill.active {
+      border-color: rgba(37, 99, 235, 0.35);
+      background: #eff6ff;
+      color: #1d4ed8;
+    }
+
+    select, input[type="search"] {
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 10px;
+      padding: 9px 11px;
+      color: var(--text);
+      min-height: 38px;
+    }
+
+    input[type="search"] {
+      min-width: 240px;
+    }
+
+    .subtle {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #fff;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 980px;
+    }
+
+    thead th {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      background: #f9fafb;
+      border-bottom: 1px solid var(--line);
+      font-size: 12px;
+      color: var(--muted);
+      text-align: left;
+      padding: 11px 12px;
+      white-space: nowrap;
+      user-select: none;
+    }
+
+    thead th.sortable {
+      cursor: pointer;
+    }
+
+    thead th .caret {
+      margin-left: 4px;
+      font-size: 10px;
+      opacity: 0.7;
+    }
+
+    tbody td {
+      padding: 12px;
+      border-bottom: 1px solid #eef2f7;
+      vertical-align: top;
+      font-size: 13px;
+    }
+
+    tbody tr:hover td {
+      background: #fafafa;
+    }
+
+    .headline-link {
+      color: #0f172a;
+      font-weight: 700;
+    }
+
+    .headline-link:hover {
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .tone-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 4px 8px;
+      font-size: 12px;
+      font-weight: 800;
+      min-width: 50px;
+    }
+
+    .tone-positive { background: var(--pos-soft); color: var(--green); }
+    .tone-neutral { background: var(--neutral-soft); color: var(--gray); }
+    .tone-warning { background: var(--neg-soft); color: var(--orange); }
+
+    .pos-text { color: var(--green); }
+    .neg-text { color: var(--orange); }
+    .mid-text { color: var(--gray); }
+    .blue-text { color: var(--blue); }
+    .red-text { color: var(--red); }
+
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      border: 1px solid transparent;
+      white-space: nowrap;
+    }
+
+    .tag.frame {
+      background: #f8fafc;
+      border-color: #e5e7eb;
+      color: #334155;
+    }
+
+    .tag.pos {
+      background: rgba(26, 127, 90, 0.12);
+      color: var(--green);
+    }
+
+    .tag.neg {
+      background: rgba(194, 65, 12, 0.12);
+      color: var(--orange);
+    }
+
+    .tag.clickable {
+      cursor: pointer;
+      transition: transform 0.12s ease, border-color 0.12s ease;
+    }
+
+    .tag.clickable:hover { transform: translateY(-1px); }
+
+    .article-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+
+    .article-grid {
+      display: grid;
+      gap: 10px;
+    }
+
+    .article-card {
+      position: relative;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      box-shadow: 0 6px 16px rgba(15, 23, 42, 0.04);
+      padding: 14px;
+    }
+
+    .region-badge { display:inline-block; padding:2px 7px; border-radius:5px; font-size:11px; font-weight:600; white-space:nowrap; }
+    .region-badge.domestic { background:#eef2ff; color:#4338ca; }
+    .region-badge.foreign { background:#fef3c7; color:#b45309; }
+    .chart-foreign { font-style:normal; font-size:10px; color:#b45309; background:#fef3c7; padding:1px 4px; border-radius:4px; margin-left:4px; }
+    .analyst-pending-box.foreign { border-color:#fde68a; background:#fffbeb; }
+    .analyst-foreign-note { margin-top:6px; font-size:12px; color:#92400e; }
+    .analyst-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    .analyst-table th, .analyst-table td { padding: 10px 12px; border-bottom: 1px solid #eef0f3; vertical-align: top; text-align: left; }
+    .analyst-table th { font-size: 12px; color: #6b7280; font-weight: 600; background: #fafbfc; white-space: nowrap; position: sticky; top: 0; }
+    .analyst-table th.num, .analyst-table td.num { text-align: right; }
+    .analyst-table tbody tr:hover { background: #fafbfc; }
+    .analyst-td-house { font-weight: 700; white-space: nowrap; }
+    .analyst-td-name { color: #6b7280; white-space: nowrap; }
+    .analyst-td-date { color: #9ca3af; white-space: nowrap; }
+    .analyst-td-target { font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+    .analyst-td-delta { font-size: 12px; margin-top: 2px; font-variant-numeric: tabular-nums; }
+    .analyst-td-target.down, .analyst-td-delta.down { color: #1d4ed8; }
+    .analyst-td-target.up, .analyst-td-delta.up { color: #c2410c; }
+    .analyst-td-target.flat, .analyst-td-delta.flat { color: #6b7280; }
+    .analyst-td-target.new, .analyst-td-delta.new { color: #1a7f5a; }
+    .analyst-td-target.none { color: #9ca3af; }
+    .analyst-td-point { min-width: 300px; }
+    .analyst-td-point .analyst-title { font-style: italic; color: #374151; margin-bottom: 4px; }
+    .analyst-td-point .analyst-point { color: #4b5563; line-height: 1.55; }
+    .analyst-avg-line { margin-top: 10px; font-size: 13px; color: #4b5563; font-variant-numeric: tabular-nums; }
+    .analyst-avg-note { color: #9ca3af; font-size: 12px; }
+    .analyst-summary-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .analyst-summary-card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+      background: #fff;
+      min-width: 0;
+      display: grid;
+      gap: 8px;
+    }
+
+    .analyst-summary-label {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .analyst-summary-value {
+      font-size: 30px;
+      font-weight: 800;
+      line-height: 1;
+      letter-spacing: -0.03em;
+    }
+
+    .analyst-summary-value.down { color: var(--orange); }
+    .analyst-summary-value.flat { color: var(--gray); }
+    .analyst-summary-value.up { color: var(--green); }
+
+    .analyst-summary-meta {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.45;
+      min-height: 18px;
+    }
+
+    .analyst-note {
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .analyst-chart {
+      position: relative;
+      display: grid;
+      gap: 10px;
+      padding-top: 16px;
+      overflow: visible;
+    }
+
+    .analyst-chart-ref {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 0;
+      border-left: 2px dashed rgba(37, 99, 235, 0.7);
+      pointer-events: none;
+    }
+
+    .analyst-chart-ref span {
+      position: absolute;
+      top: 0;
+      transform: translate(-50%, -100%);
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: #eff6ff;
+      color: #1d4ed8;
+      border: 1px solid rgba(37, 99, 235, 0.2);
+      font-size: 11px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .analyst-chart-row {
+      display: grid;
+      gap: 6px;
+    }
+
+    .analyst-chart-track {
+      position: relative;
+      height: 32px;
+      border: 1px solid #e5e7eb;
+      border-radius: 10px;
+      background: #f9fafb;
+      overflow: hidden;
+    }
+
+    .analyst-chart-fill {
+      position: absolute;
+      inset: 0 auto 0 0;
+      border-radius: 9px;
+      min-width: 0;
+    }
+
+    .analyst-chart-fill.down { background: var(--orange); }
+    .analyst-chart-fill.up { background: var(--green); }
+    .analyst-chart-fill.flat { background: var(--gray); }
+    .analyst-chart-fill.muted { background: #9ca3af; }
+
+    .analyst-chart-text {
+      position: absolute;
+      left: 10px;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .analyst-chart-text .target {
+      font-variant-numeric: tabular-nums;
+    }
+
+    .analyst-list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .analyst-card {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .analyst-card-top {
+      display: grid;
+      grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr) auto;
+      gap: 12px;
+      align-items: start;
+    }
+
+    .analyst-house {
+      font-size: 15px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .analyst-analyst {
+      margin-top: 4px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .analyst-date-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: #f3f4f6;
+      border: 1px solid #e5e7eb;
+      color: #4b5563;
+      font-size: 11px;
+      font-weight: 800;
+      white-space: nowrap;
+      margin-top: 8px;
+    }
+
+    .analyst-rating-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 800;
+      white-space: nowrap;
+      border: 1px solid transparent;
+      min-height: 30px;
+      width: fit-content;
+    }
+
+    .analyst-rating-badge.change {
+      background: rgba(194, 65, 12, 0.12);
+      color: var(--orange);
+    }
+
+    .analyst-rating-badge.keep {
+      background: #f3f4f6;
+      color: var(--gray);
+    }
+
+    .analyst-rating-badge.pending {
+      background: #fff;
+      color: var(--gray);
+      border-color: #d1d5db;
+      border-style: dashed;
+    }
+
+    .analyst-target-box {
+      text-align: right;
+      min-width: 0;
+    }
+
+    .analyst-target {
+      font-size: 18px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .analyst-target.down { color: #1d4ed8; }
+    .analyst-target.up { color: var(--red); }
+    .analyst-target.flat { color: var(--gray); }
+    .analyst-target.new { color: var(--green); }
+    .analyst-target.none { color: var(--gray); }
+
+    .analyst-target-note {
+      margin-top: 4px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .analyst-title {
+      font-style: italic;
+      color: #374151;
+      line-height: 1.45;
+      font-size: 14px;
+    }
+
+    .analyst-point {
+      color: #374151;
+      font-size: 13px;
+      line-height: 1.55;
+      white-space: pre-line;
+    }
+
+    .analyst-extra {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .analyst-chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: #f3f4f6;
+      color: #4b5563;
+      border: 1px solid #e5e7eb;
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .analyst-pending-box {
+      margin-top: 12px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      padding: 12px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .analyst-pending-box strong {
+      color: var(--text);
+    }
+
+    .article-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .article-title {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.4;
+      letter-spacing: -0.02em;
+      font-weight: 800;
+    }
+
+    .article-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 8px;
+      align-items: center;
+    }
+
+    .article-body {
+      display: grid;
+      gap: 10px;
+      margin-top: 12px;
+    }
+
+    .new-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: #dcfce7;
+      color: #166534;
+      font-size: 11px;
+      font-weight: 800;
+      border: 1px solid #86efac;
+      white-space: nowrap;
+    }
+
+    .footer-actions {
+      display: flex;
+      justify-content: center;
+      margin-top: 14px;
+    }
+
+    .pager { display:flex; flex-wrap:wrap; gap:6px; align-items:center; justify-content:center; margin-top:16px; }
+    .pager-btn { min-width:34px; height:34px; padding:0 10px; border:1px solid #e5e7eb; background:#fff; border-radius:8px;
+                 font-size:13px; color:#374151; cursor:pointer; font-variant-numeric:tabular-nums; font-family:inherit; }
+    .pager-btn:hover:not(:disabled) { background:#f3f4f6; }
+    .pager-btn.active { background:#111827; color:#fff; border-color:#111827; font-weight:600; }
+    .pager-btn:disabled { color:#d1d5db; cursor:default; }
+    .pager-gap { color:#9ca3af; padding:0 2px; }
+    .load-more {
+      padding: 11px 16px;
+    }
+
+    .empty {
+      padding: 22px 14px;
+      text-align: center;
+      color: var(--muted);
+      border: 1px dashed #d1d5db;
+      border-radius: 12px;
+      background: #fff;
+    }
+
+    .hidden { display: none !important; }
+
+    @media (max-width: 1100px) {
+      .header {
+        grid-template-columns: 1fr;
+      }
+      .header-side {
+        min-width: 0;
+      }
+      .tone-summary {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+      .tone-summary .tone-strip-box {
+        grid-column: 1 / -1;
+      }
+      .frame-axis-cards {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+      .message-row {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .shell { padding: 14px 12px 32px; }
+      .hero { padding: 16px; }
+      .title { font-size: 24px; }
+      .header-side { grid-template-columns: 1fr; }
+      .tone-summary { grid-template-columns: 1fr; }
+      .group-row { grid-template-columns: 1fr; }
+      .frame-row { grid-template-columns: 1fr; }
+      .frame-axis-cards { grid-template-columns: 1fr; }
+      .row-meta { text-align: left; }
+      input[type="search"] { min-width: 0; width: 100%; }
+      .toolbar-right { margin-left: 0; width: 100%; justify-content: space-between; }
+      table { min-width: 860px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <div id="app"></div>
+  </div>
+
+  <script src="data/articles.js"></script>
+  <script src="data/analysts.js"></script>
+  <script>
+    (function () {
+      const REFRESH_MS = 60000;
+      const NEW_MS = 8000;
+      const KST_OFFSET_MS = 9 * 60 * 60 * 1000;
+      const TONE_ORDER = { 긍정: 0, 중립: 1, 우려: 2 };
+      const TONE_CLASS = { 긍정: 'tone-positive', 중립: 'tone-neutral', 우려: 'tone-warning' };
+      const TONE_COLOR = { 긍정: '#1a7f5a', 중립: '#6b7280', 우려: '#c2410c' };
+      const GROUPS = ['전체', '통신사', '경제지', '종합일간', '방송', 'IT전문', '증권투자', '기타'];
+      const TONES = ['전체', '긍정', '중립', '우려'];
+      const FRAMES = ['전체', '주가/시장반응', '중복상장/주주가치', 'AI전략', '지배구조', '규제/거래소', '밸류에이션', '분할구조', '기타'];
+      const FRAME_AXIS_ORDER = ['회사프레임', '혼합', '비판프레임', '중립전달'];
+      const FRAME_AXIS_META = {
+        회사프레임: { color: '#1a7f5a', soft: 'rgba(26, 127, 90, 0.13)' },
+        혼합: { color: '#b45309', soft: 'rgba(180, 83, 9, 0.13)' },
+        비판프레임: { color: '#c2410c', soft: 'rgba(194, 65, 12, 0.13)' },
+        중립전달: { color: '#6b7280', soft: 'rgba(107, 114, 128, 0.12)' }
+      };
+      const MESSAGE_ORDER = [
+        '인적분할 성격(물적분할 아님)',
+        '분할비율 0.36 / 0.64',
+        '두 개의 엔진 구조',
+        '카카오AI = 에이전틱 AI',
+        '카카오AI 2030 매출 6조',
+        '카카오X = 미래가치 투자회사',
+        '카카오X 투자재원 2.3조',
+        '카카오X 2030 매출 10조',
+        'SOTP 34.2조 저평가 논거',
+        '주주환원 정책',
+        '경영진 내정(정신아/김도영)',
+        '일정(12/17 주총, 27/1/27 재상장)',
+        '고용/근로조건 유지'
+      ];
+      const MESSAGE_INDEX = new Map(MESSAGE_ORDER.map((message, index) => [message, index]));
+
+      const state = {
+        tone: '전체',
+        group: '전체',
+        frame: '전체',
+        frameAxis: '전체',
+        message: '전체',
+        query: '',
+        sortMode: 'latest',
+        page: 1,
+        pageSize: 50,
+        showAllOutlets: false,
+        tableSort: { key: 'total', dir: 'desc' },
+        newUntil: new Map(),
+        previousIds: new Set(),
+        lastRefreshAt: Date.now(),
+        nextRefreshAt: Date.now() + REFRESH_MS,
+        data: null
+      };
+
+      const els = {
+        app: document.getElementById('app')
+      };
+
+      function escapeHtml(value) {
+        return String(value == null ? '' : value)
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;')
+          .replaceAll('"', '&quot;')
+          .replaceAll("'", '&#39;');
+      }
+
+      function parseKst(iso) {
+        const d = new Date(iso);
+        return new Date(d.getTime() + KST_OFFSET_MS);
+      }
+
+      function pad2(n) {
+        return String(n).padStart(2, '0');
+      }
+
+      function formatKstTime(iso) {
+        const d = parseKst(iso);
+        return `${pad2(d.getUTCHours())}:${pad2(d.getUTCMinutes())}`;
+      }
+
+      function formatKstClock(ms) {
+        const d = new Date(ms + KST_OFFSET_MS);
+        return `${pad2(d.getUTCHours())}:${pad2(d.getUTCMinutes())}:${pad2(d.getUTCSeconds())}`;
+      }
+
+      function formatKstDateTime(iso) {
+        const d = parseKst(iso);
+        return `${d.getUTCFullYear()}-${pad2(d.getUTCMonth() + 1)}-${pad2(d.getUTCDate())} ${pad2(d.getUTCHours())}:${pad2(d.getUTCMinutes())}`;
+      }
+
+      function kstParts(iso) {
+        const d = parseKst(iso);
+        return {
+          y: d.getUTCFullYear(),
+          m: d.getUTCMonth() + 1,
+          d: d.getUTCDate(),
+          h: d.getUTCHours(),
+          min: d.getUTCMinutes()
+        };
+      }
+
+      function normalizeText(text) {
+        return String(text || '').toLowerCase().trim();
+      }
+
+      function toneClass(tone) {
+        return TONE_CLASS[tone] || TONE_CLASS['중립'];
+      }
+
+      function toneColor(tone) {
+        return TONE_COLOR[tone] || TONE_COLOR['중립'];
+      }
+
+      function frameAxisMeta(frame) {
+        return FRAME_AXIS_META[frame] || FRAME_AXIS_META['중립전달'];
+      }
+
+      function frameAxisStyle(frame) {
+        const meta = frameAxisMeta(frame);
+        return `--frame-color:${meta.color};--frame-soft:${meta.soft};`;
+      }
+
+      function pct(value, total) {
+        if (!total) return 0;
+        return (value / total) * 100;
+      }
+
+      function scoreText(score) {
+        const fixed = score.toFixed(1);
+        if (score > 0) return `<span class="pos-text">${fixed}</span>`;
+        if (score < 0) return `<span class="neg-text">${fixed}</span>`;
+        return `<span class="mid-text">${fixed}</span>`;
+      }
+
+      function getCurrentData() {
+        return window.KMW_DATA && window.KMW_DATA.articles ? window.KMW_DATA : null;
+      }
+
+      function buildAnalytics(data) {
+        const articles = Array.isArray(data.articles) ? data.articles.slice() : [];
+        const byTone = { 긍정: 0, 중립: 0, 우려: 0 };
+        const byGroup = new Map();
+        const byFrame = new Map();
+        const byFrameAxis = new Map(FRAME_AXIS_ORDER.map((frame) => [frame, 0]));
+        const byMessage = new Map(MESSAGE_ORDER.map((message) => [message, 0]));
+        const byOutlet = new Map();
+        const timelineMap = new Map();
+        const prices = data.price || {};
+
+        for (const article of articles) {
+          const tone = byTone.hasOwnProperty(article.tone) ? article.tone : '중립';
+          byTone[tone] += 1;
+
+          const group = article.outletGroup || '기타';
+          const frameList = Array.isArray(article.frames) && article.frames.length ? article.frames : ['기타'];
+          const frameAxis = FRAME_AXIS_ORDER.includes(article.frame) ? article.frame : '중립전달';
+          const outlet = article.outlet || '미상';
+          const messageList = Array.isArray(article.messages) ? Array.from(new Set(article.messages.filter((message) => MESSAGE_INDEX.has(message)))) : [];
+
+          if (!byGroup.has(group)) byGroup.set(group, { total: 0, 긍정: 0, 중립: 0, 우려: 0 });
+          const groupEntry = byGroup.get(group);
+          groupEntry.total += 1;
+          groupEntry[tone] += 1;
+
+          for (const frame of frameList) {
+            if (!byFrame.has(frame)) byFrame.set(frame, 0);
+            byFrame.set(frame, byFrame.get(frame) + 1);
+          }
+          byFrameAxis.set(frameAxis, (byFrameAxis.get(frameAxis) || 0) + 1);
+
+          for (const message of messageList) {
+            byMessage.set(message, (byMessage.get(message) || 0) + 1);
+          }
+
+          // "매체 미상"(포털 사본만 색인돼 원 매체를 모르는 기사)과 "회사발표"(카카오 뉴스룸)는
+          // 매체별 표에서만 뺀다. 논조/프레임/메시지 집계에는 그대로 포함된다.
+          if (group === '매체 미상' || group === '회사발표') {
+            continue;
+          }
+
+          if (!byOutlet.has(outlet)) {
+            byOutlet.set(outlet, {
+              outlet,
+              group,
+              total: 0,
+              긍정: 0,
+              중립: 0,
+              우려: 0,
+              scoreSum: 0,
+              latestAt: '',
+              latestTitle: '',
+              latestUrl: ''
+            });
+          }
+          const outletEntry = byOutlet.get(outlet);
+          outletEntry.total += 1;
+          outletEntry[tone] += 1;
+          outletEntry.scoreSum += Number(article.toneScore || 0);
+          const publishedAt = article.publishedAt || article.firstSeenAt || '';
+          if (!outletEntry.latestAt || publishedAt > outletEntry.latestAt) {
+            outletEntry.latestAt = publishedAt;
+            outletEntry.latestTitle = article.title || '';
+            outletEntry.latestUrl = article.url || '#';
+          }
+
+          const parts = kstParts(article.publishedAt || article.firstSeenAt);
+          const bucket = `${parts.y}-${pad2(parts.m)}-${pad2(parts.d)} ${pad2(parts.h)}:${parts.min < 30 ? '00' : '30'}`;
+          if (!timelineMap.has(bucket)) {
+            timelineMap.set(bucket, { key: bucket, total: 0, 긍정: 0, 중립: 0, 우려: 0, published: bucket });
+          }
+          const bin = timelineMap.get(bucket);
+          bin.total += 1;
+          bin[tone] += 1;
+        }
+
+        const timeline = Array.from(timelineMap.values()).sort((a, b) => a.key.localeCompare(b.key));
+        const frameEntries = Array.from(byFrame.entries())
+          .map(([frame, count]) => ({ frame, count }))
+          .sort((a, b) => b.count - a.count || a.frame.localeCompare(b.frame));
+
+        const frameAxisEntries = FRAME_AXIS_ORDER.map((frame) => ({
+          frame,
+          count: byFrameAxis.get(frame) || 0
+        }));
+
+        const messageEntries = MESSAGE_ORDER
+          .map((message) => ({
+            message,
+            count: byMessage.get(message) || 0
+          }))
+          .sort((a, b) => b.count - a.count || MESSAGE_INDEX.get(a.message) - MESSAGE_INDEX.get(b.message));
+
+        const groupEntries = Array.from(byGroup.entries())
+          .map(([group, item]) => ({ group, ...item }))
+          .sort((a, b) => b.total - a.total || a.group.localeCompare(b.group));
+
+        const outletEntries = Array.from(byOutlet.values())
+          .map((item) => ({
+            ...item,
+            scoreAvg: item.total ? item.scoreSum / item.total : 0
+          }))
+          .sort((a, b) => b.total - a.total || a.outlet.localeCompare(b.outlet));
+
+        return {
+          price: prices,
+          articles,
+          byTone,
+          byGroup,
+          byFrame,
+          byOutlet,
+          timeline,
+          frameEntries,
+          frameAxisEntries,
+          messageEntries,
+          groupEntries,
+          outletEntries
+        };
+      }
+
+      function matchesFilters(article) {
+        if (state.tone !== '전체' && article.tone !== state.tone) return false;
+        if (state.group !== '전체' && (article.outletGroup || '기타') !== state.group) return false;
+        if (state.frame !== '전체') {
+          const frames = Array.isArray(article.frames) ? article.frames : [];
+          if (!frames.includes(state.frame)) return false;
+        }
+        if (state.frameAxis !== '전체' && (article.frame || '중립전달') !== state.frameAxis) return false;
+        if (state.message !== '전체') {
+          const messages = Array.isArray(article.messages) ? article.messages : [];
+          if (!messages.includes(state.message)) return false;
+        }
+        if (state.query) {
+          const q = state.query;
+          const text = normalizeText(`${article.title} ${article.outlet} ${article.outletGroup} ${article.frame || ''} ${(article.frames || []).join(' ')} ${(article.messages || []).join(' ')} ${(article.signals || []).join(' ')} ${(article.hits?.pos || []).join(' ')} ${(article.hits?.neg || []).join(' ')}`);
+          if (!text.includes(q)) return false;
+        }
+        return true;
+      }
+
+      function sortArticles(list) {
+        const copy = list.slice();
+        if (state.sortMode === 'tone') {
+          copy.sort((a, b) => {
+            const delta = Math.abs((b.toneScore || 0)) - Math.abs((a.toneScore || 0));
+            if (delta !== 0) return delta;
+            const timeDelta = new Date(b.publishedAt || b.firstSeenAt || 0) - new Date(a.publishedAt || a.firstSeenAt || 0);
+            if (timeDelta !== 0) return timeDelta;
+            return String(a.title || '').localeCompare(String(b.title || ''));
+          });
+          return copy;
+        }
+        copy.sort((a, b) => {
+          const timeDelta = new Date(b.publishedAt || b.firstSeenAt || 0) - new Date(a.publishedAt || a.firstSeenAt || 0);
+          if (timeDelta !== 0) return timeDelta;
+          const toneDelta = TONE_ORDER[a.tone] - TONE_ORDER[b.tone];
+          if (toneDelta !== 0) return toneDelta;
+          return String(a.title || '').localeCompare(String(b.title || ''));
+        });
+        return copy;
+      }
+
+      function sortOutlets(list) {
+        const key = state.tableSort.key;
+        const dir = state.tableSort.dir === 'asc' ? 1 : -1;
+        return list.slice().sort((a, b) => {
+          let av = a[key];
+          let bv = b[key];
+          if (key === 'latestAt') {
+            av = new Date(av || 0).getTime();
+            bv = new Date(bv || 0).getTime();
+          } else if (typeof av === 'string' && typeof bv === 'string') {
+            av = av.toLowerCase();
+            bv = bv.toLowerCase();
+          }
+          if (av < bv) return -1 * dir;
+          if (av > bv) return 1 * dir;
+          return a.outlet.localeCompare(b.outlet);
+        });
+      }
+
+      function renderStackSegments(entry, total) {
+        const pos = pct(entry.긍정 || 0, total);
+        const mid = pct(entry.중립 || 0, total);
+        const neg = pct(entry.우려 || 0, total);
+        return `
+          <div class="stack-bar" title="긍정 ${entry.긍정 || 0}, 중립 ${entry.중립 || 0}, 우려 ${entry.우려 || 0}">
+            <span class="stack-pos" style="width:${pos}%"></span>
+            <span class="stack-mid" style="width:${mid}%"></span>
+            <span class="stack-neg" style="width:${neg}%"></span>
+          </div>
+        `;
+      }
+
+      function renderToneSummary(data) {
+        const total = data.articles.length;
+        const pos = data.byTone.긍정 || 0;
+        const mid = data.byTone.중립 || 0;
+        const neg = data.byTone.우려 || 0;
+        return `
+          <div class="tone-summary">
+            <div class="tone-box">
+              <div class="tone-name" style="color:${toneColor('긍정')}">긍정</div>
+              <div class="tone-count mono">${pos}</div>
+              <div class="tone-rate mono">${total ? pct(pos, total).toFixed(1) : '0.0'}%</div>
+            </div>
+            <div class="tone-box">
+              <div class="tone-name" style="color:${toneColor('중립')}">중립</div>
+              <div class="tone-count mono">${mid}</div>
+              <div class="tone-rate mono">${total ? pct(mid, total).toFixed(1) : '0.0'}%</div>
+            </div>
+            <div class="tone-box">
+              <div class="tone-name" style="color:${toneColor('우려')}">우려</div>
+              <div class="tone-count mono">${neg}</div>
+              <div class="tone-rate mono">${total ? pct(neg, total).toFixed(1) : '0.0'}%</div>
+            </div>
+            <div class="tone-box tone-strip-box">
+              <div class="tone-name">전체 대비 비율</div>
+              <div class="tone-strip" aria-label="논조 비율 막대">
+                <span class="strip-pos" style="width:${pct(pos, total)}%"></span>
+                <span class="strip-mid" style="width:${pct(mid, total)}%"></span>
+                <span class="strip-neg" style="width:${pct(neg, total)}%"></span>
+              </div>
+              <div class="tone-rate">긍정 ${pos}, 중립 ${mid}, 우려 ${neg}</div>
+            </div>
+          </div>
+        `;
+      }
+
+      function renderTimeline(data) {
+        if (!data.timeline.length) {
+          return '<div class="empty">데이터 없음</div>';
+        }
+        const max = Math.max(...data.timeline.map((d) => d.total), 1);
+        const maxHeight = 184;
+        const markerIso = '2026-08-21T10:04:00+09:00';
+        const start = data.timeline[0].key;
+        const end = data.timeline[data.timeline.length - 1].key;
+        const startMs = new Date(`${start.replace(' ', 'T')}:00+09:00`).getTime();
+        const endParts = end.split(' ');
+        const endMs = new Date(`${endParts[0]}T${endParts[1]}:00+09:00`).getTime() + 30 * 60 * 1000;
+        const markerMs = new Date(markerIso).getTime();
+        let markerLeft = 0;
+        if (endMs > startMs) {
+          markerLeft = ((markerMs - startMs) / (endMs - startMs)) * 100;
+          markerLeft = Math.max(0, Math.min(100, markerLeft));
+        }
+        const markerActive = markerMs >= startMs && markerMs <= endMs;
+        return `
+          <div class="timeline-wrap">
+            <div class="timeline-grid">
+              ${markerActive ? `<div class="timeline-marker" style="left:${markerLeft}%"><span>공시</span></div>` : ''}
+              ${data.timeline.map((bin) => {
+                const posH = Math.max(0, (bin.긍정 / max) * maxHeight);
+                const midH = Math.max(0, (bin.중립 / max) * maxHeight);
+                const negH = Math.max(0, (bin.우려 / max) * maxHeight);
+                return `
+                  <div class="timeline-bin" title="${bin.key} / 긍정 ${bin.긍정}, 중립 ${bin.중립}, 우려 ${bin.우려}">
+                    <div class="bar-stack">
+                      <span class="bar-seg pos" style="height:${posH}px"></span>
+                      <span class="bar-seg mid" style="height:${midH}px"></span>
+                      <span class="bar-seg neg" style="height:${negH}px"></span>
+                    </div>
+                    <div class="bar-total mono">${bin.total}</div>
+                    <div class="bar-label mono">${bin.key.slice(11)}</div>
+                  </div>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        `;
+      }
+
+      function renderGroupStack(data) {
+        if (!data.groupEntries.length) return '<div class="empty">데이터 없음</div>';
+        return `
+          <div class="stack-list">
+            ${data.groupEntries.map((entry) => `
+              <div class="group-row">
+                <div class="row-label">${escapeHtml(entry.group)}</div>
+                ${renderStackSegments(entry, entry.total)}
+                <div class="row-meta mono">${entry.total}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      function renderFrameAxisSection(data) {
+        const total = data.articles.length || 0;
+        const entries = data.frameAxisEntries || [];
+        if (!entries.length) return '<div class="empty">데이터 없음</div>';
+        return `
+          <div class="frame-axis-grid">
+            <div class="frame-axis-cards">
+              ${entries.map((entry) => {
+                const meta = frameAxisMeta(entry.frame);
+                const active = state.frameAxis === entry.frame;
+                const percent = total ? pct(entry.count, total) : 0;
+                return `
+                  <button class="frame-axis-card ${active ? 'active' : ''}" data-frame-axis="${escapeHtml(entry.frame)}" type="button" style="${frameAxisStyle(entry.frame)}">
+                    <div class="frame-axis-count">
+                      <strong class="mono" style="color:var(--frame-color)">${entry.count}</strong>
+                      <span class="mono">${total ? percent.toFixed(1) : '0.0'}%</span>
+                    </div>
+                    <div class="row-label">${escapeHtml(entry.frame)}</div>
+                    <div class="frame-axis-bar" title="${escapeHtml(entry.frame)} / ${entry.count}">
+                      <span class="frame-axis-seg ${entry.frame === '회사프레임' ? 'company' : entry.frame === '혼합' ? 'mixed' : entry.frame === '비판프레임' ? 'critical' : 'neutral'}" style="width:${percent}%"></span>
+                    </div>
+                  </button>
+                `;
+              }).join('')}
+            </div>
+            <div class="frame-axis-strip" aria-label="프레임 비율 막대">
+              ${entries.map((entry) => `
+                <span class="${entry.frame === '회사프레임' ? 'company' : entry.frame === '혼합' ? 'mixed' : entry.frame === '비판프레임' ? 'critical' : 'neutral'}" style="width:${total ? pct(entry.count, total) : 0}%"></span>
+              `).join('')}
+            </div>
+            <div class="frame-axis-legend">
+              <span><i class="company"></i>회사프레임</span>
+              <span><i class="mixed"></i>혼합</span>
+              <span><i class="critical"></i>비판프레임</span>
+              <span><i class="neutral"></i>중립전달</span>
+            </div>
+          </div>
+        `;
+      }
+
+
+      function toAnalystNumber(value) {
+        // Number(null) 은 0 이고 Number('') 도 0 이라 Number.isFinite 만으로는 못 거른다.
+        // targetPrev 가 null(이력 없음)인 신규 커버리지가 "0원 -> 61,000원 (+0.0%)" 로
+        // 찍히고 상향 집계에 잡히는 버그가 여기서 났다.
+        if (value === null || value === undefined || value === '') return null;
+        const num = Number(value);
+        return Number.isFinite(num) ? num : null;
+      }
+
+      function formatAnalystNumber(value) {
+        const num = toAnalystNumber(value);
+        return num == null ? '' : Math.round(num).toLocaleString('ko-KR');
+      }
+
+      function formatAnalystWon(value) {
+        const text = formatAnalystNumber(value);
+        return text ? `${text}원` : '';
+      }
+
+      function formatAnalystDateTime(value) {
+        const d = parseKst(value);
+        return `${d.getUTCMonth() + 1}월 ${d.getUTCDate()}일 ${pad2(d.getUTCHours())}:${pad2(d.getUTCMinutes())}`;
+      }
+
+      function formatAnalystRating(value) {
+        if (value == null) return null;
+        const text = String(value).trim();
+        if (!text) return null;
+        return /^[A-Za-z]+$/.test(text) ? text.toUpperCase() : text;
+      }
+
+      function ratingRank(value) {
+        const normalized = formatAnalystRating(value);
+        if (!normalized) return null;
+        const upper = normalized.toUpperCase();
+        if (upper === 'BUY' || normalized === '매수') return 3;
+        if (upper === 'HOLD' || normalized === 'HOLD') return 2;
+        if (upper === 'SELL' || normalized === '매도') return 1;
+        return null;
+      }
+
+      function renderAnalystReactionSection() {
+        const analystData = window.KMW_ANALYSTS;
+        if (!analystData || !Array.isArray(analystData.reports) || !analystData.reports.length) {
+          return '';
+        }
+
+        const reports = analystData.reports.slice();
+        const numericTargets = reports
+          .map((report) => toAnalystNumber(report.target))
+          .filter((value) => value != null);
+        const maxTarget = numericTargets.length ? Math.max(...numericTargets) : 0;
+        const priceRefValue = toAnalystNumber(analystData.priceRef && analystData.priceRef.value);
+        const priceRefPct = maxTarget && priceRefValue != null ? (priceRefValue / maxTarget) * 100 : 0;
+
+        const stats = reports.reduce((acc, report) => {
+          const current = toAnalystNumber(report.target);
+          const prev = toAnalystNumber(report.targetPrev);
+          if (current != null && prev != null) {
+            acc.total += 1;
+            acc.prevSum += prev;
+            acc.currentSum += current;
+            if (current < prev) acc.down += 1;
+            else if (current > prev) acc.up += 1;
+            else acc.flat += 1;
+          }
+
+          const prevRating = formatAnalystRating(report.ratingPrev);
+          const currentRating = formatAnalystRating(report.rating);
+          if (prevRating && currentRating && prevRating !== currentRating) {
+            acc.ratingChanges.push(report);
+          }
+          return acc;
+        }, { total: 0, prevSum: 0, currentSum: 0, down: 0, flat: 0, up: 0, ratingChanges: [] });
+
+        const changeHouses = Array.from(new Set(
+          stats.ratingChanges
+            .map((report) => report.house)
+            .filter(Boolean)
+        ));
+
+        const avgLine = stats.total
+          ? `평균 목표주가 ${formatAnalystNumber(stats.prevSum / stats.total)} -> ${formatAnalystNumber(stats.currentSum / stats.total)}원`
+          : '평균 목표주가 비교 가능 자료 없음';
+
+        const summaryCards = [
+          { label: '목표주가 하향', value: stats.down, colorClass: 'down', meta: '' },
+          { label: '목표주가 유지', value: stats.flat, colorClass: 'flat', meta: '' },
+          { label: '목표주가 상향', value: stats.up, colorClass: 'up', meta: '' },
+          {
+            label: '투자의견 강등',
+            value: stats.ratingChanges.length,
+            colorClass: 'down',
+            meta: changeHouses.length ? changeHouses.join(', ') : '없음'
+          }
+        ];
+
+        const sortedReports = reports.slice().sort((a, b) => {
+          const aTarget = toAnalystNumber(a.target);
+          const bTarget = toAnalystNumber(b.target);
+          const aSort = aTarget == null ? -Infinity : aTarget;
+          const bSort = bTarget == null ? -Infinity : bTarget;
+          if (bSort !== aSort) return bSort - aSort;
+          const aDate = String(a.date || '');
+          const bDate = String(b.date || '');
+          if (bDate !== aDate) return bDate.localeCompare(aDate);
+          return String(a.house || '').localeCompare(String(b.house || ''));
+        });
+
+        const pending = Array.isArray(analystData.pending) ? analystData.pending : [];
+        const sourceParts = [analystData.source, analystData.note].filter(Boolean).join(', ');
+        const pendingText = pending.map((item) => `${escapeHtml(item.house || '미상')} ${escapeHtml(item.analyst || '미상')} (${escapeHtml(String(item.lastDate || ''))} 직전 ${escapeHtml(formatAnalystWon(item.targetPrev))})`).join(', ');
+        const foreignPending = Array.isArray(analystData.foreignPending) ? analystData.foreignPending : [];
+        const foreignPendingText = foreignPending
+          .map((item) => `${escapeHtml(item.house)} ${escapeHtml(item.rating || '')} ${escapeHtml(formatAnalystWon(item.target))} (${escapeHtml(String(item.date || ''))})`)
+          .join(', ');
+        const foreignTargets = foreignPending.map((item) => toAnalystNumber(item.target)).filter((v) => v != null);
+        const foreignAvg = foreignTargets.length ? foreignTargets.reduce((a, b) => a + b, 0) / foreignTargets.length : 0;
+
+        return `
+          <section class="section panel">
+            <div class="panel-head">
+              <div>
+                <h2 class="panel-title">증권가 반응</h2>
+                <div class="panel-sub">${escapeHtml(formatAnalystDateTime(analystData.asOf))} 기준, ${escapeHtml(sourceParts)}</div>
+              </div>
+            </div>
+
+            <div class="analyst-summary-grid">
+              ${summaryCards.map((card, index) => `
+                <div class="analyst-summary-card">
+                  <div class="analyst-summary-label">${escapeHtml(card.label)}</div>
+                  <div class="analyst-summary-value mono ${card.colorClass}">${card.value}</div>
+                  ${card.meta ? `<div class="analyst-summary-meta">${escapeHtml(card.meta)}</div>` : ''}
+                </div>
+              `).join('')}
+            </div>
+            <div class="analyst-avg-line">${escapeHtml(avgLine)} <span class="analyst-avg-note">(직전 목표가가 있는 ${stats.total}건 기준)</span></div>
+
+            <div class="table-wrap" style="margin-top:16px;">
+              <table class="analyst-table">
+                <thead>
+                  <tr>
+                    <th>구분</th>
+                    <th>증권사</th>
+                    <th>애널리스트</th>
+                    <th>날짜</th>
+                    <th>투자의견</th>
+                    <th class="num">목표주가</th>
+                    <th>핵심 논지</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  ${sortedReports.map((report) => {
+                    const currentTarget = toAnalystNumber(report.target);
+                    const prevTarget = toAnalystNumber(report.targetPrev);
+                    const currentRating = formatAnalystRating(report.rating);
+                    const prevRating = formatAnalystRating(report.ratingPrev);
+
+                    let ratingText = '의견 미제시';
+                    let ratingClass = 'pending';
+                    if (currentRating && prevRating && currentRating === prevRating) {
+                      ratingText = `${currentRating} 유지`; ratingClass = 'keep';
+                    } else if (currentRating && prevRating) {
+                      ratingText = `${prevRating} → ${currentRating}`; ratingClass = 'change';
+                    } else if (currentRating) {
+                      ratingText = currentRating; ratingClass = 'keep';
+                    }
+
+                    let targetMain = '미제시';
+                    let targetSub = '';
+                    let targetClass = 'none';
+                    if (currentTarget != null && prevTarget != null) {
+                      const delta = currentTarget - prevTarget;
+                      if (delta === 0) {
+                        targetMain = formatAnalystWon(currentTarget);
+                        targetSub = '유지';
+                        targetClass = 'flat';
+                      } else {
+                        const pctDelta = prevTarget ? (delta / prevTarget) * 100 : 0;
+                        targetMain = `${formatAnalystWon(prevTarget)} → ${formatAnalystWon(currentTarget)}`;
+                        targetSub = `${delta > 0 ? '+' : ''}${pctDelta.toFixed(1)}%`;
+                        targetClass = delta < 0 ? 'down' : 'up';
+                      }
+                    } else if (currentTarget != null) {
+                      targetMain = formatAnalystWon(currentTarget);
+                      targetSub = '신규';
+                      targetClass = 'new';
+                    }
+
+                    return `
+                      <tr>
+                        <td><span class="region-badge ${report.region === '외국계' ? 'foreign' : 'domestic'}">${escapeHtml(report.region || '국내')}</span></td>
+                        <td class="analyst-td-house">${escapeHtml(report.house || '미상')}</td>
+                        <td class="analyst-td-name">${escapeHtml(report.analyst || '미상')}</td>
+                        <td class="mono analyst-td-date">${escapeHtml(String(report.date || ''))}</td>
+                        <td><span class="analyst-rating-badge ${ratingClass}">${escapeHtml(ratingText)}</span></td>
+                        <td class="num">
+                          <div class="mono analyst-td-target ${targetClass}">${escapeHtml(targetMain)}</div>
+                          ${targetSub ? `<div class="mono analyst-td-delta ${targetClass}">${escapeHtml(targetSub)}</div>` : ''}
+                        </td>
+                        <td class="analyst-td-point">
+                          <div class="analyst-title">"${escapeHtml(report.title || '')}"</div>
+                          <div class="analyst-point">${escapeHtml(report.point || '')}</div>
+                          ${report.extra ? `<div class="analyst-extra"><span class="analyst-chip">${escapeHtml(report.extra)}</span></div>` : ''}
+                        </td>
+                      </tr>
+                    `;
+                  }).join('')}
+                </tbody>
+              </table>
+            </div>
+
+            ${pending.length ? `
+              <div class="analyst-pending-box">
+                <strong>아직 분할 리포트를 안 낸 국내 증권사</strong>
+                <div style="margin-top:6px;">${pendingText}</div>
+              </div>
+            ` : ''}
+            ${foreignPending.length ? `
+              <div class="analyst-pending-box foreign">
+                <strong>외국계 (분할 전 마지막 의견, 아직 미갱신)</strong>
+                <div style="margin-top:6px;">${foreignPendingText}</div>
+                <div class="analyst-foreign-note">외국계 5곳 평균 ${formatAnalystNumber(foreignAvg)}원으로, 국내 커버리지보다 크게 보수적이다.</div>
+              </div>
+            ` : ''}
+          </section>
+        `;
+      }
+
+      function renderFrameDistribution(data) {
+        if (!data.frameEntries.length) return '<div class="empty">데이터 없음</div>';
+        const max = Math.max(...data.frameEntries.map((d) => d.count), 1);
+        return `
+          <div class="stack-list">
+            ${data.frameEntries.map((entry) => `
+              <button class="frame-button ${state.frame === entry.frame ? 'active' : ''}" data-frame="${escapeHtml(entry.frame)}" type="button">
+                <div>
+                  <div class="row-label">${escapeHtml(entry.frame)}</div>
+                  <div class="stack-bar" style="margin-top:8px" title="${escapeHtml(entry.frame)} / ${entry.count}">
+                    <span class="stack-pos" style="width:${(entry.count / max) * 100}%"></span>
+                  </div>
+                </div>
+                <div class="count mono">${entry.count}</div>
+              </button>
+            `).join('')}
+          </div>
+        `;
+      }
+
+
+      function tableHead(key, label, sortKey, sortDir) {
+        const active = sortKey === key;
+        const caret = active ? (sortDir === 'asc' ? '▲' : '▼') : '';
+        return `<th class="sortable" data-sort-key="${escapeHtml(key)}">${escapeHtml(label)}<span class="caret">${caret}</span></th>`;
+      }
+
+      function pageNumbers(current, total) {
+        // 1 ... 4 5 [6] 7 8 ... 20 형태로 최대 7개 남짓만 노출한다.
+        if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1);
+        const out = [1];
+        const from = Math.max(2, current - 1);
+        const to = Math.min(total - 1, current + 1);
+        if (from > 2) out.push('...');
+        for (let p = from; p <= to; p += 1) out.push(p);
+        if (to < total - 1) out.push('...');
+        out.push(total);
+        return out;
+      }
+
+      function renderArticles(data) {
+        const filtered = sortArticles(data.articles.filter(matchesFilters));
+        const total = filtered.length;
+
+        // 필터가 바뀌면 1페이지로 되돌린다. 핸들러마다 넣는 대신 여기서 한 번에 감지한다.
+        const filterSig = [state.tone, state.group, state.frame, state.frameAxis, state.message, state.query, state.sortMode].join('\u0001');
+        if (state._lastFilterSig !== undefined && state._lastFilterSig !== filterSig) {
+          state.page = 1;
+        }
+        state._lastFilterSig = filterSig;
+
+        const pageSize = state.pageSize;
+        const totalPages = Math.max(1, Math.ceil(total / pageSize));
+        if (state.page > totalPages) state.page = totalPages;
+        if (state.page < 1) state.page = 1;
+        const startIdx = (state.page - 1) * pageSize;
+        const visible = filtered.slice(startIdx, startIdx + pageSize);
+        return `
+          <div class="article-toolbar">
+            <div class="filter-bar">
+              ${TONES.map((tone) => `
+                <button class="pill ${state.tone === tone ? 'active' : ''}" data-tone="${tone}" type="button">${tone}</button>
+              `).join('')}
+              <select id="group-filter" aria-label="매체그룹">
+                ${GROUPS.map((group) => `<option value="${escapeHtml(group)}"${state.group === group ? ' selected' : ''}>${escapeHtml(group)}</option>`).join('')}
+              </select>
+              <select id="frame-filter" aria-label="프레임태그">
+                ${FRAMES.map((frame) => `<option value="${escapeHtml(frame)}"${state.frame === frame ? ' selected' : ''}>${escapeHtml(frame)}</option>`).join('')}
+              </select>
+              <select id="frame-axis-filter" aria-label="프레임 축">
+                ${['전체', ...FRAME_AXIS_ORDER].map((frame) => `<option value="${escapeHtml(frame)}"${state.frameAxis === frame ? ' selected' : ''}>${escapeHtml(frame)}</option>`).join('')}
+              </select>
+              <input id="search-input" type="search" value="${escapeHtml(state.query)}" placeholder="제목 검색" aria-label="제목 검색">
+            </div>
+            <div class="toolbar-right">
+              <button class="toggle ${state.sortMode === 'latest' ? 'active' : ''}" data-sort-mode="latest" type="button">최신순</button>
+              <button class="toggle ${state.sortMode === 'tone' ? 'active' : ''}" data-sort-mode="tone" type="button">논조강도순</button>
+            </div>
+          </div>
+          <div class="article-grid">
+            ${visible.length ? visible.map((article) => renderArticleCard(article)).join('') : '<div class="empty">데이터 없음</div>'}
+          </div>
+          ${totalPages > 1 ? `
+            <nav class="pager" aria-label="기사 목록 페이지">
+              <button class="pager-btn" data-page="${state.page - 1}" type="button" ${state.page <= 1 ? 'disabled' : ''}>이전</button>
+              ${pageNumbers(state.page, totalPages).map((p) => p === '...'
+                ? '<span class="pager-gap">...</span>'
+                : `<button class="pager-btn ${p === state.page ? 'active' : ''}" data-page="${p}" type="button">${p}</button>`
+              ).join('')}
+              <button class="pager-btn" data-page="${state.page + 1}" type="button" ${state.page >= totalPages ? 'disabled' : ''}>다음</button>
+            </nav>
+          ` : ''}
+          <div class="subtle" style="margin-top:10px;">${total ? `${startIdx + 1}-${startIdx + visible.length}` : 0} / 총 ${total}건${totalPages > 1 ? ` (${state.page}/${totalPages} 페이지)` : ''}</div>
+        `;
+      }
+
+      function renderArticleCard(article) {
+        const tone = article.tone || '중립';
+        const frames = Array.isArray(article.frames) ? article.frames : [];
+        const posHits = Array.isArray(article.hits?.pos) ? article.hits.pos : [];
+        const negHits = Array.isArray(article.hits?.neg) ? article.hits.neg : [];
+        const signals = Array.isArray(article.signals) ? article.signals : [];
+        const frameAxis = FRAME_AXIS_ORDER.includes(article.frame) ? article.frame : '중립전달';
+        const newUntil = state.newUntil.get(article.id) || 0;
+        const isNew = newUntil > Date.now();
+        return `
+          <article class="article-card">
+            <div class="article-top">
+              <div style="min-width:0;">
+                <div class="tone-badge ${toneClass(tone)}">${escapeHtml(tone)}</div>
+                <h3 class="article-title" style="margin-top:10px;">
+                  <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="headline-link">${escapeHtml(article.title || '')}</a>
+                </h3>
+                <div class="article-meta mono">
+                  <span>${escapeHtml(article.outlet || '미상')}</span>
+                  <span>${escapeHtml(article.outletGroup || '기타')}</span>
+                  <span>${formatKstTime(article.publishedAt || article.firstSeenAt || '')}</span>
+                </div>
+              </div>
+              ${isNew ? `<span class="new-badge mono" data-expire="${newUntil}">NEW</span>` : ''}
+            </div>
+            <div class="article-body">
+              <div class="tag-list">
+                ${frames.length ? frames.map((frame) => `<button class="tag frame clickable" type="button" data-frame="${escapeHtml(frame)}">${escapeHtml(frame)}</button>`).join('') : '<span class="tag frame">기타</span>'}
+                <span class="frame-badge" style="${frameAxisStyle(frameAxis)}background:var(--frame-soft);color:var(--frame-color);border-color:var(--frame-color);">${escapeHtml(frameAxis)}</span>
+              </div>
+              <div class="tag-list">
+                ${posHits.length ? posHits.map((hit) => `<span class="tag pos">+ ${escapeHtml(hit)}</span>`).join('') : ''}
+                ${negHits.length ? negHits.map((hit) => `<span class="tag neg">- ${escapeHtml(hit)}</span>`).join('') : ''}
+              </div>
+              <div class="tag-list">
+                ${signals.map((signal) => `<span class="tag signal">${escapeHtml(signal)}</span>`).join('')}
+              </div>
+            </div>
+          </article>
+        `;
+      }
+
+      function renderHeader(data) {
+        const price = data.price || {};
+        const pctValue = Number(price.pct || 0);
+        const pctClass = pctValue < 0 ? 'blue-text' : pctValue > 0 ? 'red-text' : 'mid-text';
+        return `
+          <div class="header">
+            <section class="hero">
+              <div class="eyebrow">실시간 모니터링</div>
+              <h1 class="title">카카오 인적분할 언론보도 모니터링</h1>
+              <div class="subtitle">공시 2026-08-21 10:04 / 매매거래정지 10:03 -> 재개 10:44</div>
+            </section>
+            <aside class="header-side">
+              <div class="stat-card">
+                <div class="stat-label">주가</div>
+                <div class="price-value mono">${escapeHtml(price.price || '-')}</div>
+                <div class="price-pct mono ${pctClass}">${pctValue >= 0 ? '+' : ''}${Number.isFinite(pctValue) ? pctValue.toFixed(2) : '0.00'}%</div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-label">갱신 정보</div>
+                <div class="meta-stack">
+                  <div class="meta-line"><span>마지막 갱신</span><strong class="mono" id="last-refresh-label">${formatKstClock(state.lastRefreshAt)}</strong></div>
+                  <div class="meta-line"><span>다음 갱신</span><strong class="mono" id="refresh-countdown">60초</strong></div>
+                  <div class="meta-line"><span>누적 기사 수</span><strong class="mono">${data.articles.length}</strong></div>
+                </div>
+              </div>
+            </aside>
+          </div>
+        `;
+      }
+
+      function renderApp(data) {
+        const analytics = buildAnalytics(data);
+        state.data = analytics;
+        const html = `
+          ${renderHeader(analytics)}
+
+          <section class="section panel">
+            <div class="panel-head">
+              <div>
+                <h2 class="panel-title">논조 요약</h2>
+                <div class="panel-sub">긍정 / 중립 / 우려 비율과 전체 스택바</div>
+              </div>
+            </div>
+            ${renderToneSummary(analytics)}
+          </section>
+
+          <section class="section panel">
+            <div class="panel-head">
+              <div>
+                <h2 class="panel-title">시간대별 보도량</h2>
+                <div class="panel-sub">30분 단위 버킷, 공시 시각 마커 포함</div>
+              </div>
+            </div>
+            ${renderTimeline(analytics)}
+          </section>
+
+          <section class="section panel">
+            <div class="panel-head">
+              <div>
+                <h2 class="panel-title">매체 그룹별 논조</h2>
+                <div class="panel-sub">건수 많은 순</div>
+              </div>
+            </div>
+            ${renderGroupStack(analytics)}
+          </section>
+
+          <section class="section panel">
+            <div class="panel-head">
+              <div>
+                <h2 class="panel-title">프레임 (누구의 프레임으로 썼는가)</h2>
+                <div class="panel-sub">회사 보도자료 프레임을 실었는지, 비판 프레임을 세웠는지</div>
+              </div>
+            </div>
+            ${renderFrameAxisSection(analytics)}
+          </section>
+
+          ${renderAnalystReactionSection()}
+
+          <section class="section panel">
+            <div class="panel-head">
+              <div>
+                <h2 class="panel-title">프레임 분포</h2>
+                <div class="panel-sub">클릭하면 기사 목록이 해당 프레임으로 필터링됩니다</div>
+              </div>
+            </div>
+            ${renderFrameDistribution(analytics)}
+          </section>
+
+          <section class="section panel">
+            <div class="panel-head">
+              <div>
+                <h2 class="panel-title">기사 목록</h2>
+                <div class="panel-sub">기본 100건 표시, 더 보기로 100건씩 확장</div>
+              </div>
+            </div>
+            ${renderArticles(analytics)}
+          </section>
+        `;
+        els.app.innerHTML = html;
+        bindEvents();
+        updateDynamicLabels();
+        updateNewBadges();
+      }
+
+      function bindEvents() {
+        document.querySelectorAll('[data-tone]').forEach((btn) => {
+          btn.addEventListener('click', () => {
+            state.tone = btn.getAttribute('data-tone');
+            renderFromCurrent();
+          });
+        });
+
+        document.querySelectorAll('[data-sort-mode]').forEach((btn) => {
+          btn.addEventListener('click', () => {
+            state.sortMode = btn.getAttribute('data-sort-mode');
+            renderFromCurrent();
+          });
+        });
+
+        document.querySelectorAll('[data-frame]').forEach((el) => {
+          el.addEventListener('click', () => {
+            const value = el.getAttribute('data-frame');
+            state.frame = state.frame === value ? '전체' : value;
+            renderFromCurrent();
+          });
+        });
+
+        document.querySelectorAll('[data-frame-axis]').forEach((el) => {
+          el.addEventListener('click', () => {
+            const value = el.getAttribute('data-frame-axis');
+            state.frameAxis = state.frameAxis === value ? '전체' : value;
+            renderFromCurrent();
+          });
+        });
+
+        document.querySelectorAll('[data-message]').forEach((el) => {
+          el.addEventListener('click', () => {
+            const value = el.getAttribute('data-message');
+            state.message = state.message === value ? '전체' : value;
+            renderFromCurrent();
+          });
+        });
+
+        document.querySelectorAll('.pager-btn[data-page]').forEach((btn) => {
+          btn.addEventListener('click', () => {
+            if (btn.disabled) return;
+            const p = Number(btn.getAttribute('data-page'));
+            if (!Number.isFinite(p) || p === state.page) return;
+            state.page = p;
+            renderFromCurrent(false);
+            const list = document.querySelector('.article-grid');
+            if (list) list.scrollIntoView({ block: 'start' });
+          });
+        });
+
+
+
+        const groupFilter = document.getElementById('group-filter');
+        if (groupFilter) {
+          groupFilter.addEventListener('change', (e) => {
+            state.group = e.target.value;
+            renderFromCurrent();
+          });
+        }
+
+        const frameFilter = document.getElementById('frame-filter');
+        if (frameFilter) {
+          frameFilter.addEventListener('change', (e) => {
+            state.frame = e.target.value;
+            renderFromCurrent();
+          });
+        }
+
+        const frameAxisFilter = document.getElementById('frame-axis-filter');
+        if (frameAxisFilter) {
+          frameAxisFilter.addEventListener('change', (e) => {
+            state.frameAxis = e.target.value;
+            renderFromCurrent();
+          });
+        }
+
+        const searchInput = document.getElementById('search-input');
+        if (searchInput) {
+          searchInput.addEventListener('input', (e) => {
+            state.query = normalizeText(e.target.value);
+            renderFromCurrent();
+          });
+        }
+      }
+
+      function renderFromCurrent(scrollRestore = true) {
+        const scrollX = window.scrollX;
+        const scrollY = window.scrollY;
+        const active = document.activeElement;
+        const activeId = active && active.id ? active.id : '';
+        const activeSelection = active && typeof active.selectionStart === 'number'
+          ? { start: active.selectionStart, end: active.selectionEnd }
+          : null;
+        const focusedValue = active && 'value' in active ? active.value : null;
+        const data = getCurrentData();
+        if (!data) return;
+        renderApp(data);
+        if (scrollRestore) {
+          window.scrollTo(scrollX, scrollY);
+        }
+        if (activeId === 'search-input') {
+          const input = document.getElementById('search-input');
+          if (input) {
+            input.focus({ preventScroll: true });
+            if (activeSelection) {
+              try {
+                input.setSelectionRange(activeSelection.start, activeSelection.end);
+              } catch (err) {}
+            } else if (focusedValue != null) {
+              input.value = focusedValue;
+            }
+          }
+        }
+      }
+
+      function updateDynamicLabels() {
+        const refreshLabel = document.getElementById('last-refresh-label');
+        if (refreshLabel) {
+          refreshLabel.textContent = formatKstClock(state.lastRefreshAt);
+        }
+        const countdownLabel = document.getElementById('refresh-countdown');
+        if (countdownLabel) {
+          const remaining = Math.max(0, Math.ceil((state.nextRefreshAt - Date.now()) / 1000));
+          countdownLabel.textContent = `${remaining}초`;
+        }
+      }
+
+      function updateNewBadges() {
+        const now = Date.now();
+        document.querySelectorAll('.new-badge[data-expire]').forEach((el) => {
+          const expire = Number(el.getAttribute('data-expire') || 0);
+          if (!expire || expire <= now) {
+            el.classList.add('hidden');
+          } else {
+            el.classList.remove('hidden');
+          }
+        });
+      }
+
+      function refreshData() {
+        const existing = document.getElementById('kmw-data-script');
+        if (existing) existing.remove();
+        const script = document.createElement('script');
+        script.id = 'kmw-data-script';
+        script.src = `data/articles.js?t=${Date.now()}`;
+        script.onload = () => {
+          const data = getCurrentData();
+          if (!data) return;
+          const currentIds = new Set((data.articles || []).map((item) => item.id));
+          const now = Date.now();
+          const nextNewUntil = new Map();
+          for (const item of data.articles || []) {
+            const prevSeen = state.previousIds.has(item.id);
+            const priorExpire = state.newUntil.get(item.id) || 0;
+            if (!prevSeen) {
+              nextNewUntil.set(item.id, now + NEW_MS);
+            } else if (priorExpire > now) {
+              nextNewUntil.set(item.id, priorExpire);
+            }
+          }
+          state.previousIds = currentIds;
+          state.newUntil = nextNewUntil;
+          state.lastRefreshAt = Date.now();
+          state.nextRefreshAt = state.lastRefreshAt + REFRESH_MS;
+          renderFromCurrent();
+        };
+        script.onerror = () => {
+          state.nextRefreshAt = Date.now() + REFRESH_MS;
+        };
+        document.body.appendChild(script);
+      }
+
+      function initialize() {
+        const data = getCurrentData();
+        if (!data) {
+          els.app.innerHTML = '<div class="panel"><div class="empty">데이터 없음</div></div>';
+          return;
+        }
+        state.previousIds = new Set((data.articles || []).map((item) => item.id));
+        state.newUntil = new Map();
+        state.lastRefreshAt = Date.now();
+        state.nextRefreshAt = state.lastRefreshAt + REFRESH_MS;
+        renderApp(data);
+      }
+
+      function heartbeat() {
+        updateDynamicLabels();
+        updateNewBadges();
+        if (Date.now() >= state.nextRefreshAt) {
+          state.nextRefreshAt = Date.now() + REFRESH_MS;
+          refreshData();
+        }
+      }
+
+      initialize();
+      setInterval(heartbeat, 1000);
+    })();
+  </script>
+</body>
+</html>
