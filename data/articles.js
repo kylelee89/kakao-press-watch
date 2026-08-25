@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T13:50:07+09:00",
- "runCount": 484,
+ "generatedAt": "2026-08-25T14:00:30+09:00",
+ "runCount": 485,
  "price": {
-  "price": "36,100",
-  "pct": "+0.84",
-  "at": "2026-08-25T13:50:08+09:00"
+  "price": "36,250",
+  "pct": "+1.26",
+  "at": "2026-08-25T14:00:31+09:00"
  },
  "articles": [
   {
@@ -17029,6 +17029,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T13:50:07+09:00"
+  },
+  {
+   "id": "1f900f66f492fd88",
+   "title": "[팩플] 전 CTO부터 국세청장까지… 베일 벗은 카카오AI 초대 이사진",
+   "outlet": "중앙일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80a2VkYzRRX2ZtNWd1VlhlN09BWFNLbl9PR3FXUGNuaXZVNjZKV0x0Zk1WNGlsSU9PQll0cWJjaDZiT2p4U0VNbjk0b0k3V1ZPWUx2QnJn?oc=5",
+   "publishedAt": "2026-08-25T13:54:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T14:00:30+09:00"
   }
  ]
 };
