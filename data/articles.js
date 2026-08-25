@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T14:00:30+09:00",
- "runCount": 485,
+ "generatedAt": "2026-08-25T14:10:54+09:00",
+ "runCount": 486,
  "price": {
-  "price": "36,250",
-  "pct": "+1.26",
-  "at": "2026-08-25T14:00:31+09:00"
+  "price": "36,150",
+  "pct": "+0.98",
+  "at": "2026-08-25T14:10:55+09:00"
  },
  "articles": [
   {
@@ -17050,6 +17050,35 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T14:00:30+09:00"
+  },
+  {
+   "id": "6acef52881b789c1",
+   "title": "카카오, 둘로 쪼갠다고 몸값 뛸까…주주는 반발·증권가는 ‘조건부 기대’",
+   "outlet": "에너지경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5LTQ3R3JWdDZyb1ROVjhzTFIxcXhiQ3NqX1l2OWRiSGVBeGZkY3ZHS1l2bkg0VWxkRm95Q1hvRG9KMFBOSnI5c2tMd1F4NnhFSVRUU1NnNVZMTGZhRHZrakZB?oc=5",
+   "publishedAt": "2026-08-25T14:08:16+09:00",
+   "tone": "중립",
+   "toneScore": -0.4,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:반발",
+    "호재어:기대",
+    "전언감쇠:증권가"
+   ],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T14:10:54+09:00"
   }
  ]
 };
