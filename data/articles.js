@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T00:30:06+09:00",
- "runCount": 544,
+ "generatedAt": "2026-08-26T00:40:22+09:00",
+ "runCount": 545,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-26T00:30:06+09:00"
+  "at": "2026-08-26T00:40:22+09:00"
  },
  "articles": [
   {
@@ -18137,6 +18137,35 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T00:09:35+09:00"
+  },
+  {
+   "id": "f84fef3f9db2a74e",
+   "title": "\"쪼개기 상장 못하니 회사 둘로 나누나\" 카카오 주주들 '인적 분할'에 거센 비판",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HQnN5YjhYVV82ZmdYdk1JZVcwdHpoYnNNbFJ6NXhsazZiWEFGOGRXcUVWQUNIZW1Leko0anFKcGE1ZTZyUnB1amhkR1lQLW8wbEktZzFTT1otSURsLTVyZTVtdGZocjItSEMyZS1HNWhadXgwSXNtTQ?oc=5",
+   "publishedAt": "2026-08-26T00:35:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:쪼개기 상장 못하니 회사 둘로 나누나"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "쪼개기 상장 못하니 회사 둘로 나누나"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T00:40:22+09:00"
   }
  ]
 };
