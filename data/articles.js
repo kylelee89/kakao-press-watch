@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T19:45:58+09:00",
- "runCount": 517,
+ "generatedAt": "2026-08-25T19:56:18+09:00",
+ "runCount": 518,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T19:45:58+09:00"
+  "at": "2026-08-25T19:56:18+09:00"
  },
  "articles": [
   {
@@ -17950,6 +17950,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T19:45:58+09:00"
+  },
+  {
+   "id": "2b3da280c48051b2",
+   "title": "[어바웃 C] 영입 1년여 만에…김도영, 카카오 리빌딩 핵심으로 부상",
+   "outlet": "블로터",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVmhOeEZyNE55Ujhaa0dCV2Frc29KTlMzajVvQTRka2Zld0xucFl3RFpsTjduY2pjbmllMTA0TEc3elVVcVhHcFV0SGtfYzZkYm8ycHRUcktCSTFFRTZsV1JEcFJ3ZWdsWVUwUdIBbEFVX3lxTE1zVmhOeEZyNE55Ujhaa0dCV2Frc29KTlMzajVvQTRka2Zld0xucFl3RFpsTjduY2pjbmllMTA0TEc3elVVcVhHcFV0SGtfYzZkYm8ycHRUcktCSTFFRTZsV1JEcFJ3ZWdsWVUwUQ?oc=5",
+   "publishedAt": "2026-08-25T17:37:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T19:56:18+09:00"
   }
  ]
 };
