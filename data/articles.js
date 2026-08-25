@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T12:15:54+09:00",
- "runCount": 474,
+ "generatedAt": "2026-08-25T12:26:11+09:00",
+ "runCount": 475,
  "price": {
-  "price": "35,775",
-  "pct": "-0.07",
-  "at": "2026-08-25T12:15:54+09:00"
+  "price": "35,850",
+  "pct": "+0.14",
+  "at": "2026-08-25T12:26:12+09:00"
  },
  "articles": [
   {
@@ -16823,6 +16823,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T12:05:39+09:00"
+  },
+  {
+   "id": "879562654033dcd1",
+   "title": "카카오페이, 카카오X 스테이블코인 중심축 부상 … 김도영 \"압도적 1위 가능\" | 프린트 | BIZ 뉴데일리",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jSDJJTUdCVkxvcWI1RXFMNzRuOHRHQ0hxd0VDZnZRVlllZFRWa3ZoOXkxcjV4anJGVC1NSmhSendHdEVSdFlRS2RMUjg5Zy1iYlhjOWtYM1k1VHVzSkhkVnAzNHg0STFUem5XLWM2N3JGcmUt?oc=5",
+   "publishedAt": "2026-08-25T10:48:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T12:26:11+09:00"
   }
  ]
 };
