@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T15:58:35+09:00",
- "runCount": 496,
+ "generatedAt": "2026-08-25T16:09:01+09:00",
+ "runCount": 497,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T15:58:36+09:00"
+  "at": "2026-08-25T16:09:02+09:00"
  },
  "articles": [
   {
@@ -17420,6 +17420,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T15:58:35+09:00"
+  },
+  {
+   "id": "8f9d700e06c509b8",
+   "title": "카카오뱅크 노조, 31일부터 닷새 총파업 예고",
+   "outlet": "부산일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsQjNkSUtpcWMzSUk5eXhUN2w2aGc0WWJQYU5tdXFic0FEenhSU0Ftbi1xVHlMT2xJWlZOcjNKd3A2Q2RuTHdwNnVzeTFUbUFoYTNSVXNlRjNFM01zSl8wUzR3N0FQVEYyZjNxeFNIV1BSaU5R?oc=5",
+   "publishedAt": "2026-08-25T15:24:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T16:09:01+09:00"
   }
  ]
 };
