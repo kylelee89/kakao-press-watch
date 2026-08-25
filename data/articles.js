@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T13:07:36+09:00",
- "runCount": 479,
+ "generatedAt": "2026-08-25T13:19:02+09:00",
+ "runCount": 480,
  "price": {
-  "price": "36,025",
-  "pct": "+0.63",
-  "at": "2026-08-25T13:07:40+09:00"
+  "price": "36,150",
+  "pct": "+0.98",
+  "at": "2026-08-25T13:19:03+09:00"
  },
  "articles": [
   {
@@ -16867,6 +16867,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T12:46:46+09:00"
+  },
+  {
+   "id": "db7462fdc7e11327",
+   "title": "카카오AI 초대 이사회에 임혜숙 전 장관·김대지 전 국세청장 등",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kN1hQc09PRU5nYU1zS3E0M09hZS00QmhjUHlZeURERjdPYVE0bmd1TkVacGtURFIyNENBVEJkcTRwZ0hNa0g1cUE2VVAzSm9LMmh4eHhsQkpYMTY0c3pMVTZTLXg?oc=5",
+   "publishedAt": "2026-08-25T12:58:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T13:19:02+09:00"
   }
  ]
 };
