@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T08:22:05+09:00",
- "runCount": 589,
+ "generatedAt": "2026-08-26T08:32:22+09:00",
+ "runCount": 590,
  "price": {
   "price": "36,050",
   "pct": "+0.00",
-  "at": "2026-08-26T08:22:06+09:00"
+  "at": "2026-08-26T08:32:22+09:00"
  },
  "articles": [
   {
@@ -18398,6 +18398,58 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T08:22:05+09:00"
+  },
+  {
+   "id": "c0ce3807d06f839e",
+   "title": "카카오 쪼개기에 주가 '뚝'…증권가에 신중론 번지는 이유 [종목+]",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wUUJ5SXpVSjNUekJldlhmMWtadEltakRpVzVLcjNzWGxuT1V6bUI2U3c0NUlPam1CTTVCb0xQc194MHoxVVlpSXE4OVFLRjNlOW9F?oc=5",
+   "publishedAt": "2026-08-26T08:21:00+09:00",
+   "tone": "우려",
+   "toneScore": -5.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "등락:뚝",
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝",
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T08:32:22+09:00"
+  },
+  {
+   "id": "06d8c913e0e2a2e0",
+   "title": "카카오 인적분할, 노조 닷새 만 '전면전'…5일 총파업 예고 : 경제",
+   "outlet": "재경일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vcjdjbkFZVWJfSkUtZUhCRWJLSG1HZnJNYWN1X00wOFRLQUM0UnpoR2M4dHhXd1lTVU5Kb1FSdFZiMHkxM2V1TVZB?oc=5",
+   "publishedAt": "2026-08-26T08:17:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T08:32:22+09:00"
   }
  ]
 };
