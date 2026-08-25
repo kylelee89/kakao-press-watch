@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T15:25:39+09:00",
- "runCount": 493,
+ "generatedAt": "2026-08-25T15:35:59+09:00",
+ "runCount": 494,
  "price": {
-  "price": "35,950",
-  "pct": "+0.42",
-  "at": "2026-08-25T15:25:40+09:00"
+  "price": "36,050",
+  "pct": "+0.70",
+  "at": "2026-08-25T15:36:00+09:00"
  },
  "articles": [
   {
@@ -17310,6 +17310,53 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T15:25:39+09:00"
+  },
+  {
+   "id": "d14c9635cf28a357",
+   "title": "[카카오 지배구조 개편] 자회사 부담 떼고…'순수 AI'로 몸값 올린다",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vekhYOVVBeF8zQkNiNnZiODBFVnFCUmZ4S3h2cFMtSDFlMW1IUDJqRWdXNTFkcFFOQzhGeVlQN1lXNExZZV9hUGhKWUMzQ1VrN0JN?oc=5",
+   "publishedAt": "2026-08-25T15:23:08+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:부담"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "부담"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T15:35:59+09:00"
+  },
+  {
+   "id": "521fd6db9892b06a",
+   "title": "카카오AI 첫 이사회에 임혜숙 전 과기부 장관·김대지 전 국세청장 합류",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mXzlqZnBjTEIxa20zX3M5bGNqZ1VLei1WU0E1ZVNsYklyeTE0cFdYWVFudU0zajE5anZueG1FWEVhdm9Oc0tyMUZWd19Rb00ybXZEQVVxdGlXYnVXMTNwWDNkWlg5emU0cWMxSmtjVm5EQ01Dc2JtMw?oc=5",
+   "publishedAt": "2026-08-25T15:24:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T15:35:59+09:00"
   }
  ]
 };
