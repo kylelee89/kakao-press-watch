@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T11:24:36+09:00",
- "runCount": 469,
+ "generatedAt": "2026-08-25T11:34:52+09:00",
+ "runCount": 470,
  "price": {
-  "price": "35,400",
-  "pct": "-1.12",
-  "at": "2026-08-25T11:24:37+09:00"
+  "price": "35,550",
+  "pct": "-0.70",
+  "at": "2026-08-25T11:34:52+09:00"
  },
  "articles": [
   {
@@ -16622,6 +16622,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T11:24:36+09:00"
+  },
+  {
+   "id": "1a5f922a8f85504e",
+   "title": "카뱅 노조 닷새연속 전면파업 예고…카카오지회 \"인적분할 반대\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IeC1vYXV5R2JjUXAyekk0S3I5UjQ5aGF2SXVQamVlMW1GY3BNZE9hWFBJRlllMzNueVpia2pSc0k2VnFLRXdFM2o3QXdoSWUzOUI4?oc=5",
+   "publishedAt": "2026-08-25T11:22:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T11:34:52+09:00"
   }
  ]
 };
