@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T15:15:16+09:00",
- "runCount": 492,
+ "generatedAt": "2026-08-25T15:25:39+09:00",
+ "runCount": 493,
  "price": {
   "price": "35,950",
   "pct": "+0.42",
-  "at": "2026-08-25T15:15:17+09:00"
+  "at": "2026-08-25T15:25:40+09:00"
  },
  "articles": [
   {
@@ -17238,6 +17238,78 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T15:15:16+09:00"
+  },
+  {
+   "id": "9e99ef6485e893ca",
+   "title": "카카오뱅크 노조, 닷새간 전면파업 예고…카카오 인적분할도 반대",
+   "outlet": "이지경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTSnNsUWNrajk2eFVaNzdNM0xLVlQta1RaWTAzMFI5MzllQW5tRXVYS2RTbTdtcmh6OGltbUZ6OXBZTFh1NTlqMWlacVBnZFpyLXh0QmVFNXAtYzd0Wm96RTg0bVRfOE5oVXhXU3J3?oc=5",
+   "publishedAt": "2026-08-25T15:08:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T15:25:39+09:00"
+  },
+  {
+   "id": "00ff2d7dc9d6ac25",
+   "title": "\"배당수익 주주환원\" 카카오X, 페이·엔터·모빌리티 결손 '과제'",
+   "outlet": "톱데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44Zy1RTzZRbEtsZXgwWl9kR0d2WktGLTJBZ1JsQmFraW9yc2VMWUpYLXVaZ2xFUXRyR2VyRDVwUlF6TWdPUThjT0ZsUnlNc2dL?oc=5",
+   "publishedAt": "2026-08-25T15:15:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:과제"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T15:25:39+09:00"
+  },
+  {
+   "id": "8c3b5d2ab7ded514",
+   "title": "카카오AI 이사회 구성 윤곽…김대지 전 국세청장, 독립이사로 참여",
+   "outlet": "한국세정신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90cVZDOG9FNGU2Z1Y4M3V1QkttNEFXcGxoMmRpUWJBNkdFUndMeGZzZTNKZVNKdkpaY3pORzE0ZXBnMk9BQklZSmVfZkNvcTdXS3Z4YzNzZzlhczQxdGN3ekJFdGM?oc=5",
+   "publishedAt": "2026-08-25T15:13:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T15:25:39+09:00"
   }
  ]
 };
