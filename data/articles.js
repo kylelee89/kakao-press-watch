@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T14:44:06+09:00",
- "runCount": 489,
+ "generatedAt": "2026-08-25T14:54:27+09:00",
+ "runCount": 490,
  "price": {
-  "price": "35,975",
-  "pct": "+0.49",
-  "at": "2026-08-25T14:44:07+09:00"
+  "price": "35,925",
+  "pct": "+0.35",
+  "at": "2026-08-25T14:54:28+09:00"
  },
  "articles": [
   {
@@ -17148,6 +17148,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T14:21:18+09:00"
+  },
+  {
+   "id": "aec06a2507420c2b",
+   "title": "카카오AI 이사회 윤곽… 오승필·임혜숙·김대지 독립이사로",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxOEp5eWhHbUpuMzB0QW1meENkRFhKdzhnVFRwYlJpY0VoS2dLNlZJV0JjY3ZQZVprN3VjVzlRcnY5eXowWWd3RnlIdW9xQl93eVBYQUVLQmpjamhlTXdSRkVjTDlvaGxKVkFwcDNtQznSAXRBVV95cUxQY005bms0d0RmbVZKeWxHdGxSRGhHQ3c5MW1JOUxJWUxCWXMzdTA3Um1KamtqWE5zSmtlMDNTVXdQcERvOFZ1Y2dSczlmTDVJaFNkbnpPbXBhSngxQjVvZkk3RXZqNEwxRHlwVktoR3FkaHQtNQ?oc=5",
+   "publishedAt": "2026-08-25T14:10:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T14:54:27+09:00"
   }
  ]
 };
