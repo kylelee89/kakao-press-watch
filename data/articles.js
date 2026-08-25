@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T11:34:52+09:00",
- "runCount": 470,
+ "generatedAt": "2026-08-25T11:45:09+09:00",
+ "runCount": 471,
  "price": {
-  "price": "35,550",
-  "pct": "-0.70",
-  "at": "2026-08-25T11:34:52+09:00"
+  "price": "35,650",
+  "pct": "-0.42",
+  "at": "2026-08-25T11:45:09+09:00"
  },
  "articles": [
   {
@@ -16645,6 +16645,111 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T11:34:52+09:00"
+  },
+  {
+   "id": "726186cd7005c0c4",
+   "title": "신영증권 \"카카오 인적분할 명분 분명…생각보다 리스크 크지 않아\"",
+   "outlet": "한국면세뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRXFOZHpZNFRnWG9CbFBJLVFvTWt4UkxCMWVlTTNHQTFLYnhnUmtpSzZyQ3d5dFhnRnk3M19ucWYxX18wcEhVN25FeVNVbGhJeVRYdE9ZelFoVDVaWnI2ejVJam45QW9QM0E?oc=5",
+   "publishedAt": "2026-08-25T11:38:36+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T11:45:09+09:00"
+  },
+  {
+   "id": "c12b6476819c8a54",
+   "title": "카카오 쪼갰더니 주가 급락…증권가가 본 '진짜 포인트'는 따로 있었다",
+   "outlet": "ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnaW05U3RGUmJ5YmY0cmQwRW9FclVVbXM4VmhvZFE5OUVpMHZxUFFBcDNfVVhNeTV4bWtzVEpDUmFrTHg1SG04RkRsWllwWW9tS2VNdHA3VWo0bWszdDNMaVBPQjlXRk5O?oc=5",
+   "publishedAt": "2026-08-25T11:07:40+09:00",
+   "tone": "중립",
+   "toneScore": -1.6,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:급락",
+    "전언감쇠:증권가"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "급락"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T11:45:09+09:00"
+  },
+  {
+   "id": "2ec945afcc17a7ea",
+   "title": "카카오 노조, 내일 '인적분할 반대' 선포식…\"경영실패 책임져야\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSmllTEZGZXU4OHQtUXM1WW9pcHhfSTh4bFdMWVRualoybThxSWZXRDR4M016UTVwMVpfdjEwTE5zWmxxN09VNnpvWWVoZlQ4U3lQTDI4LUdfWXlqdk9EbQ?oc=5",
+   "publishedAt": "2026-08-25T11:38:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T11:45:09+09:00"
+  },
+  {
+   "id": "bd305f9aface69ac",
+   "title": "카카오 인적분할 추진에 목표주가 하향, 지주사 할인 우려 부각",
+   "outlet": "Traders Union",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkI3TnkxUVlTdGg4M0NiNnVDcGhiNFdOZmd4UWxGVnk5SzMyV1pYdU1lNWF4MFNpZzFDSDFYTHZXQnJxOUYwVV9uOXdiMURRTEVxRzlqckNyVl9JUndrOFIwcXZWZVk1RV9iYmVDeEtYUlp0RFNWNnJXcmlibW43MGJOUGdTdl82M2RSQlZULXJPSklwQy1BY25SSWxWMTA?oc=5",
+   "publishedAt": "2026-08-24T08:51:22+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T11:45:09+09:00"
   }
  ]
 };
