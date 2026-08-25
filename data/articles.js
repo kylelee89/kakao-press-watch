@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T18:10:52+09:00",
- "runCount": 508,
+ "generatedAt": "2026-08-25T18:21:17+09:00",
+ "runCount": 509,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T18:10:53+09:00"
+  "at": "2026-08-25T18:21:18+09:00"
  },
  "articles": [
   {
@@ -17862,6 +17862,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T17:59:29+09:00"
+  },
+  {
+   "id": "91d588e447a3c7e8",
+   "title": "카카오AI 이사회에 오승필 전 KT CTO·임혜숙 전 장관 등 합류",
+   "outlet": "지디넷코리아",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoWVFKc3dubWxkdlNkRERYUDVxQjFSbnR4emMzMU13N0xMMmh5V3UyMThrRURjWmQtb0FITnRkRS14VGFNTkdHU0F4ZmNKNVN5VTYxMG93?oc=5",
+   "publishedAt": "2026-08-25T18:14:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T18:21:17+09:00"
   }
  ]
 };
