@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T15:04:52+09:00",
- "runCount": 491,
+ "generatedAt": "2026-08-25T15:15:16+09:00",
+ "runCount": 492,
  "price": {
   "price": "35,950",
   "pct": "+0.42",
-  "at": "2026-08-25T15:04:53+09:00"
+  "at": "2026-08-25T15:15:17+09:00"
  },
  "articles": [
   {
@@ -17190,6 +17190,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T15:04:52+09:00"
+  },
+  {
+   "id": "365c62f718769a06",
+   "title": "쪼개기 상장 금지했더니 인적 분할… 카카오 분사에 주주들 격앙",
+   "outlet": "조선일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHFCem4yOEpjWGlqYlNrU01EcWtZTHlkemhERzluV2FwdzJmV0NDNFRKUmJOeHBFd3lEa2UxN2hMUllyM3EtVmRQaFZ0SWtvaGd3SF9kY0xTUFA5dGxITkstbkFFaHFCdUtpZnd2bmp3UnlGWVItTG0zYkM1SnQ5V19FQQ?oc=5",
+   "publishedAt": "2026-08-25T15:01:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T15:15:16+09:00"
+  },
+  {
+   "id": "dda044e2b600929e",
+   "title": "임혜숙 전 장관·김대지 전 국세청장 등 카카오AI 사외이사로 합류",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IcmVuczFNMUU3NDlEWWppa1k4Unhscy15OEdNUkxBYXRjbDZoc1lKQjlKYkw2ZDdlN2pnS3NzUkpNRkFSenhRdzlHS0gwQ1RZa2FtOGJKaG0zUDhyQmlvQXNNaHpmSS1BOXNnMmp0V1JhN1VBV0ZFaQ?oc=5",
+   "publishedAt": "2026-08-25T15:05:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T15:15:16+09:00"
   }
  ]
 };
