@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T16:30:42+09:00",
- "runCount": 499,
+ "generatedAt": "2026-08-25T16:41:04+09:00",
+ "runCount": 500,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T16:30:43+09:00"
+  "at": "2026-08-25T16:41:04+09:00"
  },
  "articles": [
   {
@@ -17531,6 +17531,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T16:30:42+09:00"
+  },
+  {
+   "id": "fcc145b6ced5dd4f",
+   "title": "카카오AI 초대 이사회 윤곽…전 과기정통부 장관·국세청장·KT CTO 등 합류",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wLTFzRmVyRmVhdmNpSTZzNnVTbWVqdzVYTkx3V3NobEJqaklxM0FmQnNudFdEc1k5Q0tBeDJZblRVeUYzanJGQTd0UkpyMHExUVhZ?oc=5",
+   "publishedAt": "2026-08-25T16:39:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T16:41:04+09:00"
   }
  ]
 };
