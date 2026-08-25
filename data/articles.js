@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T16:19:22+09:00",
- "runCount": 498,
+ "generatedAt": "2026-08-25T16:30:42+09:00",
+ "runCount": 499,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T16:19:22+09:00"
+  "at": "2026-08-25T16:30:43+09:00"
  },
  "articles": [
   {
@@ -17510,6 +17510,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T16:19:22+09:00"
+  },
+  {
+   "id": "6a25fce52c916a8c",
+   "title": "카카오AI 초대 이사회에 '정책·AI·재무' 전문가 포진…카카오톡 AI 승부 본격화",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VUEdTVjkwNFFTWWh2Y2UzV3N5dEVMVVpUQ3lBM2otMXVpR3JCcV9JblY2Y1dkS0dKTUNBeFNrNDFLanpURmRhNmNfS3JIckZiTUJGUG5ERlZrcnJCYkZoa09QdU5KT1VPX0xTT04tUjRFRXo5QnBqbg?oc=5",
+   "publishedAt": "2026-08-25T16:18:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T16:30:42+09:00"
   }
  ]
 };
