@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T14:54:27+09:00",
- "runCount": 490,
+ "generatedAt": "2026-08-25T15:04:52+09:00",
+ "runCount": 491,
  "price": {
-  "price": "35,925",
-  "pct": "+0.35",
-  "at": "2026-08-25T14:54:28+09:00"
+  "price": "35,950",
+  "pct": "+0.42",
+  "at": "2026-08-25T15:04:53+09:00"
  },
  "articles": [
   {
@@ -17169,6 +17169,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T14:54:27+09:00"
+  },
+  {
+   "id": "ff636f6f4edd9b33",
+   "title": "카카오AI 첫 이사회에 임혜숙 전 과기정통부 장관 합류",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sUXUydkFxRE45cTNwX0FvSGlySTU2VTh3S0NZVnRzeklVN0FzN0dBMkN2RmdmaGRQUXg1NlNrYlhGOElMdGlkMnRVVUowcXBLZkpJ?oc=5",
+   "publishedAt": "2026-08-25T14:55:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T15:04:52+09:00"
   }
  ]
 };
