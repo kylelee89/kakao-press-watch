@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T19:34:44+09:00",
- "runCount": 516,
+ "generatedAt": "2026-08-25T19:45:58+09:00",
+ "runCount": 517,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T19:34:45+09:00"
+  "at": "2026-08-25T19:45:58+09:00"
  },
  "articles": [
   {
@@ -17925,6 +17925,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T19:03:43+09:00"
+  },
+  {
+   "id": "ab92cfab79f61ec8",
+   "title": "신영증권 \"카카오 분할, 카톡 의존 벗어날 기회\"",
+   "outlet": "tokenpost.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFZnRmJwck83U0tZa1ZxNThRakVRZVNidkZLaEdQbVRla01BSjg0TW5oTjdnVExhZDVsRHp2ZTZsNnRYYTQ4ZGR5UV9JR3daeWRyRmNkMXhhOWfSAVtBVV95cUxQRVRWZ0ZicHJPN1NLWWtWcTU4UWpFUWVTYnZGS2hHUG1UZWtNQUo4NE1uaE43Z1RMYWQ1bER6dmU2bDZ0WGE0OGRkeVFfSUd3WnlkckZjZDF4YTln?oc=5",
+   "publishedAt": "2026-08-25T10:49:44+09:00",
+   "tone": "중립",
+   "toneScore": 1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기회"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "기회"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T19:45:58+09:00"
   }
  ]
 };
