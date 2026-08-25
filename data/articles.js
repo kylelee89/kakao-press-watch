@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T15:35:59+09:00",
- "runCount": 494,
+ "generatedAt": "2026-08-25T15:47:18+09:00",
+ "runCount": 495,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T15:36:00+09:00"
+  "at": "2026-08-25T15:47:18+09:00"
  },
  "articles": [
   {
@@ -17357,6 +17357,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T15:35:59+09:00"
+  },
+  {
+   "id": "913afb222715140a",
+   "title": "카카오뱅크 노조, “경영 실패도 분할 못 한다”…다음 주 닷새 연속 총파업 예고",
+   "outlet": "뉴스로드",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91cnR2OFh2LW5Tbkh0MlNxYWR0NFlhSktvd2lqLWtNMENpdFE2NkVDbmtRRHF1VExna0cxdldRVVAxWHpRQ0RtQVduc3plWVJZN0lmSXVLTlFOYVVTdThHdjdpNVNENVpncmo4c3RLd9IBb0FVX3lxTE91cnR2OFh2LW5Tbkh0MlNxYWR0NFlhSktvd2lqLWtNMENpdFE2NkVDbmtRRHF1VExna0cxdldRVVAxWHpRQ0RtQVduc3plWVJZN0lmSXVLTlFOYVVTdThHdjdpNVNENVpncmo4c3RLdw?oc=5",
+   "publishedAt": "2026-08-25T14:10:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T15:47:18+09:00"
   }
  ]
 };
