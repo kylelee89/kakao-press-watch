@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T17:15:02+09:00",
- "runCount": 503,
+ "generatedAt": "2026-08-25T17:25:25+09:00",
+ "runCount": 504,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T17:15:03+09:00"
+  "at": "2026-08-25T17:25:26+09:00"
  },
  "articles": [
   {
@@ -17669,6 +17669,50 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-25T17:15:02+09:00"
+  },
+  {
+   "id": "920bb4cc5f953876",
+   "title": "카카오 노조, 인적분할 반대…내일 공동교섭 요구",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WNU4xZ3pYWVFpZTdObGR6ZWhQdkNraU84SFJIc0laWFBrTVpuTlRHNE9lS3g0TTJkWE9Lb2Ytcml4bTB2eXB4V19yaWYtRGJqdElz?oc=5",
+   "publishedAt": "2026-08-25T17:03:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:25:25+09:00"
+  },
+  {
+   "id": "b29830c25a23eef2",
+   "title": "[퇴근길머니] ’카카오 승부수’ 시험대에…질주하는 K-뷰티",
+   "outlet": "연합뉴스TV",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMF9qT2IzX1pjVDNDalA4Y2dRckRJQTN6ZkpzenlWX1R5V3FMalhDVWtFckt6RU5HaXB5ME9UY1UxclVJN194Zmt6cnh2SHRuMW05ZHdhN1lYTUZIM1dVaHhaX1pqT00?oc=5",
+   "publishedAt": "2026-08-25T17:18:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:25:25+09:00"
   }
  ]
 };
