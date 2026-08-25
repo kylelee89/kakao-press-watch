@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T12:36:30+09:00",
- "runCount": 476,
+ "generatedAt": "2026-08-25T12:46:46+09:00",
+ "runCount": 477,
  "price": {
-  "price": "35,875",
-  "pct": "+0.21",
-  "at": "2026-08-25T12:36:30+09:00"
+  "price": "35,900",
+  "pct": "+0.28",
+  "at": "2026-08-25T12:46:46+09:00"
  },
  "articles": [
   {
@@ -16846,6 +16846,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T12:26:11+09:00"
+  },
+  {
+   "id": "87576c80a7b3fa44",
+   "title": "美 증시 두드리는 카카오모빌리티, 지배구조 재편 영향은",
+   "outlet": "한스경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yN1p0d01kRFpvV0RsVE5Wa2Vvekdvd3BBOWU5bXItalJLQmJoaVFIb2kxQkdNcVJLcXFOUkdSR3BtaTRHcER3ZzBaMVg4dzFGT0NCeWFnanJjcDZKcURtTjYyNTJwSGxQSExDN9IBb0FVX3lxTE5YOWxYMUMtUHBUcWhpcmp1UGtWUTlya1RIZ0hEVkdnRkhLYW5EMENmdWlWVnJBVlFONlR4ZmlveWlKT1FjdUxwZDd4Ylo4eFdnNEdfNnV2ZnVmdWFBRDFKVU1iZ2hZeERsSXN2QzY3UQ?oc=5",
+   "publishedAt": "2026-08-25T12:31:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T12:46:46+09:00"
   }
  ]
 };
