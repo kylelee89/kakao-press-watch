@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T08:43:34+09:00",
- "runCount": 591,
+ "generatedAt": "2026-08-26T08:53:51+09:00",
+ "runCount": 592,
  "price": {
   "price": "36,050",
   "pct": "+0.00",
-  "at": "2026-08-26T08:43:34+09:00"
+  "at": "2026-08-26T08:53:51+09:00"
  },
  "articles": [
   {
@@ -18477,6 +18477,73 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T08:43:34+09:00"
+  },
+  {
+   "id": "473f2cf27a9ea409",
+   "title": "카카오 인적분할에 노사갈등 확산…노조, 공동교섭 요구",
+   "outlet": "산경투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ObW94UWtuZlRCQnZ5cUYzSjZrSDFLT0tJcUlhRkdVMkxNM1pzMVpwVlNWRTVFMVoza1htclVjNmtDY2NRaXd3S2tGdTdGRTNnRl9DalJxc0RGd0Fkb3ZSTUpJQWdkRlNHRTN3bmhOaEjSAXRBVV95cUxQOEY5VkNBV1hTU0dUTG9FRUFzM1FEcEJJYlFfZUlWNWFFM2p0YkQxUEhtcHpyS3RJa3hCNzhGQmNKNjd6ZDlJdnBDTi1tY0o5N2RMZGlBeU9MRTVyanlWcXcwSzNvNk9UcFlfLWVTallUT25VXw?oc=5",
+   "publishedAt": "2026-08-26T08:29:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T08:53:51+09:00"
+  },
+  {
+   "id": "bc431eed42f97cd5",
+   "title": "카카오 노조, 인적 분할에 공동교섭 요구",
+   "outlet": "서울파이낸스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sSHpQOXJuZ3NORnp6M2E1TlQ1OU1VYUJVMDlDazlnNllZU1NVV25UbWtrYl83UmtCTE05NW9RT2FYcFd1RnhlTUpYTTc5VU9GZ3BDeDhyVEdJN09nNHI5VC1HbjQ5UFA3Vnc?oc=5",
+   "publishedAt": "2026-08-26T08:38:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T08:53:51+09:00"
+  },
+  {
+   "id": "34e5d3bf76050ac3",
+   "title": "“일방적 분할 중단하라”…카카오 노조, 공동교섭 요구 선포식",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DNzZqalJtYVdvcHEwQ25yYlZ3Z1RMdFB6VU9ib2FIVzRETWRNVnA1UjBYMXkyak41WTZIVTJ5SVc4UmlOdmVZQUVmY1VYRFVwZGQyWmZKeVNUdmc1cDdCTl9XdnA?oc=5",
+   "publishedAt": "2026-08-26T08:46:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T08:53:51+09:00"
   }
  ]
 };
