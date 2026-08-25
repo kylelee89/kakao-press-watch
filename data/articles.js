@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T07:50:19+09:00",
- "runCount": 586,
+ "generatedAt": "2026-08-26T08:01:33+09:00",
+ "runCount": 587,
  "price": {
   "price": "36,050",
-  "pct": "+0.70",
-  "at": "2026-08-26T07:50:20+09:00"
+  "pct": "+0.00",
+  "at": "2026-08-26T08:01:33+09:00"
  },
  "articles": [
   {
@@ -18304,6 +18304,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T07:50:19+09:00"
+  },
+  {
+   "id": "b08774e10bd3b910",
+   "title": "[카카오 분할] 카카오AI, ‘톡’에 집중…결국 AI 수익화가 관건",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LOVFrTmJiN1lzeW5DVGI5cFRFRlBmYllrZld4R0g4ZHY2ZGtxeXVDYU1aSldIeE16cHR1enRNdnpUR2dSOFpQUW5MaDh1QmM?oc=5",
+   "publishedAt": "2026-08-26T07:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T08:01:33+09:00"
   }
  ]
 };
