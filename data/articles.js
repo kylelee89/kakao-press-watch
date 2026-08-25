@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T11:45:09+09:00",
- "runCount": 471,
+ "generatedAt": "2026-08-25T11:55:24+09:00",
+ "runCount": 472,
  "price": {
-  "price": "35,650",
-  "pct": "-0.42",
-  "at": "2026-08-25T11:45:09+09:00"
+  "price": "35,550",
+  "pct": "-0.70",
+  "at": "2026-08-25T11:55:25+09:00"
  },
  "articles": [
   {
@@ -16750,6 +16750,56 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-25T11:45:09+09:00"
+  },
+  {
+   "id": "3d55a6b992f6aedd",
+   "title": "주식 찍어 돈 버는 카카오? … 개미들 벌써 '유증빔' 공포 확산",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQemJReEJ6TGdCbmdOcVNXM3VjZzJRd0ZWUFFGaHF5YzF3UjhfTnpObTlYdVk0cEIyQ3czN0VUWjNpbHdidzFzcHNWbGI4NTZ5amg4Vmw5SS13T255dzFyVV9pbzI5R1ZnS0lmbW5GTlExWTVRZld0YTI5dXZmb2NnStIBgAFBVV95cUxQemJReEJ6TGdCbmdOcVNXM3VjZzJRd0ZWUFFGaHF5YzF3UjhfTnpObTlYdVk0cEIyQ3czN0VUWjNpbHdidzFzcHNWbGI4NTZ5amg4Vmw5SS13T255dzFyVV9pbzI5R1ZnS0lmbW5GTlExWTVRZld0YTI5dXZmb2NnSg?oc=5",
+   "publishedAt": "2026-08-25T10:27:35+09:00",
+   "tone": "우려",
+   "toneScore": -2.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?",
+    "적대어:개미"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "개미"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T11:55:24+09:00"
+  },
+  {
+   "id": "46e9f1e3dfa36ad1",
+   "title": "카뱅 노조 닷새연속 전면파업 예고…\"인적분할 반대\"",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSXJvRjduc1BBV3Z3NEpIZVZFOTF2MEs3RjBtTHdlSFhSVWczSmNsOTJYWHl4SERwNDA4R0owTzZmU3k0QWVfSGpFakl1WWM?oc=5",
+   "publishedAt": "2026-08-25T11:32:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T11:55:24+09:00"
   }
  ]
 };
