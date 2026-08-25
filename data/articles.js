@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T11:55:24+09:00",
- "runCount": 472,
+ "generatedAt": "2026-08-25T12:05:39+09:00",
+ "runCount": 473,
  "price": {
-  "price": "35,550",
-  "pct": "-0.70",
-  "at": "2026-08-25T11:55:25+09:00"
+  "price": "35,650",
+  "pct": "-0.42",
+  "at": "2026-08-25T12:05:40+09:00"
  },
  "articles": [
   {
@@ -16800,6 +16800,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T11:55:24+09:00"
+  },
+  {
+   "id": "78a4c05e271c0549",
+   "title": "“자산관리 에이전트 확장성 낮아져”… 카카오페이 목표주가 낮춰",
+   "outlet": "핀포인트뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNW5FbFpWN280cF9LMVpBdktfOVVqRzVpN0t4VnlHNzVaVXRkNms0aXg3X3dSZUtXUW9zSkM0R1pBN2JnYlZiVWhWRzFJc0RTdE5tY0ZoelJpeW5uQVpiZWN1Z0ZKZ0llT1NJVzdBdkgxZjDSAXdBVV95cUxNTl9rb1plSXhlV1h4LTRGNkZITXlValpHSGhiM1BMQUJQVTBadVVhRFJpVmd1cmVBWGczZ2thOEdBM3ZMZnBUTEdieGIxdU44OVBidkpRWWlUVDJ3LWswVGN2MmlEZm9sb3RQZWxnZ0RvTmlBRUxqOA?oc=5",
+   "publishedAt": "2026-08-25T00:10:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T12:05:39+09:00"
   }
  ]
 };
