@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T15:47:18+09:00",
- "runCount": 495,
+ "generatedAt": "2026-08-25T15:58:35+09:00",
+ "runCount": 496,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T15:47:18+09:00"
+  "at": "2026-08-25T15:58:36+09:00"
  },
  "articles": [
   {
@@ -17378,6 +17378,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T15:47:18+09:00"
+  },
+  {
+   "id": "b92db3cf96e09b55",
+   "title": "'AI 기업' 간판 단 카카오…PER 40배 프리미엄, 결국 기술·수익화에 달렸다",
+   "outlet": "메트로신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nRXBkb3VoelR1cTZHUWFTNDI0X3BIUldSZ2VMcnhUQUttQ1FKZTB4SkMwWjZwcTJYeGd2aEdwVEY1WlE1eFhRa1hZd193eGpYRk1NN1dCWWxVejdSNzIwdA?oc=5",
+   "publishedAt": "2026-08-25T14:35:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T15:58:35+09:00"
+  },
+  {
+   "id": "115c441be79c32c3",
+   "title": "카카오AI 첫 이사회에 전 장관·국세청장 등 합류",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIYk5DQzhIamVBMFllWVptRndvdF82SlNfRWFNdjJuellqdUphU2ozMXlFcjVYMEJaLTYtNzVoMXkwMmYyeWlhZEg0dmdaSGgxVTQ1QlEyZ2x2Zw?oc=5",
+   "publishedAt": "2026-08-25T15:42:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T15:58:35+09:00"
   }
  ]
 };
