@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T13:29:24+09:00",
- "runCount": 482,
+ "generatedAt": "2026-08-25T13:39:45+09:00",
+ "runCount": 483,
  "price": {
   "price": "36,100",
   "pct": "+0.84",
-  "at": "2026-08-25T13:29:25+09:00"
+  "at": "2026-08-25T13:39:46+09:00"
  },
  "articles": [
   {
@@ -16888,6 +16888,74 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T13:19:02+09:00"
+  },
+  {
+   "id": "365c8c86a2517260",
+   "title": "[기고] 카카오 홍보를 낙제점으로 만든 카카오 내부 소통구조",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uTmROaWN4OVBabDF5eDdDSzl3V0MyekxmOGw0VHVWazBvYUlzQ2lOdG05NG4wbDhjU1E0RS1kbWNWZXVKaXd5SFdmcHZydw?oc=5",
+   "publishedAt": "2026-08-25T13:33:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T13:39:45+09:00"
+  },
+  {
+   "id": "1e2677cdbb469b6a",
+   "title": "카카오 노조 26일 본사 '인적분할 반대' 결의대회, 사측에 공동교섭 요구",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QRGVKVnNPUWNfRmtQblBENTNLSW5nOVBsYUpRWGduaGpHbV9Sa01QYzN3cTNuckZral9WR215RzZsemxQSjNVVWo1bnIzUTRTTG9SWFBSeGhRUkJIa0JTcGJzXzlwU1FKM1BRUllWSDc4TUk?oc=5",
+   "publishedAt": "2026-08-25T11:48:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T13:39:45+09:00"
+  },
+  {
+   "id": "be4e38ca1ef10e66",
+   "title": "'인적분할' 카카오 향후 주가…AI성과 여부가 핵심",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GWjJiWlUyam9xOVRxWHEwOVZQUU9DT09OMk93NG91aEhuUVpCcjRrRzRDLUk2MTJITmtKaE11WkR2SUxOaFEzamZidlRyODQwblFN?oc=5",
+   "publishedAt": "2026-08-25T13:23:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T13:39:45+09:00"
   }
  ]
 };
