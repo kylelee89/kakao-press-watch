@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T03:31:05+09:00",
- "runCount": 561,
+ "generatedAt": "2026-08-26T03:41:20+09:00",
+ "runCount": 562,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-26T03:31:05+09:00"
+  "at": "2026-08-26T03:41:20+09:00"
  },
  "articles": [
   {
@@ -18166,6 +18166,54 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T00:40:22+09:00"
+  },
+  {
+   "id": "2764588c822c9085",
+   "title": "카카오 “김범수 창업자, 분할 후 대주주 역할 계속\"",
+   "outlet": "브릿지경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XcldnTV9GR1dRQlZicWt0V3JQeXZQMXBKQmFBVU9xYy1VT1JLTVA5UkVfSVp3RW5PM1NqLUtrdGtfdFhYR0xFRlVMMFh6UmRGeEZ0eHNBcVBaQQ?oc=5",
+   "publishedAt": "2026-08-21T15:15:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T03:41:20+09:00"
+  },
+  {
+   "id": "bbfd7c07c1d2aef4",
+   "title": "카카오 인적분할에도 고용·근로조건 유지…직원 업무체계 연속성 보장",
+   "outlet": "뉴스투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zOWVXZzlLQkFVNFNmOHE0MTJSVXFaanY3bjdBXzJuUE92X2dJUVgxR0FySUtDdURhSllNM0QwelI1NnRMNlJlZ0dvRlNTaTQyRzBBbktscHBsYWJReVE?oc=5",
+   "publishedAt": "2026-08-21T15:22:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "역접:에도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T03:41:20+09:00"
   }
  ]
 };
