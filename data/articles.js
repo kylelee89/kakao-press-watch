@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T17:36:46+09:00",
- "runCount": 505,
+ "generatedAt": "2026-08-25T17:48:07+09:00",
+ "runCount": 506,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T17:36:47+09:00"
+  "at": "2026-08-25T17:48:08+09:00"
  },
  "articles": [
   {
@@ -17734,6 +17734,71 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T17:36:46+09:00"
+  },
+  {
+   "id": "20e66955d6544dc3",
+   "title": "다시 불거진 카카오 노사 갈등...성과 보상부터 인적분할 반대까지",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFaXNqZ2RyakxRTmhUSlFWcXNfYzNaVjJsMlFHazJKakQtekZxdXRmbDV4ZjlGbVd1R2lKNEpwVHpiTVdHOXFwOFNCOEppbUFGa2haSkprWFlyNS00MEtHM2FhZUh4UGY5Y1p4SDZyejFxWTTSAXdBVV95cUxOMkcyZDJKNzJZWWhmM0FvS3A4NFNSbWYtN3p5Q3NxQ3BZeTVTWHBiSk9UMGVScDJzNHM2Sk1CNXB4Sy15NnE0dVVIMzZPM0Fxb1BLNndadTdwUVp4ZDFXNWZKOXkwLUJLZWxDUG9OQ2I5ellNdzAyTQ?oc=5",
+   "publishedAt": "2026-08-25T15:11:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:48:07+09:00"
+  },
+  {
+   "id": "e40eeb012a44ee84",
+   "title": "카카오AI 이사회…임혜숙 전 장관·김대지 전 국세청장 등 합류",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZGdNRDJ1c1N0eWpQZkFpX3lhYl9oa1JuVi1fN1BCa3BmS0xfY2tHXzVEVi1ER09aX01NMTVXaVVydTMtSUdSTnVxMEJMdDA2MFFCRGRlc3dvd9IBWEFVX3lxTFBtSkVodnB0NUxjblFndEhGQl9aZ3NIdnVHZkRvRVU2ZGhFS2dkc3FEOUVSb0tHX2NVcDRVWHpiYm94V2kxeVpMQzZzT0lnd09rbmJ1YWstaU0?oc=5",
+   "publishedAt": "2026-08-25T17:34:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:48:07+09:00"
+  },
+  {
+   "id": "eedc8b0fc442d136",
+   "title": "카카오AI 이사회에 前 과기장관 등 합류",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14azdYeHhCdjBRMktWZ1NDUkN0ZXZ1ZWRkcy1OcXI0cFdYbDZ1dXpSS0JENG40Y3pRTzBNM1VQQ3paR2czR2ZoSnBvdm94aWFUMWZXdHRNWXFNZw?oc=5",
+   "publishedAt": "2026-08-25T17:43:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:48:07+09:00"
   }
  ]
 };
