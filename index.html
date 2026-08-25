@@ -1579,65 +1579,6 @@
         `;
       }
 
-      function renderTimeline(data) {
-        if (!data.timeline.length) {
-          return '<div class="empty">데이터 없음</div>';
-        }
-        const max = Math.max(...data.timeline.map((d) => d.total), 1);
-        const maxHeight = 184;
-        const markerIso = '2026-08-21T10:04:00+09:00';
-        const start = data.timeline[0].key;
-        const end = data.timeline[data.timeline.length - 1].key;
-        const startMs = new Date(`${start.replace(' ', 'T')}:00+09:00`).getTime();
-        const endParts = end.split(' ');
-        const endMs = new Date(`${endParts[0]}T${endParts[1]}:00+09:00`).getTime() + 30 * 60 * 1000;
-        const markerMs = new Date(markerIso).getTime();
-        let markerLeft = 0;
-        if (endMs > startMs) {
-          markerLeft = ((markerMs - startMs) / (endMs - startMs)) * 100;
-          markerLeft = Math.max(0, Math.min(100, markerLeft));
-        }
-        const markerActive = markerMs >= startMs && markerMs <= endMs;
-        return `
-          <div class="timeline-wrap">
-            <div class="timeline-grid">
-              ${markerActive ? `<div class="timeline-marker" style="left:${markerLeft}%"><span>공시</span></div>` : ''}
-              ${data.timeline.map((bin) => {
-                const posH = Math.max(0, (bin.긍정 / max) * maxHeight);
-                const midH = Math.max(0, (bin.중립 / max) * maxHeight);
-                const negH = Math.max(0, (bin.우려 / max) * maxHeight);
-                return `
-                  <div class="timeline-bin" title="${bin.key} / 긍정 ${bin.긍정}, 중립 ${bin.중립}, 우려 ${bin.우려}">
-                    <div class="bar-stack">
-                      <span class="bar-seg pos" style="height:${posH}px"></span>
-                      <span class="bar-seg mid" style="height:${midH}px"></span>
-                      <span class="bar-seg neg" style="height:${negH}px"></span>
-                    </div>
-                    <div class="bar-total mono">${bin.total}</div>
-                    <div class="bar-label mono">${bin.key.slice(11)}</div>
-                  </div>
-                `;
-              }).join('')}
-            </div>
-          </div>
-        `;
-      }
-
-      function renderGroupStack(data) {
-        if (!data.groupEntries.length) return '<div class="empty">데이터 없음</div>';
-        return `
-          <div class="stack-list">
-            ${data.groupEntries.map((entry) => `
-              <div class="group-row">
-                <div class="row-label">${escapeHtml(entry.group)}</div>
-                ${renderStackSegments(entry, entry.total)}
-                <div class="row-meta mono">${entry.total}</div>
-              </div>
-            `).join('')}
-          </div>
-        `;
-      }
-
       function renderFrameAxisSection(data) {
         const total = data.articles.length || 0;
         const entries = data.frameAxisEntries || [];
@@ -2091,26 +2032,6 @@
               </div>
             </div>
             ${renderToneSummary(analytics)}
-          </section>
-
-          <section class="section panel">
-            <div class="panel-head">
-              <div>
-                <h2 class="panel-title">시간대별 보도량</h2>
-                <div class="panel-sub">30분 단위 버킷, 공시 시각 마커 포함</div>
-              </div>
-            </div>
-            ${renderTimeline(analytics)}
-          </section>
-
-          <section class="section panel">
-            <div class="panel-head">
-              <div>
-                <h2 class="panel-title">매체 그룹별 논조</h2>
-                <div class="panel-sub">건수 많은 순</div>
-              </div>
-            </div>
-            ${renderGroupStack(analytics)}
           </section>
 
           <section class="section panel">
