@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T21:09:19+09:00",
- "runCount": 525,
+ "generatedAt": "2026-08-25T21:20:36+09:00",
+ "runCount": 526,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T21:09:19+09:00"
+  "at": "2026-08-25T21:20:36+09:00"
  },
  "articles": [
   {
@@ -18072,6 +18072,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T20:48:41+09:00"
+  },
+  {
+   "id": "7aaa031f4a5fdf43",
+   "title": "카카오AI 초대 이사진 윤곽···전 과기부장관 등 합류",
+   "outlet": "서울파이낸스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oSXVueDktOUlWQUlkaDU0VWFpNkNmVG5TeVNYZHVKalROSTdaMmZSemh4NWRESGpEZGZvekwyX0Q0VVRBUHdHWEh4ZXp1dzdJRzhrSlZtb2R5dTZKQmV5SmRmYUNjaWE2aVE?oc=5",
+   "publishedAt": "2026-08-25T21:08:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T21:20:36+09:00"
   }
  ]
 };
