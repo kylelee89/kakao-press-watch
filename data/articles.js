@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T17:25:25+09:00",
- "runCount": 504,
+ "generatedAt": "2026-08-25T17:36:46+09:00",
+ "runCount": 505,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T17:25:26+09:00"
+  "at": "2026-08-25T17:36:47+09:00"
  },
  "articles": [
   {
@@ -17713,6 +17713,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T17:25:25+09:00"
+  },
+  {
+   "id": "daaf48671f474c40",
+   "title": "카카오AI 초대 이사회 윤곽…전 장관·국세청장 등 합류",
+   "outlet": "디지털투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pSk5zem14eUlrNHNCTDNLTklMQU1OTEp6emxydjZWWUE3X3BhUXBIU191MGM3MnJ6dG9Oc2VqQmJnX0NCT3UtTGVyU0VVUlpvYzdOWXRWeWxzMlRBby1Hd2NVOVVoY1k3Y0tTcVJzMmF2VTQ?oc=5",
+   "publishedAt": "2026-08-25T17:23:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:36:46+09:00"
   }
  ]
 };
