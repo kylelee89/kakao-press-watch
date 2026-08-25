@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T11:15:03+09:00",
- "runCount": 468,
+ "generatedAt": "2026-08-25T11:24:36+09:00",
+ "runCount": 469,
  "price": {
-  "price": "35,300",
-  "pct": "-1.40",
-  "at": "2026-08-25T11:15:03+09:00"
+  "price": "35,400",
+  "pct": "-1.12",
+  "at": "2026-08-25T11:24:37+09:00"
  },
  "articles": [
   {
@@ -16545,6 +16545,83 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T11:13:41+09:00"
+  },
+  {
+   "id": "f7b37297179f6ef7",
+   "title": "코스피 랠리도 비껴간 카카오…인적분할에 '지주사 할인' 우려",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KeXE3VU9HWEhLWWJzWWxTTWJzOEdlMkxmcjNqMFBleWdGMEFDc0V3VTV2aDZmNkp1Tm1rTjRWU0pIbzlFdDVLVG9PRW9QdW8?oc=5",
+   "publishedAt": "2026-08-25T11:11:28+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T11:24:36+09:00"
+  },
+  {
+   "id": "a4aaf6722e1adbd9",
+   "title": "카카오, '복합기업 할인' 떼려다 '지주사 할인' 만날라…인적분할 딜레마",
+   "outlet": "서울이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JYVM3aVNjUlhwX2xfNHJtMFJtNWFUOExQczZjLTl2S1JCYW85b010ZzBCOVlvMEtHTGlBb1JjZWNFNXBDVXgzcFlfZVByTmE5bm5VZVNsVS1TM0dHSk1MeHcxWWJfRVdrRTdEN3h3?oc=5",
+   "publishedAt": "2026-08-25T11:16:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:딜레마"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "딜레마"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T11:24:36+09:00"
+  },
+  {
+   "id": "aa739f50874f9383",
+   "title": "카카오페이, 카카오X 스테이블코인 중심축 부상 … 김도영 \"압도적 1위 가능\"",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VQmw0eUROeE9IVTF6Y3hKSlpQdXQ4cWZ6NXJJVUk5VGNtejIxX3BWV2o4T0xiRlV5UmN6UC0yTlMtQUtSeHFVZmI1R2pCY25qYmVxZ29wYUdsaGpMaHkwdWxlV2UxNkRnbVNpWHFhZUdVcWgySU1SYjdwc9IBgAFBVV95cUxPbTN3R2NCMDVfcFhTeXNlbUlZU3hvdjh5WnNYU0dvOGZyWE5rTDcwbkU0NDFFMC1OeWV5T1ZtUHlzRkZXT2ZHaEhKOTRZUHVVSms1RGQ1RUVhYUU4ZmdLQWJkbU9aZWdvQWZvOHNaZ2JZbXIxQUstWWlDZzhOR3NkMQ?oc=5",
+   "publishedAt": "2026-08-25T10:48:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T11:24:36+09:00"
   }
  ]
 };
