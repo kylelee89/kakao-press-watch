@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T17:48:07+09:00",
- "runCount": 506,
+ "generatedAt": "2026-08-25T17:59:29+09:00",
+ "runCount": 507,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T17:48:08+09:00"
+  "at": "2026-08-25T17:59:30+09:00"
  },
  "articles": [
   {
@@ -17799,6 +17799,69 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T17:48:07+09:00"
+  },
+  {
+   "id": "103aaa9ee24b95a6",
+   "title": "카카오AI 이사회에 전직 과기정통부 장관·국세청장 합류",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Wenc1bEJ3NTl6d0UwSFZYaXMtcVNiSFE3UzVTUklJWXM3eGItV3FvZjJMTHY4Ny1tY0tpMTBtckM0eXVscVNyaUUxb0ZaZw?oc=5",
+   "publishedAt": "2026-08-25T17:47:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:59:29+09:00"
+  },
+  {
+   "id": "6398941dbd94411f",
+   "title": "카카오AI 이사회에 임혜숙 전 과기정통부 장관·오승필 전 KT CTO 합류",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqQ1B1VGNwY0hLM3lmSDVNd2liNzkwb0xkQ2xUUXlOejJNSm5NV0NxeGNvYWdFLUx6YllfeHZKX3FXaFNzR25uVTF1bzdBZw?oc=5",
+   "publishedAt": "2026-08-25T16:05:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:59:29+09:00"
+  },
+  {
+   "id": "6bc86d7bd94f3e26",
+   "title": "카카오AI 초대 이사회에 전직 장관·국세청장 합류",
+   "outlet": "스마트비즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGR3l3NUUycTNDUXpTYnBzT1FOdE5pZHRVU2FWaGl3Ulg1TkxmdmxwaDFUNGxxTkhTb3pUNVI1bnFZbkhVU2JJaU5iRzdBclhFOGp0Z0E1TEE2dXRoMkRKYTdpVV9WNWM3Q0dtTQ?oc=5",
+   "publishedAt": "2026-08-25T17:25:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:59:29+09:00"
   }
  ]
 };
