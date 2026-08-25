@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T04:22:19+09:00",
- "runCount": 566,
+ "generatedAt": "2026-08-26T04:32:33+09:00",
+ "runCount": 567,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-26T04:22:19+09:00"
+  "at": "2026-08-26T04:32:33+09:00"
  },
  "articles": [
   {
@@ -18214,6 +18214,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T03:41:20+09:00"
+  },
+  {
+   "id": "3b7de8e4ce0204d2",
+   "title": "[주간 산업 나침반] 車·철강 번진 파업 전운...삼성전자·SK하이닉스, 최대 150조 주주환원",
+   "outlet": "중앙이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Yc0hiZlhEdG41a093d1Nvbi1OUzJxdkNpY1NDcmFfYlNyeXFkbU9UREVQTFVlN0lQZFYtNjd0WjcyT2NtNHJIWm5uWldIM0toeVF2blp0a0JfTFR0WGpXcUpIZ0hrT2pTdTFjMkt4cy1LQQ?oc=5",
+   "publishedAt": "2026-08-23T09:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T04:32:33+09:00"
   }
  ]
 };
