@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T21:30:51+09:00",
- "runCount": 527,
+ "generatedAt": "2026-08-25T21:41:08+09:00",
+ "runCount": 528,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T21:30:51+09:00"
+  "at": "2026-08-25T21:41:08+09:00"
  },
  "articles": [
   {
@@ -18093,6 +18093,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T21:20:36+09:00"
+  },
+  {
+   "id": "99dd9f5cfd502e93",
+   "title": "카카오AI, 초대 이사회에 임혜숙·김대지·오승필 합류…AI·규제·재무 전문가 배치",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sVzRzOWxaS2d0OFZQWXhBMEgwY2hWaUl5R2pZaEw1NzdNU1UyZlhmR281czB6VEV0VG5Ca3ZrRmJGU1ZibXZfLXhsdzRSVnhDUU9SNmx2Y3QzTzZGVlIyYTEzbDd0d2htYWJr?oc=5",
+   "publishedAt": "2026-08-25T16:23:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T21:41:08+09:00"
   }
  ]
 };
