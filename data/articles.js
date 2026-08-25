@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T07:28:49+09:00",
- "runCount": 584,
+ "generatedAt": "2026-08-26T07:40:02+09:00",
+ "runCount": 585,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-26T07:28:49+09:00"
+  "at": "2026-08-26T07:40:02+09:00"
  },
  "articles": [
   {
@@ -18258,6 +18258,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T07:18:32+09:00"
+  },
+  {
+   "id": "d4c52d6bbc493f30",
+   "title": "[카카오 분할] 승부수 던진 김범수, 성장에 올인…\"더이상 리스크 관리에 힘 안 쏟아\"",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOX25jTzhxbjZ3al93YmlKV25keXdBRVBMc205dXZ6WGFqZVhuaFV4Zk12X1VWMEJvVF9sbXB4eVRMSVdVb2NpaWF6bl9vVGM?oc=5",
+   "publishedAt": "2026-08-25T09:26:42+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T07:40:02+09:00"
   }
  ]
 };
