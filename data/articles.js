@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T08:11:48+09:00",
- "runCount": 588,
+ "generatedAt": "2026-08-26T08:22:05+09:00",
+ "runCount": 589,
  "price": {
   "price": "36,050",
   "pct": "+0.00",
-  "at": "2026-08-26T08:11:48+09:00"
+  "at": "2026-08-26T08:22:06+09:00"
  },
  "articles": [
   {
@@ -18325,6 +18325,79 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T08:01:33+09:00"
+  },
+  {
+   "id": "b4b4ab207e4cc539",
+   "title": "[카카오 인적분할②] 투자사로 남는 카카오X…6.4조로 성장동력 찾기",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MUTBmcnVmMWdaQm1ZaUtDWHB6d1ZjVDV6c2VSQUw2RVBnb252ZmZ3LWctNWt0RGljM1JiTGI4UG1hMThHdEx4M1hnc0E0LW5oNG12amZYaTlRdnBZTWJIZk1VWE45MnNoMzlMLTlXVm8?oc=5",
+   "publishedAt": "2026-08-26T08:10:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T08:22:05+09:00"
+  },
+  {
+   "id": "4c9088559d4ad7b5",
+   "title": "[카카오 인적분할①] 자회사 관리에 이사회 안건 85%…17조 할인 깰까",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QUlV0aEcweTJCdHgtMzNUMFVibVZPMGpqNHcydkhrdzNiMzZtWEN0bXpNR3U5amNyRGJlQ3psUklFallVbWhvSGFPd0U3N0YzaUl4cmVEZk9uTVV0UjVCXzFfaTl3eU1nWnFDdmxLSmk?oc=5",
+   "publishedAt": "2026-08-26T08:10:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T08:22:05+09:00"
+  },
+  {
+   "id": "d79c8dffad2b280a",
+   "title": "카카오 인적분할에 노조 반발…오늘 공동교섭 선포",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93bmJtNWlhTW1SUk9tM3JyeDE3SVNsNk5DQWx2bG5WLXM2VURybVhhYndiNUdPSmdpZ0hVMTg0QmlWY2Y4a3c2X0l6S1JqeFJYSnJz?oc=5",
+   "publishedAt": "2026-08-26T08:09:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T08:22:05+09:00"
   }
  ]
 };
