@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T20:38:22+09:00",
- "runCount": 522,
+ "generatedAt": "2026-08-25T20:48:41+09:00",
+ "runCount": 523,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T20:38:22+09:00"
+  "at": "2026-08-25T20:48:42+09:00"
  },
  "articles": [
   {
@@ -18030,6 +18030,48 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-25T20:38:22+09:00"
+  },
+  {
+   "id": "16faa092439ffdf1",
+   "title": "직접 투자 대 연결…네카오, AI 다른 길",
+   "outlet": "경향신문",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wUXJ4SVRfTlVuVVZKdXhfWmNyc2QxZHR0NEpET3ZYekFOeTdqUWZic0drYmgwblVrSjRUNWlPakhfd2JHczBkNV9SOHBmbVRCSkd0SDhHdl9PZw?oc=5",
+   "publishedAt": "2026-08-25T20:33:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T20:48:41+09:00"
+  },
+  {
+   "id": "e98aaa8894161691",
+   "title": "‘AI 간판’ 단 카카오… 시장 시선은 “오직 성과”",
+   "outlet": "sisaon.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QdVNhcDV5SVdWbTh2bndqaXo2VV9zZ3hwcXNMQVZpZF91M09sb2tIZjhSa0dPREpMbUpiYkpCRWhwV0s2RFVMYS1oQWVuRFp0dGctV3J5ci0ySlo0ZVBBV0ZuQ2kxUjE3QWJZ?oc=5",
+   "publishedAt": "2026-08-25T14:20:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T20:48:41+09:00"
   }
  ]
 };
