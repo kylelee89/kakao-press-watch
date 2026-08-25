@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T18:53:21+09:00",
- "runCount": 512,
+ "generatedAt": "2026-08-25T19:03:43+09:00",
+ "runCount": 513,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T18:53:22+09:00"
+  "at": "2026-08-25T19:03:44+09:00"
  },
  "articles": [
   {
@@ -17904,6 +17904,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T18:31:39+09:00"
+  },
+  {
+   "id": "15662f73e6033f24",
+   "title": "카카오AI 초대 이사회 윤곽…전 장관·국세청장·KT CTO까지",
+   "outlet": "디일렉",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhdE5EaUQxY3c2NElIRDZoM3lxVDVocjlqd1hvd1hNekpxQmRRaEZwOHFkZi1lSHl6Y1YyRU9QMGJyaGZrT1huT2Y2NzhsRU5MVU9hOHhrVUpkRjNvOHVZTDh1VV82dw?oc=5",
+   "publishedAt": "2026-08-25T18:37:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T19:03:43+09:00"
   }
  ]
 };
