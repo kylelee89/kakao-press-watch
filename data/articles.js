@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T16:52:25+09:00",
- "runCount": 501,
+ "generatedAt": "2026-08-25T17:02:57+09:00",
+ "runCount": 502,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T16:52:25+09:00"
+  "at": "2026-08-25T17:02:58+09:00"
  },
  "articles": [
   {
@@ -17552,6 +17552,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T16:41:04+09:00"
+  },
+  {
+   "id": "dbc365d9fed2e02a",
+   "title": "네이버는 수직으로, 카카오는 수평으로…엇갈린 ‘AI 승부수’, 뜯어보니",
+   "outlet": "경향신문",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WQkY4UFNiT3Y1UXRqY2VTUl9BUXkxUlpBTVpzRDNZQnpuY3hSY21jOWROX013V0J0eGdHR09DNTdMVmFVUXUtUXBGNk1RMXVscFR2SkRVaUUtQdIBX0FVX3lxTE5NWkpmXzdlVGJjckFUTm1YVnd6dFlxcGRZTFd4UUd6VDk0ekRWZFczcWl0N3NXbWh3MkR0amdvTkZGaFk3LU14RXpqUUZIbFdTRjFXdjFOZGFfMVZOUU13?oc=5",
+   "publishedAt": "2026-08-25T16:48:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:02:57+09:00"
+  },
+  {
+   "id": "b9f4aba53150bc23",
+   "title": "카카오AI 이사진 윤곽…임혜숙 전 장관·김대지 전 국세청장 합류",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qeVRBMnJLdFhxdk9UOFZUb0oxVmprWFIxQ2dhRmd5bVJCc29NR0RobDNxVU90REljSHhuV0g0ZnRYNVIyd1JORERicDZhX1hrMFJZ?oc=5",
+   "publishedAt": "2026-08-25T16:44:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:02:57+09:00"
   }
  ]
 };
