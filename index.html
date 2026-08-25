@@ -1805,9 +1805,10 @@
                         targetClass = delta < 0 ? 'down' : 'up';
                       }
                     } else if (currentTarget != null) {
+                      // 직전 목표가를 확인할 수 없는 경우(리포트에 표기 없음)를 "신규"로 쓰면 오해를 준다.
                       targetMain = formatAnalystWon(currentTarget);
-                      targetSub = '신규';
-                      targetClass = 'new';
+                      targetSub = '직전 미상';
+                      targetClass = 'none';
                     }
 
                     return `

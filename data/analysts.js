@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-08-25T13:19:04+09:00",
+ "asOf": "2026-08-25T13:25:04+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / Investing.com(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 직전 목표가는 공시 전 마지막 리포트 기준.",
  "priceRef": {
@@ -17,8 +17,8 @@ window.KMW_ANALYSTS = {
    "target": 70000,
    "targetPrev": 110000,
    "title": "복합적 변수 고려할 필요",
-   "point": "동사 목표주가 하향. AI 사업 관련 종합 분석. 분할 이슈 및 기타 포인트",
-   "extra": "목표주가 하향"
+   "point": "AI가 분절된 세그먼트가 아니라 프런티어 백본 기반의 종합 자율형 에이전트로 진화할 것으로 보는데, 법인을 쪼개 시너지를 내겠다는 전략이 현실에서 작동하지 않을 개연성을 리스크로 제시했다. 오픈AI 등 프런티어 업체와의 강결합 기조가 희석되는 점도 반영했다.",
+   "extra": "SOTP 합산 기준 본사 7.5조, AI 내재가치 3.2조, 커머스 6.8조. 목표가 최대 하향(-36%)"
   },
   {
    "date": "08/21",
@@ -73,6 +73,32 @@ window.KMW_ANALYSTS = {
    "extra": ""
   },
   {
+   "date": "08/21",
+   "region": "외국계",
+   "house": "Daiwa",
+   "analyst": "Thomas Kwon",
+   "rating": "Buy",
+   "ratingPrev": "Buy",
+   "target": 57000,
+   "targetPrev": 57000,
+   "title": "Kakao plans to spin off KakaoTalk platform to capture AI opportunity",
+   "point": "각 사업이 전문성과 자원배분, 의사결정 속도를 확보한다는 회사 논리를 대체로 수용했다. 카카오AI의 2030년 매출 6조원, 영업이익률 30%, ROE 25% 목표를 그대로 인용했다.",
+   "extra": "외국계 최고 목표가"
+  },
+  {
+   "date": "08/21",
+   "region": "외국계",
+   "house": "CGS International",
+   "analyst": "-",
+   "rating": "ADD",
+   "ratingPrev": "ADD",
+   "target": 57000,
+   "targetPrev": 57000,
+   "title": "Spin-off raises more questions than answers",
+   "point": "분할이 답보다 질문을 더 만든다. 카카오AI의 사업 믹스가 지금과 거의 같은데 생태계 시너지와 자금 유연성은 줄어든다. 외부 제휴 확대 계획도 아직 증명되지 않았다. 다만 밸류에이션은 그대로라 의견을 유지했다.",
+   "extra": "의견과 목표가 모두 변동 없음"
+  },
+  {
    "date": "08/24",
    "region": "국내",
    "house": "교보",
@@ -97,6 +123,19 @@ window.KMW_ANALYSTS = {
    "title": "가만히 있는 것보다 낫다. 풀어야 할 숙제도 많다.",
    "point": "카카오 인적분할 공시. 분할 이후 방향 구체화 필요",
    "extra": ""
+  },
+  {
+   "date": "08/24",
+   "region": "외국계",
+   "house": "Bernstein",
+   "analyst": "Min-Joo Kang",
+   "rating": "Outperform",
+   "ratingPrev": "Outperform",
+   "target": 55000,
+   "targetPrev": 65000,
+   "title": "Corporate restructuring... or succession?",
+   "point": "AI를 위한 구조조정인지 승계 포석인지 되물었다. 재벌의 전형적 수순인 분할, 공개매수, 현물출자의 1단계일 수 있다고 봤다. 오너 일가가 사업회사 지분을 지주사 지분으로 맞바꾸는 경로다.",
+   "extra": "승계 프레임을 정면으로 제기한 유일한 리포트"
   },
   {
    "date": "08/24",
@@ -126,6 +165,19 @@ window.KMW_ANALYSTS = {
   },
   {
    "date": "08/24",
+   "region": "외국계",
+   "house": "Goldman Sachs",
+   "analyst": "Eric Cha",
+   "rating": "Buy",
+   "ratingPrev": "Buy",
+   "target": 51000,
+   "targetPrev": null,
+   "title": "Announces spin-off plan; NAV conversion transparency on KakaoX",
+   "point": "거래 자체로는 영업가치가 생기지 않는다. 기존 SOTP가 이미 코어와 비코어를 나눠 30% 할인을 적용 중이라, 재평가는 구체적인 분할 후 재무제표와 실행 증명이 나와야 가능하다.",
+   "extra": "3천억 자사주 매입, 소각 이행 여부를 관찰 포인트로 제시"
+  },
+  {
+   "date": "08/24",
    "region": "국내",
    "house": "하나",
    "analyst": "이준호",
@@ -136,6 +188,19 @@ window.KMW_ANALYSTS = {
    "title": "X/AI로 나뉘는 카카오, 우선은 지켜보자",
    "point": "인적분할 발표. 카카오X, 카카오AI의 현재와 미래. 투자의견 Buy, 목표주가 50,000원으로 하향",
    "extra": "목표주가 하향"
+  },
+  {
+   "date": "08/23",
+   "region": "외국계",
+   "house": "Citi",
+   "analyst": "Paul Hwang",
+   "rating": "Buy",
+   "ratingPrev": null,
+   "target": 48000,
+   "targetPrev": null,
+   "title": "Spin-off Announced",
+   "point": "의사결정 효율과 자본배분이라는 회사 명분, 그리고 주주환원 확대를 함께 짚었다. SOTP 기반 목표주가를 제시했다.",
+   "extra": ""
   },
   {
    "date": "08/24",
@@ -164,17 +229,69 @@ window.KMW_ANALYSTS = {
    "extra": "목표주가 하향"
   },
   {
-   "date": "08/23",
+   "date": "08/21",
    "region": "외국계",
    "house": "HSBC",
-   "analyst": "-",
+   "analyst": "Junhyun Kim",
    "rating": "Hold",
-   "ratingPrev": null,
+   "ratingPrev": "Buy",
    "target": 42000,
    "targetPrev": 60000,
-   "title": "Downgrade to Hold",
-   "point": "공시 직후 투자의견을 Hold 로 강등하고 목표주가를 60,000원에서 42,000원으로 30% 내렸다. 분할 발표 이후 나온 유일한 외국계 리포트다.",
-   "extra": "외국계 중 유일한 분할 반영"
+   "title": "Downgrade to Hold: increased threat to potential shareholder value",
+   "point": "분할비율이 심각한 가치 왜곡을 만든다. 현금창출력과 AI 성장성을 가진 코어(톡)에 36%만 배정되고 자회사 지분이 무거운 존속법인이 64%다. 주주는 코어 성장을 온전히 누리지 못하면서 지주 할인에는 과다 노출된다.",
+   "extra": "지주 할인율을 30%에서 70%로 상향. 하향폭 최대"
+  },
+  {
+   "date": "08/21",
+   "region": "외국계",
+   "house": "JP Morgan",
+   "analyst": "Stanley Yang",
+   "rating": "Neutral",
+   "ratingPrev": "Neutral",
+   "target": 42000,
+   "targetPrev": null,
+   "title": "Unexpected spin-off announcement to provide limited upside; stay cautious",
+   "point": "구조조정만으로는 부진한 AI 실행력과 지주 할인이라는 핵심 오버행이 해소되지 않는다. 분할 후 운영 변화의 근거도 부족하다. 분할비율 64대 36이 카카오X 쪽에 유리하게 기울어 있다.",
+   "extra": "카카오AI 재상장 시 2027년 P/E 14배 미만이면 소폭 상승 여력"
+  },
+  {
+   "date": "08/24",
+   "region": "외국계",
+   "house": "Macquarie",
+   "analyst": "Bella Kang",
+   "rating": "Outperform",
+   "ratingPrev": "Outperform",
+   "target": 42000,
+   "targetPrev": 42000,
+   "title": "Spin-off to unlock value",
+   "point": "45%가 넘는 할인을 좁히고 AI 성장에 집중하려는 시도로 봤다. 다만 재평가는 카나나를 통해 카카오AI가 신뢰할 만한 성장 경로를 증명하는지에 달려 있다.",
+   "extra": "실적 추정 변경 없음, 목표가 유지"
+  },
+  {
+   "date": "08/21",
+   "region": "외국계",
+   "house": "Nomura",
+   "analyst": "Angela Hong",
+   "rating": "Neutral",
+   "ratingPrev": "Neutral",
+   "target": 41000,
+   "targetPrev": 41000,
+   "title": "Rebalancing ahead of subsidiary listings",
+   "point": "자회사 상장을 앞둔 리밸런싱으로 해석했다. 핵심 사업을 투자 지분에서 분리하는 구조 변화 자체는 인정하되 의견과 목표가를 모두 유지했다.",
+   "extra": "의견과 목표가 모두 변동 없음"
+  },
+  {
+   "date": "08/21",
+   "region": "외국계",
+   "house": "CLSA",
+   "analyst": "Danny Lee",
+   "rating": "HOLD",
+   "ratingPrev": null,
+   "target": 41000,
+   "targetPrev": null,
+   "title": "New structure, same debate",
+   "point": "새 구조지만 논쟁은 그대로다. 실행과 수익화, 성장 목표 달성 경로에 대한 핵심 질문이 여전히 답을 얻지 못했다. 카카오X는 자회사 관련 불확실성이 최대 오버행이다.",
+   "extra": "입증 책임은 회사에 남아 있다는 결론"
   },
   {
    "date": "08/24",
@@ -236,36 +353,5 @@ window.KMW_ANALYSTS = {
    "lastDate": "08/07"
   }
  ],
- "foreignPending": [
-  {
-   "house": "Goldman Sachs",
-   "rating": "Buy",
-   "target": 49000,
-   "date": "06/30"
-  },
-  {
-   "house": "JPMorgan",
-   "rating": "Hold",
-   "target": 42000,
-   "date": "08/07"
-  },
-  {
-   "house": "Macquarie",
-   "rating": "Buy",
-   "target": 42000,
-   "date": "08/03"
-  },
-  {
-   "house": "CLSA",
-   "rating": "Buy",
-   "target": 41000,
-   "date": "08/07"
-  },
-  {
-   "house": "Nomura/Instinet",
-   "rating": "Hold",
-   "target": 41000,
-   "date": "08/07"
-  }
- ]
+ "foreignPending": []
 };
