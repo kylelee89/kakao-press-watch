@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T16:09:01+09:00",
- "runCount": 497,
+ "generatedAt": "2026-08-25T16:19:22+09:00",
+ "runCount": 498,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T16:09:02+09:00"
+  "at": "2026-08-25T16:19:22+09:00"
  },
  "articles": [
   {
@@ -17441,6 +17441,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T16:09:01+09:00"
+  },
+  {
+   "id": "773afa14f0a072ca",
+   "title": "카카오뱅크 노조, 다음주 5일 연속 파업 예고…인적분할도 반대",
+   "outlet": "에너지경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFMHdzYnRKVzQ3ZzBCRFBDRkJqanBLMDdOcnB6elgteWpxQVFFUUZFcGNFcmV1dFZhZXRFVWtpOWtFbHZOZFBUTFdVc3dQX09oTnE4Q29HWkZDUkp4R2VPdlZpZw?oc=5",
+   "publishedAt": "2026-08-25T16:14:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T16:19:22+09:00"
+  },
+  {
+   "id": "a805104a682db887",
+   "title": "카카오, AI 키우려 회사 쪼갰는데…\"성과는 2028년 이후에\" 목표가 줄하향",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TejZUdE43LWNNMHp2a1RtdEYxMU1BZ05uOTl3bFBRYlNaZC1ERG1XYmY3bm9VQzVWTjE5RHpvS3h5N1VDQW1YUU52S0M4cnpEMDdN?oc=5",
+   "publishedAt": "2026-08-25T16:11:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T16:19:22+09:00"
+  },
+  {
+   "id": "1f208e8f045a2505",
+   "title": "[단독] 카카오AI 사외이사에 오승필 전 KT CTO 합류…전직 장관·국세청장도 물망(종합)",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85U1U0aTRqRG1QNHZpNndQSDNicEEtdVlXR3UtLVZlV05NSDc0d3FfYURvbXhZZndkb2FEOUxjZGdJeE5Jck5kdjNQamNTbXhVeVlv?oc=5",
+   "publishedAt": "2026-08-25T16:09:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T16:19:22+09:00"
   }
  ]
 };
