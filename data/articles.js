@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T08:32:22+09:00",
- "runCount": 590,
+ "generatedAt": "2026-08-26T08:43:34+09:00",
+ "runCount": 591,
  "price": {
   "price": "36,050",
   "pct": "+0.00",
-  "at": "2026-08-26T08:32:22+09:00"
+  "at": "2026-08-26T08:43:34+09:00"
  },
  "articles": [
   {
@@ -18450,6 +18450,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T08:32:22+09:00"
+  },
+  {
+   "id": "dd93491d4017303e",
+   "title": "[길 잃은 카카오]②\"돈도, 인력도 없다\"…전직 고위관계자가 폭로한 카카오AI의 씁쓸한 민낯",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83Qk5LR2ZZTFV3MTVDNTdMRFg5WFV5ZGVTQnZYUVpUcVZwUmlyY0NFSGY3QlpOX3hSOUZldHZ5OEV4ci1OVWdrRUJjdW1lTVltcklxR1lVOHFiU2FXaGpCLTBCM25GSXZEd2E5T05n?oc=5",
+   "publishedAt": "2026-08-26T08:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:길 잃",
+    "적대어:씁쓸"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "길 잃",
+     "씁쓸"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T08:43:34+09:00"
   }
  ]
 };
