@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T20:28:04+09:00",
- "runCount": 521,
+ "generatedAt": "2026-08-25T20:38:22+09:00",
+ "runCount": 522,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T20:28:04+09:00"
+  "at": "2026-08-25T20:38:22+09:00"
  },
  "articles": [
   {
@@ -17973,6 +17973,63 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T19:56:18+09:00"
+  },
+  {
+   "id": "0bd3624ae2b37ab6",
+   "title": "카카오 인적분할에 노조 반발… \"고용안정 빠진 쪼개기\" 공동교섭 요구",
+   "outlet": "더쎈뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MNjRicXpzQy1iUFpaQjdpYkZfWnduMGN0MFRIRzhRMlgxeWFwbFBGaXl1QXNiRHlYNmN6RFY1dTgxTjc1anpGTmVNT1R0U0RHX3dDM0h5Q1NwVHpjdWdld2s3UURLcWFK?oc=5",
+   "publishedAt": "2026-08-25T13:39:33+09:00",
+   "tone": "우려",
+   "toneScore": -6.0,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "적대어:쪼개기",
+    "적대어:반발",
+    "스케어쿼트:고용안정 빠진 쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "반발",
+     "고용안정 빠진 쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T20:38:22+09:00"
+  },
+  {
+   "id": "2d420936cbfe85bb",
+   "title": "둘로 쪼개는 카카오…'17조 가치격차' 해소할까",
+   "outlet": "뉴스투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wYUhfaWx2eTRhdDl4RlpLNFFDaV84akpsZ3NmdW1rOVBCelowMmNkdFl6MXd2a2liRGtFbjlNc0V2TkZsTjNLakxVcjNFaUhGWFJ6UHZFUk0?oc=5",
+   "publishedAt": "2026-08-25T06:32:15+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T20:38:22+09:00"
   }
  ]
 };
