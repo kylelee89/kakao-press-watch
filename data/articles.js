@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T17:02:57+09:00",
- "runCount": 502,
+ "generatedAt": "2026-08-25T17:15:02+09:00",
+ "runCount": 503,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T17:02:58+09:00"
+  "at": "2026-08-25T17:15:03+09:00"
  },
  "articles": [
   {
@@ -17594,6 +17594,81 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T17:02:57+09:00"
+  },
+  {
+   "id": "9136d6e4aae64d98",
+   "title": "카카오AI 분사 앞두고…이사회에 전 과기정통부 장관·국세청장 영입",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLdkx4Skh1NnlCVi1vYWtOTHR3a2duOUlHVkpRd3B4ZU9DdEhRQUJybU9IM3Zrdm9GNjNmTTViSTVXQXFwZW5LNVY1QWFaZndhdlp4dTdZZzNXbEFIcEZpUnd1TmI?oc=5",
+   "publishedAt": "2026-08-25T17:03:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:15:02+09:00"
+  },
+  {
+   "id": "4375cc205c5dea4a",
+   "title": "카카오AI 초대 이사회 윤곽, 임혜숙 전 과기정통 장관·김대지 국세청장 등 관료 출신 합류",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5bkFjWno2Q2FzZWk0STNWRWhiZmxJLXBINk12RDJ5cjVCNkFTR1FNNDdKMEhKN2s2VGY1YjFiU3E0c1BlN1I0cHNJVUprN3BDU0VRZG1QQjlSQ1dZdUYyMTdpdnAxYUV4dEQzSk96dkN5X2s?oc=5",
+   "publishedAt": "2026-08-25T16:57:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T17:15:02+09:00"
+  },
+  {
+   "id": "0421ac70a42b27c8",
+   "title": "카카오 인적분할 후폭풍…주가 급락·노조 반발 ’첩첩산중’ By EBN",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xQjhVT19PQklNQjQ5R3ZyYlRhU182MmpPS3gwNjF1M19PVEhiNUs4QjVPR3dzQzNLRFpKMlZJSzJ4b1kzZEJDeFc4WEhCODEzRGh3c0hVb2U0bHk4elhrZDZuVHFOS3JRY1RkT09LNDM?oc=5",
+   "publishedAt": "2026-08-24T15:11:00+09:00",
+   "tone": "우려",
+   "toneScore": -9.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:급락",
+    "적대어:첩첩산중",
+    "적대어:후폭풍",
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "급락",
+     "첩첩산중",
+     "후폭풍",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T17:15:02+09:00"
   }
  ]
 };
