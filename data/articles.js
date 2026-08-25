@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T14:10:54+09:00",
- "runCount": 486,
+ "generatedAt": "2026-08-25T14:21:18+09:00",
+ "runCount": 487,
  "price": {
-  "price": "36,150",
-  "pct": "+0.98",
-  "at": "2026-08-25T14:10:55+09:00"
+  "price": "36,050",
+  "pct": "+0.70",
+  "at": "2026-08-25T14:21:19+09:00"
  },
  "articles": [
   {
@@ -17079,6 +17079,75 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-25T14:10:54+09:00"
+  },
+  {
+   "id": "fbab94476a400a6b",
+   "title": "카카오 노조 \"인적분할 반대...공동교섭 요구\"",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6YnRLTm1OWWpTT180eXZtZWd2NkM1WS1NZmk0R21HUkNndmFhaGVKXzRCM3JQZ01ZTTgtVVI1UW00Ykh3Q3ZFUUpzZGM0T0xQX0p3Skl5Z0huZw?oc=5",
+   "publishedAt": "2026-08-25T14:10:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T14:21:18+09:00"
+  },
+  {
+   "id": "aae7dd874738c381",
+   "title": "\"카카오 인적분할 반대\"…카뱅 노조, 5영업일 연속 전면파업 예고",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4ZldBMXZrbzMzWUV4NklBUXRtNVlxd2c5akFIc2hNNURNY0R2VFl6OVFSSmJpNTdXM1ZGcVlBdU5lSzE1bkpNUjJSekVJNWlJTlRV?oc=5",
+   "publishedAt": "2026-08-25T14:11:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T14:21:18+09:00"
+  },
+  {
+   "id": "6e625c4332b2f267",
+   "title": "카카오 노조, 인적 분할 공식 반대…\"공동체 차원 교섭해야\"",
+   "outlet": "민주신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Qdm1MWk9vNlp1TWttMHlTbzVoVHgtdEJpdVpBZEZDQjJyNlQ0Q1JqOW5MOEZnY0M1OWJiZWc0R0tEV3p2ZC1RWUw4YTdveV9qanJ2dF8tcmk1RVI1Zm9sREF2N2RaWklS?oc=5",
+   "publishedAt": "2026-08-25T11:01:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T14:21:18+09:00"
   }
  ]
 };
