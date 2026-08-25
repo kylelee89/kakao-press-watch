@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T13:39:45+09:00",
- "runCount": 483,
+ "generatedAt": "2026-08-25T13:50:07+09:00",
+ "runCount": 484,
  "price": {
   "price": "36,100",
   "pct": "+0.84",
-  "at": "2026-08-25T13:39:46+09:00"
+  "at": "2026-08-25T13:50:08+09:00"
  },
  "articles": [
   {
@@ -16956,6 +16956,79 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T13:39:45+09:00"
+  },
+  {
+   "id": "5874419d432e02c6",
+   "title": "카카오 ‘두 회사’ 분할에 노조 반발…공동교섭·카뱅 총파업 예고",
+   "outlet": "마이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83VHdHOXFVdUs4cV9maUxFS0VNSWJtcU84enQyV0FZZ2NCR244TUZsSmtGSVg4Y2hQdzBUaWVYX2pycDFWU2ZQNGM3TlpJdXhSSDNBazlJMW1GdldPZEg5SmhuTGFMQQ?oc=5",
+   "publishedAt": "2026-08-25T13:45:18+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T13:50:07+09:00"
+  },
+  {
+   "id": "3974b8a5da2c1d8c",
+   "title": "카카오, 종속회사 33개 더 줄였다…본체 쪼개기 전 ‘철저한 사전정리’",
+   "outlet": "마이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UeFNKZVo4QmhqNjhfaWpVWlVsenhBOU93cHp1TjNoYWR1SEpwR18wTHBaYUJlc2ZSVnY0ZnpORDdhbGNYdkd2dDB3MnJFbVNSdHA4ckxqaDRBWVBGSUxBbg?oc=5",
+   "publishedAt": "2026-08-25T10:33:13+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-08-25T13:50:07+09:00"
+  },
+  {
+   "id": "85795e83cf939a5d",
+   "title": "카카오, 두 개의 심장으로 새출발…\"AI 시대 걸맞은 속도낸다\"",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LbHVveERKVE1RNVJWVGo5ZWNrNjVfcjlCZy1HZERWeFpfT0MwdXFOT0oxQ09XQk53Z3hETFRldVl1cVF3YjZZUDlJSXRPTThMajQ0bkhvVWYyWnRuVTVnc19EeFBJbVE?oc=5",
+   "publishedAt": "2026-08-21T17:00:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "두 개의 엔진 구조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T13:50:07+09:00"
   }
  ]
 };
