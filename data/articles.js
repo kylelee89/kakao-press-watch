@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-25T18:21:17+09:00",
- "runCount": 509,
+ "generatedAt": "2026-08-25T18:31:39+09:00",
+ "runCount": 510,
  "price": {
   "price": "36,050",
   "pct": "+0.70",
-  "at": "2026-08-25T18:21:18+09:00"
+  "at": "2026-08-25T18:31:40+09:00"
  },
  "articles": [
   {
@@ -17883,6 +17883,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-25T18:21:17+09:00"
+  },
+  {
+   "id": "150e5160f668744a",
+   "title": "카카오AI 첫 이사진에 전직 과기정통부 장관·국세청장 합류",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YWjlodk05eDRaaTA3eGdldFZJa2xaeFJHVWRSWnVPLVUtQWttWmhXdTZpTmZVbHMwbGltZzZ1cGVvM242aE10V2JVaTJqU3c?oc=5",
+   "publishedAt": "2026-08-25T18:04:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-25T18:31:39+09:00"
   }
  ]
 };
