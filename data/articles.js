@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T17:23:26+09:00",
- "runCount": 634,
+ "generatedAt": "2026-08-26T17:33:50+09:00",
+ "runCount": 635,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T17:23:26+09:00"
+  "at": "2026-08-26T17:33:50+09:00"
  },
  "articles": [
   {
@@ -20546,6 +20546,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T17:23:26+09:00"
+  },
+  {
+   "id": "0f52b728db270f49",
+   "title": "카카오 노조, 인적분할 '표대결' 예고…\"국민연금 설득하겠다\"",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EMndtWmJfZ0tFZnZXUnBvV21xcHEtNEotTU1FN08wMkVzSThFNG5vUGxtU0JEb1dJSnliUktidzlpN1JwcGlKN0NxUnd6N0pGS0MtWG5aQ09YZHZYalRwZGtSRmpzU2NQ0gFuQVVfeXFMUFVzR1NVX1htOTUxdjVxM1gtRnBVTi1MX0E4VlRwdWY2b1RRcHprNENkMGIzTy14a3M4aDA0MGZVQmVheW8tb0JIblZtZDI4ZkZ6N3Z2YmY4VXY0ZWh3WjZpY280QmJRaTVXSW9EOGc?oc=5",
+   "publishedAt": "2026-08-26T17:27:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:33:50+09:00"
+  },
+  {
+   "id": "c786622a2495ae8a",
+   "title": "카카오 창업주 김범수 왜 지주사 전환 대신 인적분할 택했을까 : '뉴 페이스' 김도영 카카오X 대표 앞세워 모럴해저드 악몽 떨친다",
+   "outlet": "허프포스트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6enl3TVd5VGtPQXhmaHZoakxud1lsbzJrTTVwaTJhbDY5OTJwS2VzSTRYVndxLTIwbkE2MERGTjRPeEc4eERuYV9tOTZWaldRRFN6dnVGUQ?oc=5",
+   "publishedAt": "2026-08-26T17:02:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:33:50+09:00"
   }
  ]
 };
