@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T09:04:07+09:00",
- "runCount": 593,
+ "generatedAt": "2026-08-26T09:14:23+09:00",
+ "runCount": 594,
  "price": {
-  "price": "35,850",
-  "pct": "-0.55",
-  "at": "2026-08-26T09:04:07+09:00"
+  "price": "36,050",
+  "pct": "+0.00",
+  "at": "2026-08-26T09:14:23+09:00"
  },
  "articles": [
   {
@@ -18544,6 +18544,58 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T08:53:51+09:00"
+  },
+  {
+   "id": "cf650b8783716364",
+   "title": "[인더컴퍼니] 카카오, ‘분할’ 통한 성장으로…AI 수익화가 다음 과제",
+   "outlet": "인더뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yOXdxbzRvX1ZWU05BUkxHOUpZdlVyY3NmMUZabnczb2cwcl9aQUJFTmJBTy1lYVR0WVU0ellwcGdFQUFfY3VPbnI1YWdQQ0pweHhxTFh2bXByaXA4WmlzdWVyQTM?oc=5",
+   "publishedAt": "2026-08-26T09:02:23+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:과제"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T09:14:23+09:00"
+  },
+  {
+   "id": "539db4984ae31d75",
+   "title": "카카오 노조, 인적분할 반발 ··· 공동교섭 요구",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJeUp2STlKNDFIRE1DSUlQbElOZ2Q3NTVNVEdLMjlhQUVheHE3Qi11TmVvVTRsdXNHQ0hEel9rVFVobUJ4Vm8yby0waHdETmU0ckxz?oc=5",
+   "publishedAt": "2026-08-26T09:05:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T09:14:23+09:00"
   }
  ]
 };
