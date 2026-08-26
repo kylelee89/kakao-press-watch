@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T18:09:57+09:00",
- "runCount": 638,
+ "generatedAt": "2026-08-26T18:21:13+09:00",
+ "runCount": 639,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T18:09:58+09:00"
+  "at": "2026-08-26T18:21:14+09:00"
  },
  "articles": [
   {
@@ -20911,6 +20911,79 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T18:09:57+09:00"
+  },
+  {
+   "id": "722c95d7f316928d",
+   "title": "카카오 노조, 12월 주총 인적분할 부결 추진… 국민연금 설득 나선다",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0MkJSM29NVUQ3NVQ3NWlIN1FmSXJ1NnVWY1ZXcXlxSExnSWFiaDhZWW0xTmQ1cDNTczBNeTUyb0piMHhFSXpFLWJQSktTQ1QzQk1saEE3RHBQVVFlQmpjeWNqenhaRTl4ODkzZFBzNWjSAXRBVV95cUxQU3QxVnlTVmFoOE1XcmpSbkZxN01yaW1xWXZvdVhualRLNnc2Y2N1eEdra1NBVG50U01LN2xvdUt5ZDZlZl9yTGJET1NUZV81em5fUGRPYlczTkk0TEUwVjBRVFBWZnZGQnNtQVY1UWhMTUFodg?oc=5",
+   "publishedAt": "2026-08-26T17:46:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:21:13+09:00"
+  },
+  {
+   "id": "9ab26be6e6bb732b",
+   "title": "카카오 노조, 인적분할·성과보상에 반발…공동교섭으로 '책임' 묻는다",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QeDBOaU5uZXM5WVQwQm5aSW1vZFNpVU5LTFpmVkcyWVR4Z0JjZUlmeE5ZelJBeUZRTUU0UDZXdGVTcGdzdXNQZ3JKTmo4UXFTdXlN?oc=5",
+   "publishedAt": "2026-08-26T18:08:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T18:21:13+09:00"
+  },
+  {
+   "id": "000229587db5a731",
+   "title": "카카오 노조 “카카오 인적 분할 반대”",
+   "outlet": "부산일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13S0NLR0tEMzM4MDNrckdOVEM4WFdLMEFvQjVkdU1qRm11c2pNajNyM0drakh0eHNrOTVPRUpSUjRUQ3ctd2ZqM2VYQkN4cWJwVmdpcmg3MmdPdGdheU1TUGQ3dnJ1V3BLeTViY05MaGpwRzkx?oc=5",
+   "publishedAt": "2026-08-26T17:33:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:21:13+09:00"
   }
  ]
 };
