@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T10:06:43+09:00",
- "runCount": 599,
+ "generatedAt": "2026-08-26T10:17:58+09:00",
+ "runCount": 600,
  "price": {
-  "price": "36,275",
-  "pct": "+0.62",
-  "at": "2026-08-26T10:06:43+09:00"
+  "price": "36,500",
+  "pct": "+1.25",
+  "at": "2026-08-26T10:17:58+09:00"
  },
  "articles": [
   {
@@ -18674,6 +18674,63 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T09:56:26+09:00"
+  },
+  {
+   "id": "10247c0127b81594",
+   "title": "\"인적분할 후 저평가 해소\"…카카오, 분할 명분 증명할까",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NQXAzSnZVbDVLblZycHJsVkpvTjJfVVlqNEFMbFdKSmV6dHlFZDY2NWhQUzdvVEw1MnRaSVRzUkRKdGhsaW5JczRpX3pUeFk?oc=5",
+   "publishedAt": "2026-08-26T09:59:49+09:00",
+   "tone": "우려",
+   "toneScore": -2.8,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "SOTP 34.2조 저평가 논거"
+   ],
+   "signals": [
+    "수사의문:할까",
+    "적대어:증명"
+   ],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까",
+     "증명"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T10:17:58+09:00"
+  },
+  {
+   "id": "18b726d7e64414b9",
+   "title": "인적분할 반발…카카오 노조, 판교서 공동교섭 선포",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9neHgxcDhISTE2dUFMZ3FLNjdqQ3hCUUZJc1V0T2thU0FjdmxKOEFmRTZQQnFxcWlDdzVjRmxoM29hTjdZZ3dSajJySFVXWWRqQjFZVzdKaDhMejdmOHlzZEJHOA?oc=5",
+   "publishedAt": "2026-08-26T10:14:19+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T10:17:58+09:00"
   }
  ]
 };
