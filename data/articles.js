@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T09:34:56+09:00",
- "runCount": 596,
+ "generatedAt": "2026-08-26T09:45:13+09:00",
+ "runCount": 597,
  "price": {
-  "price": "36,225",
-  "pct": "+0.49",
-  "at": "2026-08-26T09:34:57+09:00"
+  "price": "36,150",
+  "pct": "+0.28",
+  "at": "2026-08-26T09:45:13+09:00"
  },
  "articles": [
   {
@@ -18596,6 +18596,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T09:14:23+09:00"
+  },
+  {
+   "id": "e3e074954b8153be",
+   "title": "카카오 인적분할에 노조 반발···전면 총파업도 준비",
+   "outlet": "한경매거진&북",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hUFNRRTJvZlktTnJydE9fVzktWUFEOVV4ZzFpYnB3eDYtYVotSVVPNzhzZllvc3dhbjFHbm5wa0lGbFVvaXkxbzhlTEViTzZaM3pVNWFocl91TFJRbndtUXFnZEdtZjU2ajBuYg?oc=5",
+   "publishedAt": "2026-08-26T08:38:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T09:45:13+09:00"
   }
  ]
 };
