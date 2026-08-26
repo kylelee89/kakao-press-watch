@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T15:04:25+09:00",
- "runCount": 621,
+ "generatedAt": "2026-08-26T15:14:52+09:00",
+ "runCount": 622,
  "price": {
-  "price": "36,250",
-  "pct": "+0.55",
-  "at": "2026-08-26T15:04:26+09:00"
+  "price": "36,300",
+  "pct": "+0.69",
+  "at": "2026-08-26T15:14:54+09:00"
  },
  "articles": [
   {
@@ -19326,6 +19326,52 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T15:04:25+09:00"
+  },
+  {
+   "id": "bd37522fe5bdbf8b",
+   "title": "[포토] 카카오 기습 분할 예고에 직원 집단 반발",
+   "outlet": "천지일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FQ0ZkWTdNRjJlVWtqYURFbTgtOE5vYWw4Z1ItZmRjeU9oaWljTmFrS1hNSFM0NDZBdG04T3BYWFNUVDFDN0FXZEVGRWUwQ2p0MzVRYmxjTk5LdW9vLXBLbVlHTUtSR3JkVVE?oc=5",
+   "publishedAt": "2026-08-26T15:09:45+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T15:14:52+09:00"
+  },
+  {
+   "id": "b1382ae491243ec4",
+   "title": "번아웃 온 지역 AI 창업가들, 부산 바다서 재충전…카카오 AI 돛 첫 캠프",
+   "outlet": "스마트투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ubm9QUlllMTVjcmF6d1pLN1ltZWpMVTJhODBBSVhoRXV2MWJOczVuT0U3cmFZeDZISlVZN29iSkptYXhfTUJERjZ6WjRpaVdBeFNEaVRUWG14UjJya2Q4?oc=5",
+   "publishedAt": "2026-08-26T14:55:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T15:14:52+09:00"
   }
  ]
 };
