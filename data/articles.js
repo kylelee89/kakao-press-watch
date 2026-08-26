@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T10:28:18+09:00",
- "runCount": 601,
+ "generatedAt": "2026-08-26T10:39:39+09:00",
+ "runCount": 602,
  "price": {
-  "price": "36,350",
-  "pct": "+0.83",
-  "at": "2026-08-26T10:28:19+09:00"
+  "price": "36,450",
+  "pct": "+1.11",
+  "at": "2026-08-26T10:39:39+09:00"
  },
  "articles": [
   {
@@ -18757,6 +18757,54 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T10:28:18+09:00"
+  },
+  {
+   "id": "6d53a74876333f91",
+   "title": "'두 개의 카카오' 위에 케이큐브…지주사 없는 인적분할",
+   "outlet": "라이센스뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tcHVnbFJrazRBcUM1Q2NFNHpDMXNWNmVZNVVxZlgyd0hrRUU4eE5xVHhzQmpQMWlUV2dCand3VjNyaV9ISnd2bXlqRHB3TXhudmdwcEFRNnV0eWRxaUtKcDlkc0V0QTJxX2RZ?oc=5",
+   "publishedAt": "2026-08-26T09:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T10:39:39+09:00"
+  },
+  {
+   "id": "5e39c41db641c01c",
+   "title": "카카오, 'AI·투자' 분할 앞두고 노조 반발에 직면…공동교섭 새 변수로",
+   "outlet": "서울이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGTF9NMXZFMmRaaTdjSm9WQzF3T21RRlJuYUJlQmFualI3OVpSSmt6MGR6a0Ytaks0akwya3p2TVpsT1NzSVh6bGQzU2pBeDhBbDh0VzViTzV5NDA5X01MZkdpeFFudE5rck04VW93?oc=5",
+   "publishedAt": "2026-08-26T10:24:55+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T10:39:39+09:00"
   }
  ]
 };
