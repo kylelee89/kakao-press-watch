@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T17:13:00+09:00",
- "runCount": 633,
+ "generatedAt": "2026-08-26T17:23:26+09:00",
+ "runCount": 634,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T17:13:01+09:00"
+  "at": "2026-08-26T17:23:26+09:00"
  },
  "articles": [
   {
@@ -20476,6 +20476,76 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T17:13:00+09:00"
+  },
+  {
+   "id": "69e377f48f2f485f",
+   "title": "카카오 인적분할···노조, 고용 불안 해소 ‘공동교섭’ 추진",
+   "outlet": "참여와혁신",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nR3U5RGZ4Q0g2TEVXYURtOTF4dHRHREVvMkg3Z1VkV3V2Z2t0RkdQWkJuNXNIZlJ2MnF2V2ttaWVRRDhPTjJ5VndJdE5WSDRSZHg4MzBkNG93VlE1Y3VsUzIwM1l2aENTa25aZzVR?oc=5",
+   "publishedAt": "2026-08-26T17:10:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:23:26+09:00"
+  },
+  {
+   "id": "0fd392909dfd5158",
+   "title": "카카오 노조, 인적분할 총력 저지···\"주총서 부결시키겠다\"(종합)",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oMlNnNlNiWHRnQ3FjVWtBYmx1aDZqTU9xQVBoVVNZWVBxdDVYa2lkM1VaVkJrMGRFSUY1b3dvWkFDckNkLXc3X3J0cndXcmpHNTV5azFfOUQ2U2c3cUx4S1FRNFJveUFNSHc?oc=5",
+   "publishedAt": "2026-08-26T17:14:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:23:26+09:00"
+  },
+  {
+   "id": "f10a0340293332a9",
+   "title": "카카오 노조 \"인적분할 반대\"…12월 주총서 부결 추진",
+   "outlet": "스페셜타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GRnd2TUdZRUVxTjRtajhBZ3dsUlU4QWdoQTRZb2M1ZVdhMUJYbGsxek9BakJMaTZnM2R5a05tTjBqMC1EWlVwQkN4SFV2RjBmd2ZFVzdmMFVBRjNPdk84VFRuWTlnYmFFQmZ4NXlQQnJUdw?oc=5",
+   "publishedAt": "2026-08-26T17:20:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:23:26+09:00"
   }
  ]
 };
