@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T18:21:13+09:00",
- "runCount": 639,
+ "generatedAt": "2026-08-26T18:31:37+09:00",
+ "runCount": 640,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T18:21:14+09:00"
+  "at": "2026-08-26T18:31:38+09:00"
  },
  "articles": [
   {
@@ -20984,6 +20984,100 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T18:21:13+09:00"
+  },
+  {
+   "id": "d5055db4d1178f24",
+   "title": "\"인적분할 반대\" 카카오 노조, 12월 주총 부결 추진⋯사측 \"소통 이어갈 것\"",
+   "outlet": "아이뉴스24",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fNzBYM1AyTUNoSWdzanRVaFdEUU1IYmc5TkV5ajY4WFM4TXhZak4yTnBXSzM2djNuWk9BcjZFYU9EdE9kQUJ0TmEtVQ?oc=5",
+   "publishedAt": "2026-08-26T18:27:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:31:37+09:00"
+  },
+  {
+   "id": "e68e37c1e4a45e6f",
+   "title": "[WIKI 현장] 카카오 쪼개지자 노조 뭉친다…'공동교섭'으로 분할 맞대응",
+   "outlet": "위키리크스한국",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUEY2eEhsaU96XzZ2NTVia1hhTHpuWnBNeWpJQ2tCSnozZ193aGNfRTIzS240bXNzRUJQOGRkb2hiVS1qZU9qQnRPNVpWTFZqelpON1VDam1INERfVG4xczB0VGxXSVV1WnJMd0NHaw?oc=5",
+   "publishedAt": "2026-08-26T18:02:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:31:37+09:00"
+  },
+  {
+   "id": "b537db3d4a098544",
+   "title": "카카오 노조 \"인적분할 반대\"…주주총회 안건 부결 추진",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hTk5YMUZINmF3Y1ZoR1NFY0ZEanpYQmh4X0FGX2N3dXNGYUpaVGxpczIxUXcwcW50cllxRk5zbk5OU3NCV0gtVE1OSWVoek1zc0Jn?oc=5",
+   "publishedAt": "2026-08-26T18:08:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:31:37+09:00"
+  },
+  {
+   "id": "ebec1a2f2c63f1dc",
+   "title": "“회사는 쪼개도 책임은 못 쪼개”… 카카오 노조, 인적분할 반대·공동교섭 촉구",
+   "outlet": "내외경제TV",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2WlY3SFFSZTR3ZlZ1eEd3c3g2czZWRmVWWjA1eEptY0ttSGF1QTB0MGNCWUtPNWtwM1VYSUZ0b3FhcEVtVEhkZjItdU1ycV96NHhhRWdlQjk2aTBTSkpuQUdrVWF3NXRjXzh3?oc=5",
+   "publishedAt": "2026-08-26T18:19:41+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:쪼개도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개도"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T18:31:37+09:00"
   }
  ]
 };
