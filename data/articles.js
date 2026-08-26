@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T14:21:53+09:00",
- "runCount": 617,
+ "generatedAt": "2026-08-26T14:33:16+09:00",
+ "runCount": 618,
  "price": {
   "price": "36,200",
   "pct": "+0.42",
-  "at": "2026-08-26T14:21:54+09:00"
+  "at": "2026-08-26T14:33:17+09:00"
  },
  "articles": [
   {
@@ -19176,6 +19176,104 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T14:21:53+09:00"
+  },
+  {
+   "id": "5d85346b92e864b4",
+   "title": "꼼수냐 수익성 위한 결단이냐…카카오 인적분할 논란",
+   "outlet": "중소기업신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ha0h6NnVwa3JPckZ5eXlOWFlOSVBRQnVHVFlHQTE1U01WdFVodVdQano2cllteW9ZMDladGZGR044bjllSXZwX3NiQk02ck1GN0ZTZUZnYk9UMm1jQnd2RF9nTEZ3Sy0zbE43cg?oc=5",
+   "publishedAt": "2026-08-26T14:22:32+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T14:33:16+09:00"
+  },
+  {
+   "id": "272fb47c56c0ffdc",
+   "title": "[포토] 카카오 인적분할에 노조 반발⋯“책임까지 쪼갤 수 없다”",
+   "outlet": "브릿지경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tYWdzTVV4b3JfWUJMNWhpWFBrUnJLaHdQTHpoZzRlSUt1SWNZNjJRU09zam9FeFdOaDFYZTRVQ0ZaSUVDdnZHWUZQZlN4aGtVaVJ5alZ6Vnp2Zw?oc=5",
+   "publishedAt": "2026-08-26T14:03:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T14:33:16+09:00"
+  },
+  {
+   "id": "8fa6b1ffbd8621ff",
+   "title": "카카오 노조 \"인적분할 막겠다\"…12월 주총 부결 투쟁 예고",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOXzE2NEI5WVMxZ2N2SnpwalFpZ3hjTzhlOERyQ3F4NnVDZV8wUUFFa1pmelJCaG84b3JTWkx5c3BXRm9jR0psUEgzcGtycDJDZkptXzhmcGFYZ0MzdEJLcWUzQXk3QW9aUVh2RTV0VDdneE5KYk5FV1dUR24tOEhselc0SUpyU0xFMkhlcURJS2h1UlBrOVA2cGFnN0dpUHluNEdXUC1CbkZuWFlXUXJqUnloQUVpZkw1Yk9uWm1Yc2ozcWplQzZxM3cyV0tOQ3JIMmVVZ0pJR0lxT0ZLcFVkLUNjV1VkWTFWQTRNLVphS3M0MzlmY05HaG1vTm16VnBIcXNSOWVHS0FKZW4yTnc?oc=5",
+   "publishedAt": "2026-08-26T14:28:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T14:33:16+09:00"
+  },
+  {
+   "id": "ca09d556a3488246",
+   "title": "카카오 AI 돛, 지역 AI 창업가 위한 첫 오프라인 행사 개최",
+   "outlet": "생생비즈플러스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HeDk2cXJUelJxZl9iN05VSlA0UFZ4blU1VENtalo5eVE3RVJxRmRvQi04d3N3aFQyNkw3RUp5amRHVU1FNE41TGlmcUNDXy1lQWpZQm8xa3R6cC04Z0lNNmQzaF9acGV6cGxsaA?oc=5",
+   "publishedAt": "2026-08-26T10:13:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T14:33:16+09:00"
   }
  ]
 };
