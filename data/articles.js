@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T15:25:22+09:00",
- "runCount": 623,
+ "generatedAt": "2026-08-26T15:35:44+09:00",
+ "runCount": 624,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T15:25:23+09:00"
+  "at": "2026-08-26T15:35:44+09:00"
  },
  "articles": [
   {
@@ -19468,6 +19468,56 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T15:25:22+09:00"
+  },
+  {
+   "id": "d70c109561eaa2ec",
+   "title": "[현장] 카카오 노조 “분할안 막겠다”…국민연금·소액주주 설득 총력",
+   "outlet": "마이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9keGpqaGNYUTR1Q0ZZNG50c3lGd0prTzNKbkhMVWdrMDR1YjNwVXp4c3lWVGZYekoxWkREQmpjSngzTGEzRWM0MnZidC1DUXM2aWZLM0wwd1ozMkpMcEQ5Vw?oc=5",
+   "publishedAt": "2026-08-26T15:22:07+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T15:35:44+09:00"
+  },
+  {
+   "id": "63ca507b88d14279",
+   "title": "[속보] 카카오, ‘카카오AI·카카오X’로 인적분할…사업·투자회사 체제로 재편",
+   "outlet": "헤럴드경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tTFVUdGlDdjhIcDU3M3QxRWxvMGUwUGNNRHBiUVVWaUs5TzZ1Sk9kM2hBSUlmMmFiTl9nd0pWQmJ0WXZlVldfZUt3eUtkdVNyeEhlQnVR?oc=5",
+   "publishedAt": "2026-08-21T10:11:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오X = 미래가치 투자회사"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T15:35:44+09:00"
   }
  ]
 };
