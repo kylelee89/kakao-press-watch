@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T16:52:15+09:00",
- "runCount": 631,
+ "generatedAt": "2026-08-26T17:02:37+09:00",
+ "runCount": 632,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T16:52:16+09:00"
+  "at": "2026-08-26T17:02:38+09:00"
  },
  "articles": [
   {
@@ -20313,6 +20313,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T16:52:15+09:00"
+  },
+  {
+   "id": "baacfd9700a528fc",
+   "title": "카카오 노조 “사측 인적분할 반대”…오는 12월 주총 부결 추진",
+   "outlet": "KBS 뉴스",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JczBHZEhINzBrLU8wdzlwdlhmdnhzcjNTYnNWZWpHVFMzNEZHQTVPdTRvNzJESTFSdjN6aDgwNGdoTDBuTTBTTHFldlQyZzVIdjFBcklPTVhoMzg?oc=5",
+   "publishedAt": "2026-08-26T16:35:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:02:37+09:00"
+  },
+  {
+   "id": "09e271aa38a8ddb7",
+   "title": "카카오 노조 ‘인적분할 저지’ 공동교섭 선언…카뱅 닷새 총파업",
+   "outlet": "포쓰저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2VHpZa3FDa0NXREhMOTlkWXZkYzRhVVU0LVBVTHRtcHd6d2JwWjJWVnpxZ2xLTlp6akdHUFZLXzZBRUdFUl9fVHg0UlBsb24tWk5IUHViZ2pJamVJRFh0eUZDaHI?oc=5",
+   "publishedAt": "2026-08-26T16:45:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:02:37+09:00"
   }
  ]
 };
