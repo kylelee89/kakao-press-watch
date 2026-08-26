@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T11:43:01+09:00",
- "runCount": 608,
+ "generatedAt": "2026-08-26T12:56:52+09:00",
+ "runCount": 609,
  "price": {
-  "price": "36,400",
-  "pct": "+0.97",
-  "at": "2026-08-26T11:43:02+09:00"
+  "price": "36,550",
+  "pct": "+1.39",
+  "at": "2026-08-26T12:56:52+09:00"
  },
  "articles": [
   {
@@ -18929,6 +18929,182 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T11:31:41+09:00"
+  },
+  {
+   "id": "1a57410b67114fe9",
+   "title": "카카오 인적분할·카뱅 파업 맞물려… 노사 갈등 고조",
+   "outlet": "천지일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YLURsU2RRYWg3X0lYTF9MWkNzTkVyTFhuV3lZQTFQQWVRX3FBVUhxZW1ETjlRZW5uQU90NGYzMjNwT2d2Rmt0cHN2SkE2SFlJd3NFUUstN0hMOUdLb21fdFpqeWZMZXNDS0E?oc=5",
+   "publishedAt": "2026-08-26T11:36:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T12:56:52+09:00"
+  },
+  {
+   "id": "4ed6c8574ea3418f",
+   "title": "\"주가도 안 좋은데\" 카카오X-카카오AI 인적분할에 주주들 '부글부글'",
+   "outlet": "파이낸셜포스트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96N3IwcjhwbmpKVWhpT0tYeFAyYmU2VkhaOVF1OXNRbS1iZktCYWRLNUFja2ZXMHp0N1h1M1ZXVDg5V1ZBdzBSMkJCMjdkcUtpanZUdU14X2pqR05HSnA4UGVOUGxzTnhHTk1rSGV6NFNyb09G?oc=5",
+   "publishedAt": "2026-08-26T12:40:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T12:56:52+09:00"
+  },
+  {
+   "id": "442c1f2f96b5f249",
+   "title": "카뱅, 닷새간 멈추나…노조 “인적분할도 반대”",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56bjZXTmxhR1lKcEZyQWhGa0VZOXJyZjIweHAxWEZFRjB3aW5ka2tuMEM3UnVCR3IzSDQtTVFFSTJQdkxlY1JzRzhQQUdtYmc?oc=5",
+   "publishedAt": "2026-08-26T11:43:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T12:56:52+09:00"
+  },
+  {
+   "id": "8cd4284ef4f3443f",
+   "title": "[카카오 분할] 승부수 던진 김범수, 성장에 올인…\"더이상 리스크 관리에 힘 안 쏟아\" : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXVLN1B5SEVlMjF0SWR1T2hnN1RxMlRxT0VjYWlIbUJKMVBBa0wzLU8yV0pMN0F5dFBmSzlnQlpfQWRqbTNIRko2R3kxbHBxQ1pkc1NrMTZmbFMtSnpKRkhocHRUcG1yTG1Zblpud0MxbHB6NmY0cDhjNWMtRF9aTHFEOVBGTUdOUy1tcV9QQQ?oc=5",
+   "publishedAt": "2026-08-26T12:00:05+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T12:56:52+09:00"
+  },
+  {
+   "id": "7282867cecbf8b20",
+   "title": "분할 꺼냈지만…한화·카카오 저평가 그대로",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IVjJEaEwyVFlFUkoyMTd5ZjNIRFZYOFVoUm5iUWJfMHdiZW5Na3BBMThBWm0wTVFMQl9jdVpIY0NIMGU3MmxERlc2Mkd0Nm9kM2hUVHV5bUxTcWND?oc=5",
+   "publishedAt": "2026-08-26T12:08:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "SOTP 34.2조 저평가 논거"
+   ],
+   "signals": [
+    "역접:지만"
+   ],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T12:56:52+09:00"
+  },
+  {
+   "id": "1f324178cf4afa35",
+   "title": "카카오 인적분할에 노조 반발…‘카카오AI·카카오X’ 공동교섭 요구",
+   "outlet": "cwn.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16eXNjSFphZjFDV2JzcTRsaF93QjZ4amJTTUdlaUJxVG5qRmpTaTA5enJJdFd3a3NrS2NPemFPbVVMclp5Zm90SVpCbXI1SW1HRURrT1dEZjNtOWtEZnZ5YURn?oc=5",
+   "publishedAt": "2026-08-26T11:47:31+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T12:56:52+09:00"
+  },
+  {
+   "id": "73e2bfa3c5f93abe",
+   "title": "카카오, 장중 1%대 올라…사업 재편 기대감 반영",
+   "outlet": "CBC뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIcDBMYmpWQ2ZqcnRfdE9SZDVyMF9YRlJOUUtkNUs4UkJsazlaZ2o2UHd3Y2I3Y1ZKbmI0RGlPR3g3MDlHMTBFVHdidlpfVDdZV0NtNnFoUUxFS0ZibXpQQkJjbHNXZzM3?oc=5",
+   "publishedAt": "2026-08-26T11:42:00+09:00",
+   "tone": "긍정",
+   "toneScore": 4.8,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:1%대 올라",
+    "호재어:기대감"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "1%대 올라",
+     "기대감"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T12:56:52+09:00"
   }
  ]
 };
