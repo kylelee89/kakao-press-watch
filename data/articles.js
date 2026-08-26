@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T17:33:50+09:00",
- "runCount": 635,
+ "generatedAt": "2026-08-26T17:45:10+09:00",
+ "runCount": 636,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T17:33:50+09:00"
+  "at": "2026-08-26T17:45:11+09:00"
  },
  "articles": [
   {
@@ -20594,6 +20594,85 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T17:33:50+09:00"
+  },
+  {
+   "id": "f188342b9b0756c8",
+   "title": "카카오 노조 “쇄신·안정 대책 부족…인적분할 반대”",
+   "outlet": "국제신문",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRVJ0Y2IzbFQ1ZzRIb2xSNV8tLUp0WTBNOEh5UmV2X2plOC1tenJZa2ZkYmVabXgwaWVYa0VjaV9DUS1aWUtoT054V3JTVWNqM1F2YmdSbTlFY2sxejY3MS1zSU9ZWE5IYVpvZHNibUxVUlhIakNWMTRRZjNlYlBXOS16SE01V2Q5WFdmXzljRDE1S0k?oc=5",
+   "publishedAt": "2026-08-26T17:34:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:45:10+09:00"
+  },
+  {
+   "id": "44567be309347bd2",
+   "title": "카카오 노조 “인적분할 반대”…주총 안건 부결 전면 대응 나서",
+   "outlet": "강원도민일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uNVFSUkF2b19RWW5vTDlFeUh6clpGLXZvVnBnRS1qbDZ3TG1pMWZEZUhIRTA3WHFjVExwRnI4S1Q4aXpjS010MGYtakJ4Um10YnRDOWZEelFYVE1HaFIzN3JyTFZBcHM?oc=5",
+   "publishedAt": "2026-08-26T17:34:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:45:10+09:00"
+  },
+  {
+   "id": "8e2b4bc07bf86ce6",
+   "title": "오너 리스크 방패막이용? 다시 논란된 카카오 지주사 '쪼개기'",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VOVNjR093U3BNazRFb2JmMFZ1SjU2WG5aclBpY1Vlc3Vxem5Xbm84eDVVcEMyYkdyWldJZl9yMFRLNkNiUjQ4b2JFMzZHNVZRM3hj?oc=5",
+   "publishedAt": "2026-08-26T17:22:00+09:00",
+   "tone": "우려",
+   "toneScore": -8.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "물음표:?",
+    "적대어:쪼개기",
+    "적대어:리스크",
+    "적대어:논란",
+    "스케어쿼트:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "쪼개기",
+     "리스크",
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T17:45:10+09:00"
   }
  ]
 };
