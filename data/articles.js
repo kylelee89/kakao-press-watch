@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T15:14:52+09:00",
- "runCount": 622,
+ "generatedAt": "2026-08-26T15:25:22+09:00",
+ "runCount": 623,
  "price": {
-  "price": "36,300",
-  "pct": "+0.69",
-  "at": "2026-08-26T15:14:54+09:00"
+  "price": "36,350",
+  "pct": "+0.83",
+  "at": "2026-08-26T15:25:23+09:00"
  },
  "articles": [
   {
@@ -19372,6 +19372,102 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T15:14:52+09:00"
+  },
+  {
+   "id": "585e4126b72c9525",
+   "title": "[포토] 카카오지회 ‘인적분할 반대’",
+   "outlet": "천지일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUEVzVVNnY3BZUzhwSkxDVzFMUy1mTmRlMFZCajlGVFB4UTFadGpmd1VZaDIyRjhMcnN4SXkwaU5CUU5xNkhiMXVUSmtpcG1Ob0ZFSFNlOHowWUdFcjA5VE9pUERCTlg1SUE?oc=5",
+   "publishedAt": "2026-08-26T15:06:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T15:25:22+09:00"
+  },
+  {
+   "id": "ffc4536ee78398eb",
+   "title": "[포토] 판교역 집결한 카카오 노조… 인적분할 반대 촉구",
+   "outlet": "천지일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lZnVPeEcyLU5PYnhHT000Q2U4ZTRXQUU0V3N6dVZReFZXT21QUC1XZVQ4WmptQnZ3UWF6MmtWNFVlOHY3T2tvYTY5V05fYmtNZGE3bkVPb081YmF3cGhKNGp3WGVpbVFZcHc?oc=5",
+   "publishedAt": "2026-08-26T15:12:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T15:25:22+09:00"
+  },
+  {
+   "id": "0e2126b5369f29a2",
+   "title": "카카오 인적분할 막겠다는 노조…국민연금부터 설득 나선다",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vanBWeFRvREJLNXRwWElYRk1BM1FsYmJTbVBST3RHdGdqampKTllYZ3dja2l0V3dJUUZuS1MyWWZYLWd1THJFWHRDbjI2Z0NFX1B2VXc0Q0w5T0pfYTIybtIBeEFVX3lxTE5CckFxTVpoOWM0d2t1cEZUVUlxbDB6NDVXc2dJaFdsS2hxWDNHS21YMm9TQnFiU1VtNFhVa1BKajh4VHhqRDZKXzZqNVhNZmJBMHZCT0FsVUNmellmdnJZUkpaNzdYbkxyTUVGaUlmVlhRWEl6VHo3MA?oc=5",
+   "publishedAt": "2026-08-26T15:10:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T15:25:22+09:00"
+  },
+  {
+   "id": "972a363ca7b270c6",
+   "title": "카카오 노조 \"회사는 쪼개도 책임은 못 쪼개\"…인적분할 저지 예고",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzc2JSNHo5MHRiWkZaY1dQbk04ZDZrSHU0UGhqeW9sUWpmVi1mYmI5WmpwOFEtM2t1VHB3RFVTLUVXSkdubFEzbk9BTldCNWVHajBLazVxa1prdw?oc=5",
+   "publishedAt": "2026-08-26T15:14:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:쪼개도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개도"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T15:25:22+09:00"
   }
  ]
 };
