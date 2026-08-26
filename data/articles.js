@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T15:57:27+09:00",
- "runCount": 626,
+ "generatedAt": "2026-08-26T16:07:49+09:00",
+ "runCount": 627,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T15:57:28+09:00"
+  "at": "2026-08-26T16:07:49+09:00"
  },
  "articles": [
   {
@@ -19700,6 +19700,61 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T15:57:27+09:00"
+  },
+  {
+   "id": "ce086edadd438c99",
+   "title": "카카오 노조 \"인적분할 반대...주총서 부결 투쟁\"",
+   "outlet": "지디넷코리아",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DT2ZIemxGck1EQlVsbXlEM3E3ZmVRbllLOTE1WVpnRG5tOGhOLTJabml0djliOXVvYXAxb2g5THVZM1ZUZ2xmX2RqdmYwVG9xX3lKdk1R?oc=5",
+   "publishedAt": "2026-08-26T16:05:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:07:49+09:00"
+  },
+  {
+   "id": "e217192c37918dc8",
+   "title": "카카오 쪼개기에 싸늘한 시장…\"중복상장 디스카운트 더 커진다\"",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWWpaQWd2MHRDOExfZEFTcE9TMVhlWlFYaTRiMFNQYk1HVEJyVURNdlpHTnNlVDFLX01LQWJORkhXMkpieDNFR1NMcTlsTjI1MnFmM0lQTW1Wdw?oc=5",
+   "publishedAt": "2026-08-26T16:03:54+09:00",
+   "tone": "우려",
+   "toneScore": -7.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:디스카운트",
+    "적대어:중복상장",
+    "적대어:쪼개기",
+    "적대어:싸늘"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "디스카운트",
+     "중복상장",
+     "쪼개기",
+     "싸늘"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T16:07:49+09:00"
   }
  ]
 };
