@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T18:52:30+09:00",
- "runCount": 642,
+ "generatedAt": "2026-08-26T19:03:05+09:00",
+ "runCount": 643,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T18:52:32+09:00"
+  "at": "2026-08-26T19:03:08+09:00"
  },
  "articles": [
   {
@@ -21197,6 +21197,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T18:52:30+09:00"
+  },
+  {
+   "id": "fd99f0cbba408124",
+   "title": "‘SM주가조작’ 공판 나온 카카오 김범수, ‘졸속 인적분할’ 질문에 “추후 말할 것”",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmWjI5NldJT3NqUWRpQjh2aFQ4UmdROEVYMDFETmVDd19wMXRPSVYyWUlQcndjQjQyRHVaLThBc01feUVNdjU3T1ROUXAzSXJySkRYRGJPeDNhRld5TTI5QTI5Um91dFBFMm1jTEpnTlc3eEh0eHfSAXZBVV95cUxQZloyOTZXSU9zalFkaUI4dmhUOFJnUThFWDAxRE5lQ3dfcDF0T0lWMllJUHJ3Y0I0MkR1Wi04QXNNX3lFTXY1N09UTlFwM0lyckpEWERiT3gzYUZXeU0yOUEyOVJvdXRQRTJtY0xKZ05XN3hIdHh3?oc=5",
+   "publishedAt": "2026-08-26T17:02:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T19:03:05+09:00"
   }
  ]
 };
