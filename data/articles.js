@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T18:31:37+09:00",
- "runCount": 640,
+ "generatedAt": "2026-08-26T18:42:01+09:00",
+ "runCount": 641,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T18:31:38+09:00"
+  "at": "2026-08-26T18:42:01+09:00"
  },
  "articles": [
   {
@@ -21078,6 +21078,52 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T18:31:37+09:00"
+  },
+  {
+   "id": "75f56449fed2f5c6",
+   "title": "카카오 노조 “인적분할 막겠다”…주총 부결 투쟁 예고",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fM3M3UFk4Sm5VTmJaUDdpQmlUVW44MHZ0VWk0NV9BQVluSGR3MG5LTEVGNjI2V01sT2ozNUQxY1RGem5SUmVoSHRORWxMQmxMLVRWVE5Pc1RoVmxhOWpwSUo5VDI?oc=5",
+   "publishedAt": "2026-08-26T18:35:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:42:01+09:00"
+  },
+  {
+   "id": "2de43de23ea8e8cd",
+   "title": "쪼개지는 카카오…인적분할로 노사갈등 재점화 [카카오 공동교섭 선포]",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nWE1hMlR6bVFCZnAyU3p5Y0xqcFZvQTFLRFJjTWhUdnotel95Z0dkQ3czR09xVU5kSzh6NDlRbmRCY3FxY1Y5ZFZfQl9hOWVFYlJaaGl1bUJMYmVHZ2hmRw?oc=5",
+   "publishedAt": "2026-08-26T18:29:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:42:01+09:00"
   }
  ]
 };
