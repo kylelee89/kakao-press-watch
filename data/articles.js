@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T15:47:00+09:00",
- "runCount": 625,
+ "generatedAt": "2026-08-26T15:57:27+09:00",
+ "runCount": 626,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T15:47:01+09:00"
+  "at": "2026-08-26T15:57:28+09:00"
  },
  "articles": [
   {
@@ -19622,6 +19622,84 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T15:47:00+09:00"
+  },
+  {
+   "id": "455dccbd37f5b562",
+   "title": "카카오 인적분할에 노조 반발…“고용·책임경영 협의부터”",
+   "outlet": "아시아타임즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IYlZBeFRIQlhhdHdQRkl3LUhXTWZneVRWRHNPTFVxS3RCc2tkSGxmRC1Lb254aXowNmtLTGlRd2psX0ZZazBuQktpTEs4eXo5RnU4QmRyWVJnWEViZUE?oc=5",
+   "publishedAt": "2026-08-26T15:44:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T15:57:27+09:00"
+  },
+  {
+   "id": "669693c4d808477f",
+   "title": "카카오 노조 '인적분할, 향후 지배구조 재편 우려…책임경영 필요'",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mNWVnOUVjTE9yZXdSdTQwMkdZclJwanJRSC1RMWtDbUZrSGh4Z3lpV2lQS2RVSk9EZmI1ZzRjd3l3VGk5X0pKTEVlU1I3aXpiUXd3OW5WNW9mTE1aYm5lbzY2Tm5RZ9IBakFVX3lxTE5qWDd4dGtKN1dCMDRQSkFidzVObVhXT2MzNUNMdWRkdEZzeExkXzJYSXl5QTBTbUNtajFpS2F4NjR5OE5ydkJ5SmgwaGFBWlNwbUF3UTVNLW12cmhsb0lJVHhZaTBDZUw5bWc?oc=5",
+   "publishedAt": "2026-08-26T13:42:24+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T15:57:27+09:00"
+  },
+  {
+   "id": "14866665fc504b2b",
+   "title": "카카오 노조 \"인적분할 반대\"…주총 부결 추진",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ObTc0RGJxbkVMNVJNcUFDNExmWFpYdV9wVkdIejViclgxVXhWazYwOExnNmVWTHRwV0V5aXpLNTB1SFNaWFBwRnJHUVRGcWQ0THFj?oc=5",
+   "publishedAt": "2026-08-26T15:45:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T15:57:27+09:00"
   }
  ]
 };
