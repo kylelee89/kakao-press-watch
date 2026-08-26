@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T14:11:29+09:00",
- "runCount": 616,
+ "generatedAt": "2026-08-26T14:21:53+09:00",
+ "runCount": 617,
  "price": {
   "price": "36,200",
   "pct": "+0.42",
-  "at": "2026-08-26T14:11:30+09:00"
+  "at": "2026-08-26T14:21:54+09:00"
  },
  "articles": [
   {
@@ -19149,6 +19149,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T14:11:29+09:00"
+  },
+  {
+   "id": "4b633bc78b61177b",
+   "title": "카카오 인적분할에 노조 반발…공동교섭 선포식 개최",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52UDFuQTVOXy1UVGxYekc2aW9YUWhzVElNbWJTcnJUbGVOYWlGX3hoeWF4U0VzbXJKcjVIVHg1Y2QxX2hTVXprRHZjUTlMZHBuWTMxQmU2b3VfcDl3UjNTZTVhQ0YzNUlnS3oydlVFcU1mZjdhRkdOZA?oc=5",
+   "publishedAt": "2026-08-26T14:04:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T14:21:53+09:00"
   }
  ]
 };
