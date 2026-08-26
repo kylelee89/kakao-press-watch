@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T13:50:45+09:00",
- "runCount": 614,
+ "generatedAt": "2026-08-26T14:01:07+09:00",
+ "runCount": 615,
  "price": {
-  "price": "36,350",
-  "pct": "+0.83",
-  "at": "2026-08-26T13:50:46+09:00"
+  "price": "36,275",
+  "pct": "+0.62",
+  "at": "2026-08-26T14:01:08+09:00"
  },
  "articles": [
   {
@@ -19105,6 +19105,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T12:56:52+09:00"
+  },
+  {
+   "id": "7bfdf65553587d0b",
+   "title": "카카오 AI 돛, 첫 오프라인 행사 ‘세일링 부산 2026’ 진행 … 지역 AI 생태계 구축 시동",
+   "outlet": "카카오",
+   "outletGroup": "회사발표",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VeklfU0RzOTFLekJSTHVKSFk2REZ6a1ZOTmlqTnFUYUJoT051UUt5LUxBZXlVWGpuRExjU3FhNVF3TmlpV3hnMEpXZGdFb01qVzZwV1h3?oc=5",
+   "publishedAt": "2026-08-26T07:57:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T14:01:07+09:00"
   }
  ]
 };
