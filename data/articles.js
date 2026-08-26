@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T14:54:02+09:00",
- "runCount": 620,
+ "generatedAt": "2026-08-26T15:04:25+09:00",
+ "runCount": 621,
  "price": {
   "price": "36,250",
   "pct": "+0.55",
-  "at": "2026-08-26T14:54:03+09:00"
+  "at": "2026-08-26T15:04:26+09:00"
  },
  "articles": [
   {
@@ -19274,6 +19274,58 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T14:33:16+09:00"
+  },
+  {
+   "id": "f6049f81c4208a86",
+   "title": "카카오 인적분할에 노조 반발…오후 공동교섭 선포",
+   "outlet": "SBS Biz",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GazVGYlJRc0pRQWhMVGoyRUNRX0N2aGxNUWVBd1o4MmpKcTdfa1dGZnRvZ2hjRU1GUEozYjZaaTd5NzYwNDlNeHpXSlk4clYxaWhLdzZuX1HSAVhBVV95cUxPRms1RmJSUXNKUUFoTFRqMkVDUV9DdmhsTVFlQXdaODJqSnE3X2tXRmZ0b2doY0VNRlBKM2I2Wmk3eTc2MDQ5TXh6V0pZOHJWMWloS3c2bl9R?oc=5",
+   "publishedAt": "2026-08-26T09:46:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T15:04:25+09:00"
+  },
+  {
+   "id": "7262e1b8652d826f",
+   "title": "카카오 '기습 분할'에 집단 반발…\"부결위해 싸울 것\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4alI1RjQ5UlVsQ2RsLWtnV1VoeURtX1RoaUpaUC0zMkkyc0k3bXdIN0g0aXBjRXZsTUxYelFJWmxjR21iRUgxbkZxZ0lLSmRVQzA0?oc=5",
+   "publishedAt": "2026-08-26T14:52:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T15:04:25+09:00"
   }
  ]
 };
