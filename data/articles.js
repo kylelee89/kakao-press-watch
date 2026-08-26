@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T14:01:07+09:00",
- "runCount": 615,
+ "generatedAt": "2026-08-26T14:11:29+09:00",
+ "runCount": 616,
  "price": {
-  "price": "36,275",
-  "pct": "+0.62",
-  "at": "2026-08-26T14:01:08+09:00"
+  "price": "36,200",
+  "pct": "+0.42",
+  "at": "2026-08-26T14:11:30+09:00"
  },
  "articles": [
   {
@@ -19126,6 +19126,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T14:01:07+09:00"
+  },
+  {
+   "id": "e46eb698d2000b0a",
+   "title": "카카오 노조, 공동교섭 공식화···첫 목표는 '인적분할 저지'",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82eFNnRVV1THF6MTlwUVBraWQ4ZkF6empiVk5NMDFjRUtONjIwYS04eDdpcHlrY29iTHR5M3ZETHI4YUNNR01XWXNMUDBqUkJwd19XMkk3NS1MTWljWlhBdldqb2gtVVNQNnc?oc=5",
+   "publishedAt": "2026-08-26T14:00:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T14:11:29+09:00"
   }
  ]
 };
