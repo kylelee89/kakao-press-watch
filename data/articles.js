@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T16:40:53+09:00",
- "runCount": 630,
+ "generatedAt": "2026-08-26T16:52:15+09:00",
+ "runCount": 631,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T16:40:54+09:00"
+  "at": "2026-08-26T16:52:16+09:00"
  },
  "articles": [
   {
@@ -20244,6 +20244,75 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T16:40:53+09:00"
+  },
+  {
+   "id": "6b26847bb20b3aad",
+   "title": "“인적분할 반대” 카카오 노조, 주총 부결위한 행동 나선다",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tcHBlVVBaeGpfVjhUM1ZSZnZZUk1JaDczR3JtdlVvLXF6WnJQVmRGeEd6OUpCeEVUbGJzSmxrRHlqal95N28wNmJMR1ZidzQ?oc=5",
+   "publishedAt": "2026-08-26T16:44:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:52:15+09:00"
+  },
+  {
+   "id": "230a009d4484b42b",
+   "title": "카카오 노조 \"주총서 인적분할 저지···반대표 확보 가능\"",
+   "outlet": "서울파이낸스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11UUdsenlHaGxYSjhkNi1oS1hrb1I2dWZadE1ycEFqRHYxWnRzd3R2UUhUNHZ5ZXlpNHJOYjVRd01iNWNZNnpSaFFzTzlXalFXME9RLVpYSW9tNXZJTE92cktFZmg2LUhObHc?oc=5",
+   "publishedAt": "2026-08-26T16:36:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:52:15+09:00"
+  },
+  {
+   "id": "5acaba10111d3eb2",
+   "title": "카카오 노조 \"쇄신 없는 인적분할 반대…주총 부결 추진\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJNGIwTnc4SlQwWFB3Xy0xWS1kZGpleWUwckMyM0VKcUIxc1EzOHlzVmtzQk14am5Qaml2RGRTUFV4XzlYWUpNcjFFTnl6MHV5ZHVv?oc=5",
+   "publishedAt": "2026-08-26T16:34:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:52:15+09:00"
   }
  ]
 };
