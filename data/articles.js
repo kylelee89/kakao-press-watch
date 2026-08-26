@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T17:02:37+09:00",
- "runCount": 632,
+ "generatedAt": "2026-08-26T17:13:00+09:00",
+ "runCount": 633,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T17:02:38+09:00"
+  "at": "2026-08-26T17:13:01+09:00"
  },
  "articles": [
   {
@@ -20359,6 +20359,123 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T17:02:37+09:00"
+  },
+  {
+   "id": "52e0ea6d795b6c91",
+   "title": "카카오 노조, 인적분할 저지·공동교섭 요구… 31일부터 카카오뱅크 닷새 총파업 - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjhFY3MzUWRpUnp5OVVRUDdaNW5ZRlA1akFwSUM1bUdrNjQtQnF0SWJWaE1nUkJiTGNCMHJ1cVVZUWdBSnhWWTV5N3czWnhiaVZtQndRam9LTnRvTnpxT3J6Vm93ZTIyR0lXUGxMeGJESU4yTFlUR0pPNGV2eEZIOW5n0gGWAUFVX3lxTE5ScWQ5ZVRWOWlhOXVodl9SZkhkOXF1MFFCUnB1a0VsVl8xM2stSlFta3BOTnFyNDNiS2pjaGRWci1ESVBrZnFtbXJuMlFSdTJzSm11Q1BCcnF0Yk8wYVpnOTlpWVcyOHVDZzF2VDdqb1JEMkdhaEgtNFFod2VSN0hNbndGNk1mSnpPNDlMTVFYUUR5STQ2QQ?oc=5",
+   "publishedAt": "2026-08-26T17:01:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:13:00+09:00"
+  },
+  {
+   "id": "a5d9d8bb0ca00b71",
+   "title": "[현장] “12월 주총 부결”… 카카오 노조, 인적분할 저지 총력 투쟁 선포",
+   "outlet": "천지일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pQVlUZ0RZaWppVlByeTVnXzRncHppZnJ3THFoRkVnV21SdmllQWdUVERuX2hlT0VLRVdZZU9DWXB0QnQ1SktPcHJfaThud0NfRHY3aG5FVmxLaXFacUJIMS1JZzJPQUpUZHc?oc=5",
+   "publishedAt": "2026-08-26T17:01:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:13:00+09:00"
+  },
+  {
+   "id": "ca51628ab556b311",
+   "title": "카카오 노조 “회사 쪼개도 책임은 못 쪼개”…주총 부결 추진",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMekFRQUNyVkNvcXlaRTlYdHJ5Mjkzak82QWlrUm5meXJRa0JGbXVKNE9LT01oRnFwaDBrM0lscVB4ODV0bTFFNjRKX3k1Zw?oc=5",
+   "publishedAt": "2026-08-26T17:02:56+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:쪼개도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개도"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T17:13:00+09:00"
+  },
+  {
+   "id": "4d310f90f0c87ff0",
+   "title": "[현장] 카카오 노조 \"인적분할 막겠다\"…공동교섭 선포",
+   "outlet": "시사포커스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Sak5aT1c1Z0tQSFVtSHBDcHdVXzBuVkJheEFfNUREM0VhOEFZVGowX3B1d2VzYVpCc2JoZmRvQnd1WTdtYUtLaXl4bXNGanRTeV9vZnRTR2phRTJ2V0NmZTVwUmpVRGdFdEZpSHFLRQ?oc=5",
+   "publishedAt": "2026-08-26T17:02:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:13:00+09:00"
+  },
+  {
+   "id": "11c1a54f235b8137",
+   "title": "카카오 노조 \"인적분할 반대\"…연말 주총 부결 추진",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UQ1ZqQVJZTXJPMHVsbWY2M1BBbEx0WENVcDk1aDZ4Tkw5c0UxaG42QTNuOTh2SF9DT1JwS3ZPeGpRYXpTaGw3aTdGeEdnbDRta1lFWWpTMWJvOXBP?oc=5",
+   "publishedAt": "2026-08-26T16:49:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T17:13:00+09:00"
   }
  ]
 };
