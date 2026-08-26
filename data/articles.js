@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T10:17:58+09:00",
- "runCount": 600,
+ "generatedAt": "2026-08-26T10:28:18+09:00",
+ "runCount": 601,
  "price": {
-  "price": "36,500",
-  "pct": "+1.25",
-  "at": "2026-08-26T10:17:58+09:00"
+  "price": "36,350",
+  "pct": "+0.83",
+  "at": "2026-08-26T10:28:19+09:00"
  },
  "articles": [
   {
@@ -18731,6 +18731,32 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T10:17:58+09:00"
+  },
+  {
+   "id": "5f4533ef0a049897",
+   "title": "카카오X의 숙제…카뱅 대주주 자격 유지 '관건'",
+   "outlet": "numbers.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQWR1RjVnWGJ2NmwxMlk3SFlHRkVxWTNaT2o5d01ZWVU3bF83NDhZX243SEQ4LXhnSTd6Mm1JTjBsbnFIWHlodnpySUpPdmFkNGxZSElhSERfOFZRaHAwSmZQbDhkaURYNXM0?oc=5",
+   "publishedAt": "2026-08-26T10:01:55+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:숙제"
+   ],
+   "frames": [
+    "규제/거래소",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "숙제"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T10:28:18+09:00"
   }
  ]
 };
