@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T11:00:29+09:00",
- "runCount": 604,
+ "generatedAt": "2026-08-26T11:10:52+09:00",
+ "runCount": 605,
  "price": {
-  "price": "36,200",
-  "pct": "+0.42",
-  "at": "2026-08-26T11:00:30+09:00"
+  "price": "36,250",
+  "pct": "+0.55",
+  "at": "2026-08-26T11:10:53+09:00"
  },
  "articles": [
   {
@@ -18805,6 +18805,56 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T10:39:39+09:00"
+  },
+  {
+   "id": "f59f139090795397",
+   "title": "[카카오 인적분할] 해외 빅테크도 분할 통해 가치 재평가…카카오의 미래는",
+   "outlet": "뉴스톱",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UamluRzN0YUNGQjJndWNvZTFEUTdnb0pmMXRRM2JhUVFvVkZFYzlibi1fdG1mWDhzSXBBZlJlbmRVWS1aMEg2c2tPdGhtYWxVRW1PMGV2WWV6TE5oMVRseUc2RlA3b2RPUFhBbXFpcw?oc=5",
+   "publishedAt": "2026-08-26T10:57:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T11:10:52+09:00"
+  },
+  {
+   "id": "5944b8a6caf2c152",
+   "title": "카카오, 15번째 기업 분할 '후폭풍' … 이번에는 다를까?",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FYnF0a1ZSSlA1YmxkN1NwN3VFdTJkNC05b1M2LU5ZWE9WWlc1U1NaS0dJSHVxV0dKX0FxYjJGLTFWbXg0ZWNrNDc5UmhhWTB6a0FvcnhEdldNWG5xMkhnelFGcDBLYlhWbmhxUkJ2d2pldWhNbmRJN05rRdIBgAFBVV95cUxOZ0xWTm81WDF4cWdRS2hHWjRneEd6ektRY21jT0RoX2cwbkRDbTlBT212VW92UV9qXzIxNnctdzhBS0IyQkxpdVJtVmFBd2pteFBWUFdWYXFFYXdzSnN5R2xJTXVTMGV2UDdBTkZHN0ZJem51SlQwdlQtYUw5U2hDQQ?oc=5",
+   "publishedAt": "2026-08-26T10:31:56+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?",
+    "적대어:후폭풍"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "후폭풍"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T11:10:52+09:00"
   }
  ]
 };
