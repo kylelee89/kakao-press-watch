@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T17:58:36+09:00",
- "runCount": 637,
+ "generatedAt": "2026-08-26T18:09:57+09:00",
+ "runCount": 638,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T17:58:36+09:00"
+  "at": "2026-08-26T18:09:58+09:00"
  },
  "articles": [
   {
@@ -20838,6 +20838,79 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T17:58:36+09:00"
+  },
+  {
+   "id": "80d2cccd7d617ed5",
+   "title": "\"카카오 인적분할 반대\" 노조, 단체행동…주총 부결 추진",
+   "outlet": "신아일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RVzhieWdJU1ZEYWt5SEFQMjFrVWdnOWoxal91UzZ2SzhLRU5mVmJrN01fMkJoZ0pJSUJxYUdGb2NIVzgwa2x4VHBRVGY5b01FUU5BYTl1Z3pRc25pQVY4ZzNHaV8tbFRtOV8tT3A5RGs?oc=5",
+   "publishedAt": "2026-08-26T17:35:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:09:57+09:00"
+  },
+  {
+   "id": "55ee3e56a4c14189",
+   "title": "카카오 노조 \"인적분할 반대\"…국민연금 설득 나선다",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kMW9seGlIS09LVEFwT244RE9ZV2hhbk1pVkNKSXliNmhRMEcwMnJsTHRpd3VWemplT2k1QmpwcktITkhualB1enkwd3N5Njg?oc=5",
+   "publishedAt": "2026-08-26T18:05:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T18:09:57+09:00"
+  },
+  {
+   "id": "5821f3ce2cd50330",
+   "title": "'81억 보상' 논란에 '인적분할'까지…카카오뱅크 노조 \"전면파업\" 예고 [영상]",
+   "outlet": "경기일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpdGlJN25UaXloQUVFM19fdThsd2lrUUJhRzE1VGpESkVzTlJ0MHJ2R3JjNE1kb0NnODVWSmtqekxIQ25DY0VOcUVZOWJNRUJFNHh2dEpUaG5XUjA?oc=5",
+   "publishedAt": "2026-08-26T17:35:29+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T18:09:57+09:00"
   }
  ]
 };
