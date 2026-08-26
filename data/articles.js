@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T11:21:15+09:00",
- "runCount": 606,
+ "generatedAt": "2026-08-26T11:31:41+09:00",
+ "runCount": 607,
  "price": {
-  "price": "36,350",
-  "pct": "+0.83",
-  "at": "2026-08-26T11:21:16+09:00"
+  "price": "36,450",
+  "pct": "+1.11",
+  "at": "2026-08-26T11:31:42+09:00"
  },
  "articles": [
   {
@@ -18908,6 +18908,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T11:21:15+09:00"
+  },
+  {
+   "id": "b4fab14b305e7cc4",
+   "title": "카카오 쪼갠다…‘AI’와 ‘투자’ 두 회사로 분리",
+   "outlet": "더쎈뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zcWdGYnVweW1fT1RGR3MzMVYtMHp4eEVMTmhpelhDMkpnTXlQWXljR2x0YjRmOE1HeVNoODJ6a1RramJLUms0dUtiTmthVXVQazNMSmowMVpZUE1qRUplRG9MUmhvWkt3?oc=5",
+   "publishedAt": "2026-08-21T16:20:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T11:31:41+09:00"
   }
  ]
 };
