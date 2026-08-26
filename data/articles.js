@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T09:45:13+09:00",
- "runCount": 597,
+ "generatedAt": "2026-08-26T09:56:26+09:00",
+ "runCount": 598,
  "price": {
-  "price": "36,150",
-  "pct": "+0.28",
-  "at": "2026-08-26T09:45:13+09:00"
+  "price": "36,100",
+  "pct": "+0.14",
+  "at": "2026-08-26T09:56:26+09:00"
  },
  "articles": [
   {
@@ -18623,6 +18623,57 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T09:45:13+09:00"
+  },
+  {
+   "id": "c36199d4b387254e",
+   "title": "'인적분할' 카카오, 125개 계열사 어디로···김범수의 '새판짜기' 시나리오는?",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mUGx1SjYyR1dBRjl2LWlQcldqM3ZZcTMyNld0S2F1TktOM29vcDJGRDAxMDFvT01jLXpYLWpXR3U3eDdJcU9aVU9BNEtuT0RuYkkzMTNpdGdiTldKVUNGNlFFT0NaZVFUQkE?oc=5",
+   "publishedAt": "2026-08-26T09:51:43+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T09:56:26+09:00"
+  },
+  {
+   "id": "f020c2cf75b780b5",
+   "title": "[카카오 인적분할③] 카카오AI 몸값 6조~17조…'AI 프리미엄' 얼마나",
+   "outlet": "KB Think",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52QkRfOXRHYk83NFlBOEdQOGQxSXJBTTgxa1FicHphbFo3c0EtdUVnaUs5Y2NQQ0dhT3FnbUlwYnppYWN1c3Y0eV91WFBtSGxnM2VBZWUwYnZZNEdxelJJS0pVejdXR3JFc1pHY1U0TUtPUQ?oc=5",
+   "publishedAt": "2026-08-26T08:10:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T09:56:26+09:00"
   }
  ]
 };
