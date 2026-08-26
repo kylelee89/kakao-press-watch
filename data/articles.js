@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T11:10:52+09:00",
- "runCount": 605,
+ "generatedAt": "2026-08-26T11:21:15+09:00",
+ "runCount": 606,
  "price": {
-  "price": "36,250",
-  "pct": "+0.55",
-  "at": "2026-08-26T11:10:53+09:00"
+  "price": "36,350",
+  "pct": "+0.83",
+  "at": "2026-08-26T11:21:16+09:00"
  },
  "articles": [
   {
@@ -18855,6 +18855,59 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T11:10:52+09:00"
+  },
+  {
+   "id": "2f29422fb4c6f45a",
+   "title": "’AI’ 간판 달고 쪼갠 카카오…시총 1.2조 증발에 커지는 불신 By 알파경제 alphabiz",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPYU83SmN0SlAyeVhTMk9hbDlWbUgzWVFSQnM1YXA3bU8xUUFOXzVwemlORGgyalFEYTZHYUtiNFczbUxrM21WVnBDOGY2N1ZPbWFBTDNOdktyRkt4MEF4TVVWYm5VZW8yajdhOTZFeUQ?oc=5",
+   "publishedAt": "2026-08-24T09:48:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:불신",
+    "적대어:증발"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불신",
+     "증발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T11:21:15+09:00"
+  },
+  {
+   "id": "5e38150cf7c40738",
+   "title": "[카카오 대개편③] 시총 16.8조인데 잠재가치 34.2조…`둘로 쪼개는` 이유",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xNGJSU2JwZktDcks2QjB2Z2kxenVXTFdzMGtZMkpZSld3WVpxZlhRXzRwbnpPWllFbVYyVjlnU2l6bjJkTHN1bThaVTZrYzNjLXJtOVVkSkJiTkU0a00tMzZ3?oc=5",
+   "publishedAt": "2026-08-21T12:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "SOTP 34.2조 저평가 논거"
+   ],
+   "signals": [
+    "역접:인데"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T11:21:15+09:00"
   }
  ]
 };
