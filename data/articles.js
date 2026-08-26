@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T16:07:49+09:00",
- "runCount": 627,
+ "generatedAt": "2026-08-26T16:18:11+09:00",
+ "runCount": 628,
  "price": {
   "price": "36,350",
   "pct": "+0.83",
-  "at": "2026-08-26T16:07:49+09:00"
+  "at": "2026-08-26T16:18:12+09:00"
  },
  "articles": [
   {
@@ -19755,6 +19755,151 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-26T16:07:49+09:00"
+  },
+  {
+   "id": "4885d8787a407d8b",
+   "title": "카카오 노조 \"인적분할 반대\"...주총 부결 위해 주주 설득",
+   "outlet": "디일렉",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rcHNxOEFVRjkwQ081NGFONU5CaUkwYmlJbmpYT1VzQzB0RF9PazNMX1dLSG1pYnhRWnkxNURURkVoa0I1c1lRblZKZUZRb2NjeDMxck1abkNSd0NlZmxrdlkzR29Vdw?oc=5",
+   "publishedAt": "2026-08-26T16:14:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:18:11+09:00"
+  },
+  {
+   "id": "c8faf8eb32a25cf4",
+   "title": "카카오 노조 “인적분할 막을 승산 있다”…국민연금부터 설득",
+   "outlet": "한겨레",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41cHFDcVBVelk5UzN3NXJMajlSdkpPQnpoOFFuQzA2OWNOMFBhQ01xMDlWUVZaS3QySEFGTFRweEJnYklXVmstQmEzNjVKUnZ5a3ZQaHBVV1ZRNFd3Nk9NRA?oc=5",
+   "publishedAt": "2026-08-26T16:12:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:18:11+09:00"
+  },
+  {
+   "id": "6d05ee2fd4e30daf",
+   "title": "\"기업 분할, 12월 주총서 부결시킬 것\"…카카오 노조, 공동행동 선언",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iRGhBOVBTbnpGc1JQa3V5VVY4Q0htM3NWWDk2eWo5cUVxalpjZGxud19SenN1dFloZG45NDZjRWRoTlBEWWZoM21RVzZmYVdzeDNlMFY4aGJqRUQ1RExsYmZPNVU?oc=5",
+   "publishedAt": "2026-08-26T16:08:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:18:11+09:00"
+  },
+  {
+   "id": "719eaf72df7ba5d4",
+   "title": "'기업가치 17조 제고' 전망에도…카카오 노조는 \"인적분할 반대\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCRWVFWk1JVUJXaGJDU2FSZzdTQ3QydnR0UkhmSTJaa242cE5RNHV0MEhaUDlVLXkxWWprdkRNSmkwLUIxeTRCLUdMQXd6RFB4N09jSUZkX3VCU0hqWXJ4T2h1X3h2bmlEWlRndXVKVExna0QxemMzWA?oc=5",
+   "publishedAt": "2026-08-26T16:11:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:에도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:18:11+09:00"
+  },
+  {
+   "id": "6a2531f0da3adbbf",
+   "title": "카카오 노조 '정면 충돌', 인적분할 12월 주총 '부결 작전' : 기업·산업",
+   "outlet": "재경일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EdHA4Q2JfM3JmZFBmX1pYWnRtYzF2MjRRQzJwUjhlNGR1NVB6enlDYW9pdFNxRWNIMm1ESFdpR1VlWVZmaW1DWEt3?oc=5",
+   "publishedAt": "2026-08-26T16:01:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-26T16:18:11+09:00"
+  },
+  {
+   "id": "eabd5fe5fb52667a",
+   "title": "카카오 쪼개기에 노조 반발…\"김범수 사법 리스크와 무관한가\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wd2l3dUJmaGpTd0lCcWswWVgxYzBqQjY2TXgzY3FzN2IzMUR5THV0SEZZdE01cHAxa3RvZEpnQVFnM3RQMzJsYWVlVWRPZ1czUjQw?oc=5",
+   "publishedAt": "2026-08-26T16:09:00+09:00",
+   "tone": "우려",
+   "toneScore": -5.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기",
+    "적대어:리스크",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "리스크",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-26T16:18:11+09:00"
   }
  ]
 };
