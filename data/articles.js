@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T11:40:12+09:00",
- "runCount": 653,
+ "generatedAt": "2026-08-27T12:38:11+09:00",
+ "runCount": 654,
  "price": {
-  "price": "36,250",
-  "pct": "-0.28",
-  "at": "2026-08-27T11:40:13+09:00"
+  "price": "36,175",
+  "pct": "-0.48",
+  "at": "2026-08-27T12:38:12+09:00"
  },
  "articles": [
   {
@@ -22010,6 +22010,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T11:40:12+09:00"
+  },
+  {
+   "id": "30d889e840a0d686",
+   "title": "카카오 인적분할 앞두고 노조 양면 압박에 직면 : '주총 부결 공세'에 '카카오뱅크 전면파업' 예고도",
+   "outlet": "허프포스트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxTzlqTldVaFNaNGhrQ3hMaEhqNlpvbl9RaWhiY3JQR2stZEl6bXYzSHNtMlVaaG9FRVE3Z054bEtLeGcybGxUWTJmNzZGOW1PSWNMWlItTQ?oc=5",
+   "publishedAt": "2026-08-26T17:30:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:고도"
+   ],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T12:38:11+09:00"
   }
  ]
 };
