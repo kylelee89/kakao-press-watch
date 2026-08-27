@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T13:44:12+09:00",
- "runCount": 660,
+ "generatedAt": "2026-08-27T13:54:34+09:00",
+ "runCount": 661,
  "price": {
   "price": "36,100",
   "pct": "-0.69",
-  "at": "2026-08-27T13:44:13+09:00"
+  "at": "2026-08-27T13:54:35+09:00"
  },
  "articles": [
   {
@@ -22035,6 +22035,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T12:38:11+09:00"
+  },
+  {
+   "id": "016ec076facb1959",
+   "title": "[데일리토픽] 카카오 둘로 나누자 노조 뭉쳤다···인적분할 '험로'",
+   "outlet": "현대경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81MDZYXy11Uk5iaV9fdWUwaThiQno1bG5UeENkV0QwSjNrR0tLaVlqdXg1TDA1NXZpeExtY09uQXhXaG9BWk1DTEs2ckkxcTFYdmRxMFItOHZOa2FwaDR4c0lkai1zQjdm0gFrQVVfeXFMTlBFT3JSdWFnY19sR1RXLVJfdlY0N204TWRrSFFhUDRYcXI2bGZGaFYyeEdOSV9ZRUNCQzR6UXBCMVVzZDhOT0R3T25QdUY4MXBFZG9VbTB0UW1FaUlLQWNVSEdVMk80aFNvVHM?oc=5",
+   "publishedAt": "2026-08-27T11:00:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T13:54:34+09:00"
   }
  ]
 };
