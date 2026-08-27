@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-26T19:03:05+09:00",
- "runCount": 643,
+ "generatedAt": "2026-08-27T10:04:26+09:00",
+ "runCount": 644,
  "price": {
-  "price": "36,350",
-  "pct": "+0.83",
-  "at": "2026-08-26T19:03:08+09:00"
+  "price": "36,300",
+  "pct": "-0.14",
+  "at": "2026-08-27T10:04:40+09:00"
  },
  "articles": [
   {
@@ -21221,6 +21221,697 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-26T19:03:05+09:00"
+  },
+  {
+   "id": "4604ea76a0340280",
+   "title": "같은 인적분할인데 한화와 카카오 주가 엇갈린 이유는",
+   "outlet": "조선일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUFVOGlZTzEwb3NHSDA1UnY3eTFVSHR0NFdRZGttQkJtWWZBMVJlMlRLSWxzbTJLbVhLOFJDclhwbWFtcTk0Z0VILV81cHk2UHFCV2VzZGd3cW5DSTNQRlptVHJfWF84QUkwZlNIWDNmUGxGaW8zcGRwckJ6TVNNNUl5bjhBd04tbDRR?oc=5",
+   "publishedAt": "2026-08-27T08:59:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:인데"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "ebf54a0441b71d18",
+   "title": "[카카오 분할] 김범수, 인적분할 성공 위해 노조 설득 '절실'",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84RGRTQ3FyOXB0cVlzYktubnpyLW9HbnpCQ3VPRkFDZzc1dVYzT0dROXdZcEM0V2FBVlZxcEIySXAxNEh3OEdVc21BWGZoMm8?oc=5",
+   "publishedAt": "2026-08-27T08:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "2a73ce60e60726e1",
+   "title": "카카오 노조 “인적분할 반대”…국민연금 등 주주 설득 나선다",
+   "outlet": "리더스팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sVG84dXFPaW5BanNISjFYb0xGVjVYZTNEb3VxWHFRSlB5aS1tTnNJeTl6SUpNQXI0eHpUZzNXXzdfREtoZEVOMEJscnNWejk4cWtzWG1pZ2ZvQjV3bzZYc3plNzYxMmplaExvR0RHOEs?oc=5",
+   "publishedAt": "2026-08-27T09:03:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "fa68a6f64190f851",
+   "title": "'쪼개기 상장' 막히자 회사 둘로… 카카오 '인적 분할'에 주주들 반발",
+   "outlet": "더퍼블릭",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtOHlNbldfeUYtTWZhQThSWEpKM0dUMjdfQ2p4VVEtZ3lRaWxNT1oyc2xBa2g2dmE4LVJRdkFIc21adlQyUzRfczd5Si1IUFZFQVhSQ3BMS2JzY1VBSlRDeFRjZE1hSHFUaXlacWJTY9IBb0FVX3lxTFBtOHlNbldfeUYtTWZhQThSWEpKM0dUMjdfQ2p4VVEtZ3lRaWxNT1oyc2xBa2g2dmE4LVJRdkFIc21adlQyUzRfczd5Si1IUFZFQVhSQ3BMS2JzY1VBSlRDeFRjZE1hSHFUaXlacWJTYw?oc=5",
+   "publishedAt": "2026-08-26T23:30:28+09:00",
+   "tone": "우려",
+   "toneScore": -6.0,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:쪼개기",
+    "적대어:반발",
+    "스케어쿼트:쪼개기 상장"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "반발",
+     "쪼개기 상장"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "ef3509bd242c434b",
+   "title": "[현장] 공동교섭 목소리에 기름 부은 인적분할···카카오 노조 \"8월 안에 답 없으면 다음 행동 나설 것\"",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sZDA3YkltZGtpbnh1RWRYdE9lUWp4SXAydTVBbTY3dmpId0hFZnlFdHg5NEVoUDd3S3I2SVY2eTlZTDZZaERPbG5HYXBhVXo3RW1QZmktNEM2SDdlVUh1ZjZ6TDB4dVdONjhRME9lWHY3Zw?oc=5",
+   "publishedAt": "2026-08-26T17:57:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "5f4091704406158b",
+   "title": "인적분할 반대 카카오 노조, 12월 주총서 부결 추진",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xMEpRd05IV2RUMlV0X2NFVGg0UjZRM3ZhemNycTcxd0c5MTF2RXdYLWZ4Nml2alBHbWkzMngxS0pPOVNFQlA4V2lVZU54MWg1NXhRZlJlOXBhSC00VzF6TENtVGQ?oc=5",
+   "publishedAt": "2026-08-26T17:00:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "08ed04c17717b330",
+   "title": "[카카오 분할] ③카카오AI 자회사 윤곽…DKT·케이앤웍스·링키지랩 편입",
+   "outlet": "스마트투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DZG92aGNIbllfX2h4NXN5M09uQjl5YXpiMnptcURWUlRMR1BmRkdEYkZkUW9tOERJMUFFOXdCQS0yRjdiWFliVUNQOF9LVXluNUROd2RHU1h2Zk95aXc0?oc=5",
+   "publishedAt": "2026-08-27T07:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "a4be43846b824e6b",
+   "title": "카카오 노조, 판교서 \"인적분할 반대\" 선포식 개최",
+   "outlet": "노컷뉴스",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nWGc4Z2pHVTZCM2RkcXBEN2VYM0ViTGg0V3ZqYU0zZXZEVEJIUFVyNTAxb1o5NG1DQUxrUS11MHZVczZfMlJnal95a3RSMHZLWEE?oc=5",
+   "publishedAt": "2026-08-26T18:18:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "b523aaa14f13c1e2",
+   "title": "카카오 노조, 국민연금 만난다 … 인적분할 '주총 부결' 총력",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ydGFXVlUtOXJnai1xVXlFNy1WMkJ2QW5XRHFZVWRJSFFXd0Zxa3JEQ2hzbnlZQ1FfbzFqeWVYVjZVTXRaUmlNRE1JMno3cGVNZDJwc3hHSUdQMnJuM1htOHBfSzRZcl9qdkF3bkFzQk1NSjhlMmFteXg2MNIBgAFBVV95cUxNVFBRV25jSjBZbUM2N0lTUlFrdmNqLVlJSE1jNDhkU2VTdl8yc0E5ei1hOGVGYnFpS1dNYkxOZWdzMVZUZGFYbGhxb0FFZTBrbkhESVlwWGNZeHlseWNQRnZTdFlOY25udWNza0ZidDRlX1pPOUNQd2hiQ1BoV2hsbw?oc=5",
+   "publishedAt": "2026-08-26T16:06:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "9b262f82bc2da159",
+   "title": "카카오 노조, 인적분할 반대…공동교섭 요구 단체 행동",
+   "outlet": "OBS경인TV",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12Q3BRa3pQLV9id3NEM0FBb09sbVJoc001WW5ESlR6dG9VQUh0WXJIZmRJWUZ4WGNGaVBRa3BJWEZuMUIxRGUydlJRXzVTbW9HZWdXV1pyRkg5X3lyUGNNSjBaWmNGYlp1NndMSEx3?oc=5",
+   "publishedAt": "2026-08-26T20:16:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "43c4501b402efdfa",
+   "title": "카카오 둘로 나누자 노조 뭉쳤다···인적분할 '험로'",
+   "outlet": "현대경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LNWNqRnV4Y2xBcGFFbEp0eDFJX05iMU54RjJFRUF0bFVpYjBEdzNpU3lsa2t1bXZzczRLS0pDak5vVmVrV01ycC12R2xURWlVUmwyRUdXX0t2Q0l4MFlCYzBxdUNWbGlyUXlR0gFrQVVfeXFMT0s1Y2pGdXhjbEFwYUVsSnR4MUlfTmIxTnhGMkVFQXRsVWliMER3M2lTeWxra3VtdnNzNEtLSkNqTm9WZWtXTXJwLXZHbFRFaVVSbDJFR1dfS3ZDSXgwWUJjMHF1Q1ZsaXJReVE?oc=5",
+   "publishedAt": "2026-08-26T20:23:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "ab50e9591b80df59",
+   "title": "\"분할해도 책임은 못 나눈다\"…카카오 인적분할, 안팎 시련 극복할까",
+   "outlet": "피플워치",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aUnVNZGdYTHMwdF9WUFhudld0aFBybU1ZVzRsWlNxSm5nVkZNelRmSzFtaVBBZFczaUE0ZVF6TV93RUh3al9rNGdPRXJUT3ZsUGRWWEhJcmJ2alJLVkFXd0pIa3N6cEMtY2c?oc=5",
+   "publishedAt": "2026-08-26T16:58:27+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "a7fb7df4a4f2b740",
+   "title": "[현장] 카카오 노조, 인적분할 반대 공동교섭 선포…“책임은 쪼갤 수 없다”",
+   "outlet": "팝콘뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zVEZFaXhzU19EeWxCMjZzd0E4YV9IZjVrT29idmpTQzFfdUhsX3Y1bG1aTWYzZjRpZnB4QmZJY3pKNXV6WTRrb1dWbXk3aDBLazdZQmN3cU1jNjMtYk9ZQzl4c01rZ1hzWjY2TFUtRGNpUdIBckFVX3lxTE8zVEZFaXhzU19EeWxCMjZzd0E4YV9IZjVrT29idmpTQzFfdUhsX3Y1bG1aTWYzZjRpZnB4QmZJY3pKNXV6WTRrb1dWbXk3aDBLazdZQmN3cU1jNjMtYk9ZQzl4c01rZ1hzWjY2TFUtRGNpUQ?oc=5",
+   "publishedAt": "2026-08-26T15:13:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "17ce0ecdbf9d6484",
+   "title": "[데스크 칼럼] ‘혁신’이란 가면 쓴 카카오의 꼬리 자르기… 꼼수 분할이 가린 세 가지 참상",
+   "outlet": "내외경제TV",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VM19CelR2V19MV1ZUYkpZRmFlWjI1aEhBZXVPRXAyN0RSX2FQc0J4T1o5dzdRUWxYelk4TEJlQWtTYk9zNW9fNWwxQWFFSGM2eHdrYVAyYTY2djdmN2tubE1RSDVVUlZhLWJZ?oc=5",
+   "publishedAt": "2026-08-27T00:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "4c666fd842422fef",
+   "title": "카카오지회, 인적분할 반대 선언…\"12월 주총서 부결시키겠다\"",
+   "outlet": "포인트데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KZ1RIdy1EeFRKN0FDS1hzMEhYMWxYMnFpWk85Uk94S3FlWHdOZFd6LVg2MHg3NmtXbnFPaDhJbFdMZXpvYkRPNEFPM2ZNYkRiQ0Y0bGdHc0VUemgxRFZ3Y05jaVpvdnZhVUdfRGFjNkg?oc=5",
+   "publishedAt": "2026-08-26T17:51:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "84908527363c7345",
+   "title": "정신아 카카오 대표 '인적분할' 카드, 노조 반발에 시작도 못 하나",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTVlJHbExPcGlSOFFXUHM0Qk9CeW1KZ0cwcGNMdzlJRVFZVlJmNHNsaWRtS25DNlh3ZmR2aUNfNjVGNlBtTEtsOEpkaFE0TTJkdGREVUxMYThIczVxaW9MYlRQNno4V2lJVC1BSXZsR3RMMmF6b2NF0gF3QVVfeXFMUFNWUkdsTE9waVI4UVdQczRCT0J5bUpnRzBwY0x3OUlFUVlWUmY0c2xpZG1LbkM2WHdmZHZpQ182NUY2UG1MS2w4SmRoUTRNMmR0ZERVTExhOEhzNXFpb0xiVFA2ejhXaUlULUFJdmxHdEwyYXpvY0U?oc=5",
+   "publishedAt": "2026-08-26T17:28:33+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "6b69358519788051",
+   "title": "자신있는 도박 에 대한 완벽한 가이드: 초보자부터 전문가까지",
+   "outlet": "Platea Magazine",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00TU50UXBycVdackZ2WFlDSUNCVWJCQmlVNmY4cFQyZDhRemRnaGJYbGR0dnQ1QkJxLTBtOURiemFKLUZsVDZYRHdPVFFjYTVqZlRuTkVDLUhZdTJCczEtNlVCUQ?oc=5",
+   "publishedAt": "2026-08-27T05:00:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "061f0724d95edf2f",
+   "title": "같은 인적분할인데 한화와 카카오 주가 엇갈린 이유는 - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMENSYkE2Q1FiQUVRV2FON1FrSzR5Y1VoOTRfRkdNcWtYY2xrOHg0NHBZMUxJeHhDQm8wXzlFb1o0WkJpMV84YkhVZWdmQVdqNnBfdGZXUThfcTQ4eVZxcWZyWE5zUEJJSDBxNDhFaTBjSkxjVnFpd3NkMUxFZzRzYU85MTVERFJL0gGcAUFVX3lxTE5QeVJPV1pjbnp6cnlCanltcWZMMC1pV2F4Nm94UXFzREtWWVUtRjBSODVwS3RZZVl1eTJqal9pTWhPVkJMcFdmQmF4ZVhUZ1hVcm9hbEVvZ0FMU2c3ZFBtRk11TW5JckdaR2pUQXQyR1poZ0p1NU13TmRzUG1sTjBKcEFQd19ZVkVMRGFNZzhIQ19pSjZVQmNTUmJMRA?oc=5",
+   "publishedAt": "2026-08-27T09:02:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:인데"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "a0f9d106159c7869",
+   "title": "‘과감한 네이버, 조심스러운 카카오’ 대비되는 양사의 투자 셈법",
+   "outlet": "더에이아이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92dE5KNTJ2X1JIU09YVmpWU2RKc2ZScWgyTWlaUTctS2NyYWZlcm12NlhYNEl4ZlF6ZFdnQVY2dXhTME9xVGlNTm1WeFk1bFZMejFFclgwc3loTXRIcGZ0NkI0RmROaV9mbE4w?oc=5",
+   "publishedAt": "2026-08-27T00:14:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "acd966567937af03",
+   "title": "카카오, AI 신설법인에 ‘방패와 창’ 이사진 세우다",
+   "outlet": "파이낸셜투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BamNTQzdUcDIyWk1SQVFVVjVGZnBlNDdfbEw0ZnhPM1JlMUdzaTBmY2R1ZWgzOE5zdGRVNWVHZHJwY2VHQ2hKelc3dl95blh2UVJsSFVELWdXQkhoS2plcVRTbHg0Mzl4NWfSAW5BVV95cUxPM2VyNUc2NzJPXzdMSEgtaV9WUG5ETWV4ZGhlVGU0VTFRTzdoUkdlbEEtWHlUQnZ2NlRZc3FJQnU4WUpUcTB6NHNYTFdBdzZJMG5QdVdMMFBfSTlqSkp2TGxpU09GNjU4Z3h5dFEyQQ?oc=5",
+   "publishedAt": "2026-08-26T18:27:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "11171f3bff4f364b",
+   "title": "'모델 아닌 확산'…SKT·KT·카카오, '모두의 AI' 승부수",
+   "outlet": "비즈워치",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42WGRNSVR4QWdiYUIwSExCTFdteXREbDFOZnM1SEhia1ZnV0c0MDFOT09nN0FoeUNJRkg5XzJHaEQwYzZDZHV5c0hmUUZnVEhnSVl5VTNNVmJhVkZucWRiY01VNEw3TzQzR0E?oc=5",
+   "publishedAt": "2026-08-26T16:38:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "4c2788c93fac61bf",
+   "title": "‘카카오AI·카카오X’ 분할에 노조 반발…12월 주총 표대결",
+   "outlet": "더퍼블릭",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FcTEzNFgtQXcxOHZFeTRlUElLSUo1amFvd0YyUVdVcGtIQnpkckIwbXJ4dVlxdXBQMnRVbWdHdERMV2lfYzlzZG5GdFJjWkxLV3VaSVp4WW9LMTlZZmxYSS1JMDBmZ2w1S3lj0gFvQVVfeXFMUE1veGJwVFRHS1JZQnZfbk1xb3B5aDYydjdPTHVONmpxNlhtMGF6LThqalJmY01XODJURk5YWFVDSC1JTElZRnlXNTRmRDRva216ZnlHVk02TDd3cVVQcFlqVmgtOWwzRjRLZkp3b0VV?oc=5",
+   "publishedAt": "2026-08-26T18:56:05+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "8d3861aa3e2f6eef",
+   "title": "카카오 'AI·X' 분할 승부수에도 주가는 뚝…커지는 밸류업 회의론",
+   "outlet": "뉴스워커",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hUjZ2T0Q3ZmxRdGJmbTBXbnlnM1ZiZ0FubEVKZ3hDZ0J3Ym5LSWtzRUpwaEkzd0hHWDNjS2xvaFl2Z21hYmw4QVZsOVJKdkhqSmVuOUdEcEw2WkNRdXdVSUYtNTNzcTZZRG1LNjhkcE7SAXRBVV95cUxPVE9IajRxNGNSMWY5U3VrU2ItUzdDWFQ0UDVmRXRLX3hmdWEyZmFVVkVuZ2VxeDdLMnFQQVdxbHBPcTNMTmRkZTI2V3FFQ3JLMXdZcnNlQk5Nc253QjJpLW04bmxaWi1wQWNvZjI1TjVpZnlEUA?oc=5",
+   "publishedAt": "2026-08-26T15:34:33+09:00",
+   "tone": "우려",
+   "toneScore": -6.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "등락:뚝"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "7bcdd503f4b7a83f",
+   "title": "[시시비비]쪼개기 프레임 갇힌 카카오, 'AI 생존' 골든타임 놓칠라",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12N2xYYkpIWUx3Wl9QNHg2UUgyT2h2UFkxcEZiMm1FZmRUOVI3WEhEWHpTU09mb3Y1bHhGdThKVGxFQUN6dFo2d1EyaTVWVWU0MDAxS3A2eTlSTkhmUkc4WA?oc=5",
+   "publishedAt": "2026-08-27T07:43:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "474c0f8b843ad608",
+   "title": "카카오 노조 \"인적분할 반대\"…주총 부결 추진(종합)",
+   "outlet": "연합뉴스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoS3o2VG1YZGNMVnllRUY5S3RIU2lqRktDSTI3bTF1dEg5Rm1zcjJFdlJJajhid3F5SG1tUW1JS2Ric2lJTWpUQTFhQy02c0RUVnJrbUhyTkJiT29IdDcxdtIBYEFVX3lxTFBoS3o2VG1YZGNMVnllRUY5S3RIU2lqRktDSTI3bTF1dEg5Rm1zcjJFdlJJajhid3F5SG1tUW1JS2Ric2lJTWpUQTFhQy02c0RUVnJrbUhyTkJiT29IdDcxdg?oc=5",
+   "publishedAt": "2026-08-26T17:10:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "5e6702450a0237de",
+   "title": "카카오 '회사 쪼개기'에 노조 \"주총서 부결\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92bmNCWUVtTVZhaHkyXzJrM2p4emVfTmJDNmlvLWMyMmlUMUpLVzl6TURDYm5UN0ZJcno4R0pUWEVzTDh5SGpGdlRweTVmT3hQbjFB?oc=5",
+   "publishedAt": "2026-08-27T06:33:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:회사 쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "회사 쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "53817ed11c0760ca",
+   "title": "카카오 노조가 인적분할 반대 선포식을 열고 12월 주주총회 부결 투쟁에 나섰어요. ✊",
+   "outlet": "뉴닉",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SeHUwNmN3ZFRNNjYwLUNsSUo0aW9leW9CN0xQWHdXUi12ME9QcVN4cEV6NnBPM1hDb3pEeDJTbWQxdHBUYjJaNDlESWtoUnBHXzBN?oc=5",
+   "publishedAt": "2026-08-26T18:31:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "a09cd541ddd7530b",
+   "title": "카카오 노조 “분할 원천봉쇄 아냐…쇄신·고용대책 없는 안에 반대”",
+   "outlet": "팝콘뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04cHUzd2lwcm9IMzJWVHkwQ2RramJ3emxEWmxkS2lReDducThCM1Q2Ym9mbWpxYUNtQkdzbEdDSVZTZzZFOHhXUkdwZVdCbVF2MTRPdWFrV2JGaXpFUmU2eFJvVnZMRFV2NEtLa0dn0gFyQVVfeXFMUHlHeFh1b0c0SzFpNklYdmFKMy1xNzRGSmYtWjdZRVMtRkktNzJRY2UyUUg5N3pzSzIwOGptWFlFRjYyNUx0a2pBakd6QUpRbVh0QmlOc0I0U2xqRHoxdWcweGdBX2dOM0o1eUpDUHdxd0l3?oc=5",
+   "publishedAt": "2026-08-26T14:56:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "adf0e76eb48781f1",
+   "title": "카카오 노조 \"인적분할 반대…12월 주총서 부결시킬 것\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zenZodEpnaHNCSmxqUDl3clR6UFZ6TUFaS3NWbm5lY2xMb0lPemhldHBOSm5wb09CUUNOSVBIdlZXaGVmNmxvdlQwQU5aUHJCdGdr?oc=5",
+   "publishedAt": "2026-08-26T20:25:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:04:26+09:00"
   }
  ]
 };
