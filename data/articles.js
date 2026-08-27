@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T15:53:59+09:00",
- "runCount": 672,
+ "generatedAt": "2026-08-27T16:05:19+09:00",
+ "runCount": 673,
  "price": {
   "price": "36,000",
   "pct": "-0.96",
-  "at": "2026-08-27T15:54:00+09:00"
+  "at": "2026-08-27T16:05:20+09:00"
  },
  "articles": [
   {
@@ -22152,6 +22152,84 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T15:31:20+09:00"
+  },
+  {
+   "id": "81e0692e3078a742",
+   "title": "[핫이슈] '인적분할 결단' 카카오, 시장·직원 반응은 냉랭",
+   "outlet": "뉴스워치",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hMW1acDRyaUFtZXFFQkUyMXhLTENjSEMzVzdaWm5xRlpYQzB5cklWRGVjUmpucnlkYjRqQV9HWF9SUWJxZUl2NDZqX1RpNnhHbG5OOWZyaUZXY245bU1WNnUtZEhScFph?oc=5",
+   "publishedAt": "2026-08-27T15:58:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T16:05:19+09:00"
+  },
+  {
+   "id": "48d3a6767af11a30",
+   "title": "[취재후일담] 카카오 인적분할 노조 반발…주총 전 고용대책 내놔야",
+   "outlet": "아시아투데이",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oVmoyU3JZNjhLcTVNS2hzcHlGUkRDWXg0dGNmWllGTDR5a1p6dGNhaU1fVVNqMDBYR3k4ZWJhdHU5SC13UEpSUUFiQVZOQjVoVmpvYVpmMnVoNkYwbWNRV0lyQmNsMmdYOURMQWVR?oc=5",
+   "publishedAt": "2026-08-27T15:48:20+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T16:05:19+09:00"
+  },
+  {
+   "id": "644e635022656e14",
+   "title": "카카오 노조, 인적분할 반발…공동체 공동교섭 선포",
+   "outlet": "메디컬투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Sd0ZzVFVVU3ByM3R3a2ZSdHBkTS0zNzhqa0UtakstaVlVV0RqSHhSd3lSTnpqekNHUW16TldfcUNTOWo5WWZ5N19tRTByWUN1N1F3Y1RPVVZIYmZnZ0JzN2RITjNEUEwxTFFOdA?oc=5",
+   "publishedAt": "2026-08-26T13:08:24+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T16:05:19+09:00"
   }
  ]
 };
