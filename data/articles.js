@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T10:37:33+09:00",
- "runCount": 647,
+ "generatedAt": "2026-08-27T10:48:02+09:00",
+ "runCount": 648,
  "price": {
-  "price": "36,400",
-  "pct": "+0.14",
-  "at": "2026-08-27T10:37:34+09:00"
+  "price": "36,300",
+  "pct": "-0.14",
+  "at": "2026-08-27T10:48:05+09:00"
  },
  "articles": [
   {
@@ -21936,6 +21936,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T10:15:58+09:00"
+  },
+  {
+   "id": "7aad87e7b2fedf49",
+   "title": "'카카오 디스카운트' 거셌다 … 주가 급락, 노사갈등 폭발, 시장신뢰 흔들",
+   "outlet": "디지털포스트(PC사랑)",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MdURqMlZZLTR1S3k2eEYyLUN2bDFKaWhMUGpIb3JTSi1JY2dmSTdKWFVzcS1sNDFiMlF3MzAtV1pCNjFGSmdCWWwxZlhDZmdEZkczNnVwU2R3Z1hqUE42YV96R2I5elpjZmlJ?oc=5",
+   "publishedAt": "2026-08-27T10:33:22+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:급락",
+    "적대어:디스카운트"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "급락",
+     "디스카운트"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T10:48:02+09:00"
   }
  ]
 };
