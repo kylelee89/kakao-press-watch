@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T14:47:56+09:00",
- "runCount": 666,
+ "generatedAt": "2026-08-27T14:59:14+09:00",
+ "runCount": 667,
  "price": {
   "price": "36,000",
   "pct": "-0.96",
-  "at": "2026-08-27T14:47:57+09:00"
+  "at": "2026-08-27T14:59:15+09:00"
  },
  "articles": [
   {
@@ -22058,6 +22058,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T13:54:34+09:00"
+  },
+  {
+   "id": "2579ff83adc795c2",
+   "title": "\"17조→34조\" '제값' 받겠다…카카오, 주주가치 제고에도 수천억 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uWHdHMlc4b1dHSWlUVGFZSDdwbGpqY0ZQZkJGa2V0akFnSjJKNXloUXozUm1neXpheVh6dmFjOC1sRWZQTnB2Y2pnc0dtOWRWejdKRGMwT0dOQXJGdFB5SjA2YkFGeXPSAWxBVV95cUxNNEljVU5HYkQyUmhXeHJMVHd4bHByNUhlY3VvTXZHb0IxRktwQUh5RVU1OGFSb3NZZW03Umd1aUZhQjdWaVFlZ1BGNlFJQ1Y0U2tiWHF6TDdMYTFCM0NWZEd1aC05UWtTanZIU0I?oc=5",
+   "publishedAt": "2026-08-21T14:51:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "역접:에도"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T14:59:14+09:00"
   }
  ]
 };
