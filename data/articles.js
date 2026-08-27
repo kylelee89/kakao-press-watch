@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T10:58:40+09:00",
- "runCount": 649,
+ "generatedAt": "2026-08-27T11:09:05+09:00",
+ "runCount": 650,
  "price": {
   "price": "36,400",
   "pct": "+0.14",
-  "at": "2026-08-27T10:58:41+09:00"
+  "at": "2026-08-27T11:09:05+09:00"
  },
  "articles": [
   {
@@ -21964,6 +21964,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-27T10:48:02+09:00"
+  },
+  {
+   "id": "253a12c68a3857ec",
+   "title": "카카오AI-카카오X AI·금융 각자 매출 목표 6조·10조 제시",
+   "outlet": "더브리프뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZm90ME5FVDk4dTY0V1k4THp4VjdSUE9VNHJfSldMR3FIY3NKcmFUVWJzNWIzZkJpa0gxUGthaDI2UFk4RjZHZHdEd3BEV2c0dlpMRW5xUzlmcllROUJqQjBPcG44czE4eDVN0gFvQVVfeXFMTmNObUQ5bmNBdk5xNk5MRUxFZkZuN3dkZEVoNS1iN1ItNEtScE1wSlNPSnVLdmZRUjhsV1FyT3Vxbjd3T1lXT3B1a2Q0R1lVMVlLeXhhNEwxWm5pZ2laTWo0bzNFMUE1QnZPZ25QMVZJ?oc=5",
+   "publishedAt": "2026-08-25T10:36:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T11:09:05+09:00"
   }
  ]
 };
