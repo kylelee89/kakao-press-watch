@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T16:05:19+09:00",
- "runCount": 673,
+ "generatedAt": "2026-08-27T16:15:42+09:00",
+ "runCount": 674,
  "price": {
   "price": "36,000",
   "pct": "-0.96",
-  "at": "2026-08-27T16:05:20+09:00"
+  "at": "2026-08-27T16:15:43+09:00"
  },
  "articles": [
   {
@@ -22230,6 +22230,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-27T16:05:19+09:00"
+  },
+  {
+   "id": "33049de0998788fe",
+   "title": "두 개의 카카오, 디스카운트 확대에 유의 [한국주식 원포인트 레슨]",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwYWYzOXo4bjhSMXhLeVpJZDgtZFJnNWRoOG1OdzV5ZTVsX1JIeDdreGhMdHltREVhbjlqMXlfaHBBaXN4akIwQmo3dG5yS08zeGI0?oc=5",
+   "publishedAt": "2026-08-27T16:07:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:디스카운트"
+   ],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "디스카운트"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T16:15:42+09:00"
   }
  ]
 };
