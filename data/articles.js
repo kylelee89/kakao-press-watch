@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T16:36:27+09:00",
- "runCount": 676,
+ "generatedAt": "2026-08-27T16:46:48+09:00",
+ "runCount": 677,
  "price": {
   "price": "36,000",
   "pct": "-0.96",
-  "at": "2026-08-27T16:36:28+09:00"
+  "at": "2026-08-27T16:46:49+09:00"
  },
  "articles": [
   {
@@ -22255,6 +22255,30 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-27T16:15:42+09:00"
+  },
+  {
+   "id": "6f6a54d839bc1803",
+   "title": "[카카오 인적분할] ②'AI 떼는' 카카오X, 지주사형 구조 'M&A'로 밸류업",
+   "outlet": "fetv.co.kr",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaZV9xWjlBMkZnNGhpNXBUcFJNRUtoOHBpUkFEaVdRTGFoaEF4alhITUE0U1pnRHU4eENNVlZOeFY5dlBqNHNrYWdPWkhleVFjejd4YUE1bUp6YTRLT2prRHZSTUlBaUw2?oc=5",
+   "publishedAt": "2026-08-27T16:35:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T16:46:48+09:00"
   }
  ]
 };
