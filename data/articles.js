@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T17:07:32+09:00",
- "runCount": 679,
+ "generatedAt": "2026-08-27T17:17:55+09:00",
+ "runCount": 680,
  "price": {
   "price": "36,000",
   "pct": "-0.96",
-  "at": "2026-08-27T17:07:33+09:00"
+  "at": "2026-08-27T17:17:56+09:00"
  },
  "articles": [
   {
@@ -22279,6 +22279,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T16:46:48+09:00"
+  },
+  {
+   "id": "8266fef0c2a7c43c",
+   "title": "인적분할 앞둔 카카오, 내부 불안 고조…CEO가 직접 중재 나섰다",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kQXlIYTRhT1ZFaUZUYWhOLUZRSmZYSWlBOWtFT1RzTTY2ODNFZHFQZ2hyQm5VVzE3VmY1M0ZTdjFXM0htVngtWmRFbGJ4eUU?oc=5",
+   "publishedAt": "2026-08-27T17:07:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T17:17:55+09:00"
   }
  ]
 };
