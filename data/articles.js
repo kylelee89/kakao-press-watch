@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T11:29:44+09:00",
- "runCount": 652,
+ "generatedAt": "2026-08-27T11:40:12+09:00",
+ "runCount": 653,
  "price": {
-  "price": "36,275",
-  "pct": "-0.21",
-  "at": "2026-08-27T11:29:45+09:00"
+  "price": "36,250",
+  "pct": "-0.28",
+  "at": "2026-08-27T11:40:13+09:00"
  },
  "articles": [
   {
@@ -21989,6 +21989,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T11:09:05+09:00"
+  },
+  {
+   "id": "80eb1c2139cb2dee",
+   "title": "카카오 노조, 카카오뱅크 총파업 철회",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lc0tFX0I5cGlSOTFJYUJPTkE5MTFVRzRBZVo2MW5kaE5wVWZEYlhkVEhLRzJ5Y1UwczFBYW5TZnloNTBiYVdPRVladXZiQ0FaMVZwaHU2T0R5a1l6OFM5N1UxQW54dGJHMXhJeFlkRHfSAXRBVV95cUxNSDNxM2NzR0FlOEdRWWFUbVNFcWZWNFlkTU8zWG1mSVBRQXNKUjVXbUdzTzE2QzQxRFg1QXBXWHduNDZnb3BuRkFoY3pqcnNQRXJINVBER0ZjWVctNlVYeU5zQk9TY2c5R01NWkJvdWx6RWYybQ?oc=5",
+   "publishedAt": "2026-08-26T22:06:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T11:40:12+09:00"
   }
  ]
 };
