@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T15:19:59+09:00",
- "runCount": 669,
+ "generatedAt": "2026-08-27T15:31:20+09:00",
+ "runCount": 670,
  "price": {
-  "price": "36,050",
-  "pct": "-0.83",
-  "at": "2026-08-27T15:20:00+09:00"
+  "price": "36,000",
+  "pct": "-0.96",
+  "at": "2026-08-27T15:31:20+09:00"
  },
  "articles": [
   {
@@ -22128,6 +22128,30 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-27T15:19:59+09:00"
+  },
+  {
+   "id": "3d8ef26c280379a5",
+   "title": "카카오, AI·투자회사로 인적분할…시장은 '신중'",
+   "outlet": "데일리팝",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DcW53SVY0RkpZRkVXQmVzM2s1Z3NWeUpMT2I2LVdMa2Y3NmUxWTdyb1VzYVR4MHUxeWN2SzN3SWdqazBDNzhRY1c3VUNmX3VHOGZJTHZtOEFXcHVQZ1VWOEEwUzM1X3cx?oc=5",
+   "publishedAt": "2026-08-27T15:18:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오X = 미래가치 투자회사"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T15:31:20+09:00"
   }
  ]
 };
