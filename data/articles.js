@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T15:09:36+09:00",
- "runCount": 668,
+ "generatedAt": "2026-08-27T15:19:59+09:00",
+ "runCount": 669,
  "price": {
-  "price": "35,900",
-  "pct": "-1.24",
-  "at": "2026-08-27T15:09:37+09:00"
+  "price": "36,050",
+  "pct": "-0.83",
+  "at": "2026-08-27T15:20:00+09:00"
  },
  "articles": [
   {
@@ -22082,6 +22082,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T14:59:14+09:00"
+  },
+  {
+   "id": "0c7b0e3eec4205ed",
+   "title": "[카카오 분할]④카카오X, 테크핀·콘텐츠·모빌리티 3축…성장사업 키운다",
+   "outlet": "스마트투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nVzNwU2NvWkx1ZnU5Rm1QUHRjODlIb21Na2lJOFJxX1o1VGhqMGZVQmVoQjlvdzNYQzQ1SXBScDFVekEzVmRIbTBXc1c5Vm5XWnNJMW1LSkRzUDA0Ti1r?oc=5",
+   "publishedAt": "2026-08-27T15:04:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T15:19:59+09:00"
+  },
+  {
+   "id": "5705e1c7684b010f",
+   "title": "[카카오 분할] 김범수 괴롭힌 사법리스크…번번이 막힌 쇄신, \"이번엔 다르다\"",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wMUJyQ1BhMWViZVgwTzNfdzVYR0VsT3VkMnNaTlc4U1J2S1NwUkpMdUY3azFyazEyajZKZFZoTnlqNncxRWI4Z0tIUG1zVzA?oc=5",
+   "publishedAt": "2026-08-27T07:23:35+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-08-27T15:19:59+09:00"
   }
  ]
 };
