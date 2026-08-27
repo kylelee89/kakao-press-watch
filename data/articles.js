@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-27T10:04:26+09:00",
- "runCount": 644,
+ "generatedAt": "2026-08-27T10:15:58+09:00",
+ "runCount": 645,
  "price": {
   "price": "36,300",
   "pct": "-0.14",
-  "at": "2026-08-27T10:04:40+09:00"
+  "at": "2026-08-27T10:15:58+09:00"
  },
  "articles": [
   {
@@ -21912,6 +21912,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-27T10:04:26+09:00"
+  },
+  {
+   "id": "508e75e078ab8c49",
+   "title": "카카오, 인적분할...카카오X·카카오AI 2개 기업 체제로 (종합)",
+   "outlet": "생생비즈플러스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50QUIxcDBqNVlLVDVKZHlZano1OGJXYWhVX0RkSGRDZ1RkMmhVREMzSDZ4YXpOUnhOd1pzS25lQVZfWTVBbFd4S0RrWmhFYi1ZcGw2RTJmUGMzOWVwWG5CeUc3Z1RSTlBWOEdtZw?oc=5",
+   "publishedAt": "2026-08-24T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-27T10:15:58+09:00"
   }
  ]
 };
