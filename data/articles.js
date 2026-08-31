@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T15:43:15+09:00",
- "runCount": 703,
+ "generatedAt": "2026-08-31T15:53:38+09:00",
+ "runCount": 704,
  "price": {
   "price": "36,550",
   "pct": "-0.81",
-  "at": "2026-08-31T15:43:16+09:00"
+  "at": "2026-08-31T15:53:39+09:00"
  },
  "articles": [
   {
@@ -23943,6 +23943,32 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-31T15:22:30+09:00"
+  },
+  {
+   "id": "d1ad7c0c3b1bc0cf",
+   "title": "\"밤에 잠을 못 자요\" 17만→3만원 AI 호재에도 아무도 안 믿는 '이 주식' 전망",
+   "outlet": "nanamcom.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UldpMlZscFNTSk4zWF9iSkZfdUdMMGh0Y19BYXNkM1lfdHhLTndEUDZ1UUUxdmRKdzRwQ1FYc2NxNEx0U0pVV0dmUnVTUFFGdmZHTG5uc1FrMmFpUVZJaGZjcHdEMGVaTHVJag?oc=5",
+   "publishedAt": "2026-08-30T23:28:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.3,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "호재어:호재"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [
+     "호재"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-31T15:53:38+09:00"
   }
  ]
 };
