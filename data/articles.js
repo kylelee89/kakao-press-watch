@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T13:47:22+09:00",
- "runCount": 692,
+ "generatedAt": "2026-08-31T13:57:43+09:00",
+ "runCount": 693,
  "price": {
-  "price": "36,450",
-  "pct": "-1.09",
-  "at": "2026-08-31T13:47:23+09:00"
+  "price": "36,425",
+  "pct": "-1.15",
+  "at": "2026-08-31T13:57:44+09:00"
  },
  "articles": [
   {
@@ -23841,6 +23841,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-31T13:08:56+09:00"
+  },
+  {
+   "id": "a97161d57a32b67e",
+   "title": "[카카오 지배구조 재편] '카카오AI·X'로 인적분할…투트랙 승부수",
+   "outlet": "블로터",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkYVB0MnRra2xtTkF6RURWTVpsODZHYmpQOEExVEFITjNfV0o1aHZiNFJRUVlxQmtoSncyWTMxREZsRmhIUWpfcXhJZmRFUElCOVJ3N1RWdFlsb2JIdHRWWk94anNuaGwx0gFsQVVfeXFMTUVPR1FvM2VmNnAwYmVMSHBValdPazl6NzVlZGJXMGE1dzhnNTZRNDdoRzBCY1JpQ01zdGJJR2x2eXZ4OFR5VVAzaGhubDRHQ29vc1h5elRxXzZraXNlVmI0ZnhHMFN4Y05pUEdC?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-31T13:57:43+09:00"
+  },
+  {
+   "id": "ba2e68f3ccf06557",
+   "title": "카카오, AI와 투자 갈라 ‘인적분할’… 카카오X·카카오AI로 쪼갠다",
+   "outlet": "세계일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hMXh6M1ZMUzA5dFBydGFnZVVNTFphY3RLTU5HTXNucTFwaDI1eUdkQmpGdmZ0Ym9zQksyVG1XSnZLdTBRRGtZTXFzeUhQU29pd012Sm90NFM?oc=5",
+   "publishedAt": "2026-08-21T10:35:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-31T13:57:43+09:00"
   }
  ]
 };
