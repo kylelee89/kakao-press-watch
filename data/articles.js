@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T15:12:09+09:00",
- "runCount": 700,
+ "generatedAt": "2026-08-31T15:22:30+09:00",
+ "runCount": 701,
  "price": {
-  "price": "36,650",
-  "pct": "-0.54",
-  "at": "2026-08-31T15:12:10+09:00"
+  "price": "36,600",
+  "pct": "-0.68",
+  "at": "2026-08-31T15:22:31+09:00"
  },
  "articles": [
   {
@@ -23916,6 +23916,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-31T15:12:09+09:00"
+  },
+  {
+   "id": "a369416ecb585a60",
+   "title": "[데스크] ‘쪼개기 상장’ 속도 내는 원익·CJ…국민성장펀드 부추겼나",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kdUFlYXVieUhWZW1lMUlydHZxdFl2azMyX0xvVUVBRDJQZDVZdHFCS1ZGRy1URDdrYjBLZTJ4cE1jc1EzMmFTY1F6OEhyNGZmbXAtazlZajlOR3lCblJSQzJ6aHE3LVFvbVlKb2RB?oc=5",
+   "publishedAt": "2026-08-31T09:02:29+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:쪼개기 상장"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "쪼개기 상장"
+    ]
+   },
+   "firstSeenAt": "2026-08-31T15:22:30+09:00"
   }
  ]
 };
