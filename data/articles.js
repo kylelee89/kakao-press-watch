@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T16:15:20+09:00",
- "runCount": 706,
+ "generatedAt": "2026-08-31T16:26:42+09:00",
+ "runCount": 707,
  "price": {
   "price": "36,550",
   "pct": "-0.81",
-  "at": "2026-08-31T16:15:21+09:00"
+  "at": "2026-08-31T16:26:43+09:00"
  },
  "articles": [
   {
@@ -23969,6 +23969,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-31T15:53:38+09:00"
+  },
+  {
+   "id": "d615fb58a51b1a37",
+   "title": "[8.27(목) 낙폭과대 우량주] 카카오 고점대비 -77% — 바…",
+   "outlet": "주달",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jSk9xdng4SlB0SVU0c0xXN3VsWE0yN2hnRklUNDBUanE0NEdGMWYzYW14R3hJOWkySTBGNU9EVVRzREZwRlN1QmNpS3ZEcFVGY1VjbzZzTU5OQUtkcXhnaWdkbEM0WkZfN1pPTW9VcG5QZFcwdnc?oc=5",
+   "publishedAt": "2026-08-27T07:04:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-31T16:26:42+09:00"
   }
  ]
 };
