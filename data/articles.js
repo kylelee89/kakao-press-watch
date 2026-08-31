@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T12:57:18+09:00",
- "runCount": 690,
+ "generatedAt": "2026-08-31T13:08:56+09:00",
+ "runCount": 691,
  "price": {
   "price": "36,300",
   "pct": "-1.49",
-  "at": "2026-08-31T12:57:19+09:00"
+  "at": "2026-08-31T13:08:59+09:00"
  },
  "articles": [
   {
@@ -23820,6 +23820,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-31T12:46:24+09:00"
+  },
+  {
+   "id": "a8d783117210f60d",
+   "title": "카카오 분할 후 밸류에이션 전망 봤더니..애널리스트 속마음 담겨있다 [이슈체크]",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lVkh0Z2dCQVRWWFVxYTJFTDMzcHFiOUIyeEplaHlPcjlwbE9pdkhSa0sxVlNPTEtNODBRU3dMRGk5clVYeGZqdE5GNW0wLUtPMVVrT1o0Y1pfQnNWQnlVanBzcjM?oc=5",
+   "publishedAt": "2026-08-31T11:07:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-31T13:08:56+09:00"
   }
  ]
 };
