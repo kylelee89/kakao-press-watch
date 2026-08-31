@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T11:35:30+09:00",
- "runCount": 688,
+ "generatedAt": "2026-08-31T12:46:24+09:00",
+ "runCount": 689,
  "price": {
-  "price": "36,100",
-  "pct": "-2.04",
-  "at": "2026-08-31T11:35:31+09:00"
+  "price": "36,300",
+  "pct": "-1.49",
+  "at": "2026-08-31T12:46:32+09:00"
  },
  "articles": [
   {
@@ -23774,6 +23774,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-31T11:03:45+09:00"
+  },
+  {
+   "id": "4ddc8d6541eb2458",
+   "title": "카카오, 인적분할 앞두고 '노무 컨트롤타워' 다시 세웠다",
+   "outlet": "서울이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lYW1wOWVtOUlUX2VTbk5fLTVLSmpNRnMyQnlUcmlVaUxaMUVUR0liY1VVNm9BQWItZHUxQkFwQS13RWdYLUpEWFNzeWZwTzZVa2NYR09uU2ltbHdLSGtUbmxmanNsOUdoVVZxcy1n?oc=5",
+   "publishedAt": "2026-08-31T11:47:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-31T12:46:24+09:00"
+  },
+  {
+   "id": "3151d2b12ebff62a",
+   "title": "총파업 피했지만...카카오뱅크, 윤호영 백억대 보상 시한폭탄 여전",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iSE9lcEt6Q1lxUDdTdkJoWmlKbWRMZlZoY0k2bnZaQWNKV2V4SkJ6S0tucGRpWHBnSWVOX0NPaHlOQ29BWUpubVRGSXZmbjdudlFsWm9zM0FSY3V3?oc=5",
+   "publishedAt": "2026-08-31T11:34:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:지만"
+   ],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-31T12:46:24+09:00"
   }
  ]
 };
