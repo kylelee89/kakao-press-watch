@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T16:26:42+09:00",
- "runCount": 707,
+ "generatedAt": "2026-08-31T16:37:03+09:00",
+ "runCount": 708,
  "price": {
   "price": "36,550",
   "pct": "-0.81",
-  "at": "2026-08-31T16:26:43+09:00"
+  "at": "2026-08-31T16:37:04+09:00"
  },
  "articles": [
   {
@@ -23990,6 +23990,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-31T16:26:42+09:00"
+  },
+  {
+   "id": "1a7c2cf38baff0ac",
+   "title": "[뉴스워커_경영 레이다] 카카오 노조, ‘회사 쪼개기’ 주총서 막는다…국민연금 5.4% 표심 어디로",
+   "outlet": "뉴스워커",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hTzBnczlQeXhtWnlJM1htX0pmenkwLTd0dFh4V01ZYzNaNFI1TjQ4WGRpTHgtVDJua1dXYnhXMDU2LW52T0paMHJRVDN1b0g0ejFqZ0FRaUhmYUFQeEhxZXBRWFBieWRkUTVOeldCVS1mczQz0gF0QVVfeXFMTWFPMGdzOVB5eG1aeUkzWG1fSmZ6eTAtN3R0WHhXTVljM1o0UjVONDhYZGlMeC1UMm5rV1dieFcwNTYtbnZPSlowclFUM3VvSDR6MWpnQVFpSGZhQVB4SHFlcFFYUGJ5ZGRRNU56V0JVLWZzNDM?oc=5",
+   "publishedAt": "2026-08-31T12:37:52+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:회사 쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "회사 쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-08-31T16:37:03+09:00"
   }
  ]
 };
