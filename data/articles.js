@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T15:01:45+09:00",
- "runCount": 699,
+ "generatedAt": "2026-08-31T15:12:09+09:00",
+ "runCount": 700,
  "price": {
-  "price": "36,600",
-  "pct": "-0.68",
-  "at": "2026-08-31T15:01:46+09:00"
+  "price": "36,650",
+  "pct": "-0.54",
+  "at": "2026-08-31T15:12:10+09:00"
  },
  "articles": [
   {
@@ -23889,6 +23889,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-08-31T13:57:43+09:00"
+  },
+  {
+   "id": "3a8f5165eccbdf1b",
+   "title": "인적분할 추진하는 카카오…냉담한 시장 반응에 노조 반대까지",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xNHZZYlE5dmk2bUY0Smx5bERrU1RIa3E0YzE4Xy1PNzBlaXJXbEN4VE5kLUFnY0wtaUN6dFVTQ0RxX2lBZENVM2hDc2dfQ2EtSVBR?oc=5",
+   "publishedAt": "2026-08-31T14:47:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:냉담"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "냉담"
+    ]
+   },
+   "firstSeenAt": "2026-08-31T15:12:09+09:00"
   }
  ]
 };
