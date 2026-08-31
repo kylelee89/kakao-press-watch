@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T16:37:03+09:00",
- "runCount": 708,
+ "generatedAt": "2026-08-31T16:47:27+09:00",
+ "runCount": 709,
  "price": {
   "price": "36,550",
   "pct": "-0.81",
-  "at": "2026-08-31T16:37:04+09:00"
+  "at": "2026-08-31T16:47:28+09:00"
  },
  "articles": [
   {
@@ -24017,6 +24017,32 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-31T16:37:03+09:00"
+  },
+  {
+   "id": "9ddeb1ecc16417f9",
+   "title": "카카오 쪼개기 전략, 넘어야 할 산 많다…AI 시너지·기업가치·노조 변수",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jVDEwM0k1QUZZRWduZVowTElHbWZNN2RsRmdCQm9nNjlIMGVVa1RjQm9taFA1RnRTeHFDM2xmLWp2VHExdFRYM0NfczlVWl81a1dLVzFpMlNoMmpkWnpxTQ?oc=5",
+   "publishedAt": "2026-08-31T16:42:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-08-31T16:47:27+09:00"
   }
  ]
 };
