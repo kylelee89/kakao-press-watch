@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T10:53:17+09:00",
- "runCount": 684,
+ "generatedAt": "2026-08-31T11:03:45+09:00",
+ "runCount": 685,
  "price": {
   "price": "36,050",
   "pct": "-2.17",
-  "at": "2026-08-31T10:53:18+09:00"
+  "at": "2026-08-31T11:03:45+09:00"
  },
  "articles": [
   {
@@ -23725,6 +23725,55 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-31T10:20:54+09:00"
+  },
+  {
+   "id": "598aa70c5e70164e",
+   "title": "카카오 인적분할, '주주친화' 내세웠지만 … 지주사 할인·노조 반발 변수 | 프린트 | BIZ 뉴데일리",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzaHpkUVpHbktJR2RxcnRNam8xekdPVTFvQkVFR3d0UVVKS1poODF6emE1T3g0Vi01NW5HeFJMbzdnZ0ZnbFdCSnJ2Q3BtSnRPb05XNkpHN0Vqa3pDOTFTR3phNEp1SEZLWUZiaU5uaVVSY2s2?oc=5",
+   "publishedAt": "2026-08-30T11:07:29+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:지만",
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-08-31T11:03:45+09:00"
+  },
+  {
+   "id": "99a0d3fcbe9a160d",
+   "title": "카카오AI 출범 앞두고 손익 뜯어보니…본업 1840억 흑자·AI 580억 적자",
+   "outlet": "마이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwQk9TT0RIclNhcDlMT05VSmx6SW0tNmtEenZ5RFJ1dDNJY3Vtb2hScXRMZ01RRHd0NlpWNTJ4ZTAtOUZnckEtaWNzUzlJMTJyTXZiVDlQNVJhOXBoSVhYZ2dPQ3ZVZw?oc=5",
+   "publishedAt": "2026-08-31T10:57:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-08-31T11:03:45+09:00"
   }
  ]
 };
