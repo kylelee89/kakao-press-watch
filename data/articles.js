@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-01T14:52:21+09:00",
- "runCount": 744,
+ "generatedAt": "2026-09-01T15:03:42+09:00",
+ "runCount": 745,
  "price": {
-  "price": "36,500",
-  "pct": "-0.14",
-  "at": "2026-09-01T14:52:22+09:00"
+  "price": "36,600",
+  "pct": "+0.14",
+  "at": "2026-09-01T15:03:43+09:00"
  },
  "articles": [
   {
@@ -24328,6 +24328,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-01T13:28:06+09:00"
+  },
+  {
+   "id": "365a3f2a3ef6a83b",
+   "title": "[IT큐레이션] 카카오와 SKT는 왜 그랬을까?",
+   "outlet": "ER 이코노믹리뷰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoZUpGRHlvODRaSVNoTnM0MTNFR1VpbURTMlBCbnBrbWxRQkYwX3ZiclIzQUJrQmktNFZEOHJRSVlyUVUyNG1XcF9UNXVSVEl4NHN6R3ZCMmlQcFBsS242Y1MwZkpybkt0VkgtXw?oc=5",
+   "publishedAt": "2026-08-29T11:46:27+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-01T15:03:42+09:00"
   }
  ]
 };
