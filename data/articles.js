@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-01T13:17:48+09:00",
- "runCount": 735,
+ "generatedAt": "2026-09-01T13:28:06+09:00",
+ "runCount": 736,
  "price": {
-  "price": "36,550",
-  "pct": "+0.00",
-  "at": "2026-09-01T13:17:48+09:00"
+  "price": "36,450",
+  "pct": "-0.27",
+  "at": "2026-09-01T13:28:06+09:00"
  },
  "articles": [
   {
@@ -24253,6 +24253,81 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-01T12:25:58+09:00"
+  },
+  {
+   "id": "e6f2adf65391945b",
+   "title": "[카카오 인적분할] \"지주사 전환 없다\"…시장 '할인' 우려",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0weEZ3TmNEc2ktUFNZNkpEQXkyTGZhRDlwcUJwYmhTZjNsTmFQTDZSSmVqNVZqc1FjWmszeXFSQnF3OFZabUVYbkt5S1hra0l5R2JiYVpOTHRmLW4ydEpIa0lHcVNfbGxHblBsZmJfSV9TZlBSUTVHXw?oc=5",
+   "publishedAt": "2026-08-29T14:05:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-09-01T13:28:06+09:00"
+  },
+  {
+   "id": "c8561e8167fe027c",
+   "title": "총파업 철회했지만...카뱅 노조, '카카오 분할' 대응에 주력",
+   "outlet": "뷰어스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TQngtSUZOMjNNWlJEUVQ1aFg4cmtYNTlPSTc1ZUNoTWdBdmpIQXhMa3Jub2dNamt5RVlJakpuRDdBYzl5d215Unh1ZThmMWpaX19nTS0tck0?oc=5",
+   "publishedAt": "2026-08-28T11:42:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:지만"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T13:28:06+09:00"
+  },
+  {
+   "id": "905644648e024312",
+   "title": "[카카오 분할] 김범수 괴롭힌 사법리스크…번번이 막힌 쇄신, \"이번엔 다르다\" : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTNQaGRGdHF2cmVOaGZ6NFpCUTRMMGxod0pEOVdXMmY3UkFXanlOaWdPeEoyR0xfWUZXVERVbkkzX1B3NVg3d1Y1bVdoaVVXRWRaNndhR1pheXpWV2JDeDcxZThwTmJBekJWUmZNajAwNFB1LTg5blJHdGZHM3I3V1hpTElkakhsV1pUNHV5TQ?oc=5",
+   "publishedAt": "2026-08-29T00:27:12+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-09-01T13:28:06+09:00"
   }
  ]
 };
