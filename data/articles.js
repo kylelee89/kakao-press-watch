@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-01T16:08:03+09:00",
- "runCount": 751,
+ "generatedAt": "2026-09-01T16:18:26+09:00",
+ "runCount": 752,
  "price": {
   "price": "36,500",
   "pct": "-0.14",
-  "at": "2026-09-01T16:08:04+09:00"
+  "at": "2026-09-01T16:18:27+09:00"
  },
  "articles": [
   {
@@ -24374,6 +24374,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-01T15:24:30+09:00"
+  },
+  {
+   "id": "7e0c6628c456ff39",
+   "title": "인적분할 한화·카카오, 주가 엇갈린 까닭은? - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkY3THdKbzhtblhuek5Lc2JxUHJoa3IyekdCMVNQS09obmlndzQ2Vi1qZVJ0MjZPTGJnRFJmajBEem9fY0lNdjV5Um5tUUVySXlkT3VpUlZDRTI0cE10Z3BoTi13eG0yRTRMSHJPaWRBdzBvT3IwWGszdE10TUR3YU9mYjROV2xj0gGcAUFVX3lxTE5mLTVEVjI3TzBNSnNWMElwV1hHYXlwYUY3YWh4WHpwN3NxMC1EeFlXRHZQaTNGNVVqdFc4RmstcF8tUnFRR3lOa19Gb2F5ZjNWT05wTXJmcGV6U1NUdU5Dckc0MkI5NDBNVDh4QWlTVzZVMG9NNzRiQ1k1aEtsZFUzWjJmOWtpTENhWVVXdlBGLXRpLXhJTGo3QTRFLQ?oc=5",
+   "publishedAt": "2026-08-28T10:05:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-01T16:18:26+09:00"
   }
  ]
 };
