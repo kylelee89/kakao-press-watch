@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-01T17:12:21+09:00",
- "runCount": 757,
+ "generatedAt": "2026-09-01T17:22:45+09:00",
+ "runCount": 758,
  "price": {
   "price": "36,500",
   "pct": "-0.14",
-  "at": "2026-09-01T17:12:22+09:00"
+  "at": "2026-09-01T17:22:46+09:00"
  },
  "articles": [
   {
@@ -24422,6 +24422,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-01T17:01:55+09:00"
+  },
+  {
+   "id": "5e28778ad6d7e9c8",
+   "title": "[AI 시대, 권력 대이동-카카오] “카톡에서 추천·결제”…AI에 미래 걸었다",
+   "outlet": "포인트데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96UTdVdzFpclZBRXVOUTZoUThUVGpicEJDT0RHdmYwMlhIa0JTZWt2VHJVaUVQRDNURVd3cjV0VUg3VFBpYzlBTExweVJaR3BuZnlKX202SXUxQWFqT1RTTG81bjE2SndyLXZIdWVUdVHSAXRBVV95cUxQeUFoRlhUQ2NLNHVBY2NmdDUyVjZxdG15LTE0dS1Sd01xdzhHMGFpU0FlTkhlOVVMRXVMbWl0WENFaU5GUXJNWmgyZVlHcm85OC1SdkZISEdDU0ZKb3pCQ3A1dzFTcmFJV0t3UVkwOE1DcmlWbw?oc=5",
+   "publishedAt": "2026-09-01T16:57:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T17:22:45+09:00"
   }
  ]
 };
