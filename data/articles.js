@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-01T10:51:28+09:00",
- "runCount": 721,
+ "generatedAt": "2026-09-01T11:01:49+09:00",
+ "runCount": 722,
  "price": {
   "price": "36,600",
   "pct": "+0.14",
-  "at": "2026-09-01T10:51:29+09:00"
+  "at": "2026-09-01T11:01:50+09:00"
  },
  "articles": [
   {
@@ -24135,6 +24135,103 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-01T10:28:35+09:00"
+  },
+  {
+   "id": "fd03251b1b2a2fab",
+   "title": "카카오 쪼개지자 장중 13%대 급락… \"지금 팔아야 하나?\"",
+   "outlet": "마켓인",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Xb1hmaVlQR0Rha19iTnRjeWduQXdYdllOM0VKdy1hUWgxbEdUbU5lekhzOF9uVEkwU0Q5ZWlBMFpnaFRDdzhOQng4Mkt1WW1BazVGVHVGdHFEZUtrRHR6czVhTFZWS0IzUk9ZOUIwQnptUlE?oc=5",
+   "publishedAt": "2026-08-29T06:00:03+09:00",
+   "tone": "우려",
+   "toneScore": -4.8,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:13%대 급락",
+    "대형하락:13",
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "13%대 급락",
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-01T11:01:49+09:00"
+  },
+  {
+   "id": "95fe6e2229f60098",
+   "title": "[속보] 카카오AI 대표에 정신아·카카오X 대표에 김도영 내정",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85em1rdV9OVkJqTTVkWVdRVkRpa0cxZ1BkOHJLYzlidHAzN1MxcHZ3anhfeWUzakJ3UE5jZXZMcmVINTZFeGxRX2FndG5KSTR6SDMtbjhKZ09SQQ?oc=5",
+   "publishedAt": "2026-08-21T10:13:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T11:01:49+09:00"
+  },
+  {
+   "id": "73d04cab6c1c2eef",
+   "title": "“카카오 인적분할, 시대에 맞는 속도·책임 구조로”…카톡은 AI, 금융은 X",
+   "outlet": "hani.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50QVF0d1Rmanl3NTZrUnIyUGMxVzhRdENXN0s1MF9feF83M28zZzdHN3RGY0pEYlBJazd0WUI5THR4ekhkbUtJUFBwRUZLcXkyN2JrTDV1aGxmWms5OGdNSjl5YmFCczQxT0lkTWxkNDN1X0E?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T11:01:49+09:00"
+  },
+  {
+   "id": "db3cc9d3647726ec",
+   "title": "이번에는 '본체' 쪼개는 카카오…시장은 \"왜 나누냐\"",
+   "outlet": "한경매거진&북",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56NjdqblctZEYtUllGSGJDenA5dHE0QnhPaFI1V2RHZlV4VEVkemlFbExOeU1ablRqc1NTN0dpb29SQ09WUVY0WGNzeE9TTEkwWUV4ejNBQXNFUzJPaVVnbkcySF9DYTRsT284eQ?oc=5",
+   "publishedAt": "2026-09-01T10:20:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T11:01:49+09:00"
   }
  ]
 };
