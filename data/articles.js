@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-01T16:51:31+09:00",
- "runCount": 755,
+ "generatedAt": "2026-09-01T17:01:55+09:00",
+ "runCount": 756,
  "price": {
   "price": "36,500",
   "pct": "-0.14",
-  "at": "2026-09-01T16:51:33+09:00"
+  "at": "2026-09-01T17:01:56+09:00"
  },
  "articles": [
   {
@@ -24401,6 +24401,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-01T16:18:26+09:00"
+  },
+  {
+   "id": "273d90738e0e1432",
+   "title": "카카오 AI 돛 서밋 26 컨퍼런스 9월 29일 부산에서 열려",
+   "outlet": "NK경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hcGpHWVV1bmJnLWhHUUN0TTlNS3pWV2h6dDd1eXlZbDhEandZNWdUUXR6Ni11VURsNmZnaUVzckprQ2M2TUtXNHZvelBfQ0dBQWNFMVVKcUNPcEVBdkpzTThnMTBmSDRJWnfSAW5BVV95cUxOUFJlTWJ1N2RiQnRQemlvREIxd2lpNDlpVC02bmd0YlVfdEZsX2pGODdaLWZuTlY0UlRqY0hPLXg3M1o0dGhidmUwYWVBd0tzRWdUS3JoS0NXbWYxZ1E4Rld6d09laVdkWno1TWpOdw?oc=5",
+   "publishedAt": "2026-09-01T10:19:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T17:01:55+09:00"
   }
  ]
 };
