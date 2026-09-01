@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-08-31T18:21:40+09:00",
- "runCount": 718,
+ "generatedAt": "2026-09-01T10:28:35+09:00",
+ "runCount": 719,
  "price": {
-  "price": "36,550",
-  "pct": "-0.81",
-  "at": "2026-08-31T18:21:41+09:00"
+  "price": "36,450",
+  "pct": "-0.27",
+  "at": "2026-09-01T10:29:16+09:00"
  },
  "articles": [
   {
@@ -24043,6 +24043,98 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-08-31T16:47:27+09:00"
+  },
+  {
+   "id": "32ed5b70f84f8ba9",
+   "title": "카카오는 왜 하필 지금 'AI'와 'X'로 쪼개기를 결정했나",
+   "outlet": "리더스팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FY1RDN3U1M3Q5NHJxVHFqcUNsb0ZJbzhJQ25lM21WOVNYbGlVdlNzVk03ek9BaEJqdzFRQlN6cWs0VkdIVm10VzV6MWNqVjhlNDdIdVplZzdKazJlUy1kLUZiVi1ad1J2TS02Q1VHeEM?oc=5",
+   "publishedAt": "2026-09-01T08:30:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-09-01T10:28:35+09:00"
+  },
+  {
+   "id": "0e589c96024ced80",
+   "title": "에스파·아이브 잘나가는데…11조 몸값 못한다는 카카오엔터",
+   "outlet": "인베스트조선",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON1FnZzVsdzJoRnBpZ21mcXp1ZU1mTGdDQ19BaC1MMWY3aUxXY1VGNENWRkJRcDBuOUZ2RWF0aF9sOUhWREplTXdrV2s1R0NvbGdxUWNlYTkwdVdKeXNqMGNmZVl1czNrOWs0Unk0Znl6d3U0VzEyQWhUYVJ3Yl8yRjVYaw?oc=5",
+   "publishedAt": "2026-08-31T07:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T10:28:35+09:00"
+  },
+  {
+   "id": "3bb035beb9897d0c",
+   "title": "카카오, 카카오AI-카카오X로 쪼갠다 … AI 시대 ‘투트랙 전략' 승부수",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdngwSGFVbVFpOU9nMmVubmRDTWE3LWVsQWQwc3R4bmtiLVFkcnp5WWV3STU5YVJMMEJ5UXFXeEN0QmNuQkc0S1pHYXJxSlpUakxyRU1mTEZ6dTJXUUJMdUF3Rl80ak9BQkZUUnQ5NE1jMDRfQ19LWWlGRdIBgAFBVV95cUxONnJqMEFya2FQbHBMMW5RSmNxbkNHMXREOWotUVZSX1NGbE5qX1pJdk9XVi1UNGtLWFNuZ2V5dmhKZmIwT0tLZHJvRFQ4ZWdPTWtjN284RUlhNFhMN2Qxd3Y3anZ3bDR0cl9xR2JoaWYxQURhTVlmTzF3aUJLZnRaeg?oc=5",
+   "publishedAt": "2026-08-21T10:22:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T10:28:35+09:00"
+  },
+  {
+   "id": "ab3e92368e16835a",
+   "title": "카카오, 'AI'∙'투자' 두 회사로 나뉜다…\"2030년 매출 16조 성장 목표\"",
+   "outlet": "아이티비즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FaGw3YURCdDI1anptaUxnM0d1MHlwQlZqdmJ0WjhJX3dDcUpkay1ZYS1YRTRwekY5NGJwV0Nxb2trekZhU0E4TEJvVG5udVF1WEVoSENGSDdzZF9IX3N3SDV1ck5XRzQ?oc=5",
+   "publishedAt": "2026-08-21T12:00:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T10:28:35+09:00"
   }
  ]
 };
