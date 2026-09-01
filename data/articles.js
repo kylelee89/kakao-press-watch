@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-01T17:34:05+09:00",
- "runCount": 759,
+ "generatedAt": "2026-09-01T17:44:27+09:00",
+ "runCount": 760,
  "price": {
   "price": "36,500",
   "pct": "-0.14",
-  "at": "2026-09-01T17:34:06+09:00"
+  "at": "2026-09-01T17:44:29+09:00"
  },
  "articles": [
   {
@@ -24443,6 +24443,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-01T17:22:45+09:00"
+  },
+  {
+   "id": "9a16183b28f5544a",
+   "title": "카카오 노조, 인적분할 부결 추진…주총 표대결 예고",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KMzJCaWgxVDZHNnRWWWFEZHhWVXk5cllBbEpfTjVzWUpqS3BLODNta0xjelJqdlY5VmN0cUZheEFKMnhMQW5KYWpON1V2ZTRJLWI3VlE1VDFaNzhycHptbVpIdDk?oc=5",
+   "publishedAt": "2026-09-01T17:38:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-01T17:44:27+09:00"
   }
  ]
 };
