@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T15:20:44+09:00",
- "runCount": 787,
+ "generatedAt": "2026-09-03T15:31:07+09:00",
+ "runCount": 788,
  "price": {
-  "price": "35,250",
-  "pct": "+0.43",
-  "at": "2026-09-03T15:20:45+09:00"
+  "price": "35,350",
+  "pct": "+0.71",
+  "at": "2026-09-03T15:31:08+09:00"
  },
  "articles": [
   {
@@ -25221,6 +25221,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-03T14:47:45+09:00"
+  },
+  {
+   "id": "1bc9b518cf8503c3",
+   "title": "0.36·0.64 카카오 분할, 주총 표계산 남았다",
+   "outlet": "tokenpost.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZODFDNjdoMmRsVkl5SzltcUlESi05Zm9qbENBbmtuT19WM3lhVXh0OE9VTG4yMFdfYnNQbThmRHF6cUVOcVp2RllhWEdxSFFCdDJkSkd30gFbQVVfeXFMTUV2aExacF9BdVo5SENHZVdRdHZnNVd5ZEVqUWRqQ1h2T3dfYk85WmpDSWRVclFJN3RoN2lLQzBqcW9qME1tMkRYcjZYeXdSVGx2a1YxVnZ6czZwUQ?oc=5",
+   "publishedAt": "2026-08-30T08:23:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "분할비율 0.36 / 0.64"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T15:31:07+09:00"
   }
  ]
 };
