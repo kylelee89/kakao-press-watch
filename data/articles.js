@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T14:37:22+09:00",
- "runCount": 783,
+ "generatedAt": "2026-09-03T14:47:45+09:00",
+ "runCount": 784,
  "price": {
-  "price": "34,850",
-  "pct": "-0.71",
-  "at": "2026-09-03T14:37:23+09:00"
+  "price": "34,950",
+  "pct": "-0.43",
+  "at": "2026-09-03T14:47:46+09:00"
  },
  "articles": [
   {
@@ -25168,6 +25168,59 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-03T14:16:42+09:00"
+  },
+  {
+   "id": "6279422fd402509b",
+   "title": "카카오, 인적분할 발표에 9%대 급락… 일시 매매정지 악재",
+   "outlet": "AI경기방송",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ydHg5czNUTUpsRlhlSjJQSXQ4bzJxRjQ2eVBKRFhVVWxLYjJKY0d1VkcwalMzRWRjM1hwQlo0Mno3Nk5lc2tOQ2tIU3h3Z1RpQXc?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -5.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:9%대 급락",
+    "적대어:악재"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "9%대 급락",
+     "악재"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T14:47:45+09:00"
+  },
+  {
+   "id": "2133abeadf3df015",
+   "title": "카카오 두 회사로 쪼개진다…AI는 정신아·투자는 김도영",
+   "outlet": "리더스팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sNXNybzBoSWJiTnZPb2xrLVVDRnlkQkVyOWdaZlBuTXl0bkt1a0xsTTVrNEZmMlVndVV0STlQS1YzUVZyc0RtYi1iTWp1MVMwNy1ybEJCbTM1dTJabGhncUliSFQ0d3JFSVpFazkwUQ?oc=5",
+   "publishedAt": "2026-08-21T11:58:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T14:47:45+09:00"
   }
  ]
 };
