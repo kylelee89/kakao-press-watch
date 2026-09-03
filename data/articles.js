@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T10:17:44+09:00",
- "runCount": 765,
+ "generatedAt": "2026-09-03T10:28:32+09:00",
+ "runCount": 766,
  "price": {
-  "price": "36,050",
-  "pct": "+2.71",
-  "at": "2026-09-03T10:17:53+09:00"
+  "price": "35,850",
+  "pct": "+2.14",
+  "at": "2026-09-03T10:28:33+09:00"
  },
  "articles": [
   {
@@ -24594,6 +24594,427 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-03T10:17:44+09:00"
+  },
+  {
+   "id": "c8a887e1da2b4702",
+   "title": "카카오 인적분할에 모빌리티 ADR 상장도 순연…속타는 TPG",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4td2p1OExCRlgxRjQ4Mi1UQVVpT0Zld0RnR1p6S3Brd1VaSHVuNGI0WThUZWtXQ2lkNXcySmh4NXhlQ1l6MGZ6cEticlRfYkZ2Ul9pOA?oc=5",
+   "publishedAt": "2026-09-02T09:15:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "b2387a5d6a2aa739",
+   "title": "[카카오 인적분할 上] 카카오가 AI와 X로 나누는 이유",
+   "outlet": "the-pr.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NOUJGNE9ZeV9fX3BBQWtMU250RkFMNXk3LWF1UFZ2am95Y00wMW9wRmh2WXZ6UjVmYmEzUS02YUFqSVlZakdyX0xXeDlHaGhrdVFqbDBveElzSm9KVFpHSHZTaC1RWUpQaHFRMEZ30gFuQVVfeXFMT005QkY0T1l5X19fcEFBa0xTbnRGQUw1eTctYXVQVnZqb3ljTTAxb3BGaHZZdnpSNWZiYTNRLTZhQWpJWVlqR3JfTFd4OUdoaGt1UWpsMG94SXNKb0pUWkdIdlNoLVFZSlBocVEwRnc?oc=5",
+   "publishedAt": "2026-09-01T17:42:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "154c3963fb723b83",
+   "title": "카카오, 카톡 기반 유료 멤버십 추진…택시·쇼핑·음악 등 혜택 연계",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LV215YlRxSmdpMkVsaFdjeWRvZVFyTUt6cFBzdk9mQ1plZ0tsellIakp2dmpNaDhEaVYyZHJlY3pKbzNxYjFaY25VWlhNV2pKZE8zZDJvaWjSAVhBVV95cUxPS1dteWJUcUpnaTJFbGhXY3lkb2VRck1LenBQc3ZPZkNaZWdLbHpZSGpKdnZqTWg4RGlWMmRyZWN6Sm8zcWIxWmNuVVpYTVdqSmRPM2Qyb2lo?oc=5",
+   "publishedAt": "2026-09-02T18:13:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "44114c4c09f8e684",
+   "title": "[카카오 인적분할 下] 그럼에도 카카오AI가 프리미엄을 만들 수 있는 이유",
+   "outlet": "the-pr.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oUld4VTdicEV6eVVwSWtjZXc5THphdXp5RHZrdjd4OFFnZm9adWxUbXc2ejU5NUpLNzEzSlIyY0o5UWM5WTVybVdhTGhNRnljQzM5cjZKZktSQ25BVExfbmx2WEhEQ3dHR045eEZB0gFuQVVfeXFMTWhSV3hVN2JwRXp5VXBJa2NldzlMemF1enlEdmt2N3g4UWdmb1p1bFRtdzZ6NTk1Sks3MTNKUjJjSjlRYzlZNXJtV2FMaE1GeWNDMzlyNkpmS1JDbkFUTF9ubHZYSERDd0dHTjl4RkE?oc=5",
+   "publishedAt": "2026-09-01T17:44:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:에도"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "9e79c3d2a9a29f5f",
+   "title": "NH투자증권, ‘지배구조 해결사’ 우뚝…한화 이어 카카오도 자문",
+   "outlet": "sisaon.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZlhId2dlOG5nUTR4ZjBOYnB1RDdWNVh0QlBTU3JGSDJQbTE3dVV6aEVQd0xWR194cWNRV2U2WC1zUHRpSFhxMHhZYkplNzFHYVYzNnEyUDBLRElzWlpwb05RT3c0bERsZS0w?oc=5",
+   "publishedAt": "2026-09-01T15:41:54+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:뚝"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "d576f9ce782b9e2d",
+   "title": "카카오, ‘리센느’와 일상 속 AI 경험 알린다",
+   "outlet": "AI타임스",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mRjV0RFNjMlJiX0wzcE16N0Yyal9DZU1qNmsyMlBZSDhQRkdGb1pUU3o4cURHUGVIVi1tTlN0N0RaLWQ2dE5ETDE1Y3FtOEJuOUFHcmNabWFLNXBaMjVkR1E5eFBPRHcwVkE?oc=5",
+   "publishedAt": "2026-09-02T17:20:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "c6e191148c201a7c",
+   "title": "카카오, 카톡·택시·음악 묶은 ‘유료 멤버십’ 출시한다",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14OTdjaFNCR3BvNHctaU5VX0ZrN3VsUFRpbGtSWGltVDlvN29XWTlmSUpIV0lTZlp6T0FPZEFySE5XQ2tXN1diUDB0S0pkM1k?oc=5",
+   "publishedAt": "2026-09-02T16:14:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "42ce3403ba49e5db",
+   "title": "카카오도 유료 멤버십 띄운다... 카톡·쇼핑·택시·엔터 뭐가 묶일까",
+   "outlet": "한국일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCeko1N0R3NWhlR1ZvSTdGOGt0T05CUk93RHdXdWY2VUxWa0YxQlQtU2pJWWIyOU9vNW9DdVRiclJfdUJkRVJyME4wREpieTNCX0I2NFJ6eUI3eWRIVENvZDVYTUZMajZqMEFoWjdB0gFzQVVfeXFMTl9kWVAzVk9VNGF3bDd2SFFLYTJOc2pMWWxXZlEtaGZIUmg1ZmtBRExXQ0sta1gtZC1IdTE1N2FuMmJiSjRXd3o1dkhPbW01dHRTVGtQNkVjQ2k0NGtpbU14UEhaa2dKNUlsZGZxTEtNeFFjUQ?oc=5",
+   "publishedAt": "2026-09-02T15:17:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:일까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "일까"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "2fb95ac66a11eedb",
+   "title": "5000만 쓰는 카톡 ‘무료 메신저’ 한계 넘나…통합 구독 멤버십 준비",
+   "outlet": "중앙일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBMFhGcm9NX2NseEZvUU8wVzZLcllwNG5iZkRWOVNkTW10UDV3THdpRmxVdUhWMXZOeGJMRmJVck1JeEE4YjJHSWZka0ExODB0SFJic1hR?oc=5",
+   "publishedAt": "2026-09-02T14:39:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "9a2b8b7dd84625b9",
+   "title": "카카오, 카카오톡·택시·쇼핑·음악 연계 '유료 멤버십' 추진",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42WEduREhtc3lRT3FqWDVpczk2bTJwNUZQeFdTQWw3cTV0SDRtQ3RMUm1ySWR1Z2lqNnRDTkFJOXJhVjNPSzF4bWU1T3dqeHc?oc=5",
+   "publishedAt": "2026-09-02T14:48:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "e866a54ac231e537",
+   "title": "[리포트 브리핑]카카오, 'AI CAPEX LIGHT 모델의 근본적 한계, AI 약세시는 최선호주' 목표가 45,000원 - 현대차증권",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mT3NYQU41Z3dla0dDNlI5WDVNN1REMFlSelBRSmlHRUJoWXJvNjN5VVVOSUZiSUNiOVpobTdjR3QtQVlWMHFsMVVPN2s3QnNmOE1YOEoyY0VucjNI?oc=5",
+   "publishedAt": "2026-09-02T11:03:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.6,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:약세",
+    "전언감쇠:리포트"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "약세"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "572f4b69b60ca5bc",
+   "title": "카카오 '유료 멤버십' 생긴다…카톡·택시·쇼핑·음악 연계",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IdVJMQ3RmWmV5YVRYd05UaHBvZXZlUW43ZWk5QmRnUjdyX1ZGQ25XUE5TMFRIT2VQSy1BTnl1TmJIWUlLQmZranBidS0wcG5OQi00?oc=5",
+   "publishedAt": "2026-09-02T15:10:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "770210a1746f0623",
+   "title": "카카오톡·택시·웹툰·선물하기 연계한 '유료 멤버십' 나온다…계열사 서비스 하나로 연결",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93RWM5RFdiRnNRcXROMTFjYVNFcDdlUl9DbXoyU0s2V1F3V29XUDF1TUNjNzRyc0tXa01BR3V5RDh3a2hyWjZSN3ZRcmstSm1neENF?oc=5",
+   "publishedAt": "2026-09-02T17:18:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "66356926959c4e9d",
+   "title": "카카오 새 판짜는 신종환…한투 버리고 NH 택한 까닭",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTkVveFZYeEdBakZfcERiUUpaU2hTYWxPMUdiN2hTeVI4a0V6WnpoLTNaUV9sNFFzX2JOZjBNUzc3NFpJTzBJQzNNUkczSWs?oc=5",
+   "publishedAt": "2026-09-01T08:06:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "d82e8f4ab53a33f0",
+   "title": "카카오, “아이돌 ‘리센느’와 일상 속 AI 경험 알려요”",
+   "outlet": "gametoc.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SM1Z3U1FJOFpVaEUwMGNlWWVNTEtzaXBHT3VNWVphVTZfQzJ2LWt1bTB5dndoRE4xN0J6VXpiYklBTlMxSHgwc3JEUDI4dnZpbEtRSUZ4OU5Rd3l4Z3lOSzUwNVE1WnZrNW1hQw?oc=5",
+   "publishedAt": "2026-09-02T11:04:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "737c8634ed829aad",
+   "title": "주주친화적이라는 인적분할에도 카카오 주가 급락 왜? · 시장 영향은?",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nclowU012dW1UQ2F2TkRFMzUzdWQ0RTQ5WjZNUUp2OEoxbWE3UmpYd3Y5TTJyUG50NGNrWm5ib2d1Qnl3TWFYaVYtNlV5NGxrOGNRdFhxSFRsVDVf?oc=5",
+   "publishedAt": "2026-08-21T17:46:38+09:00",
+   "tone": "우려",
+   "toneScore": -8.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:에도",
+    "등락:급락",
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "급락",
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "fc84ec1952f4bc2d",
+   "title": "카카오, AI·투자사업 분리··· 6.4조 투자로 ‘디스카운트’ 해소 나선다",
+   "outlet": "미디어파인",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZZ29FMW5qSDV0c0VBWjB3bDRhZFZoVDJtM3p5UDJYeGVRdkkyRmRRTW05b255d0RIMXNkRlVEeXBGVzdMczNSazNTb3BXQ2IyZGdXcTBzOVZ2LUxzTU9iUUVaTWJGcGZIY3RGQlB3?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:디스카운트"
+   ],
+   "frames": [
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "디스카운트"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "73457c231803acf8",
+   "title": "[현장] 카카오 노조, 인적분할 부결 추진?\"국민연금부터 설득\"",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRVkNJZnE1SnNrS2NRS0prMURnbUY3OHE5cVJYai1IU3Nubk9sakhza29mZ05vNEM5dDVxOGp0N0RNUGw1XzBGTkx5WjBGZXloZGpn?oc=5",
+   "publishedAt": "2026-08-26T16:37:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:28:32+09:00"
   }
  ]
 };
