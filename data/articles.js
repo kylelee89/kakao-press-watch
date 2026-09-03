@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T11:44:32+09:00",
- "runCount": 773,
+ "generatedAt": "2026-09-03T11:54:57+09:00",
+ "runCount": 774,
  "price": {
-  "price": "35,900",
-  "pct": "+2.28",
-  "at": "2026-09-03T11:44:33+09:00"
+  "price": "35,950",
+  "pct": "+2.42",
+  "at": "2026-09-03T11:54:58+09:00"
  },
  "articles": [
   {
@@ -25097,6 +25097,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-03T10:59:52+09:00"
+  },
+  {
+   "id": "fbe507b74e9fccc3",
+   "title": "카카오, 멜론·택시 묶어 멤버십 내놓는다",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkN2tGOGhSdUhVcUhndE9IdXJPci04Y0dxWjlhS2ZDMldQcmVkUzBKSC10TXZDMUFCRXNoMnBmbERDVkIxaEdnSm9sQTY2Q3UyaWNwUGNpbThOZw?oc=5",
+   "publishedAt": "2026-09-02T17:32:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T11:54:57+09:00"
   }
  ]
 };
