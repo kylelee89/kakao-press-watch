@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-01T18:27:58+09:00",
- "runCount": 764,
+ "generatedAt": "2026-09-03T10:17:44+09:00",
+ "runCount": 765,
  "price": {
-  "price": "36,500",
-  "pct": "-0.14",
-  "at": "2026-09-01T18:27:58+09:00"
+  "price": "36,050",
+  "pct": "+2.71",
+  "at": "2026-09-03T10:17:53+09:00"
  },
  "articles": [
   {
@@ -24466,6 +24466,134 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-01T17:44:27+09:00"
+  },
+  {
+   "id": "8c4e1a2ab5d22f21",
+   "title": "카카오, 인적분할·이사회 재구성…노조·시장 부정 반응 넘어설까",
+   "outlet": "nocutnews.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56cnVOSjFybDhTTXc0eFNXWG9BRUx4Y29mRFdpRFhhZkRXd0IxWjY1QkJFWkRDSllxZWYyXzhWTW9TMzVEUGNqMkYtTHFOVmRsc2c?oc=5",
+   "publishedAt": "2026-09-02T16:45:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:17:44+09:00"
+  },
+  {
+   "id": "6bf3ed2d82080bd5",
+   "title": "'AI·투자'로 분할 나선 카카오…'쪼개기 상장' 논란 피할까",
+   "outlet": "srtimes.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HOU82OFpMaW5jaVZuN0cxbzFWc19OdUttMThsN1BGMjUwc1Q4V2dzWndlR1AxTkd5c3BaSmFkMkRwdW9wNGN2N3pjSVh1Zkt6WlZlSk5kZGxGN2hCRmgyMHJUalFCbkZS0gFrQVVfeXFMUEg2OW1ZY0FMWUhTQ0tZbW15eVJpS3R2c2lDOXExbV9LREgtRnJqSEUtNUVCUG5SNUc1czEyWVpUMGZRWEkyNUp1dEQ5dWRILUNGZzhFb3JnQkJQZ1lYNVhvN3picnhvSlNRNDQ?oc=5",
+   "publishedAt": "2026-09-02T08:30:00+09:00",
+   "tone": "우려",
+   "toneScore": -8.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "수사의문:할까",
+    "적대어:쪼개기",
+    "적대어:논란",
+    "스케어쿼트:쪼개기 상장"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까",
+     "쪼개기",
+     "논란",
+     "쪼개기 상장"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:17:44+09:00"
+  },
+  {
+   "id": "bb7ec65eeb8e50fe",
+   "title": "[허정수칼럼] 카카오 인적분할, ‘쪼개기’ 상처 지울까",
+   "outlet": "블로터",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45WWVoUmpza2VNUnZrcjFFLXRycEZsSEp3S0NVMWExaHl4N2I0alRUTkh5RTNvNkQ4UnVlcXNDRnFGdm1hTEhLRGZjaWYzUkpIbEtLUEEzUlR4VFUzUmczQkR3cnVYRWtvSEhIctIBbEFVX3lxTE45WWVoUmpza2VNUnZrcjFFLXRycEZsSEp3S0NVMWExaHl4N2I0alRUTkh5RTNvNkQ4UnVlcXNDRnFGdm1hTEhLRGZjaWYzUkpIbEtLUEEzUlR4VFUzUmczQkR3cnVYRWtvSEhIcg?oc=5",
+   "publishedAt": "2026-09-02T06:12:07+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:17:44+09:00"
+  },
+  {
+   "id": "de4ec13eca21bd24",
+   "title": "[투코현장] “이직 안 했는데 회사가 다섯 번 바뀌어”···카카오 노조, 인적분할에 고용불안 호소",
+   "outlet": "투데이코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vNHNjLVE1ZnJUTGNUdWxHekJoQXVOdGNKTEQyeXJqWG1tamoza2p4UlhRMlRzVnVtb19xeWVzQ2tmcXBWeVpLdWFpTXA2M2lLaGZieGRjWXFDTnFHa0JpLTctanYxbllfaWxJZ3BhMi3SAXRBVV95cUxNVllkcDJXTkE5NTh4SW13NU1Oem5Cd1Q0bkFsTmc0QzRsZ3ctX25LZVprbkFNbU5pMHJSVVJiallhQ1lnVHhuako5NkxGUjBCVi11cC1BdE41cGkyakxPdXYyTVF2cnRYQkphdFlSTDBVVXBHOQ?oc=5",
+   "publishedAt": "2026-08-26T17:24:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:17:44+09:00"
+  },
+  {
+   "id": "99f4b9daea153d86",
+   "title": "[천지일보 이슈종합] 네팔 홍수·이진숙·선관위·李대통령 지지율·카카오 노조·출생아·美 대이란 제재·용산공원·허위 종결",
+   "outlet": "천지일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfZEdIWTZZUldxNlB4RGdzcWlGcldwM3l2ZUwxbXR4R3dxQm5NWFI3a2lBTERRMkIyU0RsOVAwREJGZXhqLVlDdXNZbTVaandfTTBVN3BGcjRxelFzNzVTZXNVbTFDUmVBWlE?oc=5",
+   "publishedAt": "2026-08-27T07:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:17:44+09:00"
   }
  ]
 };
