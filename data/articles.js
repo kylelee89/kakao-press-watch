@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T13:04:29+09:00",
- "runCount": 775,
+ "generatedAt": "2026-09-03T13:22:10+09:00",
+ "runCount": 776,
  "price": {
-  "price": "35,950",
-  "pct": "+2.42",
-  "at": "2026-09-03T11:54:58+09:00"
+  "price": "35,800",
+  "pct": "+1.99",
+  "at": "2026-09-03T13:22:11+09:00"
  },
  "articles": [
   {
@@ -25118,6 +25118,32 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-03T11:54:57+09:00"
+  },
+  {
+   "id": "d895d33439fd3efd",
+   "title": "[마켓파워] 주가 70%↓·임직원 30% 이탈…시험대 오른 신원근의 ‘책임경영’",
+   "outlet": "아시아투데이",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lNjR4ZzFCNmxiLVV0SWctU256WWQ2N05hU1BXR2FwcTF0VUc2WFhqRXhfWkwtUDVqUXBEMVFOQWNVbFllTC1fUjdiWXowSUxJaDlVODhqcWV2T1FzcjVSWVdQM0hJaER5X1VRV1NB?oc=5",
+   "publishedAt": "2026-09-03T07:00:01+09:00",
+   "tone": "우려",
+   "toneScore": -3.8,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:주가 70%↓",
+    "대형하락:70"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "주가 70%↓"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T13:22:10+09:00"
   }
  ]
 };
