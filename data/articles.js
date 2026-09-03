@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T10:49:24+09:00",
- "runCount": 768,
+ "generatedAt": "2026-09-03T10:59:52+09:00",
+ "runCount": 769,
  "price": {
-  "price": "35,950",
-  "pct": "+2.42",
-  "at": "2026-09-03T10:49:26+09:00"
+  "price": "35,750",
+  "pct": "+1.85",
+  "at": "2026-09-03T10:59:53+09:00"
  },
  "articles": [
   {
@@ -25073,6 +25073,30 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-03T10:49:24+09:00"
+  },
+  {
+   "id": "64d9f03782eeae27",
+   "title": "[속보] 카카오, AI 사업 떼어낸다…'카카오 AI·카카오X'로 인적분할",
+   "outlet": "newspim.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5paExSTXRXa05jcXBOVkRqN05hdldwdW4tbW5NMVlMWTFZQl9OV19jTkd4UWFvd0RHcEhRZVhwcnZXSWpNYlRhM3h1ZWZEWWZvQ2VQREZyb1FXWmFX?oc=5",
+   "publishedAt": "2026-08-21T10:14:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-03T10:59:52+09:00"
   }
  ]
 };
