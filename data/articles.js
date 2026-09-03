@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T10:38:57+09:00",
- "runCount": 767,
+ "generatedAt": "2026-09-03T10:49:24+09:00",
+ "runCount": 768,
  "price": {
-  "price": "36,050",
-  "pct": "+2.71",
-  "at": "2026-09-03T10:38:58+09:00"
+  "price": "35,950",
+  "pct": "+2.42",
+  "at": "2026-09-03T10:49:26+09:00"
  },
  "articles": [
   {
@@ -25045,6 +25045,34 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-03T10:38:57+09:00"
+  },
+  {
+   "id": "1778281eab414d27",
+   "title": "카카오 쪼개지자 장중 13%대 급락…\"지금 팔아야 하나?\" [종목e슈]",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53UUxMMWtWTmtxX0p4ODktR2lSZWFoTDN4THcxeVN0ZmpxQmF3ZUV4XzJUZ3BQeVNleG9JbFg4Unhaa3p0Wk1CUWx0UXFrRmlqbFF3bEIxajAwT01MWVlxei1KUWdvcW0waDRrdWFyckhwdGI2VjVmRA?oc=5",
+   "publishedAt": "2026-08-29T06:02:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.8,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:13%대 급락",
+    "대형하락:13",
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "13%대 급락",
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:49:24+09:00"
   }
  ]
 };
