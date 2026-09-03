@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T10:28:32+09:00",
- "runCount": 766,
+ "generatedAt": "2026-09-03T10:38:57+09:00",
+ "runCount": 767,
  "price": {
-  "price": "35,850",
-  "pct": "+2.14",
-  "at": "2026-09-03T10:28:33+09:00"
+  "price": "36,050",
+  "pct": "+2.71",
+  "at": "2026-09-03T10:38:58+09:00"
  },
  "articles": [
   {
@@ -25015,6 +25015,36 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-03T10:28:32+09:00"
+  },
+  {
+   "id": "549de4c0cff0b248",
+   "title": "[길 잃은 카카오]③’쪼개기 상장’ 늪에 빠진 카카오…실종된 김범수·정신아의 ’기업가정신’ By 알파경제 alphabiz",
+   "outlet": "kr.investing.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHMlhjeGJJanlfNGtHLTJMT3lESHNsV19sRzhvZm1nTFl4RmlxRjhISzU3M0lQNVowRWdHWVhBSXVIMlNMQjF5M0Z1V0NuVVliQWlfbjg2d3loUHBBYTVtVG0yaDhzV2M1MGdPeUtFVGY?oc=5",
+   "publishedAt": "2026-08-28T09:47:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.5,
+   "frame": "비판프레임",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "적대어:쪼개기",
+    "적대어:길 잃"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "길 잃"
+    ]
+   },
+   "firstSeenAt": "2026-09-03T10:38:57+09:00"
   }
  ]
 };
