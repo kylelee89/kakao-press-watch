@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-04T12:02:44+09:00",
- "runCount": 814,
+ "generatedAt": "2026-09-04T12:13:03+09:00",
+ "runCount": 815,
  "price": {
-  "price": "36,200",
-  "pct": "+2.40",
-  "at": "2026-09-04T12:02:45+09:00"
+  "price": "36,150",
+  "pct": "+2.26",
+  "at": "2026-09-04T12:13:03+09:00"
  },
  "articles": [
   {
@@ -25555,6 +25555,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-04T11:52:21+09:00"
+  },
+  {
+   "id": "06a47e928354ea6a",
+   "title": "카카오, 카카오맵 연계 ‘런투게더’ 진행…러닝 서비스 접점 확대",
+   "outlet": "fetv.co.kr",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JbWpMZ2FaVmNCaWtQWHhaWFZWb1duV3B0aVd5Q3ctTkpCM2ltU1pWMDVQcFVRQ0tnVUtkMFY1YzlSbkVWenJNT1NpaHhfSmhjOG5tSVNUNWZHLWlONmFudFIyQ1BQNlF5?oc=5",
+   "publishedAt": "2026-09-04T09:31:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T12:13:03+09:00"
   }
  ]
 };
