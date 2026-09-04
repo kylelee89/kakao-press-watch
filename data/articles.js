@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-04T11:20:13+09:00",
- "runCount": 810,
+ "generatedAt": "2026-09-04T11:31:33+09:00",
+ "runCount": 811,
  "price": {
-  "price": "36,050",
-  "pct": "+1.98",
-  "at": "2026-09-04T11:20:15+09:00"
+  "price": "36,100",
+  "pct": "+2.12",
+  "at": "2026-09-04T11:31:34+09:00"
  },
  "articles": [
   {
@@ -25509,6 +25509,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-04T11:20:13+09:00"
+  },
+  {
+   "id": "a9c04dc9794bcc70",
+   "title": "카카오페이, 핀테크 업종 기대감 속 장중 강세 : 기업주식정보",
+   "outlet": "재경일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13M1dlMGlRSmRzbl9qNjYtZkl5Qy0tcmRuRVAtZ0dSWkFjS0dkc3p5Z3hiRWlCRU8zWkVCWlc3YkhoUGRMcm4tVTB3?oc=5",
+   "publishedAt": "2026-09-04T10:55:00+09:00",
+   "tone": "긍정",
+   "toneScore": 1.8,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대감"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [
+     "기대감"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T11:31:33+09:00"
   }
  ]
 };
