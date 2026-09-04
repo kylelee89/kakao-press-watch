@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-04T11:41:57+09:00",
- "runCount": 812,
+ "generatedAt": "2026-09-04T11:52:21+09:00",
+ "runCount": 813,
  "price": {
-  "price": "36,100",
-  "pct": "+2.12",
-  "at": "2026-09-04T11:41:58+09:00"
+  "price": "36,300",
+  "pct": "+2.69",
+  "at": "2026-09-04T11:52:22+09:00"
  },
  "articles": [
   {
@@ -25534,6 +25534,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-04T11:31:33+09:00"
+  },
+  {
+   "id": "3ebf949addfcb090",
+   "title": "‘빅블러’ 시대…분할·합병 공식 바뀌었다 [스페셜 리포트]",
+   "outlet": "mk.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xbS1oYjA1TnRIY3hsX0NoV2VVdnp1NzdWTFVWVXRVNm1rUzVjT0I5Ym1OclR5SGRWN3BZbkdvODA3VkhHS0lvTEN2QTNWWnM?oc=5",
+   "publishedAt": "2026-09-04T10:28:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T11:52:21+09:00"
   }
  ]
 };
