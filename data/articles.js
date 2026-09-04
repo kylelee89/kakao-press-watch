@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-04T10:26:16+09:00",
- "runCount": 805,
+ "generatedAt": "2026-09-04T10:36:44+09:00",
+ "runCount": 806,
  "price": {
-  "price": "35,700",
-  "pct": "+0.99",
-  "at": "2026-09-04T10:26:18+09:00"
+  "price": "35,800",
+  "pct": "+1.27",
+  "at": "2026-09-04T10:36:46+09:00"
  },
  "articles": [
   {
@@ -25408,6 +25408,59 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-04T10:14:18+09:00"
+  },
+  {
+   "id": "9fb3dd424dc9632c",
+   "title": "카톡·택시·쇼핑 묶는다...카카오표 ‘통합 멤버십’ 시장 안착할까",
+   "outlet": "파이낸셜투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wVjhERnFsOWI2SmdOWnpoVXN6VlFUR1lySmNLYnMxVnRIUGVJbEMzTmtncEtLcHVBYl85eDZ2SWI0NXVST1JJSFN1MFd2cGJxcXZlYS1rYXpxZS02ajZYZHpWelJnM2FncW53Z1hR0gFuQVVfeXFMTzBWOERGcWw5YjZKZ05aemhVc3pWUVRHWXJKY0ticzFWdEhQZUlsQzNOa2dwS0twdUFiXzl4NnZJYjQ1dVJPUklIU3UwV3ZwYnFxdmVhLWthenFlLTZqNlhkelZ6UmczYWdxbndnWFE?oc=5",
+   "publishedAt": "2026-09-04T09:34:03+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-09-04T10:36:44+09:00"
+  },
+  {
+   "id": "f4a863b9551f2c98",
+   "title": "복합기업 할인? 카카오 쪼개기 논리는 ‘김범수 총수의 독재’ 실토 [조수연 만평]",
+   "outlet": "뉴스웰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82RDZQSFJmcUg4SlJkZzhyTEFrMEZETGQ3UWFMVmdvMnpJSUdCOURLaTgwTmVweS12bkRKXzkwVEFROFJNRjcyQ3A3ZnNYYnFKRnlRWi0wd3N0MGs1X3l2RzltTGtkZV80NXlCdA?oc=5",
+   "publishedAt": "2026-09-04T09:46:36+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "물음표:?",
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-09-04T10:36:44+09:00"
   }
  ]
 };
