@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-04T12:13:03+09:00",
- "runCount": 815,
+ "generatedAt": "2026-09-04T12:23:25+09:00",
+ "runCount": 816,
  "price": {
-  "price": "36,150",
-  "pct": "+2.26",
-  "at": "2026-09-04T12:13:03+09:00"
+  "price": "36,250",
+  "pct": "+2.55",
+  "at": "2026-09-04T12:23:26+09:00"
  },
  "articles": [
   {
@@ -25576,6 +25576,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-04T12:13:03+09:00"
+  },
+  {
+   "id": "c839a9e8f3ec8981",
+   "title": "램 슬롯 고장 고객 서비스를 위한 리더십 최선의 실천",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80R3lBOWpXVlRvRkhwSVkyQ2FpeGw1QS1WT1BCb19QLVhSTDJpSHdZNk52NmVUZjFTYWhiZndyd19palZ5eGQxV3poWE1ScnZBa3FVT05CdWg0OF9TMEpQR0JEYlppTjlKYmNHeFNn?oc=5",
+   "publishedAt": "2026-09-04T09:16:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T12:23:25+09:00"
   }
  ]
 };
