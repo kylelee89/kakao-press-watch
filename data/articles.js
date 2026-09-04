@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-04T10:36:44+09:00",
- "runCount": 806,
+ "generatedAt": "2026-09-04T10:48:03+09:00",
+ "runCount": 807,
  "price": {
-  "price": "35,800",
-  "pct": "+1.27",
-  "at": "2026-09-04T10:36:46+09:00"
+  "price": "35,900",
+  "pct": "+1.56",
+  "at": "2026-09-04T10:48:04+09:00"
  },
  "articles": [
   {
@@ -25461,6 +25461,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-04T10:36:44+09:00"
+  },
+  {
+   "id": "e0e0f4fa4fb6ebcd",
+   "title": "'인적분할' 막으려는 노조…카카오, 경영 효율·조직 안정 '과제' [카카오 공동교섭 선포]",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VWRlT21JeXItV3luZDM4WW85aDFHc1NIUlJXUXRvcUlYMzdtaVB2cHNhMHFyU01DNWxiZnc4VDlpTGJoN2VXSUhlZkdHUnh1dXFv?oc=5",
+   "publishedAt": "2026-08-26T18:47:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:과제"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-09-04T10:48:03+09:00"
   }
  ]
 };
