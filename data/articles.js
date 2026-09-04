@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-03T18:10:37+09:00",
- "runCount": 803,
+ "generatedAt": "2026-09-04T10:14:18+09:00",
+ "runCount": 804,
  "price": {
-  "price": "35,350",
-  "pct": "+0.71",
-  "at": "2026-09-03T18:10:38+09:00"
+  "price": "35,900",
+  "pct": "+1.56",
+  "at": "2026-09-04T10:14:28+09:00"
  },
  "articles": [
   {
@@ -25244,6 +25244,170 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-03T15:31:07+09:00"
+  },
+  {
+   "id": "8021f8f2b7dbceec",
+   "title": "“7000억 설탕처럼 녹아”…카톡 자유롭게 해주잔 김범수 속내 ➁",
+   "outlet": "joongang.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04T2kwVlkxS29fZjhxNVM3a2xNQ0dzZms5d3pXZDhjV1Vxa1BYQjg1WW4wd0gzbXVQWHE1b2hyU0w5clRWSGZTZDZyWEtiSUZENnlqckFn?oc=5",
+   "publishedAt": "2026-09-04T09:25:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T10:14:18+09:00"
+  },
+  {
+   "id": "2a25ab987b1a1fbb",
+   "title": "‘카카오 멤버십’ 이르면 10월 출시…택시·음악·쇼핑 다 묶는다",
+   "outlet": "한겨레",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuMEFvQnJOOS1pTjF0X3RSRWxUa3UwdzlTNldZa3JmT201XzBKeDFoamFIS0Vicl9kMVZIUkNJNmgwUzZnSmxQcFI5Y3F3WWhldnctNVJZTlVkZ0hwa25tbQ?oc=5",
+   "publishedAt": "2026-09-02T11:45:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T10:14:18+09:00"
+  },
+  {
+   "id": "1608bb46d5bc7983",
+   "title": "카카오,유료 멤버십 도입 추진···택시·쇼핑·음악 등 연계",
+   "outlet": "서울파이낸스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tWWFNb0s1bjlQd1FwRHBkWUNYd2djdmhEejVRZVRFVW5uU2RrQ2o3LWxTaG1yVEJUVlN2VDlLU3FKUHlwTWtORVpiaEc0Y3JOb3JpSmo5dm90Q2d1dXhROWd0R2VkbWJTRUE?oc=5",
+   "publishedAt": "2026-09-03T08:52:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T10:14:18+09:00"
+  },
+  {
+   "id": "605fe26210af215e",
+   "title": "카카오, 통합 유료 멤버십 출시 준비…“택시·음악·쇼핑·웹툰 혜택 묶는다”",
+   "outlet": "위키트리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vM19MUS1yc1pWUnlteW1UQ1NTT3p3RVBvdEN3b21rVFdRYzdHQjVzZkZYUlo5LWlkUHNvTWJDSUh0bWozNVNiQjhXd0FrZ1lpSWZ5TDdn?oc=5",
+   "publishedAt": "2026-09-03T13:51:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T10:14:18+09:00"
+  },
+  {
+   "id": "c3504aecad19ec0d",
+   "title": "카카오, AI·투자회사로 인적분할…‘두 개 엔진’ 체제로 전환",
+   "outlet": "뉴스피릿",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ud3VzOHdmY21JY09iN3pjREpDdmMwaUlnMjdRV2xldGxiNG1VTXFZbHlkUlVOZ2czN29MamwtMjRkOWRMQ1FObG55STFMeEVuLTN5Q01DOGVFNVY0b0VPSU5NWDFYeWd6cUxn?oc=5",
+   "publishedAt": "2026-08-21T14:05:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오X = 미래가치 투자회사"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T10:14:18+09:00"
+  },
+  {
+   "id": "f3ab5e254370a4c1",
+   "title": "카카오 인적분할 앞두고 커진 존재감…카카오모빌리티 '주행' 순항할까",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RRFZqUnM1VzlnUGhTb0ZaY0YxZktsRFFQM0VVeFVVV1NSTGFFOE53NER0dElEbDBzQ3c1OW5Xc1JiQ1JHdnFsZl9YRW55b3ZjX0tORTRaUkJVMUs0M1doYlo0LUc?oc=5",
+   "publishedAt": "2026-09-04T10:06:56+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-09-04T10:14:18+09:00"
+  },
+  {
+   "id": "570fed6476bd5016",
+   "title": "[기업평판] 카카오, 인적분할은 신의 한수? 본업 강화와 지주사 할인의 딜레마",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCSmFQdkJLSGk2MkdLcnk1cTYtUHpjb2ZCN3V1U3QtdGJZem9vdmxZOUdxVTBoZEdoRURQRjRQUF9BdDVQdnNKUlJ6UV9sTmNOQVpvQ2l5Vl93ajBFdkZKNGtrMG9ycGdBN2RNWTBR?oc=5",
+   "publishedAt": "2026-09-03T18:21:39+09:00",
+   "tone": "우려",
+   "toneScore": -2.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?",
+    "적대어:딜레마"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "딜레마"
+    ]
+   },
+   "firstSeenAt": "2026-09-04T10:14:18+09:00"
   }
  ]
 };
