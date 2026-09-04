@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-04T13:07:47+09:00",
- "runCount": 820,
+ "generatedAt": "2026-09-04T13:18:08+09:00",
+ "runCount": 821,
  "price": {
-  "price": "36,200",
-  "pct": "+2.40",
-  "at": "2026-09-04T13:07:47+09:00"
+  "price": "36,100",
+  "pct": "+2.12",
+  "at": "2026-09-04T13:18:08+09:00"
  },
  "articles": [
   {
@@ -25597,6 +25597,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-04T12:23:25+09:00"
+  },
+  {
+   "id": "950dde3c5cf42531",
+   "title": "카톡·택시·멜론·쇼핑 한 번에…카카오, 서비스 묶은 유료 멤버십 추진",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByUGUzaFcycGd0bmU1bU5oOWdCTXhwU0VaUnd3bG4yX2hfMElvQlQwRFBuTnUxYVFlemNxaExMZFF4VHJzbVE?oc=5",
+   "publishedAt": "2026-09-02T16:01:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-04T13:18:08+09:00"
+  },
+  {
+   "id": "d13d5f8bb8321ae8",
+   "title": "이더 리움 폭락 이유 솔직히 놀랐던 부분 후기",
+   "outlet": "pekergyo.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RZm5hcU9sUE12cGpQVmtUN3ZhdnlpUkhWX2FrbDlBamp6ZEJ2RlFIcUk5WGdwSG5ITWFZMVE3T2ZMb1hqZFNZYlVpa0l0SVpkM3pN?oc=5",
+   "publishedAt": "2026-09-04T06:03:46+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:폭락"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "폭락"
+    ]
+   },
+   "firstSeenAt": "2026-09-04T13:18:08+09:00"
   }
  ]
 };
