@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T19:37:26+09:00",
- "runCount": 893,
+ "generatedAt": "2026-09-07T19:47:46+09:00",
+ "runCount": 894,
  "price": {
   "price": "36,550",
   "pct": "+0.97",
-  "at": "2026-09-07T19:37:26+09:00"
+  "at": "2026-09-07T19:47:46+09:00"
  },
  "articles": [
   {
@@ -26467,6 +26467,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-07T17:06:06+09:00"
+  },
+  {
+   "id": "0de751e8ccbbe8dc",
+   "title": "- 한국일보",
+   "outlet": "한국일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCeko1N0R3NWhlR1ZvSTdGOGt0T05CUk93RHdXdWY2VUxWa0YxQlQtU2pJWWIyOU9vNW9DdVRiclJfdUJkRVJyME4wREpieTNCX0I2NFJ6eUI3eWRIVENvZDVYTUZMajZqMEFoWjdB?oc=5",
+   "publishedAt": "2026-09-02T15:17:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T19:47:46+09:00"
   }
  ]
 };
