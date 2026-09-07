@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T03:29:22+09:00",
- "runCount": 938,
+ "generatedAt": "2026-09-08T03:39:36+09:00",
+ "runCount": 939,
  "price": {
   "price": "36,550",
   "pct": "+0.97",
-  "at": "2026-09-08T03:29:22+09:00"
+  "at": "2026-09-08T03:39:36+09:00"
  },
  "articles": [
   {
@@ -26530,6 +26530,73 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T01:44:00+09:00"
+  },
+  {
+   "id": "85e49cb08e353c30",
+   "title": "엠엑스카지노 의 혁신과 미래: 기대할 수 있는 변화들 - 장단점 비교 분석",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUREWmhWN3dKV0F1VmNjRE82MkF3RVp3MTM3MENlWWxDT2o5ZDVyVWtBQmRMSUt0T29kOGFuS1N1czFqRmxQU0ltcG4wY2l5LUVYSDIydzA1WnlCdWt4M2tNUEdPVGgyX01MUHN3NEJqZ2hkNmZzaXpXckkyOWVVSUkwel91T3RTcGdlVlVQTG9pSXY3LWVrN2k5bjhSanJm?oc=5",
+   "publishedAt": "2026-09-07T16:34:06+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T03:39:36+09:00"
+  },
+  {
+   "id": "dc74b3e4bba96440",
+   "title": "맞고 팁 2025년 애자일 개발: 현상, 본질 및 법칙",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGgxZjdUbWJEanBEQ08xaUZDTUdUNlRFTUE0X0szTDFxS28wZEJfd1ZBV19kMC1HZ2JiRG11c05iWmVvcktQZ2p2MDNJbGtWQV9scmVodVM3WFl2czU5bGsyakc4M25CTGg1VTFyUzJxQ2wyNUZlNHNXVlNpdDJMbzkyT1RFcHM1dkZtQXFxV1JDaXZINjdFb2Fsbjk1MFFGMVlFSzM4MnlROElhTVhOcXYtUTBZUC1kUnFv?oc=5",
+   "publishedAt": "2026-09-07T21:18:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T03:39:36+09:00"
+  },
+  {
+   "id": "e5439977f5f5f811",
+   "title": "슬롯 사이트 77 의 비밀을 풀다: 전문가들이 공유하는 핵심 팁",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZFFEd3NxbGxtU1RUWmlXMW5hZXM3ZFBvUnJOU0J5LTJFMXlNNjdHRDAxOVhHbzVtMXZzaE5WLTFzT05NSFM1SmV5NDRlSG1RQks3T0RYWWdMUExMRl9fRURXUlNrY0E1ZGZVRVVKSi1ON0ltZXZjRFNZX2dhMWFoUHBEVS0xcWpqZkxhajc4a0pmYTYyVnRkY2hoOTQyN0xDY25mdjl0anh0R2s2Y2RLNG9fMjk5SFVIbEppOGk2d0NSaEU0YzVlR1R5UFdZbzJrTHdFU1pnRTRIdkVWOFBGbw?oc=5",
+   "publishedAt": "2026-09-07T23:24:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T03:39:36+09:00"
   }
  ]
 };
