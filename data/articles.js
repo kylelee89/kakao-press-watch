@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T16:31:10+09:00",
- "runCount": 878,
+ "generatedAt": "2026-09-07T17:06:06+09:00",
+ "runCount": 879,
  "price": {
   "price": "36,550",
   "pct": "+0.97",
-  "at": "2026-09-07T16:31:12+09:00"
+  "at": "2026-09-07T17:06:06+09:00"
  },
  "articles": [
   {
@@ -26437,6 +26437,36 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-07T15:07:07+09:00"
+  },
+  {
+   "id": "217888abee221d2c",
+   "title": "카카오 인적분할, 최대주주 24.1%로는 못 넘는다…소액주주 반발 변수",
+   "outlet": "PRESS9",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvZWUtSFhJY21DUzU1NDNTMG40aU1UWmZ4ZVJqenYxZzlyR01xcEhUVURPUTBIX0ZhbExaZmFEWm90dWhDRlJwOXN5cjc0Mk8wbmlyLURZRDZxcWlKcTVINzJsc3A?oc=5",
+   "publishedAt": "2026-09-07T16:30:51+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T17:06:06+09:00"
   }
  ]
 };
