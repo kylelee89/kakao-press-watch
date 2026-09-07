@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T11:38:47+09:00",
- "runCount": 850,
+ "generatedAt": "2026-09-07T11:49:05+09:00",
+ "runCount": 851,
  "price": {
-  "price": "36,100",
-  "pct": "-0.28",
-  "at": "2026-09-07T11:38:47+09:00"
+  "price": "36,000",
+  "pct": "-0.55",
+  "at": "2026-09-07T11:49:05+09:00"
  },
  "articles": [
   {
@@ -26208,6 +26208,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-07T11:27:32+09:00"
+  },
+  {
+   "id": "591fe921e460255c",
+   "title": "실시간배팅 사이트 창업자를 위한 투자 재테크 필수 포인트",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVpmUjZqeDZXLWZDNlJrRTJyNFFxUkJtcVY3UXBTQXV5UElRdWc4RzctVVBaZG4ySVB0NjRpWUFuZklPMnlqaFU0bWllQ2ZwNGdaYktGOWhadzlsWUhZeFhVMXFoeXJzU1p6cjcxQ01rNUc1U3d5cXdfWjNEN1p6bldlTmtDVUJ0VDk0OVNrWEtaNHFRbTlCWldWMTBBZ2Q2QTJRRUtBRHZDZUg2NjI2aWRGQWo?oc=5",
+   "publishedAt": "2026-09-06T00:43:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T11:49:05+09:00"
   }
  ]
 };
