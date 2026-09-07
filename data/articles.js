@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T06:56:19+09:00",
- "runCount": 958,
+ "generatedAt": "2026-09-08T07:06:36+09:00",
+ "runCount": 959,
  "price": {
   "price": "36,550",
   "pct": "+0.97",
-  "at": "2026-09-08T06:56:19+09:00"
+  "at": "2026-09-08T07:06:36+09:00"
  },
  "articles": [
   {
@@ -26597,6 +26597,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T03:39:36+09:00"
+  },
+  {
+   "id": "e159621da2e90979",
+   "title": "같은 인적분할인데 카카오는 울고 한화는 웃은 이유",
+   "outlet": "주간동아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1acnFPLTcwMlhtaG1rSUtKMlpUbjMyNFlKUFNodFdOMG1QMUxXTGs0QVVUQURSdGM3RV9RaUYxX2ZHMFFmUXhuZ3ExTXNHU21pcnkyYVNMSVp6cFRGNjFBVU12YU8?oc=5",
+   "publishedAt": "2026-09-08T07:00:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:인데"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T07:06:36+09:00"
   }
  ]
 };
