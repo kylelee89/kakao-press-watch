@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T08:31:47+09:00",
- "runCount": 967,
+ "generatedAt": "2026-09-08T08:43:01+09:00",
+ "runCount": 968,
  "price": {
   "price": "36,550",
   "pct": "+0.00",
-  "at": "2026-09-08T08:31:48+09:00"
+  "at": "2026-09-08T08:43:01+09:00"
  },
  "articles": [
   {
@@ -26622,6 +26622,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T07:06:36+09:00"
+  },
+  {
+   "id": "7d718452e539db00",
+   "title": "제왕카지노 - 시대별 변화와 영향 - 업계 전문가들의 조언",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZUhYMHN4bWNtaFlwcnM4bmhjYjRvMWZ6OTNMTlR0eS1SSmtOMUJEZWZLTkNwMzlPRGVUdlhhakI3VTd1OHpHalRkTy1raGlVcVFrVEJBbm1CalJGMWpfVTlDUkQxXy1laG1DVjBkb2tVVThtLXRZXzdLb1kxNE5Ibzh6bC1hdEh5YkJaNjQwREQyU2tuTGo3RnVMalZUUQ?oc=5",
+   "publishedAt": "2026-09-07T11:47:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T08:43:01+09:00"
   }
  ]
 };
