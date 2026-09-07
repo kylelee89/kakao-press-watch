@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T10:56:39+09:00",
- "runCount": 846,
+ "generatedAt": "2026-09-07T11:06:57+09:00",
+ "runCount": 847,
  "price": {
   "price": "36,150",
   "pct": "-0.14",
-  "at": "2026-09-07T10:56:39+09:00"
+  "at": "2026-09-07T11:06:58+09:00"
  },
  "articles": [
   {
@@ -26152,6 +26152,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-07T10:56:39+09:00"
+  },
+  {
+   "id": "545b174ef408929e",
+   "title": "액트 \"카카오 인적분할, 왜 굳이?\"…'착한 분할' 대책부터 요구",
+   "outlet": "더팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40X0lIUkFvdkMwZXhlempMN3pFZGFWbGlkOGFSQ3JmZmI0YkhDaEFxQ1M0b0dDelNTakFDQVdEVU9YdnBYMEg2YVh3Q0gwcC1KX0ptVEhCbGk2UdIBVEFVX3lxTE03T2JySjBzZlFTT1AtdWk1UkliWnI4aTZBMUVFcGVXNkFSS251QWt1Zk5GQkpCYUxMNl9jcjFPYmVlUktnNjJLaG1RelZCaGlUaU5OZA?oc=5",
+   "publishedAt": "2026-09-07T10:52:53+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T11:06:57+09:00"
   }
  ]
 };
