@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T14:03:53+09:00",
- "runCount": 864,
+ "generatedAt": "2026-09-07T14:14:20+09:00",
+ "runCount": 865,
  "price": {
-  "price": "36,600",
-  "pct": "+1.10",
-  "at": "2026-09-07T14:03:54+09:00"
+  "price": "36,650",
+  "pct": "+1.24",
+  "at": "2026-09-07T14:14:21+09:00"
  },
  "articles": [
   {
@@ -26340,6 +26340,54 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-07T13:53:30+09:00"
+  },
+  {
+   "id": "3010a17528d01aa8",
+   "title": "\"삼성전자도 안 하는데\"…카카오 쪼개기에 개미들 '반기'",
+   "outlet": "news.nate.com",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGb0phbDM4ZmRGNXcwVXZqeWdJckJOb0paRFhuTzlhVXhmN3p5cTV1VzNxeUVYWUM0TmNKZUp1QXZvcW5vX2NNaXRzLTJBSUNVd0dJ?oc=5",
+   "publishedAt": "2026-09-07T13:43:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기",
+    "적대어:개미"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "개미"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T14:14:20+09:00"
+  },
+  {
+   "id": "b609ee686ca1b0eb",
+   "title": "토토 h 뜻 제로 메이저 포스트 코로나 시대 브랜드 구축: 기초, 심화 및 마스터",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2dTdEJYNFA1YVktaEo5NmQzVWY2S2RNc25UVGotNmlrMDlXQ05ycXhsOXRkZlQ0SXpnSTdKOHJNV0RwWjlYN0p1VUwxZ3pEZGZxSDdGWkVLMkhpNmFQVHFfR0R1QklKWkJOQnlxZ2V5UU03dlRjS3ZxRDlvaUxoWl9pU09sZUFKUlJnUXptUFZqXzNyY2E2dzAxV1VvUHF3WFcyaWF6ajB5clZST0dDVkR1NzVjSVpO?oc=5",
+   "publishedAt": "2026-09-07T04:07:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T14:14:20+09:00"
   }
  ]
 };
