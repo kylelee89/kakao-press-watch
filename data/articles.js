@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T11:17:14+09:00",
- "runCount": 848,
+ "generatedAt": "2026-09-07T11:27:32+09:00",
+ "runCount": 849,
  "price": {
-  "price": "36,150",
-  "pct": "-0.14",
-  "at": "2026-09-07T11:17:14+09:00"
+  "price": "36,050",
+  "pct": "-0.41",
+  "at": "2026-09-07T11:27:32+09:00"
  },
  "articles": [
   {
@@ -26179,6 +26179,35 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-07T11:06:57+09:00"
+  },
+  {
+   "id": "e33a6b98c4cdd9ab",
+   "title": "카카오 인적분할에 뿔난 소액주주…\"조직개편으로도 충분\"",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9keUJyX1RvYUJIbXVmVV8xUEM1MHpXWnlHenpOdk9CbFFjV3hJdDJhbzlVTk9DOF90aVpiLU81MG0xUmhMNHpmOXhPZFhEdmc?oc=5",
+   "publishedAt": "2026-09-07T11:15:05+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:뿔난"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "뿔난"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T11:27:32+09:00"
   }
  ]
 };
