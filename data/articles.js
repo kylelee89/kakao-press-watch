@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-04T16:45:48+09:00",
- "runCount": 840,
+ "generatedAt": "2026-09-07T10:02:08+09:00",
+ "runCount": 841,
  "price": {
-  "price": "36,200",
-  "pct": "+2.40",
-  "at": "2026-09-04T16:45:49+09:00"
+  "price": "36,250",
+  "pct": "+0.14",
+  "at": "2026-09-07T10:02:21+09:00"
  },
  "articles": [
   {
@@ -25664,6 +25664,408 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-04T14:53:09+09:00"
+  },
+  {
+   "id": "aa87c7cb0c5f308e",
+   "title": "두 회사로 갈라지는 카카오, 쪼개기 잔혹사 끊을까",
+   "outlet": "주간경향",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iRlVXd2lnaGY3ZEpYckpCMGhEZ1AxczBXZ2xPcEg5ZmxCSXlMUG9lcWg3RllhSW8zQ1I2X01rdFRpOFlLcUVWTGZVV2g4Y0hoWHFES1NMd3RBVVZGdUE?oc=5",
+   "publishedAt": "2026-09-07T06:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "4bace3976d29be32",
+   "title": "'떼고 붙이고' 카카오, 인적분할 이어 통합 멤버십 승부수 [재계 머니맵]",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Z2gwSmRiT21tUDJtdTdBOFlQXzlYT0RYeFBmWFp0d01lLVZSMTFjQ3JzY3IxOWZXa2N5LVFGalZOdXEzbGF6UTRhbElZTzJnRzJB?oc=5",
+   "publishedAt": "2026-09-07T06:02:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "b5984e46dae5d9a9",
+   "title": "계열사 158개서 92개로…카카오, 이번엔 본체를 쪼갠다",
+   "outlet": "자본시장뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40WDZYY2piWUZWZjB4UDJTZlRfY2ZXbzNFMHBwa1lXZUtqMTd6NVozRWNnY1ljemtZOHZ5eUs4akFTeVYtN3BSM2Z4N2VQb1NaRFVyMU1aclMzNDc5ZDlqOEczM3V5NU0?oc=5",
+   "publishedAt": "2026-09-06T10:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "ce826da0a3ab1a97",
+   "title": "한화·신세계도 쪼갠다…대기업 사업재편 핵심수단 된 인적분할",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HdEQ2X01ZZ25wVlU1cmxpR19DRDVPOWtub0dadDg0Q3FHeDBzNVZNVEpydko4d3lmblJYMkFFeGdVaExKOU1mVm54UUlHVDJiS05Zcm9kdnB0Zw?oc=5",
+   "publishedAt": "2026-09-06T17:43:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "04c8b7f0c2c455bd",
+   "title": "상장사 잇단 인적분할… 기초체력 따라 '밸류업 효과' 희비",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vUmlFd3F4R3h3T0ZkYU00ZkNyaHEzTy15V2pDdTlLQzcyNXlNY0ZCR0VXVG1iOVVHdGUzTlpCTGFNUzBrdC1aZld3S1pvRHM?oc=5",
+   "publishedAt": "2026-09-06T18:31:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "8ec6450d0b68bb0d",
+   "title": "토토사이트 구조대 비타임 2025년 애자일 개발: 현상, 본질 및 법칙",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmNKLXhLcmxqaGhQOHNUS2dDWUtZMjlUR2VaMC1jRUwtRmlXSXRBb3ZrODBnR3poWlN1bXhsNjRXdWxvaW1vbF95Mlp5NkU2dkJHVVNTeTllR24xMk1uVjdPYmpoRlJUQnhQNkY0X0ZOWW5ILXNYUUxad202Q1NaLW5fZmM?oc=5",
+   "publishedAt": "2026-09-06T20:46:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "6656a9133ad59ac4",
+   "title": "에스크 토토 먹튀 : 실제 경험자들의 조언",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10TndZNUZfVFBveWs3c01sbDAtNWE4YjNxalJHSTNHOEJfR2t6V1BlMzZ6d1BMNWxXR25rXzlHbEhTemdZY2JUSl9GZTJya0dpQy1TNXprYXBtQlVuLTM1REpNRXVNekkyZEVfX0pDekFkUURmaFZFeV9kZ0w?oc=5",
+   "publishedAt": "2026-09-05T23:31:23+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:먹튀"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "먹튀"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "d99740cfe7f99d51",
+   "title": "토토 가입 포인트 제로:에그슬롯",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUHNBc0l0dGtVSDY5MllJTzNiTDFMMFFiTzZOcm16QmdOdml5V1F4RTR3eGFtdncxRHhORjJ4SEFCeXhuN2xPaXZaeEoyYTZQRlNlUG5ydklQWjI0VTY2NEY1TkFGRk82NDgzanhMOU43RGRjckFIV2lpNTJzYzhObzJfallkSGZaSEEyS3NDS3dqWFdmdFJsUzhNLTIySUhoWUx4Tl8xbUJlS3ljRFpITC15LWFxVTRnblQ2ak5hNWhlUGR1R2VYNnMyWGxSRGd2YTdWWU9reDRkME9RT1JZZTFsLVRuRUJBZUV0R0tPdEhHcjI4MWZFVk9vcUFBY1lnNTdQNGJ6WUY?oc=5",
+   "publishedAt": "2026-09-04T21:50:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "5d1f19ddee6f4ccc",
+   "title": "[NZSI INDEX] 2026년 9월 2일…카카오 또 인적분할, 기업을 계속 쪼개야 가치가 커지는가",
+   "outlet": "kdtdiamond.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXRjl3MGYzSDRQdmQ2U0pQTWxDcmZOV0xpOTFqTEFuNkg1b2JvdTdFbW1UMkc3SjhEak9aUjdkVGg1dUxaSDBGRUlGbzhQZENJaTlneHpuaE5VQ0xQdVo2ZFotdGNUUGpYT2JN?oc=5",
+   "publishedAt": "2026-09-03T17:43:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "6d99c25b7a9ce5c4",
+   "title": "윈 조이 환전상 에 대한 궁금증을 해소하는 완벽한 가이드",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05MkRIQ2dyVDZ4SlNWR0lJMjd6WWZCUEt5NGROaWRwcGlHU1BZTkdsRUxVTEJaTWNsUVkybW96aHdiWEkwWUd0cEJldmd4T2NLZEd1WEwxMW5lVDJmNzBKeG9yWEdrUQ?oc=5",
+   "publishedAt": "2026-09-06T04:56:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "2ccc71b9dc06bb9e",
+   "title": "bj파이 포커 : 전문가들의 조언",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSTR6azM2cWtVSmk5NkZ5Wnl1UUsxV0c4Tkk1TlcyYW5oNGowM2VKSkVKdzRZT0NqXzBvX1d0aVBaUk9HQ2IyN2x4UktUUVREd2VlVmNZdzl5aU84dWZ1WWJCdXVPc3NpUFhENDhXeTZsRnk4cHAyZ0FJSkRsa1RPS3ZkdFJUN3Bna1o2UVdlRDBPVU5YbHZ6RVFaMmpXbFRGNlk3QW5MY3dqcGtBWGtQRWJRRTczbU96VWtZNnpYMEVTZHRNLXJBN1ZGTUtUcDdFVFk0bmZPaklwSzN3RG55d18wT0pqZmZiWnp4a3BrQjZ2TzBuQ3c?oc=5",
+   "publishedAt": "2026-09-06T11:58:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "5b45213c201a48e1",
+   "title": "몽트뢰 카지노 에 대한 2025년 전망: 어디로 향하고 있는가",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LdlFCZnBMaHV4S1oyR1ZIUUpIUGVvX0lZdV9wMF9OOHM0cjYzYWFrQ25OWHQyRll6d2lld1BKM2J6dlhrVHdCV3NsLUg3aHVjZ3BZc3BPNmUweGljOU5nX3JfWEpmZG1jeE5pblZNeHE3MEVB?oc=5",
+   "publishedAt": "2026-09-06T02:35:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "47564b2875180aee",
+   "title": "터키 카지노 호텔 - 에 대한 심층 분석",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2dtNkZsd2xuMFE5QlExWnRSbWV1djZvdjhpd2ZfbW8xOExQekRtc3diRFVIREhwb1cxUW4xVGMxa1Etb1NNd2x1UVlMb08tREpscVRtMUJkU1pwNmMzZC14SkNac3NTMXoxX3VJVGtUcGgwUlh3MHVxTXAyYUo3MWhac2hBREtIaHB4MktpeU5HUWhQYXdpTGFVcUc4R0JtQTZkX0E2OFBfQmZaMHNiWndsZ0g?oc=5",
+   "publishedAt": "2026-09-06T09:33:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "01eea72a192f2edb",
+   "title": "[DD퇴근길] 주가는 급락… 두 회사로 인적분할되는 카카오, 과연?",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52Znk4b1RBMDVEWERzTTlTQVZ4VXRRNlptWE1iNjlnRUpmVnRDd01mZ3NzbXZ6MzN3ZjFyS3pwbDdrUXNOcllvd1M2X2Z2ZmlSUnB2RXJ2aDBVeFhEX2Q5UVotNHF3TkE?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:급락",
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "급락",
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "184aa321af6f9e30",
+   "title": "홀덤펌 : 새로운 트렌드와 발전 방향",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNaFd1UERLNExySFVYdUc5NU1BMUk5M2k3TWpnVEpndUdpUFJjYmd4dVFmOGtNNGxTeTdxeUhZbWpfNnFWcEpXZ2pleENtb2NTS1ZsMzdSZDN0YlM2cUhYMkgxLTZyVWlFNUVjYzZlN3VyY2dKZ3FoMWdZWVBSeHhWbmZjWlJ4Z1ZiMFNIUW9tSmFSRS1KZjFwcDN2OTZVcHlZazFVVGllRE1FZUJrdzlWei1xRmhydWxySnhhdElmaEpoX3Fpdno4ajVPZ0xadC0ycE9XcndzRUVsX2pkRk9DZ20xMkFCOUE0bXhLOG5JRlVha2dNQlBLMWp1eFZXeUltREZpc2VuMkRLaWVFdGhuTDh6eExBQnJjSWxCYm9ibk82bzBOd0ZzSVpDbThuMkk?oc=5",
+   "publishedAt": "2026-09-05T01:27:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "c40cec67491f7ca6",
+   "title": "NH투자증권, 기업 지배구조 재편 역량 빛났다... 카카오 쇄신 자문 수행",
+   "outlet": "리버티코리아포스트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54S01xM1pGb3RpOWtGckQzMEpsYjduclphQWNqVUdhUkM2UzhOaWJXVmRyVjFGajRRcTFHNTZxS1BEd1NxTGVveTVGNnBCYXpBRDNYN01IeHFOSVpKaWpxVHRkNNIBZ0FVX3lxTFA1UmNhMWg2ejFiY3NlMFdocnhScUYyR1FvOUFNMDlGTGRucU1TMjNBalBsZktmU2JDU0VNWTcyZDFMSm4yYzl3QkI0UTlqWDFIOTkzMjVBYng3a3JsQk5WaG1VVDRpc3M?oc=5",
+   "publishedAt": "2026-09-04T09:10:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "ad4a5047b4f3a33e",
+   "title": "포커 클럽 수트 의료인를 위한 알고리즘 설계 실전 기술",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHI0U1hBWmVCUUZQclE5SDNQT0FMWEc4d3BydjdpcnBUZTF1Q0plYUJBb3piemdGWDI4ZVluNk1xUENjN0V0Wk50ZWU0U1ZiZVNtVEt5ak82T2czNWxoc0ZsRExoTm85U3RiaEFCYkRNbHVBYzRBY0lncTJzWkpVV3NJVkY1SWVVRFZ1ck8wMkc3U1JTWHZBeThZUE1iVkJfeVNCMnk0em9hZ1Y4OWdOVUJsM3NaTXhfMmc?oc=5",
+   "publishedAt": "2026-09-05T04:45:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "dfae2dc24ad0e88b",
+   "title": "스포츠방송 의외의 장점 후기",
+   "outlet": "actt.org.tt",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKdFJDcXdycXF2V1Flb0lEVUJVVGtqV1NycTBlV0NVQ2plRzU4Nl9QNmRmZUtlYnJjV254bFEyVjllX1QxcE8waFptV3dKbXVyeElpRTBRSUMwNzlwLVV2OW5R?oc=5",
+   "publishedAt": "2026-09-05T06:03:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:02:08+09:00"
   }
  ]
 };
