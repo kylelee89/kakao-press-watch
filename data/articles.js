@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T13:43:08+09:00",
- "runCount": 862,
+ "generatedAt": "2026-09-07T13:53:30+09:00",
+ "runCount": 863,
  "price": {
-  "price": "36,400",
-  "pct": "+0.55",
-  "at": "2026-09-07T13:43:09+09:00"
+  "price": "36,500",
+  "pct": "+0.83",
+  "at": "2026-09-07T13:53:31+09:00"
  },
  "articles": [
   {
@@ -26315,6 +26315,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-07T13:32:49+09:00"
+  },
+  {
+   "id": "bc2ed5b064d3e602",
+   "title": "\"삼성전자도 안 하는데\"…카카오 개미들 '착한 분할' 제안",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NNnJ5UjNrRFZNUUZyQ2c5QUw3cDMwa28yRlBpNWFmOUlKWmV1Ny03bDZCWEQ5Z3RNS1JmNC1SZGpUTHlqM3lMTHhYREh6NG5aMXNmNXhiSWVqcXhtMXhYanFoeGlnS3FYSm5SMzF4ZWJKOGpVWmVxVA?oc=5",
+   "publishedAt": "2026-09-07T13:43:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:개미"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "개미"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T13:53:30+09:00"
   }
  ]
 };
