@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T14:46:22+09:00",
- "runCount": 868,
+ "generatedAt": "2026-09-07T14:56:44+09:00",
+ "runCount": 869,
  "price": {
   "price": "36,600",
   "pct": "+1.10",
-  "at": "2026-09-07T14:46:23+09:00"
+  "at": "2026-09-07T14:56:45+09:00"
  },
  "articles": [
   {
@@ -26388,6 +26388,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-07T14:14:20+09:00"
+  },
+  {
+   "id": "f54312282b46b592",
+   "title": "7년간 미루던 ‘카카오 멤버십’...이제야 꺼내는 속내",
+   "outlet": "조선일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHdHVFdSNEFjNWx4UnA5X3ZrRVNybUpVa0ttdkVCVEJTTFNuUTEzWTFrUGhzZk14NEVlR0R1dHJQUENsamd3ZXNqS1MtMG9Yc25pSm1YZWItRzFDUm02WW1HcUNWMEZRM295SFBlRXctYjAyM1paRkQ5VzhCQzl3UG1Ocw?oc=5",
+   "publishedAt": "2026-09-07T13:55:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T14:56:44+09:00"
   }
  ]
 };
