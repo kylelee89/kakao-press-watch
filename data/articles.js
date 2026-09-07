@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T01:32:48+09:00",
- "runCount": 927,
+ "generatedAt": "2026-09-08T01:44:00+09:00",
+ "runCount": 928,
  "price": {
   "price": "36,550",
   "pct": "+0.97",
-  "at": "2026-09-08T01:32:49+09:00"
+  "at": "2026-09-08T01:44:01+09:00"
  },
  "articles": [
   {
@@ -26509,6 +26509,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T00:31:17+09:00"
+  },
+  {
+   "id": "32c7be597dde5323",
+   "title": "- hankookilbo.com",
+   "outlet": "hankookilbo.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MbEhYNUlZMlAySEFrTkhJMUZFZzE5Qm54S0ctVWRCT2lSaEZBUDg5eUhxZ0JmUnZINjRESjlZU3IwNEdRZ1RKNk9WandIaE5iVTliZktPREprWG5ZOFcxbG5WSVJnMEw4YTlnd1hn?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T01:44:00+09:00"
   }
  ]
 };
