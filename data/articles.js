@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T10:46:18+09:00",
- "runCount": 845,
+ "generatedAt": "2026-09-07T10:56:39+09:00",
+ "runCount": 846,
  "price": {
   "price": "36,150",
   "pct": "-0.14",
-  "at": "2026-09-07T10:46:18+09:00"
+  "at": "2026-09-07T10:56:39+09:00"
  },
  "articles": [
   {
@@ -26129,6 +26129,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-07T10:25:42+09:00"
+  },
+  {
+   "id": "12335ea8f78bf699",
+   "title": "“조직개편으로 될 일을 왜 굳이 나누나”…액트, 카카오 인적분할에 공개 질의",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16YzFRalRjbERJRVZxSVl0eVpsdElvTXRkWFFyVGs1N21YaFFyUHZtTUthUGt2R2FzZWpuS3RSV0ZsQ3ZWYVZjYjBKdjNtTzlaQzVuRUZRcHJQZ1QycnVfM2hDYXg?oc=5",
+   "publishedAt": "2026-09-07T10:49:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:56:39+09:00"
   }
  ]
 };
