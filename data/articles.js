@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T00:21:01+09:00",
- "runCount": 920,
+ "generatedAt": "2026-09-08T00:31:17+09:00",
+ "runCount": 921,
  "price": {
   "price": "36,550",
   "pct": "+0.97",
-  "at": "2026-09-08T00:21:01+09:00"
+  "at": "2026-09-08T00:31:17+09:00"
  },
  "articles": [
   {
@@ -26488,6 +26488,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-07T19:47:46+09:00"
+  },
+  {
+   "id": "90d180abfdd5a9a0",
+   "title": "슬롯 무료 스핀 계속 찾게 되는 이유 노트",
+   "outlet": "actt.org.tt",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBreTdITkYtQkhOcndnRlRjNHVYUzM2azZQYWpwRUp6bV9xX2ZCelNvQ3FNQ204bUdhRGdDUjFMOUNOUElqc2E3OUhtNDRVR1pfQ0lOSUlkOFFtc2tsWnR0SzNR?oc=5",
+   "publishedAt": "2026-09-07T12:44:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T00:31:17+09:00"
   }
  ]
 };
