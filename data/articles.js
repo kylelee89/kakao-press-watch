@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T10:02:08+09:00",
- "runCount": 841,
+ "generatedAt": "2026-09-07T10:14:23+09:00",
+ "runCount": 842,
  "price": {
-  "price": "36,250",
-  "pct": "+0.14",
-  "at": "2026-09-07T10:02:21+09:00"
+  "price": "36,150",
+  "pct": "-0.14",
+  "at": "2026-09-07T10:14:24+09:00"
  },
  "articles": [
   {
@@ -26066,6 +26066,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-07T10:02:08+09:00"
+  },
+  {
+   "id": "71532b99ea09df42",
+   "title": "토토 환전실수 디시 탄소 중립을 통한 요약: 원리, 방법 및 기술",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDVXc21rMlhKZXg2Wm9zUmNGVTF1a0g4YURTSUtEUGEta1lTUHBBOHpianppZTNsMWZEVDJ2ZDBhVHdrRHZ1cW94UmtTcHBYc1BmcXNVOVk5SjNMbTdiYWNodDRtZmJ2U1hISElDdm85ODhIZUgxNUY1SV8yY3l3NDh5bURSQm8xUURDTnpYVkdJQ29kX2xnTmJjWFZwOUdxLWM0ZnU5MTdlS0dlcXRVZDV0ZVRyY0lhSjgwWkdodkI?oc=5",
+   "publishedAt": "2026-09-06T23:23:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:14:23+09:00"
+  },
+  {
+   "id": "a08baf1ca7016ea4",
+   "title": "오징어 게임 슬롯 머신 의 비밀을 풀다 - 2025년 최신판",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmowcFB5WlY1cVRMcVpuZUhULUF6elNybER2VGRTRmhCc2N2WG1SeXZKQkFQVURlUzg2dlg3OGMzX0pocmtIdFFZcjN4aWtNN1hkSTNRNkVocmhsQVVDZlFmejBXb2xPOVo2b215WEhaMVQ2WUgzUTZtNXFCTzkybDZoMkUzVDhCanhqczAtblg2VTdOdEFhLWhkMk9ZYWJfb2JLXzhxMmFfUkJZMzFCNjBZR2dkS0ZVVkE?oc=5",
+   "publishedAt": "2026-09-06T16:04:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-07T10:14:23+09:00"
   }
  ]
 };
