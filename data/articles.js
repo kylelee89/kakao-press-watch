@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-07T14:56:44+09:00",
- "runCount": 869,
+ "generatedAt": "2026-09-07T15:07:07+09:00",
+ "runCount": 870,
  "price": {
-  "price": "36,600",
-  "pct": "+1.10",
-  "at": "2026-09-07T14:56:45+09:00"
+  "price": "36,550",
+  "pct": "+0.97",
+  "at": "2026-09-07T15:07:08+09:00"
  },
  "articles": [
   {
@@ -26409,6 +26409,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-07T14:56:44+09:00"
+  },
+  {
+   "id": "141737e44704a1d3",
+   "title": "정신아 카카오 대표, 킬러 서비스 부재에 ‘고민’...주가는 7.5% 급락",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01S3JxMG1waXFaUHFoM2F0RHJpM3BYcERlTXlsWXhBRXM1NTY3NGZPOHN2Vzd6WmU0U0NPbFE0WHJRZ0I0Wm9sYW0zVzJvQ2N4SkM5UzVhUG5zNWIxb1hNN3JqWDdBMWNyNWoyOWRJbjFLSm_SAXdBVV95cUxQTnAtVEtEQUlGWGEyY01Sb1NIX3RiQzBMS0xESjFmb3Fvdm1vcUJ6R0JXSHpMdkxDcU40ZE5QZk1kZkVPRmV2ZDYtc1JYY3hCNlY1NEJ5ODNEeXkwZmtUNm1SRkxWYXVySE80ODczcXRMMnVhY2pXZw?oc=5",
+   "publishedAt": "2026-09-07T14:47:16+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "등락:7.5% 급락"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "7.5% 급락"
+    ]
+   },
+   "firstSeenAt": "2026-09-07T15:07:07+09:00"
   }
  ]
 };
