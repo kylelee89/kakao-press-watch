@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T15:50:03+09:00",
- "runCount": 1008,
+ "generatedAt": "2026-09-08T16:00:22+09:00",
+ "runCount": 1009,
  "price": {
   "price": "35,400",
   "pct": "-3.15",
-  "at": "2026-09-08T15:50:03+09:00"
+  "at": "2026-09-08T16:00:23+09:00"
  },
  "articles": [
   {
@@ -26741,6 +26741,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T11:32:09+09:00"
+  },
+  {
+   "id": "3dc6715e1c62470e",
+   "title": "[박주근의 기업분석] 쪼개고 묶고 품었다…카카오·한화·두산, 상장 셈법과 평가",
+   "outlet": "리더스팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16THVMNEF0d1BhTkdjampYTXZ4MDFOU3pxV2xZaTdqOXpRbi1lYlU4bnMwTVpyZEFNMXFxS2JnRnZwVVdGWFVncXZjT2pOUF9hZm1fd0JlRzNsbEU4TExPT0xZTW9CaWF6NmpMNEU3eEI?oc=5",
+   "publishedAt": "2026-09-08T15:46:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T16:00:22+09:00"
   }
  ]
 };
