@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T10:38:09+09:00",
- "runCount": 979,
+ "generatedAt": "2026-09-08T10:49:31+09:00",
+ "runCount": 980,
  "price": {
-  "price": "35,850",
-  "pct": "-1.92",
-  "at": "2026-09-08T10:38:10+09:00"
+  "price": "35,925",
+  "pct": "-1.71",
+  "at": "2026-09-08T10:49:33+09:00"
  },
  "articles": [
   {
@@ -26664,6 +26664,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T09:03:35+09:00"
+  },
+  {
+   "id": "6983eb838f4a5f4e",
+   "title": "카카오 인적분할에 액트 직격… \"조직개편이면 될 일, 왜 상장사 쪼개나\"",
+   "outlet": "메디컬투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpQVZLM25MYThxaDNHOG40dm5ibmlFZ3N0czlMUnhKT0szNlBCbDA5S1RPZW9KdTczbmM2U1I4cEJvOE1kaUhrZFBOMGotajU2bnV1M0lDUEN1RXQtOW1Sck9FLTFQempRcV9zRA?oc=5",
+   "publishedAt": "2026-09-07T14:25:43+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:쪼개나"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개나"
+    ]
+   },
+   "firstSeenAt": "2026-09-08T10:49:31+09:00"
   }
  ]
 };
