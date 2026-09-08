@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T01:15:38+09:00",
- "runCount": 1029,
+ "generatedAt": "2026-09-09T02:08:21+09:00",
+ "runCount": 1030,
  "price": {
   "price": "35,400",
   "pct": "-3.15",
-  "at": "2026-09-09T01:15:38+09:00"
+  "at": "2026-09-09T02:08:34+09:00"
  },
  "articles": [
   {
@@ -26829,6 +26829,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T22:22:27+09:00"
+  },
+  {
+   "id": "095575bab89cf158",
+   "title": "카카오, 카톡 AI 비서 '카나나' 알리기 나선다…이모티콘 프로모션",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDX1MxMjY1RzJQZ0FDMkY4b0MtMDdETVhTVkM2VVk0VUpVTmk4bXFQR2JYaTc0LVRKOVRyb2ZVRVUtUTFna3lpX1c5RU9MWFB1UklTd0pjTWdqZDhG?oc=5",
+   "publishedAt": "2026-09-08T18:15:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T02:08:21+09:00"
   }
  ]
 };
