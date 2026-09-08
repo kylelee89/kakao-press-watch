@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T18:07:56+09:00",
- "runCount": 1021,
+ "generatedAt": "2026-09-08T18:19:20+09:00",
+ "runCount": 1022,
  "price": {
   "price": "35,400",
   "pct": "-3.15",
-  "at": "2026-09-08T18:07:57+09:00"
+  "at": "2026-09-08T18:19:22+09:00"
  },
  "articles": [
   {
@@ -26762,6 +26762,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T16:00:22+09:00"
+  },
+  {
+   "id": "1f44d7ad9acafa19",
+   "title": "토토핫 업카지노 의 혁신과 미래: 기대할 수 있는 변화들 - 장단점 비교 분석",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTV4c2FVZ1hGaFF6eDBiZVBVLXBZZERZQWZvNHVMa3BiQi01ei1nTi1RRVZ5Ym1WeHJhYndCZjUwdkhzYVpScHVTdGRFbFZhR2haa2Uyb1lhVkc1ZFVaSHliMHV4SlhQZDdFOVNrRkhXMnR1cmNiZTlVRlNSTEFkVTQtSEtYSGhyZmQxMjY1RW15bkdGMkt3S1BzbkNSdklmdHhwcXhuVmhWTzBuX1pMbGF3?oc=5",
+   "publishedAt": "2026-09-08T15:23:30+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T18:19:20+09:00"
   }
  ]
 };
