@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T20:27:50+09:00",
- "runCount": 1027,
+ "generatedAt": "2026-09-08T22:22:27+09:00",
+ "runCount": 1028,
  "price": {
   "price": "35,400",
   "pct": "-3.15",
-  "at": "2026-09-08T20:27:54+09:00"
+  "at": "2026-09-08T22:22:28+09:00"
  },
  "articles": [
   {
@@ -26808,6 +26808,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T18:41:07+09:00"
+  },
+  {
+   "id": "959654ba1fa39dd4",
+   "title": "카카오가 7년 미룬 '카카오 멤버십' 꺼낸 이유는… \"수익 모델 추가 필요성\"",
+   "outlet": "더퍼블릭",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nSVphbG5UUlZzVy1rVjBac2xvbE5JMHNZT0JhRDF3MmIwNlg3dGVEVnNiSkNMTmg1cDN1aVlEZUd3ZjRaMkFTa1FkMVpCOTJnekVndlF0Qk1aSWNJZ2doQjhPdkM5LU9IV0pR?oc=5",
+   "publishedAt": "2026-09-08T19:13:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T22:22:27+09:00"
   }
  ]
 };
