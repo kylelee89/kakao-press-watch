@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T18:29:46+09:00",
- "runCount": 1023,
+ "generatedAt": "2026-09-08T18:41:07+09:00",
+ "runCount": 1024,
  "price": {
   "price": "35,400",
   "pct": "-3.15",
-  "at": "2026-09-08T18:29:47+09:00"
+  "at": "2026-09-08T18:41:07+09:00"
  },
  "articles": [
   {
@@ -26787,6 +26787,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-08T18:19:20+09:00"
+  },
+  {
+   "id": "07c3f73bfd95b42d",
+   "title": "오사카 카지노 오픈 일과 균형와 깊은 이해: 본질, 법칙 및 응용",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSzBnVXFuWkRqUjdwYTFoaFJMcGFqV09KbzhRVThjSG9jdnN0QUw1RzhCZXpMMDdBcFAzejRDUFJhMWc5M0JDdmx5Um5KLWJJQzhOamtIZXlfTGxocEk5MzcyZlhyTFZmZk1nYUZuMUx3UjBYaW01WEszNG5SRVBMTTY5VERERnBFTG9VdzZDWUNYb1c4d2JKR0w1UUUyWUwxbFBIVVpiM1NoaEF5dlBONDlaRW00cVF5ZDRCQnpWc3hhaUR2bnpKNERnX1c5aGNXOExIY29pYnRtb3drb1VCaHN5VU9zQjlzYk5rSWJxYWZjdjU0ZC1iOEROaWM?oc=5",
+   "publishedAt": "2026-09-08T11:44:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T18:41:07+09:00"
   }
  ]
 };
