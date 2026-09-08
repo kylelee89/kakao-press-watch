@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T11:11:22+09:00",
- "runCount": 982,
+ "generatedAt": "2026-09-08T11:21:50+09:00",
+ "runCount": 983,
  "price": {
-  "price": "36,000",
-  "pct": "-1.50",
-  "at": "2026-09-08T11:11:23+09:00"
+  "price": "35,900",
+  "pct": "-1.78",
+  "at": "2026-09-08T11:21:51+09:00"
  },
  "articles": [
   {
@@ -26691,6 +26691,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-08T10:49:31+09:00"
+  },
+  {
+   "id": "c6e5a9e19bac174b",
+   "title": "카카오 인적분할 추진에 노조 반발, 주총 표 대결로 가나",
+   "outlet": "비즈한국",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02SGIxTFl5Y296VW1kR0NMZ0U0anNmOUp1WE9GcXhnRUZGMEt2bEVIYmd3ZzNqb2xqV19yUGRVcm5GRGplUXZjdk5neFhtYW9KbEh5SUN5Wl91QXFnbDBfRHM3T29yb2hYc0djQ095TThBNFFm?oc=5",
+   "publishedAt": "2026-09-08T10:38:58+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-08T11:21:50+09:00"
   }
  ]
 };
