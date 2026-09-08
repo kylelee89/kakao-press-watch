@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T02:08:21+09:00",
- "runCount": 1030,
+ "generatedAt": "2026-09-09T08:52:14+09:00",
+ "runCount": 1031,
  "price": {
   "price": "35,400",
-  "pct": "-3.15",
-  "at": "2026-09-09T02:08:34+09:00"
+  "pct": "+0.00",
+  "at": "2026-09-09T08:52:15+09:00"
  },
  "articles": [
   {
@@ -26850,6 +26850,83 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-09T02:08:21+09:00"
+  },
+  {
+   "id": "ecf6366064d5f266",
+   "title": "'카카오 디스카운트' 없앤다더니…인적분할에도 주가 제자리",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rSFk4a2tVOWVRcGZuQTVtWUpybl9OV0tTMnlIeDRQbl85NXlaTS1fZVIzUTJEc01Mai1RUURIQzF1RS00Q0p2dmx5WG5jRXM?oc=5",
+   "publishedAt": "2026-09-09T07:09:07+09:00",
+   "tone": "중립",
+   "toneScore": -0.9,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:에도",
+    "적대어:디스카운트",
+    "적대어:다더니"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "디스카운트",
+     "다더니"
+    ]
+   },
+   "firstSeenAt": "2026-09-09T08:52:14+09:00"
+  },
+  {
+   "id": "841d4e1550d20f22",
+   "title": "토토 1 1 히 츠벳 탄소 중립을 통한 요약: 원리, 방법 및 기술",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXFFY2FDYVd6R2EtVVk2cW1kbkJXc0RYV00xcmVHSVo2VjVKY2lqYk5WQjM4eHZvVmNadS01Y0tRdzhySnVsdk81RFY4NEJaVGw0NTBLaDNkdzBEa3pzdVZtQUtpM1NYaWR0WjFvNUFoRVhTRU5zU3RfRGVaNVhKelZuV0RjdUQ2ZEExWjhIZnZSMUtabHRlZU1XdE40UjFCSXdBa0o5Q2pUWXBiNHZEeVlkWQ?oc=5",
+   "publishedAt": "2026-09-08T22:42:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T08:52:14+09:00"
+  },
+  {
+   "id": "60f241a3616350b4",
+   "title": "카카오도, SSG도, SK브로드밴드도 회사 쪼갠다! 왜?",
+   "outlet": "티타임즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kWllBTUw4Slp2cFlyb1lKTjRLNW1FRklOS05hQlFlSkd4ZUZMQXp3RkdMYWNnb3g4UUROV3pVcEZkX09nSENXLUF4eFF0eWoySWFGVTBSMW1qNWRjZlRobTBR?oc=5",
+   "publishedAt": "2026-09-04T17:00:01+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-09T08:52:14+09:00"
   }
  ]
 };
