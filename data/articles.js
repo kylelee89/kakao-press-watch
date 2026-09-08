@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-08T11:21:50+09:00",
- "runCount": 983,
+ "generatedAt": "2026-09-08T11:32:09+09:00",
+ "runCount": 984,
  "price": {
   "price": "35,900",
   "pct": "-1.78",
-  "at": "2026-09-08T11:21:51+09:00"
+  "at": "2026-09-08T11:32:09+09:00"
  },
  "articles": [
   {
@@ -26718,6 +26718,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-08T11:21:50+09:00"
+  },
+  {
+   "id": "b40c60e99161c5de",
+   "title": "주주는 갈라놓고 멤버십은 하나로…카카오 인적분할 명분 '갸우뚱'",
+   "outlet": "더팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4aWVBaUZOdEJJOTlMRzRNU0hyQldRUUNVdjZIbzhGbjV0c1dCZGhSZC1XWE84YkdGOWpFcEFjS0N5dUwybVlLbGF0aGFYTHRDWjQwbEkxMEV1UdIBVEFVX3lxTE5SSWVaTlFpc2plR1F1UjJhVkVqVnZEaWtOQThuanJVTXF4SldiUEszUkZfNW9RelVzYWxuMmRlaHlWZ3MzLTl0c21DQ01KMzNvaGxZUA?oc=5",
+   "publishedAt": "2026-09-08T11:22:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-08T11:32:09+09:00"
   }
  ]
 };
