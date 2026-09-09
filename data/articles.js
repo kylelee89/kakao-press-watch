@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T16:42:21+09:00",
- "runCount": 1060,
+ "generatedAt": "2026-09-09T17:36:31+09:00",
+ "runCount": 1061,
  "price": {
   "price": "35,050",
   "pct": "-0.99",
-  "at": "2026-09-09T16:42:22+09:00"
+  "at": "2026-09-09T17:36:34+09:00"
  },
  "articles": [
   {
@@ -27023,6 +27023,28 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-09T14:24:18+09:00"
+  },
+  {
+   "id": "e0d419771aafb9a8",
+   "title": "플랫폼은 카카오AI, 금융은 카카오X…복잡해진 스테이블코인 ‘셈법’",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NYVFETDc4bTFubzBhRm00M1h6SGxxNzZXM0MyNUdaalQtQ21USWRkd1VtRlc4SGpvLTZXQU9fMDFpa0xuODdNdUJ5cnNuUklGVWZScjhjQkJ1cko3X3VYYTZXUGp4aWlGWXNNM001Z0R4VGvSAXdBVV95cUxPSU9SckNsN1VVTGZYeGp4dWpRYldqU3FpaTRTampIRVkydU5BM3FIOXFFVHl0ME14QmMtZTd2ck43YUJUVjFsTGtOYTVOaDNSSktWb0s2MUhjQ1lfdWt0ZG1QQUdYZWI1bWVhSUE0bUdVdUswVldmZw?oc=5",
+   "publishedAt": "2026-09-09T17:01:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T17:36:31+09:00"
   }
  ]
 };
