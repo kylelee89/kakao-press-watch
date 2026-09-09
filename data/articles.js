@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T20:03:54+09:00",
- "runCount": 1064,
+ "generatedAt": "2026-09-09T20:14:59+09:00",
+ "runCount": 1065,
  "price": {
   "price": "35,050",
   "pct": "-0.99",
-  "at": "2026-09-09T20:04:00+09:00"
+  "at": "2026-09-09T20:15:17+09:00"
  },
  "articles": [
   {
@@ -27087,6 +27087,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-09T20:03:54+09:00"
+  },
+  {
+   "id": "8a5736875643994b",
+   "title": "알바나라 : 주요 이정표와 혁신 (2025년 최신판)",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZzh1ODhBLVkxaFJWTDVvQXJBWDN6aDk3NjNzM2xMY0w1U29tcVhEZFAxVHY1QzVlVnpGbk53WUFUbnk0QW1XQmhSSWplY1BjN2UycFdNdlNWQ01pU1VydlhjcDI0RFVoOFBGVDE5WHFSUmVyMkJ4MDhJLVhXTk14clRJczB1WXlkYmpVbW5qTjAxX1FnYTB3UnN6OHJmczh3MU5DSzdCV1FhV2JPeklkQURFRG55aENoNGcwQUNBcElsY2VMVzZ4and2YVpObzU0akplQ3dTTzRGT3ZsSWo2VGRoMTRiTWdTZHdEN2ZkRkdEWUdjSW5lUkd5Rk9KTDdaZGVPY2JPRzB6QQ?oc=5",
+   "publishedAt": "2026-09-09T12:43:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T20:14:59+09:00"
   }
  ]
 };
