@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T10:47:06+09:00",
- "runCount": 1034,
+ "generatedAt": "2026-09-09T10:58:25+09:00",
+ "runCount": 1035,
  "price": {
-  "price": "35,050",
-  "pct": "-0.99",
-  "at": "2026-09-09T10:47:07+09:00"
+  "price": "35,100",
+  "pct": "-0.85",
+  "at": "2026-09-09T10:58:26+09:00"
  },
  "articles": [
   {
@@ -26954,6 +26954,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-09T10:25:16+09:00"
+  },
+  {
+   "id": "6b8327535db69b6c",
+   "title": "플루 리버스 포커 : 위험 피하기와 최적화 - 실용적인 접근법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEN6U2wwVm13REdKTjdtb1lXaDRoQkRsaVNKX2NxZTB0d1RENEJfeUg3Z2xhNXpnOTd6UVVWWDB0WTU1VE9WX05la1RNX0Y4MFhMZU1uS05Ta2wwanJ4MHVfclUwaU12Vzl2b2ltLW90eVZvWmpnaUZmalI3Vi1taTBkM1VPckxPMzQxRGl6VG14MEExaVhRcFZXNTVVaVo2?oc=5",
+   "publishedAt": "2026-09-09T03:00:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T10:58:25+09:00"
   }
  ]
 };
