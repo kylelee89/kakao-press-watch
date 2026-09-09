@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T20:14:59+09:00",
- "runCount": 1065,
+ "generatedAt": "2026-09-09T21:10:59+09:00",
+ "runCount": 1066,
  "price": {
   "price": "35,050",
   "pct": "-0.99",
-  "at": "2026-09-09T20:15:17+09:00"
+  "at": "2026-09-09T21:11:11+09:00"
  },
  "articles": [
   {
@@ -27108,6 +27108,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-09T20:14:59+09:00"
+  },
+  {
+   "id": "ec59939b93ba376a",
+   "title": "메이플 랜드 슬롯 정리 운동 피트니스 핵심 비법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZl9YMXB2X3FkVENtTGpaLXJIVW9JYmdyRF9KOE9BaElsWVZvRU5fUUtPa0RNcXdHeE94SzV4alQ5eHRhUGxEaGllMExTVTVZbm9paUIyekVBaXJNZ24tRDNvX3g5WGZNa0QwT3hYVW5OaXYyNlpLOENkYmxHYmM4M24tY0NNN0Z2aG51SlNyaVJ1V1NhS1lBem85N0paQlRjRVhSNjhrU1lMZkVBRDhHTTAwZXlkQ2xydmJ5NXVQNUNtNlB1MFNaUVl6cUVrVUdZSlFlUl9ZR2NRQ3QtTFlxLWpZY0ROdFNZc3hXZjlBb3hrWUY5azlManFHLU9UUEVDNmg1aUhhbVdwbllzR0VMSmdfRktiUWpaRmstWm9yX1V6SGpGT2IwUE1YQVZ4MG5ONVoxSlNIa2NOWFZLTEZiSV83RGROQXIyZEZqQzdRZ09SQ1RHT0Fkek1teEpCajlJ?oc=5",
+   "publishedAt": "2026-09-09T09:05:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T21:10:59+09:00"
   }
  ]
 };
