@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T05:50:22+09:00",
- "runCount": 1076,
+ "generatedAt": "2026-09-10T08:56:31+09:00",
+ "runCount": 1077,
  "price": {
   "price": "35,050",
-  "pct": "-0.99",
-  "at": "2026-09-10T05:50:27+09:00"
+  "pct": "+0.00",
+  "at": "2026-09-10T08:56:31+09:00"
  },
  "articles": [
   {
@@ -27153,6 +27153,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T05:39:27+09:00"
+  },
+  {
+   "id": "9dfd5bacc0cf041e",
+   "title": "pbg파워볼실시간 의 모든 것: 기본 개념부터 고급 기술까지",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHk4U01GT2NXeFV2dTU1UVc5Z0RDb2o2VW1PX3BDNmROY25PYXJyc2xwNWtkVWI3d3NncGhLTGZyaGZTS2x4aVFmSlB5dlI4TllEYXJRelVpQ2s1WnlGYVVadkQ4UHBOZ0V2aEFmbjMxY2JwRkJGbjQxbGp5YmhmZTVUWTNtVFRPbkNFS3A5OEt1UkZLeHJYZGFIemVqZlZxQ3NmeGdLb25EUVVzZ0R6ZXVaemlIMEll?oc=5",
+   "publishedAt": "2026-09-10T02:35:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T08:56:31+09:00"
   }
  ]
 };
