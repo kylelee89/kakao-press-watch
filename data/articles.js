@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T11:30:47+09:00",
- "runCount": 1038,
+ "generatedAt": "2026-09-09T12:40:22+09:00",
+ "runCount": 1039,
  "price": {
   "price": "35,050",
   "pct": "-0.99",
-  "at": "2026-09-09T11:30:48+09:00"
+  "at": "2026-09-09T12:40:27+09:00"
  },
  "articles": [
   {
@@ -26975,6 +26975,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-09T10:58:25+09:00"
+  },
+  {
+   "id": "4c59591fdbf4ffaa",
+   "title": "신원근 '20만원' 약속 어디로…카카오페이 고점 대비 81.6% 증발, 주주들 '분통'",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xV3U4NDhxb3VOOTR5YXVqOXdtTDBiUm5YRzNJaUNfOEhQd2w2OTZ0ZkYwd2xYN3Y3UmZTU0tGVGNVa1VtMGlvR01MdXRGalE?oc=5",
+   "publishedAt": "2026-09-09T11:53:00+09:00",
+   "tone": "우려",
+   "toneScore": -5.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:분통",
+    "적대어:증발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "분통",
+     "증발"
+    ]
+   },
+   "firstSeenAt": "2026-09-09T12:40:22+09:00"
   }
  ]
 };
