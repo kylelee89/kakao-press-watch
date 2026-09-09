@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T14:13:57+09:00",
- "runCount": 1046,
+ "generatedAt": "2026-09-09T14:24:18+09:00",
+ "runCount": 1047,
  "price": {
-  "price": "35,200",
-  "pct": "-0.56",
-  "at": "2026-09-09T14:13:58+09:00"
+  "price": "35,050",
+  "pct": "-0.99",
+  "at": "2026-09-09T14:24:19+09:00"
  },
  "articles": [
   {
@@ -27002,6 +27002,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-09T12:40:22+09:00"
+  },
+  {
+   "id": "f7b3a798344677cc",
+   "title": "카카오 'AI 기업 전환' 첫 시험대…12월 주총에 달렸다",
+   "outlet": "메트로신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zcTl3VWZ0bmo0MXd0ZW1BRVhnTXFVNzlKTS1LTXB6WlVmcF9FYUdqVVpmQzhmdXI1UzZZQ0VyVmh0bVgyUmlDQ2NKRDBONXVqQWxrWks2SEZqRFU4RTJlSQ?oc=5",
+   "publishedAt": "2026-09-09T13:43:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T14:24:18+09:00"
   }
  ]
 };
