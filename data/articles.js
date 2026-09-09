@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T08:52:14+09:00",
- "runCount": 1031,
+ "generatedAt": "2026-09-09T10:25:16+09:00",
+ "runCount": 1032,
  "price": {
-  "price": "35,400",
-  "pct": "+0.00",
-  "at": "2026-09-09T08:52:15+09:00"
+  "price": "35,100",
+  "pct": "-0.85",
+  "at": "2026-09-09T10:25:17+09:00"
  },
  "articles": [
   {
@@ -26927,6 +26927,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-09T08:52:14+09:00"
+  },
+  {
+   "id": "f872d595fc42a223",
+   "title": "[자본시장 분쟁사례] 카카오는 '쪼개기 잔혹사'를 끊을 수 있을까",
+   "outlet": "DFT 대한금융신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sQXpaNURQU2JzRk96YkV4b0Q5VXg0NFZWMDkzTVJMNXdZb3pjRV9uSmlTQU1FNHotV0UyYnBNU284ZDJoTXcteGZHcER1aGNLQlZHb25sM0UtRGhUWVZqbFFldldxcGVraThOTdIBcEFVX3lxTE5VREpkOHdfVHN0SWpMRkpsQ1RhX0dHZWRHbm85YVRIRnNpNm8xYVA2MHkzWEUwMnVmbk1VX0V4c2hiQ1dQUVkyMk43aURaTTBxeUQ5S0RmQ1RtZ0VxRzZheXFpY3FFVElZdURiUUN0dW8?oc=5",
+   "publishedAt": "2026-09-09T09:13:19+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:쪼개기 잔혹사"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "쪼개기 잔혹사"
+    ]
+   },
+   "firstSeenAt": "2026-09-09T10:25:16+09:00"
   }
  ]
 };
