@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T03:13:43+09:00",
- "runCount": 1074,
+ "generatedAt": "2026-09-10T05:39:27+09:00",
+ "runCount": 1075,
  "price": {
   "price": "35,050",
   "pct": "-0.99",
-  "at": "2026-09-10T03:13:48+09:00"
+  "at": "2026-09-10T05:39:35+09:00"
  },
  "articles": [
   {
@@ -27129,6 +27129,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-09T21:10:59+09:00"
+  },
+  {
+   "id": "7b097bb49d6086c8",
+   "title": "“입사 2년차, 김도영이 누군데”…김범수가 6조 맡긴 그 남자 [팩플]",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxSnZSdFFtcmJWd0p5RlZsZjZ1V1NNaWVpd3ZVX1h1YUVsMkd1dGdteVZJVUtMYjhaSGlmalE0djFqdzV0YmR4NDlZMGdMR0U?oc=5",
+   "publishedAt": "2026-09-10T05:02:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T05:39:27+09:00"
   }
  ]
 };
