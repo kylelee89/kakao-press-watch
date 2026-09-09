@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-09T17:57:27+09:00",
- "runCount": 1063,
+ "generatedAt": "2026-09-09T20:03:54+09:00",
+ "runCount": 1064,
  "price": {
   "price": "35,050",
   "pct": "-0.99",
-  "at": "2026-09-09T17:57:29+09:00"
+  "at": "2026-09-09T20:04:00+09:00"
  },
  "articles": [
   {
@@ -27045,6 +27045,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-09T17:36:31+09:00"
+  },
+  {
+   "id": "52ca2730e823ff49",
+   "title": "카카오 자회사 디케이테크인 노사 임협 가결···최종 서명만 남아",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4eDBGYzNLWEpSYnNqWU1XQXFMb1AycURPN0M1UW9HTFlMMVpkQ1c1dFRxVmxhbEdiTTVIVVBxWXVEUEJUVFZJYTZhT0Q2Wm04UjQ2aFhWQ1l0TktZVy04WG12OVdsQnFQVklSVFp0Rml3MVlDN0HSAXZBVV95cUxQeHgwRmMzS1hKUmJzallNV0FxTG9QMnFETzdDNVFvR0xZTDFaZENXNXRUcVZsYWxHYk01SFVQcVl1RFBCVFRWSWE2YU9ENlptOFI0NmhYVkNZdE5LWVctOFhtdjlXbEJxUFZJUlRadEZpdzFZQzdB?oc=5",
+   "publishedAt": "2026-09-09T17:58:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T20:03:54+09:00"
+  },
+  {
+   "id": "34636e3eb7d46fd8",
+   "title": "핀벳88 에 대한 궁금증을 해소하는 완벽한 가이드",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkFJTGtPT3V4UTVGS2Q3a0FVTEsxdm1XejE3cFFJVm5KWE5aa0k1dDJHNXBUWXFJSFZJX012OVV0NFJualV5OGF0c3Z6T0x6MU8wUExEYzg1YjZMYW9wSmZIMnY2MEhhcVR0eHp2ZW9pSGVrNnVFZ2lWNnk2eVA4akEyekJ5WVRfTFAtNGRTenQtcXBOOHp6X2dpT1lKLUozd2d2S1BoTEVRcW9odG0xUVZlemMzUQ?oc=5",
+   "publishedAt": "2026-09-09T07:39:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-09T20:03:54+09:00"
   }
  ]
 };
