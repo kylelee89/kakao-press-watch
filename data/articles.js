@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T11:34:18+09:00",
- "runCount": 1085,
+ "generatedAt": "2026-09-10T11:45:33+09:00",
+ "runCount": 1086,
  "price": {
-  "price": "34,600",
-  "pct": "-1.28",
-  "at": "2026-09-10T11:34:18+09:00"
+  "price": "34,550",
+  "pct": "-1.43",
+  "at": "2026-09-10T11:45:33+09:00"
  },
  "articles": [
   {
@@ -27216,6 +27216,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T11:01:35+09:00"
+  },
+  {
+   "id": "c0ec7ea58d9c7a17",
+   "title": "카카오, 16일 소액주주 대상 인적분할 설명회···'지분 60%' 표심 잡을까",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JQ1IyTlRqWHdaTmJ2QS1ST3NySk1RYTJGOTFhYjlrbGNWNzQ4dHd5dkFubmpXV3BuRWpFZGE5YlRkQTBMOGI1NkY1SmFlUFMxQWdXQno3RVZYaFNxWGdkbTZvY3N0enVlbHZ6bkV0QjZ6Z9IBdkFVX3lxTE45RXR6b3VpVXR6RnVKYkQweUFmQnA3S20xZnNSSjNORzJRM1FlOUdfWGFqSFNkRmdNWWVMUHRCcmJJVXBFbXNvaWJ4OEJUQmI0WU1nMlBJTmtMLWc5UW5fN3c5ZDdPeHViMkZxVWlGQ3RIVVZESlE?oc=5",
+   "publishedAt": "2026-09-10T09:50:29+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-10T11:45:33+09:00"
   }
  ]
 };
