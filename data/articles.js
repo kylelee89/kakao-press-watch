@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T12:06:11+09:00",
- "runCount": 1088,
+ "generatedAt": "2026-09-10T12:17:28+09:00",
+ "runCount": 1089,
  "price": {
-  "price": "34,600",
-  "pct": "-1.28",
-  "at": "2026-09-10T12:06:12+09:00"
+  "price": "34,700",
+  "pct": "-1.00",
+  "at": "2026-09-10T12:17:29+09:00"
  },
  "articles": [
   {
@@ -27244,6 +27244,35 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-10T11:45:33+09:00"
+  },
+  {
+   "id": "38db1e7ca1c07ccc",
+   "title": "또 쪼개기 반발에 다급해진 카카오, 소액주주 직접 만난다",
+   "outlet": "SBS Biz",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRRTQzLVNuYWJ5aGY4T2RUaGRrSHdsRmtMM3ZHWHFVYm1SMEphb09DSkwzb3pLRnd3U3hIQm5VQ0psQmx5RzE5ZXh0S2M0djBTeW5V0gFYQVVfeXFMTjJXcGxIMHg4MHdmcUVMSkdTMkh1anJNdnhNNUhWeUQycnJVLWN2Rm5NaE1fMnpFYjhnMFZWQ0ZreHAtQWh1NDhOakVPcEM0WnlyX3RxSmt5YQ?oc=5",
+   "publishedAt": "2026-09-10T11:26:00+09:00",
+   "tone": "우려",
+   "toneScore": -5.7,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:또 쪼개",
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "또 쪼개",
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-10T12:17:28+09:00"
   }
  ]
 };
