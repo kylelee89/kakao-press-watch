@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T12:27:47+09:00",
- "runCount": 1090,
+ "generatedAt": "2026-09-10T12:38:07+09:00",
+ "runCount": 1091,
  "price": {
-  "price": "34,700",
-  "pct": "-1.00",
-  "at": "2026-09-10T12:27:48+09:00"
+  "price": "34,750",
+  "pct": "-0.86",
+  "at": "2026-09-10T12:38:07+09:00"
  },
  "articles": [
   {
@@ -27273,6 +27273,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-10T12:17:28+09:00"
+  },
+  {
+   "id": "6b03a2a03c549cf9",
+   "title": "고양이한테 맞고 우는 강아지 - 에 대한 심층 분석",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1RENzJyak5XQ29vVU5zRGRwYXhQakQ3ZTVHeTBKZjQ1bmhicHZuMGtIUDcwd0otaS1fZ2k3WWhmcXJBZmxMbmpFSzd0NnlVek0tTXI3bHU1Q0xsUXJsRWFLVF90Zmc5RXR5REFlTDRTRUdrVjJUdmFkNXhscU1ybjNR?oc=5",
+   "publishedAt": "2026-09-10T02:48:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T12:38:07+09:00"
   }
  ]
 };
