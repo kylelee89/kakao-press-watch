@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T18:21:17+09:00",
- "runCount": 1123,
+ "generatedAt": "2026-09-10T18:31:42+09:00",
+ "runCount": 1124,
  "price": {
   "price": "34,900",
   "pct": "-0.43",
-  "at": "2026-09-10T18:21:18+09:00"
+  "at": "2026-09-10T18:31:44+09:00"
  },
  "articles": [
   {
@@ -27336,6 +27336,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T17:14:11+09:00"
+  },
+  {
+   "id": "bcaf6889fb82df5e",
+   "title": "더사이드 토토 도메인 : 초보자가 알아야 할 모든 것 - 실용적인 접근법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0FVdHNnTzcwZEdFbTJXZzZXc2JrRDExYUN4T3FOeUVBclBIdHdoNnNleVZpeG1Ka2JQQlJkRWFON0Zka1hQd1hESTVNR0x1UUJHRU5EdG9EVV9mZzBFNmRaVzQxQ1VpVzRWeWd5ZFR3ZHY4U0s2dURiQ1NWeHp0NGFFa2ZwUTJOTnJHNnV1UjVTOTcwbWtjbTItR3pnenhP?oc=5",
+   "publishedAt": "2026-09-10T13:32:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T18:31:42+09:00"
   }
  ]
 };
