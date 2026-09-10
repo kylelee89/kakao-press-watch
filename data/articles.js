@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T18:31:42+09:00",
- "runCount": 1124,
+ "generatedAt": "2026-09-10T18:42:10+09:00",
+ "runCount": 1125,
  "price": {
   "price": "34,900",
   "pct": "-0.43",
-  "at": "2026-09-10T18:31:44+09:00"
+  "at": "2026-09-10T18:42:11+09:00"
  },
  "articles": [
   {
@@ -27357,6 +27357,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T18:31:42+09:00"
+  },
+  {
+   "id": "db7480591f53a809",
+   "title": "TOP NEWS·K-병원AI | “EMR에 AI를 붙이는 게 아니라 AI부터 설계한다”…카카오헬스케어 ‘Project X’",
+   "outlet": "dhtimes.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82cEIwTDBhSUh2VEF3Yk9qVVUzQmlUdkRIeTNwOXVtNU9Od09SU1dlM3RETnVJMWZobE1LVGJvd3NsTmpYSmZkQldZNU5sME9mYnRnc2kzN1NMMFlnREo2UmRITFhtTXZY?oc=5",
+   "publishedAt": "2026-09-10T09:06:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T18:42:10+09:00"
   }
  ]
 };
