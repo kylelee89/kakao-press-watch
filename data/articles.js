@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T19:32:58+09:00",
- "runCount": 1127,
+ "generatedAt": "2026-09-10T20:13:25+09:00",
+ "runCount": 1128,
  "price": {
   "price": "34,900",
   "pct": "-0.43",
-  "at": "2026-09-10T19:33:00+09:00"
+  "at": "2026-09-10T20:13:27+09:00"
  },
  "articles": [
   {
@@ -27378,6 +27378,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T18:42:10+09:00"
+  },
+  {
+   "id": "bc7dfc10a35626de",
+   "title": "거다 리스 도박 - 업계 전문가들의 조언",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOZlkxU3U4MW9odHJGMjhubHJGZm1idFZUQXlJOUprc1dVV2E4eGY0YXVTSi1oOHREQjhXX1ZXQzZZaW90NzV3RFdSOG1PZ21MV0NTSTczeFVTb0NTcy1Qc1FPTTFoNHNxYTR5NXJnVzRqd0NEUFFqcXRfZzE5aDY1MmgzeE5LUFU0U1JPX1htNXN5dEdXYktleDhEaThvc2NURVNkRWdBWHFQOVZDcS1fSm5sTXM4bUlLNC1nLWx0SXFOdnQ5d0pjNzRncV9PUmxCTFlteHU2VGRsOWRqRjJUQUV3Y3F6YzNoMUd3enZsUVVCSTdaVHlEeS15RUxMRnplci1oZ1lwcVpmRGNFbEVRMWg1dTZ3a1ZZNUZNeXdxWDhNODRURjJka25JWFc4MnRQeWtEelY5Y3Y4VWhWbWUyZmdpZ25sWndHd0VhQTY0dnhJbkdJLW1vdHE3U1AwSy0wZkFTU00zc3JVTWhLT21rX21VdHRqMzVz?oc=5",
+   "publishedAt": "2026-09-10T09:01:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T20:13:25+09:00"
   }
  ]
 };
