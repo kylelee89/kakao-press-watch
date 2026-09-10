@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T20:13:25+09:00",
- "runCount": 1128,
+ "generatedAt": "2026-09-10T22:57:15+09:00",
+ "runCount": 1129,
  "price": {
   "price": "34,900",
   "pct": "-0.43",
-  "at": "2026-09-10T20:13:27+09:00"
+  "at": "2026-09-10T22:57:21+09:00"
  },
  "articles": [
   {
@@ -27399,6 +27399,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T20:13:25+09:00"
+  },
+  {
+   "id": "8512425265731a5c",
+   "title": "카지노 회사 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lTjh3TU5odmRjNXBUYkF6cC04b29MUHg0bHNsS1BBbWJRZC1UNTZIdzZFampORXdhV2hURWd2anZzNzVTSW1hSjFSb1lpRXdyRGY0enRkQzdMZlBYLU92RjdON1U2R3dVSDlpR3Q5WWxLampyWXp0dzdn?oc=5",
+   "publishedAt": "2026-09-10T10:12:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T22:57:15+09:00"
   }
  ]
 };
