@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T08:56:31+09:00",
- "runCount": 1077,
+ "generatedAt": "2026-09-10T10:19:55+09:00",
+ "runCount": 1078,
  "price": {
-  "price": "35,050",
-  "pct": "+0.00",
-  "at": "2026-09-10T08:56:31+09:00"
+  "price": "34,550",
+  "pct": "-1.43",
+  "at": "2026-09-10T10:19:55+09:00"
  },
  "articles": [
   {
@@ -27174,6 +27174,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T08:56:31+09:00"
+  },
+  {
+   "id": "d259ae1af0525b42",
+   "title": "드림타워 카지노 의 비밀을 풀다 - 2025년 최신판",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0FIOTU2MmZ5RkdsVE8tQmhyTjYtWXU2S24ySlVTRy1CMExKdm1PSzB6UFpsVUVYT2lxbGFQMzVscTdLU29ENEhfWS1KOVpIanhjQ0Q3Y0ZVUk1PUFJQckJNd1dWN0Q1am1COE1qeXNreEE2QklxLTVIbFkyUW8zazRVZjZkTFFYRUZON2pRbjlreVJNYWdNREZB?oc=5",
+   "publishedAt": "2026-09-10T00:49:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T10:19:55+09:00"
   }
  ]
 };
