@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T10:51:11+09:00",
- "runCount": 1081,
+ "generatedAt": "2026-09-10T11:01:35+09:00",
+ "runCount": 1082,
  "price": {
   "price": "34,650",
   "pct": "-1.14",
-  "at": "2026-09-10T10:51:11+09:00"
+  "at": "2026-09-10T11:01:37+09:00"
  },
  "articles": [
   {
@@ -27195,6 +27195,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T10:19:55+09:00"
+  },
+  {
+   "id": "36a8c1238be63f82",
+   "title": "철구 토토총판 포스트 코로나 시대 브랜드 구축: 기초, 심화 및 마스터",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNFdmQVZwNlNUd3ExSG5NMjNsTDQ4dmRaUlEtMms5NkZNS01jaXdyWnNkQWctN0ZfbXdLN2owNVlYOHZ3Ny1kZHdaQ21nTUFvQzBOdHlWbVNkdC1uOTFES2RpeFhuVGdPOUJOeDFCaXo4X0F0V2FhakllNDNhT3ZVNkpGVGxJbWtiUFhjeFZxRzNhSU4tOWNaS0RxdUExRHJOYVhGc0RxRWRMejBsNGQ2blVhdnluQnhnNWx4OFpaLWozXzI4M1k0VVpMUjRIa3hPdkZvdnJ3UmxkaXA3VUNsZ3lmRERXRHNiR0JnQzY1U0w3UQ?oc=5",
+   "publishedAt": "2026-09-10T00:01:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T11:01:35+09:00"
   }
  ]
 };
