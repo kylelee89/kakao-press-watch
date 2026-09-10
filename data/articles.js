@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T17:02:42+09:00",
- "runCount": 1116,
+ "generatedAt": "2026-09-10T17:14:11+09:00",
+ "runCount": 1117,
  "price": {
   "price": "34,900",
   "pct": "-0.43",
-  "at": "2026-09-10T17:02:43+09:00"
+  "at": "2026-09-10T17:14:12+09:00"
  },
  "articles": [
   {
@@ -27294,6 +27294,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T12:38:07+09:00"
+  },
+  {
+   "id": "26505259d1baa9e3",
+   "title": "포시즌 스 카지노 건강한 생활와 정수: 입문부터 마스터까지",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVBiaWpfYjJUVVZkdFVwaGV0UXFTRE9DQm1NOGpkbzFZcnpHNDVNT29kVGMzUmliY1l3MFFZblJrU3FNOC1SOTFwbHpUUFRfMTJxRk10YTdJdXhmZ2FmVWk4N2NlbkVFb0Ewd1VLeXJGekJ0WHZjYVNWZndjR0pGcUI2dzNUOHh3WXZtVkExRGZPMnBXWFlJa1NqWDdGcVRq?oc=5",
+   "publishedAt": "2026-09-10T11:33:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T17:14:11+09:00"
+  },
+  {
+   "id": "1015ef5a8732d735",
+   "title": "슬롯 커뮤 ios : 위험 피하기와 보호 조치",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXEtUlh0VVE4dHU5Y1RiMndLQ19UUzRxNFlzOXBNQkJjTEdsdWdDLWxiZVFfSGp4WVlVRVIzdko0MnRNbm9EaU45ZHY1Qk41b0xmM0RERzJnYUVuekY4Z3B6NmFFRmNCbWpZdVhZNF9EclprRWdGZk1CN1Y1Z1U0SA?oc=5",
+   "publishedAt": "2026-09-10T12:43:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-10T17:14:11+09:00"
   }
  ]
 };
