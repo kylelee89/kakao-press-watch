@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T10:58:45+09:00",
- "runCount": 1135,
+ "generatedAt": "2026-09-11T11:09:12+09:00",
+ "runCount": 1136,
  "price": {
-  "price": "34,550",
-  "pct": "-1.00",
-  "at": "2026-09-11T10:58:47+09:00"
+  "price": "34,650",
+  "pct": "-0.72",
+  "at": "2026-09-11T11:09:12+09:00"
  },
  "articles": [
   {
@@ -27883,6 +27883,60 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T10:58:45+09:00"
+  },
+  {
+   "id": "5e1aaefbc8b4b3ef",
+   "title": "카카오 노조, 인적분할 반대 본격화… 소액주주 공동대응 검토",
+   "outlet": "아시아타임즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHVHkzM1NGQTJMc2F3MHlFdmVfYjBOZnd6a08wN2J5OEhCbW5IQ2p5M2FRaUtkTGFNN2FrdHRZR0ZZUldPYjVPZVhlaUNISzhSd0FQSEFaaXlNcGNaMkE?oc=5",
+   "publishedAt": "2026-09-11T11:01:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T11:09:12+09:00"
+  },
+  {
+   "id": "c8c96b237a0a3b10",
+   "title": "카카오 노조 '인적분할 반대' 단체행동…\"소액주주 연대 검토\"",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85Ymh2cmNqZDRnOWh5X2pvelJnZUxBalZ3ankyWjFIVmtoNWlRRFZXTjI4cXAxb0E0Sm5vcWdJeWoxakIyeTJDcWJTNDB0aVNlbWx3aDQwUWFuUzY2Q0wwV254RnU5MDNi0gFuQVVfeXFMTUI2UlJOMC1nX3JzVWI4Mi1ZV2Z3REk0NDJRX3NnNGpiOHZWX2pTUm56bmlKZzVFdnhNSmtoalQ1WlkzZWVzcVFOMndIcXFEaUJfNkJEM3U5QUhqZEctOHJTYW5HVWNESDNWcmtQbmc?oc=5",
+   "publishedAt": "2026-09-11T10:55:16+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T11:09:12+09:00"
   }
  ]
 };
