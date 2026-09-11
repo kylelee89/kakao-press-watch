@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T14:50:41+09:00",
- "runCount": 1151,
+ "generatedAt": "2026-09-11T15:00:58+09:00",
+ "runCount": 1152,
  "price": {
-  "price": "34,550",
-  "pct": "-1.00",
-  "at": "2026-09-11T14:50:42+09:00"
+  "price": "34,500",
+  "pct": "-1.15",
+  "at": "2026-09-11T15:00:59+09:00"
  },
  "articles": [
   {
@@ -28393,6 +28393,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T14:50:41+09:00"
+  },
+  {
+   "id": "9e87acc04e6410ad",
+   "title": "카카오노조, 회사 인적 분할 반대하며 소액주주 연대",
+   "outlet": "부산일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9McUtoOGJGb1NPSHFFMWNQRTlDekc1ZlhrZlVzZC1IbU5sMkpBY0VrYjUtTEt5QWljU0hqRnB2T3R0NkJlejJFcVJQM0Z0Z0NKNU5ZRXYzbUE3OFhOeG1mUlpsQlJxc3AyZlU2M1hxeGh0bnhs?oc=5",
+   "publishedAt": "2026-09-11T13:22:25+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T15:00:58+09:00"
   }
  ]
 };
