@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T16:07:27+09:00",
- "runCount": 1164,
+ "generatedAt": "2026-09-11T16:17:51+09:00",
+ "runCount": 1165,
  "price": {
   "price": "34,500",
   "pct": "-1.15",
-  "at": "2026-09-11T16:07:28+09:00"
+  "at": "2026-09-11T16:17:53+09:00"
  },
  "articles": [
   {
@@ -28651,6 +28651,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T16:07:27+09:00"
+  },
+  {
+   "id": "085a4484a2f56999",
+   "title": "카카오 노조, 소액주주와 연대 추진…인적분할 반대 전선 넓힌다",
+   "outlet": "리더스팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUUXhTVDNuQzZLeGphTEhQZnR2c2xzMk5iMUpISk5YOU9QZ3RMMEJCUmZJcHN6ZFdqZ3NUNFRCQXg0ck85SlJxMmtmNW13ZEh2ZktxN3o0X2VpaC1FU281UE9PTVBnV2hJbkpuejBSQjQ?oc=5",
+   "publishedAt": "2026-09-11T16:01:06+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T16:17:51+09:00"
   }
  ]
 };
