@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T11:09:12+09:00",
- "runCount": 1136,
+ "generatedAt": "2026-09-11T11:19:35+09:00",
+ "runCount": 1137,
  "price": {
-  "price": "34,650",
-  "pct": "-0.72",
-  "at": "2026-09-11T11:09:12+09:00"
+  "price": "34,600",
+  "pct": "-0.86",
+  "at": "2026-09-11T11:19:36+09:00"
  },
  "articles": [
   {
@@ -27937,6 +27937,129 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T11:09:12+09:00"
+  },
+  {
+   "id": "da16788c5d96b774",
+   "title": "인적분할 반대 나선 카카오 노조⋯소액주주 공동 대응도 검토",
+   "outlet": "inews24.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84S0hWak5xYzlxbGRWVnhqVjhTQ2tqLVRfclhXOEVqcE5NSnVLN29hWW00cVBOX3cwTjFQNm5vUUhQVnNNbmFWMmFRbw?oc=5",
+   "publishedAt": "2026-09-11T11:12:28+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T11:19:35+09:00"
+  },
+  {
+   "id": "2f55c5f4f16b7e10",
+   "title": "카카오 노조, 인적분할 반대 첫 집단행동…소액주주 연대 나선다",
+   "outlet": "서울이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLSWJrYWltNjBfeVZvbTQwSWJRVFBYTWFvMnlDMEpUSWxFLUZkOXlZVE5JcUM5U3JUMlpURF9hblhKT2tPRUtGQUg2OHF6Rm9yWkZsWFp2dHdwUERlaUFpYnlRcnRjcUdIZHhEMnJn?oc=5",
+   "publishedAt": "2026-09-11T11:13:06+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T11:19:35+09:00"
+  },
+  {
+   "id": "c8b4edaf0451b991",
+   "title": "카카오 인적분할에 노조 반발..'소규모합병 반대 운동' 돌입",
+   "outlet": "포쓰저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZeDFPX29jMGkxdUZkUFppWVFpRHM1aUFIbWJBYl9XNXo2bzRmODRXX2U5TTcwVndnTzBzcHdNN2NBTGQwbDFGU1p1aEhvd1FsbnpSSTZrd2JTdDJhWWI0SUJaSQ?oc=5",
+   "publishedAt": "2026-09-11T11:01:33+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T11:19:35+09:00"
+  },
+  {
+   "id": "2cb1fbbb37ea6363",
+   "title": "슬롯 유형별 차이 속에서 보는 우리카지노 순위 구성",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaW1adU1Xa0pYMHJ5NWZGbWpyTU5fYlhUYTV2ckNMblZoTVdHeVphZVo4cEE5eUtrczdPTWhPeHZoYVhublpFZ29oY2tFTHQ1NkNlMlhMaEx1TTlVaGRnNmhSNUlJS1Z0bzBrUHJTb1VKR0FOZWZKS0tfOVVHdXpQWndMQ1RCRUhxMG1LaTV5SlF2WUxBWnZPdHdKV2I1SFNNUFVzM0hLSC1lM2ZyM0x6VWhOTjBtcVZ0aHJaUWhtbnpoMHFMZUVzXzFBVk1fdFQ4eGxrdTlB?oc=5",
+   "publishedAt": "2026-09-11T03:30:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T11:19:35+09:00"
+  },
+  {
+   "id": "e24a9ce1556fabf6",
+   "title": "스마트폰에서 처음 여는 배려와 도박 설정 메뉴",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ203NnlCWGhhYmxKaWdPR2t2WUVuWENNd0dWQ3p5WDR6dnFqZEpEb3MtVHZ3cWp4U1NEWnNfa0lvSEhWQ2lqb2ptWENmalNGR2xvOTdPTlNsTU1jZ1R3amdRWHA3a2pNVnZOX1pnaVBhQXVETFIwRkhkQzZKMFltbjlyRTZWYm9FbURvaE1fRDZ3U0U1MklXWlJR?oc=5",
+   "publishedAt": "2026-09-11T04:58:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T11:19:35+09:00"
   }
  ]
 };
