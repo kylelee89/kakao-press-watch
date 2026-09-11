@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T09:33:37+09:00",
- "runCount": 1130,
+ "generatedAt": "2026-09-11T10:16:14+09:00",
+ "runCount": 1131,
  "price": {
-  "price": "34,525",
-  "pct": "-1.07",
-  "at": "2026-09-11T09:33:52+09:00"
+  "price": "34,550",
+  "pct": "-1.00",
+  "at": "2026-09-11T10:16:15+09:00"
  },
  "articles": [
   {
@@ -27510,6 +27510,283 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T09:33:37+09:00"
+  },
+  {
+   "id": "94db491dd060b382",
+   "title": "카카오 노조, 인적분할 반대 운동 돌입…소액주주 공동대응도 추진",
+   "outlet": "아시아경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13TnBTR0dlcl84QUpPZDI3Z2FqQkllY25iVjVZNmQ2MmdoU1JCZHlJdG04XzVlOFNvNjUyQ1lpLS1kNy1rN1htTTdRV2N2elNfdlFwVlBSUGNVZExoSHp4ZA?oc=5",
+   "publishedAt": "2026-09-11T10:07:57+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "763b50b72d89fd30",
+   "title": "카카오 노조, 인적분할 반대 운동 개시…주주에 합병 반대 독려",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnNWJBYnlCQmVaZTR1VnJORl9qUGt3d25ER05IOGI1LTdKUlJvU0M1X0FyVXBtZGZZYTRjdFJMWkxOMkVhZTduYzhHcEhsLV9OalNJaVIwWWUtUVZYbU4wMlBOU1g?oc=5",
+   "publishedAt": "2026-09-11T09:56:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "78fee9d6ea6d8403",
+   "title": "\"왜 지금 회사를 쪼개나\"…카카오노조 '인적분할 반대'",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZ1NhMER0b0luaWl4bGE2Mks5TjBxVmVpMlFJZUQ3LXVRTXg1QkE2NGR5c3FpNEZvU3RIVG1tTFJiRjZ3SXJ0MS1OSHZRVXE2bUJpLTVObHBZQQ?oc=5",
+   "publishedAt": "2026-09-11T10:10:27+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:쪼개나"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개나"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "0fff3bf450cafbf6",
+   "title": "카카오노조, 인적분할 반대 행동 본격화… 소규모합병 반대 참여 촉구",
+   "outlet": "it.chosun.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMUkdLUDlGMEFSRTVMdXA4WFp1a2E5NFNZY0lTM29iSjBpcnN4MW4yMEZOTHdDQS1fOTFnWFBLY3hSbWZSRHBmTTJQaHpmTlBJd2RWajVTUDhGNUliTnFrZ0V3MFV4R1Y3UHBLdGlrbkjSAXRBVV95cUxOLVhFbS1zcmsydmU5WGwteTdWMHkzeXlucmlHbDBHOTA2Y1dzNDZvS2ZmVlRUQ0FiTS1GZUVnMDkzLV84RlZhWlNvbzhHT0hvUjNMZjNJaEpDUjRENHdobmhicjdhS3Z1WEp0NGdvcE5GeHBzdA?oc=5",
+   "publishedAt": "2026-09-11T09:57:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "66592d0e1ae83d30",
+   "title": "카카오노조, 소규모합병 반대 행동 나선다…소액주주 공동대응도 검토",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00OUlvdTBqaVUwQXRWV0x0NGVZb2pzLUFYUlZTcjNxMVJTV2pKek9ZX2NpMlI0N0V2Z242bFF0OVlhRXQtdUJ6Y0lwX3VvQXc?oc=5",
+   "publishedAt": "2026-09-11T09:41:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "9ae38d05ba23f61d",
+   "title": "카카오 인적분할에 노조 반발…소액주주 공동대응도 검토",
+   "outlet": "edaily.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHZqVFk0NE1DalZxeUs1VDRhelU1U1ZkNnNfSVQzVHQ3Q21mSnltT2cyOHR4d1JBRDNMNWs5SXh6bGJ0NWJ3WV9rUXlOS2p2QjYzaEIySWJLVUpnSnpfWnlYdlVzLWc0UWhDaDNyZkFQRFpzaXpnTTZUR0c3cEU5bw?oc=5",
+   "publishedAt": "2026-09-11T09:46:45+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "d12a83072fb2fe1f",
+   "title": "카카오 분할 반대 나선 노조…소액주주에 \"반대 의사표시\" 촉구",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0a196QzJ3Rk5hQkNVXzFxOXluSDlBdHFSaU5Eb3I4SENub2NWSDNMMUZYZ1VUb1BOcExUOC1DSHp5MDE3b0FZMElUNzc1anBUdU9TQjcxVy03dWdEUVM4Q9IBeEFVX3lxTE5rQUV5ejBLLVVnVnlMYmE2OHFfSElpUmpidHZPUGdUWkFFX1B2RTRnVnM0OEtWZVNjTUtMT2o3YTdvTjBFdFJJUElTTndLaFVpUEl2MVNPeWU1cVM1NFVLTEVCd2F2S1pfQWdNbmRmQlB2Qjh1aVlfSA?oc=5",
+   "publishedAt": "2026-09-11T09:54:14+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "14a808b5fafeb09f",
+   "title": "카카오 노조, 인적분할 반대 본격화…소규모합병 반대 운동 돌입",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMjFKUFVUazYzOHp4a2FlMkVmdGNsQWJsaDFCVndaVVJmalF5UGhuVHo4anp4QVdzWDVHRE5jLTMxQ1pDRVJxY1N5Rk5XZ1RFLVZjdkZCYjhBcGVQdWVVenZwLWtjcnZuZTBSTWtXOGEyaFR2TTNrWGkxRXZPa2huUC1RSXBWYmVBR3BDQmdmUVltNXQyYzM3WkMxMnRGNUpiS0RNdFByVFFuWVlVUWJsb3pwWk82SzlQUGY0eWlXY3dRRFRQLWlhVWVvbEtqalRoZWZEcHJNdjJXcklWZmpTcTRoVi1QdEt5YXdrRHA3aEJ6TUxfS3hYc1hJeVp3R1ZwXy0xOGRvVEVNaXprNHhhbDNPUHJ6czB2amh2RFpvWk5WMzA?oc=5",
+   "publishedAt": "2026-09-11T09:32:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "012f142aacc682aa",
+   "title": "카카오 노조, 인적분할 반대 행동 본격화…소규모합병 반대 운동",
+   "outlet": "마이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92dGdUa0U3VlNGYlFXdjJ3ZTE4akczZDlzZGxqMlp1V2FWR3hTSzdFOHAtZFhiX1lhd0VRMlNrY1hQS2JacDJReGpsSnEyaUhDc0NrX2xmQmNCNnpZSUxiaw?oc=5",
+   "publishedAt": "2026-09-11T09:25:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "9c3d79d5197dcc4b",
+   "title": "[경영레이다] “왜 굳이 회사를 나누나”…노조 이어 소액주주도 카카오 인적분할 제동",
+   "outlet": "뉴스워커",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nczJEQS0zQjhmZlNEaExERElhbklSeW5rd2Fwa3lEbVhaaDdfRU1qNnBwckZSNVN3eUw2TWpMTzFzQy1EQ21pOG5SMXg1OHhwUFJ0UTVKLVhvRU02RmNqQmV1WGowbEhaV3U0alM0b07SAXRBVV95cUxQWDlObXN6NFNSbjNRNnhveXpJS1BDVjVHbW4wbUdxNzNSTVF5SUdhSWxpN1FZUzJjWlZRVi1OM0drUjVsXzA4eG80eTBla01abjBuZHBza01LVF9LTDRFRzFkU05IMHd1ZDN5T3RzS09LSHNGUw?oc=5",
+   "publishedAt": "2026-09-10T16:08:47+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "c1255a93161d9017",
+   "title": "카카오노조, 소규모합병 반대 본격화…소액주주 연대도 검토",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwc3d3c0llc0gzVjh2MWk2UVFpYklvckxDamR6NU02OFFSLW96T0JZNEQxZHRVU0VrWHBQMXAtVW1zS3R2eHAxVTJicFd1SUU5NWhhemhTU3ZvbzRpcGNaN1VnaXRPc2NSSGhybDI1N2gycEtq?oc=5",
+   "publishedAt": "2026-09-11T10:11:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:16:14+09:00"
   }
  ]
 };
