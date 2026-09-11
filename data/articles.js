@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T14:29:09+09:00",
- "runCount": 1149,
+ "generatedAt": "2026-09-11T14:40:23+09:00",
+ "runCount": 1150,
  "price": {
-  "price": "34,550",
-  "pct": "-1.00",
-  "at": "2026-09-11T14:29:09+09:00"
+  "price": "34,650",
+  "pct": "-0.72",
+  "at": "2026-09-11T14:40:23+09:00"
  },
  "articles": [
   {
@@ -28291,6 +28291,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T14:29:09+09:00"
+  },
+  {
+   "id": "d888a1867fe0dedf",
+   "title": "카카오 노조, 인적분할 반대…소액주주 연대도 검토",
+   "outlet": "news.nate.com",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNDBVSXlKN2FfRFgtcXliVWNDZ2x4bzdBTmJZQU81akgwQ3NZTU5nbjlzMmtxR2J6NnVwaXFWNEx3QURkcWctejB3WkFZVHNNQ2JqT3kzeHYzVl9NNGVPTQ?oc=5",
+   "publishedAt": "2026-09-11T11:35:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T14:40:23+09:00"
   }
  ]
 };
