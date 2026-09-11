@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T14:11:35+09:00",
- "runCount": 1153,
+ "generatedAt": "2026-09-11T14:22:07+09:00",
+ "runCount": 1154,
  "price": {
-  "price": "34,500",
-  "pct": "-1.15",
-  "at": "2026-09-11T14:11:37+09:00"
+  "price": "34,450",
+  "pct": "-1.29",
+  "at": "2026-09-11T14:22:09+09:00"
  },
  "articles": [
   {
@@ -28420,6 +28420,37 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T15:00:58+09:00"
+  },
+  {
+   "id": "1c0f937470d71123",
+   "title": "“주가 폭락에도 정신 못 차리나”…카카오 쪼개기에 노조·주주 ‘동시 반발’",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNZmZCdlZNMjRONGpiQWdrWFdoNlRwV2tPYURCbTlKUXVNVlBySkM0eWNCN3kxTDRoaUtjZ2NXWkJiMG1mNHJ0R056a1JXdGFoaTdQZlN3?oc=5",
+   "publishedAt": "2026-09-11T14:06:25+09:00",
+   "tone": "우려",
+   "toneScore": -8.9,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "등락:폭락",
+    "적대어:쪼개기",
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "폭락",
+     "쪼개기",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T14:22:07+09:00"
   }
  ]
 };
