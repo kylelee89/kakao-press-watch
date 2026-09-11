@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T15:14:28+09:00",
- "runCount": 1159,
+ "generatedAt": "2026-09-11T15:24:54+09:00",
+ "runCount": 1160,
  "price": {
-  "price": "34,500",
-  "pct": "-1.15",
-  "at": "2026-09-11T15:14:30+09:00"
+  "price": "34,650",
+  "pct": "-0.72",
+  "at": "2026-09-11T15:24:56+09:00"
  },
  "articles": [
   {
@@ -28523,6 +28523,57 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T15:14:28+09:00"
+  },
+  {
+   "id": "783dc60742da3bde",
+   "title": "카카오노조, 소액주주와 손잡는다…인적분할 반대 첫 집단행동",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nSHlONkM0YV9JRE50VFlpSnkxX0hOU3Y2aG45eUczQ28xeHB4elU5cGNTUWZVTjk1d3VPZUMybEs3SWZydFhxckxTY2E2OEU?oc=5",
+   "publishedAt": "2026-09-11T14:38:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T15:24:54+09:00"
+  },
+  {
+   "id": "920989d3cfee533b",
+   "title": "카카오 노조 \"고용·주주가치 설명 없인 못 받아들여\"",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YYVVRRUVVUU94OW5BZXViZWpwUFFVWVdVLTExOGROMU9XZGFFaHVoa05MX2dyRW5iTldQS1k3QlhKQ1prMjJHYnBiRzV4RkE?oc=5",
+   "publishedAt": "2026-09-11T15:13:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T15:24:54+09:00"
   }
  ]
 };
