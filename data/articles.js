@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T14:18:51+09:00",
- "runCount": 1148,
+ "generatedAt": "2026-09-11T14:29:09+09:00",
+ "runCount": 1149,
  "price": {
   "price": "34,550",
   "pct": "-1.00",
-  "at": "2026-09-11T14:18:51+09:00"
+  "at": "2026-09-11T14:29:09+09:00"
  },
  "articles": [
   {
@@ -28268,6 +28268,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T14:18:51+09:00"
+  },
+  {
+   "id": "0ff455205025a546",
+   "title": "카카오 노조 “인적분할 충분한 설명 필요”…또 다시 대치 예고",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfSXZQYmRMa3Blb0tQTlUtTzZtaW1YcFU1NDNJN2ZzX3AxNGtrTU5XbXRJVU9qZnJsakVKbXVmTlpqTnlQOElpcXZWSlp5Zw?oc=5",
+   "publishedAt": "2026-09-11T13:16:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T14:29:09+09:00"
   }
  ]
 };
