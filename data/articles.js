@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T10:37:00+09:00",
- "runCount": 1133,
+ "generatedAt": "2026-09-11T10:48:21+09:00",
+ "runCount": 1134,
  "price": {
-  "price": "34,600",
-  "pct": "-0.86",
-  "at": "2026-09-11T10:37:01+09:00"
+  "price": "34,650",
+  "pct": "-0.72",
+  "at": "2026-09-11T10:48:22+09:00"
  },
  "articles": [
   {
@@ -27814,6 +27814,50 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T10:37:00+09:00"
+  },
+  {
+   "id": "d27810d413fc9c36",
+   "title": "카카오노조, 인적분할 반대 행동 본격화…소규모합병 반대 독려",
+   "outlet": "팝콘뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HYUVObFVfZHVlVU93WXp6dWNDaFlMcWxQYkdsbFMtNlRIbU9vbFRfWEdzbmplVkE3MmRYS1RpU0NGcWRXckVXYlg3QlZNcENJZnpsRTJoM1FWRWZmQjAyRm03OUE0SHRvLTBEMmpvUWpjUdIBckFVX3lxTE9HYUVObFVfZHVlVU93WXp6dWNDaFlMcWxQYkdsbFMtNlRIbU9vbFRfWEdzbmplVkE3MmRYS1RpU0NGcWRXckVXYlg3QlZNcENJZnpsRTJoM1FWRWZmQjAyRm03OUE0SHRvLTBEMmpvUWpjUQ?oc=5",
+   "publishedAt": "2026-09-11T09:52:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T10:48:21+09:00"
+  },
+  {
+   "id": "8df0e072626eefd7",
+   "title": "온라인 카지노 게임 종류 : 위험 피하기와 최적화 - 실용적인 접근법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2dDaERjMlhpUXFFT0JxaWVxckhEbzZObTB0ZWY4QmZBRmxlTThBUHBNckkyZ1piTkZhdU1Jc1FYUkNKX3pyeFAxTGJpR3BuNUNoOThLekZGcUx0NjhKU2xyVWJmVFRxSm9vcGVDbmlkWmwzd0JuNmFReG9RbWE4Vnk5ZFA3SHIxcTdCdG54ZmpmLUlRb3g3Y014QVI4cnNCd0dxbzBHZ0l4bHpDdVpHNHBpaW5La09pTEZIYTN2blpBc2hSdnhLTU5IR1BpSXVa?oc=5",
+   "publishedAt": "2026-09-10T14:00:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T10:48:21+09:00"
   }
  ]
 };
