@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T13:37:40+09:00",
- "runCount": 1144,
+ "generatedAt": "2026-09-11T13:47:59+09:00",
+ "runCount": 1145,
  "price": {
-  "price": "34,450",
-  "pct": "-1.29",
-  "at": "2026-09-11T13:37:40+09:00"
+  "price": "34,500",
+  "pct": "-1.15",
+  "at": "2026-09-11T13:47:59+09:00"
  },
  "articles": [
   {
@@ -28216,6 +28216,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T13:16:00+09:00"
+  },
+  {
+   "id": "fdd685d44761fa59",
+   "title": "카카오 노조, 인적분할에 반대 “이유 납득 안 돼…소액주주 공동대응 검토”",
+   "outlet": "서울신문",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hTkM1c2NlU1BFWVZ1ZDdCRXFGUGx1bkZZX3hqRlh5bU1MdTlCbHRPSDNNaXotV2hpRThPaUlVWnh0bU45X2xfdFNYQktoTVlIUm1EakRNUWx5U3BMbjVZS3g1d05ULW0yVkpkeXJRNWhKUzdJMGEwaEI4SQ?oc=5",
+   "publishedAt": "2026-09-11T12:19:28+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T13:47:59+09:00"
   }
  ]
 };
