@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T15:56:08+09:00",
- "runCount": 1163,
+ "generatedAt": "2026-09-11T16:07:27+09:00",
+ "runCount": 1164,
  "price": {
   "price": "34,500",
   "pct": "-1.15",
-  "at": "2026-09-11T15:56:09+09:00"
+  "at": "2026-09-11T16:07:28+09:00"
  },
  "articles": [
   {
@@ -28601,6 +28601,56 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T15:45:44+09:00"
+  },
+  {
+   "id": "6b6a02ad42773b97",
+   "title": "카카오노조, 인적분할 반대 활동 본격화…소규모합병 반대 운동으로 시작",
+   "outlet": "바이라인네트워크",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jZVphR2dtbjBDYUd2M21VQXZ4ZFZNYl9CX2ViMGMzR1Fnd2dLM3JJUW95Rm53eWoxUlpDNzEtOUlRUEpxZGtyWVF4ZTFVZzN1Y09qVQ?oc=5",
+   "publishedAt": "2026-09-11T10:56:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T16:07:27+09:00"
+  },
+  {
+   "id": "691ce1b48eec1c39",
+   "title": "카카오 노조, 소액주주에 '반대표' 호소∙∙∙인적분할 첫 관문 시험대",
+   "outlet": "kmnanews.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54YkZOanZ4Mzg5OEN1UFZoMDduRVhaY1F1NFBVSTBrSlI3a2duMzc4NEJ3Y0Z6TjN1RkxWMVloZ2R1ekZ5ZnE1UDEzTm44bG8wc1d5RGhqVFYwWkZmZEEzZjNzdmJZTGZLY3c?oc=5",
+   "publishedAt": "2026-09-11T13:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T16:07:27+09:00"
   }
  ]
 };
