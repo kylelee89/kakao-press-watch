@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T15:04:01+09:00",
- "runCount": 1158,
+ "generatedAt": "2026-09-11T15:14:28+09:00",
+ "runCount": 1159,
  "price": {
-  "price": "34,550",
-  "pct": "-1.00",
-  "at": "2026-09-11T15:04:02+09:00"
+  "price": "34,500",
+  "pct": "-1.15",
+  "at": "2026-09-11T15:14:30+09:00"
  },
  "articles": [
   {
@@ -28499,6 +28499,30 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T14:42:59+09:00"
+  },
+  {
+   "id": "5d6df5ed9daad188",
+   "title": "카카오 노조, 인적분할 반대...“고용·주주 보호책 먼저 제시해야”",
+   "outlet": "cwn.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2SDZWa1F4alpiOWNtNjBKWGRGc0diWjBHWDJBbFRoai1IR1ZFZDBrUWhPZWlDOV9JSFdnSU1ndnQ5WGJuOHBqNlhTN3doU0VXaUtYamRtQjRhU3pBRXNMYXdR?oc=5",
+   "publishedAt": "2026-09-11T15:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T15:14:28+09:00"
   }
  ]
 };
