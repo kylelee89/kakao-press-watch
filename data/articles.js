@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T14:32:33+09:00",
- "runCount": 1155,
+ "generatedAt": "2026-09-11T14:42:59+09:00",
+ "runCount": 1156,
  "price": {
-  "price": "34,450",
-  "pct": "-1.29",
-  "at": "2026-09-11T14:32:34+09:00"
+  "price": "34,500",
+  "pct": "-1.15",
+  "at": "2026-09-11T14:43:01+09:00"
  },
  "articles": [
   {
@@ -28472,6 +28472,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T14:32:33+09:00"
+  },
+  {
+   "id": "799e7b2b3fd0e665",
+   "title": "카카오 노조, 인적분할 반대 집단행동 돌입…소액주주 연대 추진",
+   "outlet": "시사저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtTVExeWw1WGtiMTdkTDZkUlRHWDYwbTdLTFFWUXhLZWFHNk9jVHMxYzN1aUpJdDc1OVUzclZRbGZSbjJVeXdqMzJaRVpVb2RIalNkNVg0bGZBbER0cXBiNTUydXI1RDd0ejNON091MNIBc0FVX3lxTE9GbW1XZFRISDdfOUdwRm9yNmtYTkFuWTR4MlhlWF9KeEVmcnZqVnp1d1FPOWliV1VpLWstaGV3SmNBYzRfYU5ZU0hpTnNzWmFoZ0lhSHdIOGUwbHllejNtWUl4bFFhbXdNcDA5ZG14QXlYNUU?oc=5",
+   "publishedAt": "2026-09-11T14:34:03+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T14:42:59+09:00"
   }
  ]
 };
