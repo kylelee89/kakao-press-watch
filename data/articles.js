@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T17:21:16+09:00",
- "runCount": 1171,
+ "generatedAt": "2026-09-11T17:32:37+09:00",
+ "runCount": 1172,
  "price": {
   "price": "34,500",
   "pct": "-1.15",
-  "at": "2026-09-11T17:21:17+09:00"
+  "at": "2026-09-11T17:32:38+09:00"
  },
  "articles": [
   {
@@ -28754,6 +28754,61 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T17:10:53+09:00"
+  },
+  {
+   "id": "19b08b1deb77c234",
+   "title": "카카오 노사 기업분할 표대결 앞서 소액주주 '민심잡기' 경쟁, 정신아 '쪼개기 상장' 트라우마 넘을까",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zSWZtdldOYjlOZXdra2VjU0RVY1VvRDh6QzZLMEk2UTZMZlJ1Um52WlhWQUN4bUxrODUzZEJRZEcyUXlMbFpEWmd0NHBQQzRNazdwZzlPY3JDWE1venQ2TnZyemwtdnVyZzJpdkNnRXNXNUU?oc=5",
+   "publishedAt": "2026-09-11T16:39:39+09:00",
+   "tone": "우려",
+   "toneScore": -5.2,
+   "frame": "비판프레임",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:쪼개기",
+    "스케어쿼트:쪼개기 상장"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "쪼개기",
+     "쪼개기 상장"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T17:32:37+09:00"
+  },
+  {
+   "id": "d7997fa85dd970c5",
+   "title": "카카오 노조 인적분할 반대 행동 본격화, 카카오인베스트먼트 소규모합병 저지부터 나선다",
+   "outlet": "허프포스트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aUjYwZ3h4RTRhcENPREtmc29kaUFteFdHRXpia3lZYUx4NUxsZXFKRW1BQlpIM3RsdEdzNHBaWktWLTN1TGJ3RmNJNUdBRHRUNmpUM0hjZw?oc=5",
+   "publishedAt": "2026-09-11T12:51:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T17:32:37+09:00"
   }
  ]
 };
