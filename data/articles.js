@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T17:00:30+09:00",
- "runCount": 1169,
+ "generatedAt": "2026-09-11T17:10:53+09:00",
+ "runCount": 1170,
  "price": {
   "price": "34,500",
   "pct": "-1.15",
-  "at": "2026-09-11T17:00:31+09:00"
+  "at": "2026-09-11T17:10:54+09:00"
  },
  "articles": [
   {
@@ -28678,6 +28678,82 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T16:17:51+09:00"
+  },
+  {
+   "id": "c0a402b976966a3a",
+   "title": "카카오 노조, AI 사업 인적분할 반대…\"설명·고용보호 대책 부족\"",
+   "outlet": "news.mtn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqeUpHTkZSTU5lZm1yRXIwbmtBbmswLW9FZldQa0FlQnpYS2JTdHFGMGZDMXFRM0E5WUxHTnFIMWV2eWRoRW15and3Z0xTdmNMV3JtVDN4RWk1QmJjOEdncmVoako?oc=5",
+   "publishedAt": "2026-09-11T17:01:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T17:10:53+09:00"
+  },
+  {
+   "id": "3b13880cd96df606",
+   "title": "카카오 노조, 소액주주와 손 잡나…인적분할 제동 시동",
+   "outlet": "네이트",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ENjNuR25Gb0VPbzdPVzhHalkxY3A5TkdFUVhPTUkwU3Z3SjFtaDJLSWRaRDRlYmJpZTdBZ0FMMG9ITm8xdVlDY3NEZE1qV2FCemdfTzlDeWl2Skw2bW8wNw?oc=5",
+   "publishedAt": "2026-09-11T16:59:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T17:10:53+09:00"
+  },
+  {
+   "id": "e105d7d8ff56387a",
+   "title": "보너스 횟수가 늘어나는 조건은? 트위치 토토 규칙 찾기",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEJvSHF5VFduVzhKWTVSbGx2UWZ2RmVNVTFaRFBnWldWa3RuLWVVamtsVDl3U08yWDNmUkx5aXRmZWhZT3psY1FXSzNrVlhBejRwb2JDdlN0MlZVc3ZiZlJMNWtQa2RacnkzSDFuSkk0WEVlN1N2NDJNajhGR29FTzZCcXdZSDRpMms1bU5vYlg3NmNYazZTbGdoTVdwZXhkb0F4UWY0NA?oc=5",
+   "publishedAt": "2026-09-11T04:50:36+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T17:10:53+09:00"
   }
  ]
 };
