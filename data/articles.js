@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T10:26:37+09:00",
- "runCount": 1132,
+ "generatedAt": "2026-09-11T10:37:00+09:00",
+ "runCount": 1133,
  "price": {
-  "price": "34,550",
-  "pct": "-1.00",
-  "at": "2026-09-11T10:26:38+09:00"
+  "price": "34,600",
+  "pct": "-0.86",
+  "at": "2026-09-11T10:37:01+09:00"
  },
  "articles": [
   {
@@ -27787,6 +27787,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T10:16:14+09:00"
+  },
+  {
+   "id": "1ee47139c0c6fb7e",
+   "title": "카카오 인적분할, 노조 '설명 부족' 반발…단체행동 돌입",
+   "outlet": "nbn 시사경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mekNGc3ZBYzUtY0padkFjMTJuTHYxc3J2N3VjX0xEbHRIYkJqWGg5OUg5ZHlGalc3YnpsRU9ZdnhoTFhPLXZxcFc4QWUxVUlWbGZDUUVOZFl0TEpmQUlPYjZMMTVVWUppSHc?oc=5",
+   "publishedAt": "2026-09-11T10:24:21+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:37:00+09:00"
   }
  ]
 };
