@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T15:35:19+09:00",
- "runCount": 1161,
+ "generatedAt": "2026-09-11T15:45:44+09:00",
+ "runCount": 1162,
  "price": {
   "price": "34,500",
   "pct": "-1.15",
-  "at": "2026-09-11T15:35:21+09:00"
+  "at": "2026-09-11T15:45:45+09:00"
  },
  "articles": [
   {
@@ -28574,6 +28574,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T15:24:54+09:00"
+  },
+  {
+   "id": "35ed1d0a1b2bc23f",
+   "title": "카카오 노조, 소액주주에 인적 분할 반대 동참 촉구",
+   "outlet": "노컷뉴스",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qS05SWkkzNWZHQjQzalRWbEFVdFRXZG1GR2hHMGRBYXoyb0Mxd0RQQk04NnU5cTY3ODBMY2c5VlZ6TGlUdW1GS3ZWd2w1QUpLV2c?oc=5",
+   "publishedAt": "2026-09-11T15:35:07+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T15:45:44+09:00"
   }
  ]
 };
