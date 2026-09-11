@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-10T22:57:15+09:00",
- "runCount": 1129,
+ "generatedAt": "2026-09-11T09:33:37+09:00",
+ "runCount": 1130,
  "price": {
-  "price": "34,900",
-  "pct": "-0.43",
-  "at": "2026-09-10T22:57:21+09:00"
+  "price": "34,525",
+  "pct": "-1.07",
+  "at": "2026-09-11T09:33:52+09:00"
  },
  "articles": [
   {
@@ -27420,6 +27420,96 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-10T22:57:15+09:00"
+  },
+  {
+   "id": "90fe4880792192c6",
+   "title": "바카라 카지노 슬롯 ㅚ마사 AI 시대 디자인 패턴: 역사, 현황 및 미래",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbFdNRWxnTE1hSDBaTF9wdWtWdnEyVEY2SVJGZEtxMy1FS0JTc3g5LURCSUlUT1dENDViLWVYSlMzSWNUdGh3Wkd2UFA4ZEFrdFlVMVhxSTRMdGMzcHl5VkhaRExhcEZHd3dyWkNtb2ZCSUJFNktXVVltcGdhQXBBSW9rTkw2V213WFF5cTQxVnFGQQ?oc=5",
+   "publishedAt": "2026-09-10T13:43:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T09:33:37+09:00"
+  },
+  {
+   "id": "4b70d7de5c7dd9cb",
+   "title": "카카오, 소액주주 설득 나선다…인적분할 '명분' 시험대",
+   "outlet": "digitaltoday.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52RVRFUVRHbldZbUJybVBBRGtKQXVRTlFNTG9aQmd6VzZCeTMzaHlCQVZkUFpWM1ZUVUVOeGdtcFg2V0RtbnpvaDhZM1BBb2hxeVBOb1JtNkNOa3I1cmtjaUpzQVdQWlJXQnkxN3VvUVJpSHc?oc=5",
+   "publishedAt": "2026-09-11T09:15:46+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T09:33:37+09:00"
+  },
+  {
+   "id": "bd7e600589a98ec0",
+   "title": "토토야 안녕 : 실용적인 팁과 전략 - 스텝 바이 스텝 가이드",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODhPYzdwcmlJVl9Ld1ZQSk5FaGNxTTg2Q2hKSHBKZjg3VmVfME0talpyQUFTZjl3LVJRZmQxeDA2MG5uRldWaTc0YUtyakR1anZuUlBEcjBRNDlFajVDYkl5b0JzVDBPUFF5Q21kU3ZqdFJENEFaZGhieU1RckR6Yml6UmxrcVM5WkE4RzVTUUlFT0o4Mm56S1d4Z3F0LTdxQWl6LS1CYy0?oc=5",
+   "publishedAt": "2026-09-04T07:22:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T09:33:37+09:00"
+  },
+  {
+   "id": "c63e6fab135e0cb6",
+   "title": "돼지저금통 토토 : 실제 경험자들의 조언",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcHZYRUpsaUdqQ2ZCNGs1MEVFVnVya0FTNVFMcFp3c2R2RWZadlNqaUl4LTBzQ3NZN05fc2NvZWswYk9kOXVZcTNjYzhzUnUxY3dhZUt3RGZ2TU1oTFN0YXlhVWxaUVJiSXNNN0JzRUdoVklWY2x0RzRyY0ZNNU11YTBVREVEN3Q3bDI4VFA1dEhQY2RhangxWGljQnVacFdmcHRhWEYxVTBuc2M2M2tYdjZDcWVlNGZmdS1WNXFObzB6OGU2TmlPZXRyTmpRbUVaeklOWnV2NjBBSWgzc3pNVW03X0lHdkNfbm8tWnhMZG9IaFJYa2w2cV9PYnZYUkdON3kw?oc=5",
+   "publishedAt": "2026-09-10T11:40:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T09:33:37+09:00"
   }
  ]
 };
