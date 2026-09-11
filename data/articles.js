@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T11:42:13+09:00",
- "runCount": 1139,
+ "generatedAt": "2026-09-11T11:53:29+09:00",
+ "runCount": 1140,
  "price": {
   "price": "34,500",
   "pct": "-1.15",
-  "at": "2026-09-11T11:42:14+09:00"
+  "at": "2026-09-11T12:53:20+09:00"
  },
  "articles": [
   {
@@ -28137,6 +28137,58 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T11:42:13+09:00"
+  },
+  {
+   "id": "8fa02643f8f7884d",
+   "title": "카카오 노조, 인적 분할에 반발… “소액주주도 반대 동참해 달라” - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0gzRVhmbjlTbnFITFkzTEdZWTVyWlhuR09qQ2prRUdsd2JSWnRyZnpjcEtuTHRRUV9TTWVwb19OX2lwZzhXMVZoVktxbFcyN2Z0VXFJZnRUWEwtQ0VRMHpTalBlUG4zWm5lbVluSkpyVXVtX205WU4xa1A5VzNseGZn0gGWAUFVX3lxTE84alNtN283ZDhfVlRCd1l1SGp3NTZsNXM3aEVXVzNHVEthaVFsNTREV0hiZ192QWsxSlp5dUQxcExTVUVuRjE0VE8zcy1nTWYxWlI3TVVoSkVHU2o3eTRIYkFBcmgteERHNFZNaGJld25HYmlQYnoydS1vSW5ZN0stdUwtMnhwZHUyLVR1UmN2SWpzOVkyQQ?oc=5",
+   "publishedAt": "2026-09-11T11:44:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T11:53:29+09:00"
+  },
+  {
+   "id": "f4eb1d5fbe8646bc",
+   "title": "서승욱 카카오 지회장, 인적분할 반대…”노동자·주주 권리 보호 대책 없어”",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xS3FQSEZ5MkZLVm9EVThyaW9KQkhoS0ZxZ2NhcHFkeUs0djJxb054WW9oRFg5YzQxdzM0ZlVTcV9IOW1xWlVwcW9nQVQ0Y3ZBSUZiMTBMSGZzUWN4UUhWOFVXOUR3SUlLUGFnMjVR?oc=5",
+   "publishedAt": "2026-09-11T11:38:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T11:53:29+09:00"
   }
  ]
 };
