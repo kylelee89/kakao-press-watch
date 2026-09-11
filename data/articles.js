@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T11:29:58+09:00",
- "runCount": 1138,
+ "generatedAt": "2026-09-11T11:42:13+09:00",
+ "runCount": 1139,
  "price": {
-  "price": "34,550",
-  "pct": "-1.00",
-  "at": "2026-09-11T11:29:59+09:00"
+  "price": "34,500",
+  "pct": "-1.15",
+  "at": "2026-09-11T11:42:14+09:00"
  },
  "articles": [
   {
@@ -28060,6 +28060,83 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T11:19:35+09:00"
+  },
+  {
+   "id": "0fda6e230d890c2b",
+   "title": "카카오 노조, 소액주주와 손잡나…\"소규모합병 반대 동참을\"",
+   "outlet": "koreancenter.or.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOWWdxX3NoeHlTZ2lvZlFPVTMyY0ZXYUtJYXBoSnJvQ1pzc2xZdkFLMjc0eHVvNHRuZHVsZHhEQndkeGRpNV83WU8zVGcwV3RIMm96OHMxNXJCalZoSTRWZVk2ZFp0NklHNVRMT1UwZ3dNR203?oc=5",
+   "publishedAt": "2026-09-11T11:24:24+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T11:42:13+09:00"
+  },
+  {
+   "id": "2de69f93916b19f4",
+   "title": "[CEO&뉴스] 6.4조 실탄 쥔 카카오X···김도영 대표 시험대",
+   "outlet": "서울파이낸스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNa2ZNdHNZQ1NGNHc5S29Oek9DUkJjYzJsNGF0SDRRMmd4UnR3aEk2RVZURkVzcmZUX05WNDNQeWgxNUFRLU4yUllJRGRJU00xdjBfdnpscFhEaVF2a2U4TGFpNllFUUZyMFE?oc=5",
+   "publishedAt": "2026-09-11T11:19:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T11:42:13+09:00"
+  },
+  {
+   "id": "5d3b38785087fa08",
+   "title": "카카오 노조, 인적분할 반발…“고용·주주가치 보호책 내놔야”",
+   "outlet": "싱글리스트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BOWh5dWFWQmQ1QmtMNHpac295bmpVbG5uM1VqTGZsZEJxZS1yTWl6Y2thQkNwd2o5SmRPZHdIWE94SGVhaUZDRXRhTXRsQVNUVnc5TWtsckJ3WmRHTVVrLVhEMGdOdw?oc=5",
+   "publishedAt": "2026-09-11T11:28:01+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T11:42:13+09:00"
   }
  ]
 };
