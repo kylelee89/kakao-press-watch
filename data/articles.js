@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T14:40:23+09:00",
- "runCount": 1150,
+ "generatedAt": "2026-09-11T14:50:41+09:00",
+ "runCount": 1151,
  "price": {
-  "price": "34,650",
-  "pct": "-0.72",
-  "at": "2026-09-11T14:40:23+09:00"
+  "price": "34,550",
+  "pct": "-1.00",
+  "at": "2026-09-11T14:50:42+09:00"
  },
  "articles": [
   {
@@ -28318,6 +28318,81 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T14:40:23+09:00"
+  },
+  {
+   "id": "194a4aa442301c3c",
+   "title": "카카오노조, 인적분할 제동 본격화…“소규모합병 반대 운동 돌입”",
+   "outlet": "hani.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iUFMyZ0xka0FUVzdVeENPZldMXzh3SzF3dDlINzFiRkgxM1dhZW5mTGZRWm1ndkFtNS1YeDlGOEdCbDZzeUlaSWRKREhHR05YajVFQnlwNVlTbHp5T1h2Tg?oc=5",
+   "publishedAt": "2026-09-11T13:48:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T14:50:41+09:00"
+  },
+  {
+   "id": "afc15961c5504c74",
+   "title": "카카오노조, 인적분할 반대 행동 본격화…소규모합병 반대 촉구",
+   "outlet": "청년일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzcjQ2Wloxa0laak9aSmFEQXBOaU9YYkxia1hrOHlKNGZYVDltaDBPM2k4RkVIa1VRRmVITU8tUlA5aG1LUjlZLUJNbE54SFpxUEZhV2hVZ042X3A4VW5WOURxVWVIemZRdkE?oc=5",
+   "publishedAt": "2026-09-11T13:44:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T14:50:41+09:00"
+  },
+  {
+   "id": "49f6a5687b90860d",
+   "title": "카카오 노조, 인적 분할에 반발…\"소액주주도 반대 동참해 달라\"",
+   "outlet": "news.nate.com",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95dlpoeEZzRGUzaDFBX2dmX2ppOW9UV2ZaNFNVdE1WWW9FWW9xcG1rYTlkSDQ1X1VfT1VpUTFPYmgzeWhURHZvOWU0c2FlS2FUdkdB?oc=5",
+   "publishedAt": "2026-09-11T11:46:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T14:50:41+09:00"
   }
  ]
 };
