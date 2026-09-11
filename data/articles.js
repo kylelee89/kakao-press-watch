@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T14:08:34+09:00",
- "runCount": 1147,
+ "generatedAt": "2026-09-11T14:18:51+09:00",
+ "runCount": 1148,
  "price": {
-  "price": "34,500",
-  "pct": "-1.15",
-  "at": "2026-09-11T14:08:34+09:00"
+  "price": "34,550",
+  "pct": "-1.00",
+  "at": "2026-09-11T14:18:51+09:00"
  },
  "articles": [
   {
@@ -28243,6 +28243,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T13:47:59+09:00"
+  },
+  {
+   "id": "5176dbccf0b09f38",
+   "title": "카카오 노조, 인적분할 반대...“고용안정·주주가치 대책 부족”",
+   "outlet": "ppss.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwMUxKN3IxNWllaTRZUFo4MHlsSlVUZktpMjhDMGRDNV9mWnFJWGJGQW4zVlp5empGOGNWeHpwR3Y1cHVaZmpydU85OE5KLTJoejRDZktSRVFjdHRMNXFvdlVRMjI?oc=5",
+   "publishedAt": "2026-09-11T12:00:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T14:18:51+09:00"
   }
  ]
 };
