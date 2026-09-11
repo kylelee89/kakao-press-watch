@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T14:22:07+09:00",
- "runCount": 1154,
+ "generatedAt": "2026-09-11T14:32:33+09:00",
+ "runCount": 1155,
  "price": {
   "price": "34,450",
   "pct": "-1.29",
-  "at": "2026-09-11T14:22:09+09:00"
+  "at": "2026-09-11T14:32:34+09:00"
  },
  "articles": [
   {
@@ -28451,6 +28451,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-11T14:22:07+09:00"
+  },
+  {
+   "id": "c1ed56995b508aa5",
+   "title": "여러 게임을 비교할 때 펼쳐둘 사이판 카지노 후기 정보",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODJOY0VNckMyZFl2NXVQZlVWMEpxcEQyYXRGcU5yTHVqS05sUkg4TWNrVzFhZm5WeHJLYjRiX0ljWE1iRlAwS00tXzlBNUZxMnNodHpIckg2Tng1WmpTRURBMTh3RHdDWmtBaFgxZDFYb1lRblhhWU5Fa1g5WEVmQllzc0o2cGxTa1dFRXdMNlo0RWtlVFAyeGI4Zi1YYXh1SWlmVW5wcUxfVG55amlqeGxB?oc=5",
+   "publishedAt": "2026-09-11T07:13:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-11T14:32:33+09:00"
   }
  ]
 };
