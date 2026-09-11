@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T10:48:21+09:00",
- "runCount": 1134,
+ "generatedAt": "2026-09-11T10:58:45+09:00",
+ "runCount": 1135,
  "price": {
-  "price": "34,650",
-  "pct": "-0.72",
-  "at": "2026-09-11T10:48:22+09:00"
+  "price": "34,550",
+  "pct": "-1.00",
+  "at": "2026-09-11T10:58:47+09:00"
  },
  "articles": [
   {
@@ -27858,6 +27858,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T10:48:21+09:00"
+  },
+  {
+   "id": "5f4f2c1df70d22be",
+   "title": "카카오 노조 '기업분할' 반대 움직임 본격화, 소액주주와 연대 타진",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xX3NaRlNncnc4R2ZfMGx6ZTk1UXVsSXJhRHdZdi1DYlJQVFNJLXRXTEJack1XNlVpRDVyelh2QXpVaklKOUwyVUlUeEVNSktQcDE5V2JIeXdhSV8tZlVxZTB4STR5amVub2RtTGt2a1lmNUU?oc=5",
+   "publishedAt": "2026-09-11T10:46:13+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-11T10:58:45+09:00"
   }
  ]
 };
