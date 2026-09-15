@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T15:30:46+09:00",
- "runCount": 1202,
+ "generatedAt": "2026-09-15T15:41:06+09:00",
+ "runCount": 1203,
  "price": {
   "price": "34,500",
   "pct": "-0.43",
-  "at": "2026-09-15T15:30:46+09:00"
+  "at": "2026-09-15T15:41:07+09:00"
  },
  "articles": [
   {
@@ -30157,6 +30157,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-15T13:54:44+09:00"
+  },
+  {
+   "id": "daa3c945dd7b98d3",
+   "title": "여러 기능이 함께 나올 때 읽는 피망 포커 쿠폰 작동 순서",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZklPNEhOZDJ4NkhNSndQMjhBRElocFB4UFctbTB3aE00ZkVKQ1pDdkxrSGlnaktLU2hreXhsMG9jYVgyZ256WlhrbVNwLUc4R19DU3YyQ1BEcHNvZkFlRjNXZ0M4bS1ISjd1TXZybEVGYmwyZHF1Rk5zSXBVTHdSMldiNkcxTEFyazZpal9jNk9PdF9QX3pGcGZfaFNXN1kwNlBDM0lXWjBXSjI3d1VjUk5IaFRlYzl1T2daMTJ4WlpFRU81RzljTkdVaFg1THc0QjRaZk5BdE5tUE54RHlSb3NsM1l5dzQ?oc=5",
+   "publishedAt": "2026-09-15T08:03:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T15:41:06+09:00"
   }
  ]
 };
