@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T15:41:06+09:00",
- "runCount": 1203,
+ "generatedAt": "2026-09-15T15:51:32+09:00",
+ "runCount": 1204,
  "price": {
   "price": "34,500",
   "pct": "-0.43",
-  "at": "2026-09-15T15:41:07+09:00"
+  "at": "2026-09-15T15:51:33+09:00"
  },
  "articles": [
   {
@@ -30178,6 +30178,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-15T15:41:06+09:00"
+  },
+  {
+   "id": "a599abec40a5e712",
+   "title": "PC에서 소리와 화면을 조절하는 에볼루션 게이밍 주식 환경 안내",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDUzZ1pjOTdCNm5xRExXdlZEQkZKVlNNa3AtWnBfb2ljSG5DWjB0X0U1MS1JbjFWc2RoNVJJMGdTYTRWbUlXajlkODhTdnBDRGRST3ItYWRfLVNTUUxHUEZpNE5NZThFcE5xUllnV0NWb2pON1JPb2VkNk1wT1h5TjVYcUdQRnZJR2NIUjhPRG1NOWdxQk4wZ1N1NVdraksySEZFeXhVQ284cGZzUXBMQWpVRQ?oc=5",
+   "publishedAt": "2026-09-15T11:45:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T15:51:32+09:00"
   }
  ]
 };
