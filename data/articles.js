@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T13:12:12+09:00",
- "runCount": 1190,
+ "generatedAt": "2026-09-15T13:23:34+09:00",
+ "runCount": 1191,
  "price": {
-  "price": "34,750",
-  "pct": "+0.29",
-  "at": "2026-09-15T13:12:13+09:00"
+  "price": "34,600",
+  "pct": "-0.14",
+  "at": "2026-09-15T13:23:34+09:00"
  },
  "articles": [
   {
@@ -30082,6 +30082,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-15T11:57:40+09:00"
+  },
+  {
+   "id": "6590f79849192f84",
+   "title": "실시간 블랙잭 에 대한 2026년 전망: 어디로 향하고 있는가",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUdHckdOS2NidVlGemJzOENjZ2U2WEp4YlF5ZWd6aklNcWdWNWVncWIzNG9hSnRwYmRMUFNuRkNnbFVmSjBELXNDelJuXzc3S0l4M2F4RmJPX2lOdG5qekkzMHE1ZzF5SzRoNHB1UGZNc2F2T2h0aFljRmZKUDFHZmhzX1dQT2hSY0FXTXZNcDY1TEVaY3U1Mkt4aU45YTZlOXBHSS1HSFI?oc=5",
+   "publishedAt": "2026-09-15T07:34:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T13:23:34+09:00"
   }
  ]
 };
