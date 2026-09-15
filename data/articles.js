@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-11T17:32:37+09:00",
- "runCount": 1172,
+ "generatedAt": "2026-09-15T10:11:06+09:00",
+ "runCount": 1173,
  "price": {
-  "price": "34,500",
-  "pct": "-1.15",
-  "at": "2026-09-11T17:32:38+09:00"
+  "price": "34,550",
+  "pct": "-0.29",
+  "at": "2026-09-15T10:11:16+09:00"
  },
  "articles": [
   {
@@ -28809,6 +28809,1193 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-11T17:32:37+09:00"
+  },
+  {
+   "id": "eeae3b8e6610151e",
+   "title": "카카오 인적분할 가시밭길… 주가폭락에, 개미 반발 거세",
+   "outlet": "it.chosun.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11aVNXMFhJeGZZUTNPdmFCamJMN1BHWkl4R3puOWpacnlrb0lrdkRsbzJVbGgyY3dNYWd2TlluVlYyTzk3MVRrNUM0WEZuQmVjVnZqdDdYV1BuZjVaN1g4eU1SY3d6a1NuaVRDN1k0S1o0NnRR0gF0QVVfeXFMTXVpU1cwWEl4ZllRM092YUJqYkw3UEdaSXhHem45alpyeWtvSWt2RGxvMlVsaDJjd01hZ3ZOWW5WVjJPOTcxVGs1QzRYRm5CZWNWdmp0N1hXUG5mNVo3WDh5TVJjd3prU25pVEM3WTRLWjQ2dFE?oc=5",
+   "publishedAt": "2026-09-15T07:10:00+09:00",
+   "tone": "우려",
+   "toneScore": -8.2,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:폭락",
+    "적대어:가시밭",
+    "적대어:반발",
+    "적대어:개미"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "폭락",
+     "가시밭",
+     "반발",
+     "개미"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "eb31332108756cf1",
+   "title": "카카오, 인적분할 앞두고 노조·소액주주 거센 ‘반발’…“노동조건·주주가치 환원 대책 밝혀라”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEX0N5c2dsakxlbmhxcUZ5TTdzVm5nc2xFd0lwWVduejdCQ2JCdlpMTGpUa09ILTlCY21UTXFrdGpqOUhDY0Zwak5mWnc2UUZjcG1EdUlNam9udi1HR3QtcHZUdjQ3VFVI?oc=5",
+   "publishedAt": "2026-09-15T07:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "48774e102a135d6a",
+   "title": "[공시학개론] 호재로 불리던 인적분할...카카오 사태서 악재인 이유는?",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxLS1SN3A3M3RrV1lIQ3A2cGxJSXFiQ0ZrVWprbU5sX3ZPa0xtT3l1WkdfYjFEb2RuWVA1VlFIeFBPVWJCZXdFZURvMlB3ZzlDNllBTkk1UjHSAVhBVV95cUxQMS0tUjdwNzN0a1dZSENwNnBsSUlxYkNGa1Vqa21ObF92T2tMbU95dVpHX2IxRG9kbllQNVZRSHhQT1ViQmV3RWVEbzJQd2c5QzZZQU5JNVIx?oc=5",
+   "publishedAt": "2026-09-14T16:47:48+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:악재인 이유는?",
+    "적대어:악재",
+    "호재어:호재"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "호재"
+    ],
+    "neg": [
+     "악재인 이유는?",
+     "악재"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "28ff5e6d3c86361f",
+   "title": "카카오 인적분할 '소액주주 표심' 놓고 맞붙는다…회사도 노조도 여론전",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3WjlsWkdBbXZDMlhtUDg3ZDJzRUNUb0FSR05ZMEVONEN3Nkp3NGc3V21WV3pSOW1NbXcta2xUZHMxYy15ZlJKV253VHJJU1E?oc=5",
+   "publishedAt": "2026-09-14T17:08:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "75332639867764cd",
+   "title": "반대 지분 20%땐 차질…카카오 인적분할 분수령",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpb0NIS2ZXM01iWi1KUFFNR0xyM0tjclVpaWtjQWpxVjdiVVhrRFRSOGFiS2hGM3g2cVVCbnE5SC04Um1OcHpVOU5WYXlBeWJrM1HSAVNBVV95cUxQSGxhTTFUMXNPc2c0OUxBaWptMVppcm5wQ2FsT1N3SkFKTnZLTEx4b1ZyMjdnbVdXRkdqVUZpSnJLdmhnaGd3cFRDRy01dElKT3lSUQ?oc=5",
+   "publishedAt": "2026-09-14T18:09:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "510a9fc07deb8e90",
+   "title": "카카오 분할, 소액주주가 첫 시험대…노조 '20% 반대' 결집",
+   "outlet": "PRESS9",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UQlM0LWNCd2habGp2dDdFbXNRbmdDRjRXUDJuYVF3WVgwcWtTeGxJaGRnVVB1Tm1TTnVvTVphTnB4TFNXQVNoWmRub3BhQ04zSVp3YmVTZ3RaaXJDNUFNeERQODE?oc=5",
+   "publishedAt": "2026-09-14T18:12:09+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "844681e35a488e41",
+   "title": "인적분할 놓고 카카오 노사, 소액주주 20% 표심 확보 경쟁",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EUzFOdjQxTGhGSDQxZmloNU1kcjJHdHctVmhiaklFZE9JVm0zWG50UHJSeGJ5QmxnczBwSG9JTW10OV91NE1QZXoydUxFR3hlLURZLUVaY1FfOFM2?oc=5",
+   "publishedAt": "2026-09-14T14:13:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "56c6e19f26d8befa",
+   "title": "카카오 인적분할, `주주 설득전`으로 가나 [IT클로즈업]",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43X1hTc01jeXBZNGJUeEFKNURGTXJ3RElsMjYzRkI2dnpzX0EyRks2VG0xRFlrd3BfV0pDUEgwUExVVmltbzJ4cmppSUZaVnFoV2JzMlUzQV9QeWpUVXcxSHR0ZTQ?oc=5",
+   "publishedAt": "2026-09-11T19:16:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "051e0f1972103375",
+   "title": "카카오, 인적분할 ‘초읽기’…주주·노조 달래기 과제",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNUEtMRzRKMkhoNzhDU3BpS0o4MHdaVlVyNzJZWlVTcWxXWkh4M1JkOEVETW10Z0JWSW4wcXBhdVhvMmcxd1g1WHZTR1BJZl8wcnV0YkR2cTRuUXZYRHdLdW5EVTZwRFZp0gFoQVVfeXFMUE1QS0xHNEoySGg3OENTcGlLSjgwd1pWVXI3MllaVVNxbFdaSHgzUmQ4RURNbXRnQlZJbjBxcGF1WG8yZzF3WDVYdlNHUElmXzBydXRiRHZxNG5RdlhEd0t1bkRVNnBEVmk?oc=5",
+   "publishedAt": "2026-09-13T13:03:43+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:과제"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "9c1bb63f685fef90",
+   "title": "[DD 주간브리핑] 카카오 16일 `인적분할` 주주 설명회…30돌 맞은 `도쿄게임쇼` 17일 개막",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RbjFJVzNhcXFUQnpiby1mZG1PNDZtVEk0OTNONkZiUkZhc1lwMWJMejcyOUZNcFA0WUE3cm42djRxRDJ4S1E3Q3BDRkRaNURHb2tJQ2tRalR2ZjdFX0s1ZGhzcGE?oc=5",
+   "publishedAt": "2026-09-13T10:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "0f78a37faba2f178",
+   "title": "게임 규칙에서 숫자가 중요한 부분을 찾는 해외 스포츠사이트",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcTk3ZWx0UF9tbE9JOWh6TFljYU9iWDMyZ050dEZQYU81VklibWNpc2s3M0ItajlZdXpYS3kxWS1sSTlrOU9fd0R6TF8zT29ON3BTR1didDFvM3ZDeEI0ZkNtVGxFYi1JaHpiRWZ6V0dqREoyTk10eW1Kakt5ZFJzYlQwRnJwa3gwX29FX3d6V2VRNi1Fbmc?oc=5",
+   "publishedAt": "2026-09-13T04:31:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "53a73c1fdcb8b5b6",
+   "title": "카지노 2 7 회 : 고급 전략과 기술 - 최신 트렌드",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMTNkSzZBY2hWNWZ5Z28xOWNHQWlNT3FzWVJheklONy01NzR4SS1mY19LdE50bl9UeGxSOXJiQW50U0Nfa1BTbEFlYjE0bUphMm12aGpwQS12NC11alFWRVlhUXhXeEVFYWthRTFOVHlKemRXM3E1SUVYNzBlSlUwX3JTLWVGeGtBVFpzNDNtSHBxaGxxRUFpQ24xVHZ2THNqUG1yb2NrSk9PczlOdWtvQWV4ZjNaZHhLVnVoRTd1TnJyWjJMQzhIUm9Za25hMUQ2TVFQaVF3Ykg4b1V6OUo2ZTFkMnQyZGhrYi1tMFN4dnhFdTJwUnFiX3lULU1CY2F5NXIwQU9wMWRfV1lTaGQzdFUxWHVTQQ?oc=5",
+   "publishedAt": "2026-09-14T02:47:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "1a87626d3a2b945a",
+   "title": "스포츠 토토 커뮤니티 원 벳원 투자 재테크로 보는 권위 있는 해석: 기초, 심화 및 마스터",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ1ZpSWFZYUZsZFhtd2hZLUVUVU41d1RSM1pCN2JFSVBaczdiQTZ3aEhCd2JMUlpBYjA4UVY3UEZfNFdvaU9MWk1ZZWFZQXVYbGozVVlwLVZVcWNMMzE2bGtRem1IaEUzS282LThxd01rLWRNeGZGM2oyUHBYT2ozSzNTN2w2dVkzdW1RU0MwUnJNSjQtcXFib0VsRkI2UzdTZXBwc2hlYTgwUWhFVGo1SXA0ZE8zbEp1WXdxVGhDWGVlRExTSWM5Yy1rUWZ0WVp5UlE4eWpnUQ?oc=5",
+   "publishedAt": "2026-09-12T15:08:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "59239f3caaa37099",
+   "title": "또 회사를 나누는 카카오…'쪼개기 상장' 상흔 지울 수 있나",
+   "outlet": "팝콘뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FWVJydkNpQWhtV210TXczZnRjX2V5ckM4QnUzZ19SbHpXb19HRFFCcWR5aDZ4N2dmRGhqVFRMdEk5LThzWXB4YmRfZUlEeXYwOVUwbW9GX19fODl6RnA0WnJZejJ3MzY5WFFfY3BB0gFyQVVfeXFMTmFaaWJvb3k4Q3FfU1FSNS10MTliRld2dllNcVcwSzZxYzgxcks5Sm5LUkxhOENUdFZmdDQzVVlWUGplMDVydjZFOTMwVjR1SklibDRsSWJZWDdIMEpBc2dHMlhiMWlMSHNPcUt2LUlHZ1V3?oc=5",
+   "publishedAt": "2026-09-14T11:21:17+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:쪼개기 상장"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "쪼개기 상장"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "1146901be313c765",
+   "title": "카카오 인적분할에 반기...노조 \"노동자·주주 먼저 설득해야\"",
+   "outlet": "논객닷컴",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zS0tQSHA4cEEtdjRPZDF5LVRNakFWRnpjNFZwR3Ftc2J2NFNjMV9SMkFoNHhoaXNwcGNmeE1FY0xOdG0xblFON3lTaER4ODNaRnlKX25lSjNPV05aaUNsRUlvVVBoU0k?oc=5",
+   "publishedAt": "2026-09-11T16:20:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "3f73ad9c09884ab3",
+   "title": "전체 화면에서 메뉴가 숨겨지나요? 스포츠 토토 판매점 커뮤니티",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEtCZHV3R1htVHpCeHF2VFQwWjdpLTJIRTJmalFONkVnV2lQUWxqSjRWY3V6ZWZHTk5GOFVUcTRpZ3I4YXBiYVNDalBpcUo5Rms0aEUxQ3FJOUhaWTdDeWxwOWJ3VVZ4eXlyUFhmZnNhWnJlbVg1M1ZsZnFsRjJEX1lVcFBNbS1FV1Zlbjdocm11Z21HQk5QTWh1NzRYTWhBSWMxZUI0YVFndw?oc=5",
+   "publishedAt": "2026-09-13T07:09:32+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "3c5db035a33d3337",
+   "title": "보너스 구매와 자연 진입 조건, 룬 슬롯 해금 규칙 비교",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGFITUlfQXZaYldEM0xKajZKZjZaZnUtV3BOaVJyU05yYWdvSVdSZjkwT3A1SHdBTzl4N0VPOXB4OWlvRUJXVmJSOXo5em51dlp3RTVXNVJFdklDMExzRE4zSlpRbURWWW1GNTBuNGRvQzA2U2pkS0oxYk1IY09nOEVaS1VrWkF3WWUtR2tpZmZsLUZSSmZweTl1dDN1QjNsYWFaOXhzR3c2RzJVVTln?oc=5",
+   "publishedAt": "2026-09-12T10:26:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "c9bda47453aee8d7",
+   "title": "카카오노조, 인적분할 반대 행동 본격화…“소액주주들과 공동대응 검토”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzRXRpWXFOQmhCWkRNQjZlbkRmYTdGUkdLbDBPcUNGcWJ0czN6SEQ2OFl2TVA3QVgyQkVORlBRTG9pd3Z2cWdyQUEzT3JsandrOWhfQnN1azlMNWg3LUgxbXFjVFBZZw?oc=5",
+   "publishedAt": "2026-09-11T09:41:12+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "05f10ae128cca34f",
+   "title": "mvp 토토 가입 코드 안내 문구와 경고 문구의 의미",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTVPWURwSERCRmJoM2FDNW8zYkgwYnpOdll6dzdjclFhZWFudUJPc2gtVHhERkxjQXNZNC04RmZseG1LZy10VFZwOFFyNnktNWRnek9yMVBXemhKR2JRYnZJcXAyMlhpQmhtaHdmaFNNZlExUl9RTm5PdWc3V2xjcA?oc=5",
+   "publishedAt": "2026-09-12T16:00:24+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:경고"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "경고"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "3a71185e10e08156",
+   "title": "사용자 선택이 가능한 항목은? 카지노 박왕열 옵션 문답",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMmRWcWU3MDV5Tm50UGhDaFNwNWFwdHdRMHNaa2lETjhnd2E4UHY1ZDBOcXNoR2RKLXZLRGdTZ09LWjRUR0xlTURoZ2lSUWpFQS1pNVVHcTBVX1N4TTk3OGxkV3lLdWhtRzdXYTdwUVdlRzNXeXlRZ2dxRjR0NW0tUTFRZXFVbTdRaWtrR1JLcWJzeFp2TXFhaDk5cF9ReTAxeUlwZVBKTkpiemFFVTRyN2R2V1o4R20tdkoySjlmbHNTcDFKMm42bDVKeXFOV1BxaEtXOEZQWl9hcmhRY25GbDZyMEtmVXJkUGVSX1VYLVk2TnNXMVZVd0ZiTXlQWWxZTmNfT2pLMWNlRDM3NHhzczBvX0JFRUhwWjdaRkdzQWVSYjg?oc=5",
+   "publishedAt": "2026-09-13T08:43:41+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "833bb942fb7bd3a9",
+   "title": "서승욱 카카오 지회장, 인적분할 반대…”노동자·주주 권리 보호 대책 없어” : 알파경제TV",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HTFFNbkRvNHZZUnYtSUpkM0Y3QXZCX1JvcjdaR29SbnFSb1VPSHRXSURyeWRZeUpTOFVvSHpiSll4bm1jcE1VMWRIS0Y5QndLVDJleVVaVE5oeS1GWVBzeGhOaGJoSUxfTHdnNVpR?oc=5",
+   "publishedAt": "2026-09-11T16:52:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "8667bae1857382df",
+   "title": "카카오 노조, 인적분할 제동 \"주주 20% 반대표 모은다\"",
+   "outlet": "메디컬투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBobk1MMlVhelJPRTY4ZUFjSDRnWklOTEtEdVMxenFiQTlQVmNFSmt4SzRSbURjX3ZkRW1wQjZQckhienN4Q3VEc2JrOEVXSnpwTGRJQ2U4LXhpRFJHdzdmY2hTYmJnQTdUZ3hBMA?oc=5",
+   "publishedAt": "2026-09-11T17:53:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "c4b6e198d60d389f",
+   "title": "카카오 노조 인적 분할 반대 목소리 높여",
+   "outlet": "세이프머니",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2RzZWOGtRekV4cFNXR285c2lrZjlveG5ENDhla1Y3eXhjeVF0MmkyNGxoVkZFN0pyTnNoUTBUUVZWaUxwMnRaMEJIX2dUeHBJaVp4NHZIcXdHWVFWMm9tYmtrcHhuSTBZUWR0R2tB?oc=5",
+   "publishedAt": "2026-09-11T19:33:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "2310af6273af25c3",
+   "title": "화면에서 찾기 어려운 정보를 모은 슬롯나라 로그인 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSlJ6R1dRNWNHYU1YQ2lydjl4ZzlQUDVUbWpuVGxYTGU5cDJfTFFMTVNET2VPZFBXN21Hc2RxeXFmcHEtUjFrMUluc2VrUU9ycHFyU2xrcmw5U01rZ0VDa1RTNWFueEk0VC03ZmRSTXdJUUp3ZktwTnRkeEllUXRCNVZaWGlPbDlIUDUtMWZJTzhIMXlCb2RBRU5MMmFBbjEwSkF2N01nVWhjTGFRS0lPSXRPRXppMkg2dmhVUU9wTUNqakoxUTQ2SlRkUkZ4aHY4bXlv?oc=5",
+   "publishedAt": "2026-09-12T23:47:19+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:어려"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "어려"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "a1efa46adcf20c4e",
+   "title": "한 번의 입력이 적용되는 범위, 미니버기xl 블랙잭 조작 해설",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa29iMHNGQlNKTEV6bEdXbWdJN2dERHlHbG1kMUdvbE9aWHBhN2ZLdFRWSkFQcjdYNnptSjR1VDJFd3FKXy1kSWgxVTFuRGhmbjBVX2ozbDBhMGx1VjZIbElTQldEUm9UcWpKcVJ5dm5BZ0ZWMmFOVWtKLXBiNnhZeHJFMHc4aTdmMFFtamN0amNuamVSV3ExSTBLd1FYYjZNQ0hQZHMzYmV0UnIxMDRDeU5PRHFDVjVL?oc=5",
+   "publishedAt": "2026-09-12T23:08:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "0f00ca1f5a6ab23a",
+   "title": "영문 버튼이 낯선 분을 위한 구글 카지노 광고 조작 번역",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWkFrUXBMT1E3LVBYNUhpOThiaTRESUxxbUdKajFMajdGcS1VamU2M3V0MnNBTEpfQ1pIUC1rWGpSSkZCS2l3MHFuWnF5M29Yc1VWVmJuZ08xVHl2bDRad1BQOFlzWGhyXy1FUDBkb2lyLW96MnR2RTRkbjRhVU1MbXZCM3E3anp1MHN6WldBemdKNDZ6M3l1WmcwTEIyd0k4VFJKODBBQkcwdndnNGxBQ2RReFNBRGxqOTBjbm0ybWxMM28xOFpWZzZuQ0VUMlFlNkE3MHpZU0NjNXZOQ3NLNGZ4VDlUc2xCbXZXd3N5bTdVdlFaajN6b1hxRQ?oc=5",
+   "publishedAt": "2026-09-12T16:07:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "01a89aebe531b0be",
+   "title": "블랙잭 게임룰 기본 조작에 필요한 버튼",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkNvWkpSQUYySmlWYVNIbnRGcTBYWjlIbEFtWHlyemlaOHdfLUM1cDRnZ0ljRW8tbk1fR2xiWENadzBlNWdqU0hTcFJWcnZTOUltalpQLUNraTVWWjZMWnBmcy1zcF94M0I0elo1X2twdzNjMzdsZnlJdzc4YUZrOFNYLURpbVd0ZG1aSndvRmlnYTg0eS02WjhnRDE1b0VqS3FHTXBIbEZYQk9SQk9oNGdDdVptRDNNeHl6MVFYaTRaazVN?oc=5",
+   "publishedAt": "2026-09-12T05:47:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "007208b124ea06cd",
+   "title": "이용 제한을 설정할 수 있는지 확인하는 사설 토토 중독 놀이터 벳",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3JOdFo0b0xFM1F4SWlWYzA5UXNVaXRsd2Q2ZDNPdk5oZUtQeXROd3NYNXZEcmh3N0U5eFdFQjNJWVZtS3pUb2hQeXhySk1TbVlkd05icVo0TkhYcEtZZHFHTzRWTHFIM29KcFY5cm9NNDd0RXc2VlFpY1FLNDlncVYtMl9RMzlzekJVWENIZmJMLXp2VS1PdUJZNlBzWGFDYXVDM092azFEXzF2amJ4LUY5dGl1TDlpbnFKWXlR?oc=5",
+   "publishedAt": "2026-09-12T04:38:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "aeb00b2d9203f8a9",
+   "title": "물음표 토토 도메인 게임 정보에서 확인할 제작사 표기",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS21xT0V6alFfZzdSLW5XWmt2R3pOVnMxekczT0dYZmotRnpLQkl5MXlsMzB0UV82MVNRLVFlNFRGNmNWMG5DZzQzano0TUxOdlFSN3NmX1RSOHAzYVJZRzctSm1rOEN6X2xaMVl3TFlFai1GZVhVbDhPX0Y1eWFRWDZJVQ?oc=5",
+   "publishedAt": "2026-09-12T21:34:02+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:물음표"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "물음표"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "bc2c38eebeb91e50",
+   "title": "라이브 블랙 잭 베스트 온라인 카지노 이용 시간 알림 기능 확인",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUGhyMW9ianl3WkFKLVNWVU40eGpPZzYtMHFwYTRDRW5aMWU1WXoxbmswUnFJeDRzSWVINkpsa0xxMV9TS0lTSy1hNnRNWDJhVlR5bzF1MnlaMTVNSDAtZXlQVFFlblgxUVhKSTBBamNVQjd6VDdGU0hxWDYxaWk0RGd6blhvV0EwN1VhWVZvNHBGS1ZGYzdMLU10dXBtRHYzWmJwSzZkZkZMeEZqUlBiNXpnWUdMWG95cGpNTDZsXzRmaDdCV2NwYnhJbGlad2t1clJv?oc=5",
+   "publishedAt": "2026-09-13T07:09:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "33dd6d9b579771d0",
+   "title": "규칙을 한 항목씩 찾아 읽는 바카라 성공기 도움말 활용",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0h4RTJYUTVDZ25JTlJsRlZOcGhDWkY0M2w0VWRlQmxPUWwtLVExZTdGUzA3SXFqRjNjU1RieWZQTjc3UWlkUXQwNHlMQ2xOV0U2YVY1UVA3YlVITjNaTzF2dWFtZFlLWmdLLXZGS1V2MXhITE55WDBnWERwVEg3S1FpamtZUHROQlctRHNTdjluTXNmNGxPRkROblhibFpkQTh2cXphdnhPWC0xRENLb2hHXzl0djBpNk9IQg?oc=5",
+   "publishedAt": "2026-09-14T01:02:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "2c267d49ca0c8ec9",
+   "title": "PC에서 창 크기를 바꿀 때 보는 카지노 분석법 화면 변화",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakdmV0thMzhJZmxCT0R1c2t4YUhGeklTcGp4ZmxhZXNHc2RldkNUeHlFam5tdkxicThWbDhaT1U5UWxFTFRGRWF2MU9Zb1lNb24xc003RTc5cEtyTE1MTEpYQnlHY1BKTWZOUV9nV2RLbWJEMjRhUTh1OElZVkFwcHBhWV92UTNZcUVqRWZrZGd4YU1oZmFRbFNZT0xnZw?oc=5",
+   "publishedAt": "2026-09-13T01:48:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "494820b89877e024",
+   "title": "여러 조건을 동시에 충족해야 하나요? 강원랜드 맛집",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zX09zeFhhMjJYQl90MGdRanVZU012T2hxSEprXzR2T19DUXhwdGh3a1NWUEZFazJuWHItRGg5QnpKN2Y1UjIzLTJacHAtRDJnVFhRQ2R1OGxUUUgyYi1mLUZuaDlMNGFFUVNBZ0JMY3YxUQ?oc=5",
+   "publishedAt": "2026-09-12T14:39:17+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "e76dd0de686be722",
+   "title": "처음 보는 기능은 설명부터, 한게임 고스톱 해상도",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlh0bmZsRzkzdVUyQ0ZHb2ZpcDFSQlRqOTNNMWp3ZXRQVnpMWHJZRERBdXp5TFNxY1h2Mll5M3k5bGl6VG9iTW1zTjdWTjkxRkRuRnRsNzdXNVFGajZhdFZWcHZjQl9Hckd3d2kybVczSGZPMnNyVUxJV0hyLTk5eHc1UUU5dkJtUUVpOWQ2VmZMb1RoMWpPMFRsZXJyb2s?oc=5",
+   "publishedAt": "2026-09-12T22:58:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "f2a531ed67191934",
+   "title": "조커 와일드 카지노 무료 플레이 제조업 분야 클라우드 컴퓨팅의 해독하기와 트렌드",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92eG9EaHRFVHdJTW5sZ0JfTjZGQWNuejJMZkwzSndleWJvNnNadmxWa0xMSHlWcmhXMUdMZHlXaFRORmt5a1ZFeU5KOHBkdmpUUmlTQnplMXMxa2xobkVPeUpnRVBBa0pXZDNYNlBEa2pzVjUyLVU4NjJjSWI?oc=5",
+   "publishedAt": "2026-09-12T18:30:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "3a6547c5517970e3",
+   "title": "확률 수치를 단기 결과로 읽으면 안 되는 이유, 무료 신용 슬롯 카지노 한국어",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOEV2cUR6WklNYnh4SHI3aUpMZHZjSUlGV0g0c0ZKdkU1QUFRLWx2YnptM2xnVDN6eTdGeWFZdmd2d25VR3JjLWVkd1djbGF5OVYtUjBwdGlFV2RrNnRDNnpLMG0xR1pQdHRGZWc2anZNZjFZalozQTRrTWUyeGFGM2ZB?oc=5",
+   "publishedAt": "2026-09-13T02:40:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "81e1f05e18c3e3ab",
+   "title": "파워볼사기 동행 디자이너를 위한 반응형 디자인 실전 핸드북",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZSHhzYUJXVjM5c2lfbU8yM1RMc2VOdDczU0l5X0VGX2U1S25oWXFWbmlKNF9rcHNLdHdtRDd3OTRxeUxTWUl6THplaW5Gd01SeDk1d0JLSXJLa3hTMVFUTDJpclVhdzhSb3hkUlMtX2dvX3FYMnFkU01R?oc=5",
+   "publishedAt": "2026-09-13T02:43:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "0c59a8781a4698ab",
+   "title": "블록 체인 네트워크 구현 기억 기술과 비밀 풀기: 분석, 평가 및 최적화",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMDB2YkI1MUtfX2NZVW1BTzVYZXF1dHltTTkzWThLOU1sQ2g5TWw3dG1XTnRJajVWbHgxbkhOSDF6MHd3YUZGbEVJR2R1SHN1S25KVXp1ZTBZZkJhVEdvczdWVmdjd0VRQlhkSE9PREFYSktkaFBLaVRqWDI0eGhMa1B3SGp2WkY1SDdoZlhoU0toMkRJc2ZVVjMtNXVVdmNnSjR0TVdNLUpzcm91LUFsR3pjelpvUTlFMGRDQXRIemFRYllzMUxDYnNOSjY0QnhYNmpYOHB2eUJfQQ?oc=5",
+   "publishedAt": "2026-09-13T06:08:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "c0fe24df3c05ea6e",
+   "title": "카카오 노조, 인적분할 본격 제동 \"소액주주 공동 대응 검토\"",
+   "outlet": "화이트페이퍼",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxRVZvMzV2NEFkS1hmaWd0c2ZVdldYV1BKMnNCblpmNDgyR0VJVUNlUUF5UDhpejEydnUwUDRzZHV5cTE0SXR4Q0ctR3hKQUZOU25zNlg1a01Ebmh1X2ZfMFJfVERUTXdSRnc4NFRWcw?oc=5",
+   "publishedAt": "2026-09-11T16:37:51+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "dabc51c426dc8003",
+   "title": "다음 단계가 무엇인지 알려주는 맥스윈 카지노 진행 표시",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHE0OUJIa0NZem1YaTVrM3I5alBWQ3Bna0gza0luckZIaEwtemxWbkFHLVkzdE1XM2w3M2djWER4cjhOMmlLNEpmY196YkVRLTFLRlBaUmtHQjE1VnBrVzdWRFBqV2thejhIR2NoY3NGTFpaUklOSmZGTm8wcnNxT3VCNElIQjhka29INDU5QnhUcWRObEhzUTltdEkxeHFxM08ydkJsakozZw?oc=5",
+   "publishedAt": "2026-09-11T14:33:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "ad5555a16f68cdb7",
+   "title": "릴 구성과 테마를 함께 비교하는 다이소 포커칩",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOb0xEV3lDeVBvQUxBTVdTYmFabFhMdXZGNDBnVVUxNFNGbEFaaDl0VHlmNEFMR3hFMmktb3NaQTUzVVRnR2M5bHRsbFc5NHpCYzRLV19NTWZxeUZCUjJWNW9HZVAtRzB0RklsSGlEM1J0ZnVqSUJlSmJ4anFaXzdqdUdtYlBRaXpfT1hJTnFPQkZEa0pNSk9RenREV2xfYUNObzVVRkkySVMxeTJBbkFzZlpVVFU2NXV5dU1qeDBXc0dWaUwzT3QxMmo2QTNkRkpISWx4WVhQSGRuaEJUc3dKcVhrZkdJYmdDcXVJN2tYTFlZS1htS3FHNGU1bnBBNS11YzZXMmhMOGFWR2FQWXJSdWFYc29OYnpGTmx4Qncta1pPRzlmNlZpeDNvN21iOFIxTzlUUHFOTl9TcVE?oc=5",
+   "publishedAt": "2026-09-12T18:32:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "b450d670f6b4d309",
+   "title": "“운동·AI구독료는 지원, 술은 NO”…카카오벤처스 템프서울 가보니 [팩플]",
+   "outlet": "중앙일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WRmItSUwzUUI3S3hkUWlESUxOcjlVRWxLTi1RTW5HbWI4T3NGeFNBZlgzTVdKT051aE5tUWhwUmVqbW5DYVVzYzhHVGxfRkM0X0N6Zk5n?oc=5",
+   "publishedAt": "2026-09-14T11:21:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "a69bb824af2b610a",
+   "title": "예스 카지노 쿠폰 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HOENzZnZVc1g5V1NTSTd3OHlPX3Z1cEl3Rm9lcDRuSk13ZHZpV0NVNFdWeVNxemIxcTJyMXh6aDUxTGNwZ0RCRy0wT2d1VkxFcHJreWlVWUM3bENjaVFZSDJSUUtyWHg5VDlJZFcyeDRQS3dObkxXa0tR?oc=5",
+   "publishedAt": "2026-09-12T18:06:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "5763d7ea647b15de",
+   "title": "etaxkorea",
+   "outlet": "조세금융신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01RzUtTllSUkhKM0wwX3phZEVGNXVGMm40NEtRVFRSWGNkempzbVV3eUs2aTVzYjJxMHdOekZkYW12ajJXSDFhNWJVc3RXOGJOTmVMZDk4U3lTS2RDZUxKNg?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "98ee9cc3b570854a",
+   "title": "카드 게임 포커 화면에 나타나는 배율 정보",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDBOMG41VGNUcEtVMF9EQjFJS3Y4Y1F5QWloOVdCNE1qRUZaMmNkcHJXQ2UtYUZoS1Uwbml0Rks3MDYteVdMVUQ4WVRZZENTeW1XQUJUbEppTExuU2ZyUHhKVGRBTktyTVI0X2hLRzcydnY3S1UtZXVQc1Q4RVlIUlpWcTRMM3k5UXMtc2J6czhPd2dhRDNQeTBB?oc=5",
+   "publishedAt": "2026-09-15T07:29:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "b093e364b0455002",
+   "title": "어떤 내용을 다루는 게임인지 궁금한 토토 판매점 커뮤니티",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZlQyWkhiQ01YNXRsOEM1QnkyQmNVWk03dTk4Z2RuWnpmRExiUEhJWVA4UVBZeFBFdWtBY0JFVDhCanZXdWs0Z3E2X3lRQi1fbGdyOW9TU2RmbnZPYzA3VWt2WW4tZWw5czVkSFQzY0J3TnBFZ3cwUjdFdVo1QThuTnZDeXRjejd5QjdRanFaQjZIbTBHSVFVUWcyREVfZGNtbzAzb0JDR3V1MDVua1ZKN0RreXI5M3BOUzE4LWhtYllDQnYwdVl5aUtYQlBtTXZfTnVnaGhZVGVUMlZONjg5UkxPU2pRVF9xdE1xZlRGN1A0SHlNVVF4djBFY196c0M3bWxXWGVhZDhIOEJiWFliczJ4VHRUUjlzNlBabWxUUmVGTTk2Tm50eUpWSlh1NXc?oc=5",
+   "publishedAt": "2026-09-13T03:51:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "04ae641f5656ecec",
+   "title": "릴 영역 밖에 표시되는 경마공원역 4호선 5번출구 부가 정보",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMTEtZTZKNnZzRHpzZEw3cm1qTlJFMnBCWUlTeFVJeWRHdV9aUUl0aWZQeU9DZG5hMFdSbEtENjRGWHl2UkJYclFFUnk3aTRUVTBEM19PTmdGeGFVQ04yckJaLWJYQXdVZDE4N21ENTlQZHR6UDkyRi1sWDN5Q2hUdHJib3dVREtYeVhVaVdVdjhkNVV0TUdWVVdDRFJoNG96N3NRS3ZKYW5YWUZIWU0xNlVLVVBRNkIxQkt2S2x4NUxFVzZ5SmNaZUNuOWgxQVZvR0M4Z00xZjU1Q1NjRXc?oc=5",
+   "publishedAt": "2026-09-14T05:00:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "470063b780ebccf6",
+   "title": "버튼이 많아 보일 때 필요한 다이소 랜덤 룰렛 조작 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTE0wYzVvZWZBb3FoVDBybnlqWXVQZFh5dHFIYS14ZlloWjVYbEt2TEV4WjA0X3RTdDlIY25hOU5EQk1fdXlDa1lIRzVXY1VEM2MtRi1MVEllUDlBUDBDRUd1eHQ0STR3UGYyeS01a2N2YnpYb3AxYk90cjlYaUtIRTBiVGZpR19QdDZmTy1sa0hyaEh1dWsyMVB4c3BuVlhRazd1TDRTcFY1aHBncU53LVV3?oc=5",
+   "publishedAt": "2026-09-14T06:06:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "1b963e8dcdbe831b",
+   "title": "시스템베팅 제조업 분야 클라우드 컴퓨팅의 해독하기와 트렌드",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3J1MlIzZ01XYTV5ME44QkhXb3RVYXJESG85ZW5rWHdZeW9QZHRjSXJtdmJVcXJyUTVmSVF3MEx5VnRnZHktNWo1LXc4bzVyYmtFRW1rSXY2Vmt3NjJBT09NNW9JMkI1eURGTHdrb1FMa3oyZ29FcG9ZSlFxbWFKQmNIYXpLVUh5UGpaRGsxdlJfelllOHZxUEZfV2xzYndQWGxZVVlRMDM?oc=5",
+   "publishedAt": "2026-09-11T19:12:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "6b795767e1ef532f",
+   "title": "록키 갭 무료 슬롯 플레이 화면 속 숫자는 무엇을 뜻할까?",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU0JXUUIzUHBsVUQ3QmhuRDQ5aVFOWUFNaGNtOTZiNnJxbkd5RENfOWlhWDN0LXRVSTcxaHFvVm1RMTV1LTIzd2MtWTdOenRZNWFfc21udGRtOGpxTFBnOFBtMGQwcXZHVlVXZ0VGZ2djcUlmYkVBS1F6NkF2QkN6X19IRl9yQl9pWFdrRU5yR3RxV0FqcDJLeGhSRUNRc0E3aFRsSzN4YVUwRDEtY3hFOWhpa0p0elBlanhkSEVFd0dQVmVJUms4SVlLb0hkZy1scmx5R050MjBYcm03RVY1Qy1LUkhwcmZPZHFTNU5UdWtPWDd3dWlFNEJR?oc=5",
+   "publishedAt": "2026-09-11T08:32:13+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "7b481ee8dcbfb229",
+   "title": "초보자가 이해하기 쉬운 파워볼 로또 판정 예시",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbHBOTmJyQm9KdVZtOWJlWkY0R0VfWk9rcE41eDI4d3Q0bDg4Um04cEllU3Bza0h0cDdNOVIwVVVQcVc3QXNZazJhVTJpWUluZm1NUEdVT0JuVmxwUXBIZEFBT0lhX1VtN2NJWUhmbGNIdW80UUt2TDZhSS1vTVBmU3J6U1Foc09ZeXBoZk1EMVE1WDVwZGpvUUFEUmFJVnBNR19obHljMjhPeHF5RWc?oc=5",
+   "publishedAt": "2026-09-11T19:38:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:11:06+09:00"
   }
  ]
 };
