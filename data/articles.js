@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T15:51:32+09:00",
- "runCount": 1204,
+ "generatedAt": "2026-09-15T16:01:53+09:00",
+ "runCount": 1205,
  "price": {
   "price": "34,500",
   "pct": "-0.43",
-  "at": "2026-09-15T15:51:33+09:00"
+  "at": "2026-09-15T16:01:54+09:00"
  },
  "articles": [
   {
@@ -30199,6 +30199,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-15T15:51:32+09:00"
+  },
+  {
+   "id": "8ac6cf33bfa237a1",
+   "title": "카카오, 16일 인적분할 첫 관문 앞두고 주주 설득전",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOT3pSbDNtNk9aR2dUYlI2VjhGejFHc1h2cGZpUVFLY2FLQ3ZHUzFBVTUySHUxNnJzTVdIY1NnTW9OZHJpVklmOHo5ek1CUWJlb1lkYmJSc0pNQdIBWEFVX3lxTE03clpwSmliLVdXRGR1TlY0d2FDdlFXRV94bTUzUUprbVhHZTRPWXlLalBhMkJib2t2U0pyOFJiLXV2ZTN4cGxxdWVuZ3FwaDBVUGI1RXMxdHU?oc=5",
+   "publishedAt": "2026-09-15T15:53:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T16:01:53+09:00"
   }
  ]
 };
