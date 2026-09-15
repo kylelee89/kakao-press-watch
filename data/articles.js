@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T17:16:53+09:00",
- "runCount": 1212,
+ "generatedAt": "2026-09-15T17:28:15+09:00",
+ "runCount": 1213,
  "price": {
-  "price": "34,500",
-  "pct": "-0.43",
-  "at": "2026-09-15T17:16:54+09:00"
+  "price": "34,450",
+  "pct": "-0.58",
+  "at": "2026-09-15T17:28:17+09:00"
  },
  "articles": [
   {
@@ -30251,6 +30251,48 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-15T16:55:58+09:00"
+  },
+  {
+   "id": "5b556eb8296a1f14",
+   "title": "입문자를 위한 카지노 이용법 메뉴와 규칙 연결",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNclJPdDBSdGdsVjRPVU0weTgyUjB1UnVzZ3VrRE9PV0h6WjkwWTdnS2hNemlLeEFJRWU4RUZmYWpvdUZMWWhGUGtGQk1XOS05a0ZkRnBMekdpR1Fra1Z2ZVliNlE0MVlINGh5OG1RMTU0QUJqODVVN05KQV9aSWhZb28xdkhETjR5Mlk4YlBzdzFVUXVoRHZPTTJpeDh1X01TaGVEc1FkUmRTTTFvbjBiNFBuNjRSN0U?oc=5",
+   "publishedAt": "2026-09-15T12:31:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T17:28:15+09:00"
+  },
+  {
+   "id": "0f33ac49d49940ec",
+   "title": "꽁 머니 카지노 3만 : 현황, 경향 및 미래 전망",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWZkbnFkQkVTUHNYTjgtdV9GbjdvYkVzaEttWlN2SFJRQmdRVmthaXp0LW9BSi0ybkpjRDBIR083c1UxUkhPajNvRzV4SXNiZng2S29BbDlKVWVBLTZqYzJobE1hVm82WHhNUEU2WVpxMUE1NVV4TWpldDJSNFkyMl9wa0c?oc=5",
+   "publishedAt": "2026-09-07T05:46:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T17:28:15+09:00"
   }
  ]
 };
