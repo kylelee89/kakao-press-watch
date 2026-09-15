@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T10:11:06+09:00",
- "runCount": 1173,
+ "generatedAt": "2026-09-15T10:23:26+09:00",
+ "runCount": 1174,
  "price": {
-  "price": "34,550",
-  "pct": "-0.29",
-  "at": "2026-09-15T10:11:16+09:00"
+  "price": "34,650",
+  "pct": "+0.00",
+  "at": "2026-09-15T10:23:27+09:00"
  },
  "articles": [
   {
@@ -29996,6 +29996,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-15T10:11:06+09:00"
+  },
+  {
+   "id": "b9d988a30e993517",
+   "title": "룰렛 배팅 : 실용적인 팁과 전략 - 스텝 바이 스텝 가이드",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oN3h6WmJ1alc4QUl4dEMzUkMydHRoV1BEQUkxMVYyOS1qSktvcmphMDdHX25TSHJ1bDRFM3gzUXA3bkprLVNXZkg0NkJGLTBLalhBbHFfRXBLNlVkUjgwWHBSbjZjR2JINVV6ZQ?oc=5",
+   "publishedAt": "2026-09-08T17:36:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T10:23:26+09:00"
   }
  ]
 };
