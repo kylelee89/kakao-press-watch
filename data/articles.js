@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T10:54:50+09:00",
- "runCount": 1177,
+ "generatedAt": "2026-09-15T11:05:29+09:00",
+ "runCount": 1178,
  "price": {
-  "price": "34,650",
-  "pct": "+0.00",
-  "at": "2026-09-15T10:54:52+09:00"
+  "price": "34,750",
+  "pct": "+0.29",
+  "at": "2026-09-15T11:05:31+09:00"
  },
  "articles": [
   {
@@ -30017,6 +30017,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-15T10:23:26+09:00"
+  },
+  {
+   "id": "d0dd41cfb855fbd1",
+   "title": "게임 구성을 풀어내는 슬롯 머신 일러스트 콘텐츠 안내",
+   "outlet": "actt.org.tt",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmVyWk5UUXJQZzk1U0VHbks5SG83MHlwbkEyR040c0lpcTNBeTNfWjJkRVpQeUZZVXE1VHJpbVVHVDlTOUxXdDZrSWI3ZEN4eEMxVHd5czI2R2M1NS1ObWJBankwdkx0WDBYVkx5R3BSX0ZtZnhIQ1BjejkwZDhfbmt5UFUwQXdsWWZ4d2FOVzdOZkVfMW5QWDJhOTFiczZHa1prdFFnVm13a0k?oc=5",
+   "publishedAt": "2026-09-14T22:04:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T11:05:29+09:00"
   }
  ]
 };
