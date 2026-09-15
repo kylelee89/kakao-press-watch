@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T11:47:17+09:00",
- "runCount": 1182,
+ "generatedAt": "2026-09-15T11:57:40+09:00",
+ "runCount": 1183,
  "price": {
-  "price": "34,750",
-  "pct": "+0.29",
-  "at": "2026-09-15T11:47:18+09:00"
+  "price": "34,700",
+  "pct": "+0.14",
+  "at": "2026-09-15T11:57:42+09:00"
  },
  "articles": [
   {
@@ -30038,6 +30038,50 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-15T11:05:29+09:00"
+  },
+  {
+   "id": "909c016808d4268f",
+   "title": "bet365 가입 : 고급 전략과 기술 - 최신 트렌드",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTjl2WlUza2EwVV9tRjJlVzVUQXZLbTVFOHR3ZG02dW5mNldRX0sweEZSMV96SlZhOTdtY0dRb2MzbmlOTGR0cGQ2Rm1BWG0yb1VrcTRFNDFaeTdNdlRwU2p3QlJPaG5rYmwxcHBZdnpJaHJ2X2VWZ2FLVmtCNnNoTDRMQnBFbE1WWHZ1OXFOaUlTWFNoXzlnUWk5SWhJc0dZNENURzZIZU40RmdUeU5CbUM1NjgyYU5WaWd1NkFCeU1FMlFwOEJleXA1TVhWbDdSTlVtSTM1Q0ZpM1FE?oc=5",
+   "publishedAt": "2026-09-15T07:06:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T11:57:40+09:00"
+  },
+  {
+   "id": "fbe7cddbb3d98b0d",
+   "title": "배당표 예시와 실제 조합을 구분하는 룸 카지노",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMXZfcHJlanREUlo0X2dFZHcwQTB1N2JZSHJrT1RvWHcxZng1ZGZ6dWQwanpKOEhlX2hhVDNEdjc4bXVVWnpTb3hmcm9MamJBRVhuLTltYjNoTmlqZ2ZyME55azBTcFBabnV0YmpvWU9xWXNJblRHVDhGTHA4bGc?oc=5",
+   "publishedAt": "2026-09-12T19:22:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-15T11:57:40+09:00"
   }
  ]
 };
