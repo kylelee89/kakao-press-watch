@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T16:44:36+09:00",
- "runCount": 1209,
+ "generatedAt": "2026-09-15T16:55:58+09:00",
+ "runCount": 1210,
  "price": {
   "price": "34,550",
   "pct": "-0.29",
-  "at": "2026-09-15T16:44:37+09:00"
+  "at": "2026-09-15T16:55:59+09:00"
  },
  "articles": [
   {
@@ -30222,6 +30222,35 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-15T16:01:53+09:00"
+  },
+  {
+   "id": "5b88ef773e61a181",
+   "title": "[카카오 분할] ⑤'소액주주 설득 과제' 합병 반대 20% 모일까?",
+   "outlet": "스마트투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ETFB3VDJVOUNaTk1aeTctcnlPdDBvZG4zUWdmRzJQLWoxZEpOdTVQNzI3amppQ2cwdXZ6Y1AtbW9WRGprblFhVTVEZE9LYVZMQjBuZHQ3LTVmLV9CRkV3?oc=5",
+   "publishedAt": "2026-09-15T16:44:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:일까",
+    "적대어:소액주주",
+    "적대어:과제"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "일까",
+     "소액주주",
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T16:55:58+09:00"
   }
  ]
 };
