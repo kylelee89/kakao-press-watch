@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T13:44:23+09:00",
- "runCount": 1193,
+ "generatedAt": "2026-09-15T13:54:44+09:00",
+ "runCount": 1194,
  "price": {
-  "price": "34,575",
-  "pct": "-0.22",
-  "at": "2026-09-15T13:44:23+09:00"
+  "price": "34,600",
+  "pct": "-0.14",
+  "at": "2026-09-15T13:54:44+09:00"
  },
  "articles": [
   {
@@ -30130,6 +30130,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-15T13:44:23+09:00"
+  },
+  {
+   "id": "e5ab3d0ec2fa4b7b",
+   "title": "카카오 인적분할 최대 변수 ’소액주주’…20% 반대가 뇌관 By EBN",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ocG1kSmZMZVhJZWtFZkczOXFaVXdkdkRTUHRSY0p4SERDeEtRcHQ0cFp6Z2w0ZGtYaktLTXYtcDJmUEpzaEkwZVBXdU9vSlIyQ3paLXZlOEFuQTE1U2NodFNsVDJrNXJSd294Mmh5M3U?oc=5",
+   "publishedAt": "2026-09-15T13:42:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-15T13:54:44+09:00"
   }
  ]
 };
