@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T18:46:01+09:00",
- "runCount": 1262,
+ "generatedAt": "2026-09-16T18:57:15+09:00",
+ "runCount": 1263,
  "price": {
   "price": "33,700",
   "pct": "-2.32",
-  "at": "2026-09-16T18:46:01+09:00"
+  "at": "2026-09-16T18:57:15+09:00"
  },
  "articles": [
   {
@@ -32000,6 +32000,85 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T18:46:01+09:00"
+  },
+  {
+   "id": "214113ecb0e24cdb",
+   "title": "소액주주 달래기 나선 카카오…“인적분할 후 기업가치 오를 것”",
+   "outlet": "g-enews.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMFB3eE9HMlUtYWV6aXlmMmpoWGFVUGVWbzByVjBPN19nM0tXU3Y2bnZRSy1jT2dYRU40MTFHRWIxdVRGUllQMXlLcmwtalhPOXZCRENIR1BiWXJiSnFJNmljQU1KU2taWlc4VFBGYlQ3QmtMT1NqeXdJYlBsN0U?oc=5",
+   "publishedAt": "2026-09-16T18:54:29+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:57:15+09:00"
+  },
+  {
+   "id": "ef1e7c92d8a1078a",
+   "title": "인적분할 앞둔 카카오, 주주 우려 해소 나섰다...'AI·카카오X' 성장성 강조",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LNVZFX1RjSGVWMXVneER5czd2Z2UyakNtSHVsRE5COHcwY1FONksyXzZOaGM5N3N3dFVqRlMyM00wM3JZOWZocDFtazFoVGN2aEdtTVRKZkZocEZNcHduX0thMXA1Z9IBakFVX3lxTFBINXlTTV91ZnhiTHBPemp6cDRlaXVLY3UzdGduN3BwbnUteEYyYmplal8tMTB1bDBnSzh4bW5aa2lxd2FtNVhoOE1NNHNiRDl2Z3hsQ0w1UmN0Y3R4ZTlOWWs2RjRNTG1LcFE?oc=5",
+   "publishedAt": "2026-09-16T18:29:23+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:57:15+09:00"
+  },
+  {
+   "id": "3101f6c817b5a529",
+   "title": "카카오, 인적분할 후 AI로 새 성장⋯2030년 매출 6조 목표",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJeVk0WV9jLTE0OEFVRHBzekN2ME1nVGxGakkyMmdsSy14Z015WF9fbTNMcTRxeTVubWJfVXRNaXB5bVh0U0R0djIxWmxmbmpkMDlJX0VrdWZoU3BvYnlmNE00Wkt6cFBlR2NRSE9B?oc=5",
+   "publishedAt": "2026-09-16T18:46:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:57:15+09:00"
   }
  ]
 };
