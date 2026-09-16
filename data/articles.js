@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T15:10:47+09:00",
- "runCount": 1242,
+ "generatedAt": "2026-09-16T15:22:06+09:00",
+ "runCount": 1243,
  "price": {
-  "price": "33,400",
-  "pct": "-3.19",
-  "at": "2026-09-16T15:10:48+09:00"
+  "price": "33,550",
+  "pct": "-2.75",
+  "at": "2026-09-16T15:22:08+09:00"
  },
  "articles": [
   {
@@ -30970,6 +30970,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T15:10:47+09:00"
+  },
+  {
+   "id": "a7e87ad1cca630d0",
+   "title": "룰렛 게임 만들기 결과 확인 버튼 유무",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS2Z4WXI4Ql9ZQUZYSnlFZGZiTWZiYndxblVXZllfZ0toS3lKdlI3X2FvU2ZjM1VkVjQ2cTROWlRPYkZTQU5jTURYQXVGTkNSS2x1TFFpNDhYdm9hVnhPZEljZzNGeGZDVGo0QU1YUjF4RjBseUZpRjFwVEdCRDJ5Mzk3dXdRazhCRGtTMGRYc09mcU81bDNGbWFOVWVLY2RFYlJKTjhqNk00eGItTzVOcGZzWEE0QWVjTFJCdUszQXpjU1k4dFlQZ0xiR2k1TVpkRlYzTjlOVmNLMDBQRW1GMDlQZTZUYTRrRzR4RjdBWWNWa3ljc21WZDlHaG02eGpmUXZyc0taVUxyWGFjWmJJbUY5cUtCYl9BRWU1ZEhVSWJMYm41NEJCYVFR?oc=5",
+   "publishedAt": "2026-09-15T23:57:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T15:22:06+09:00"
   }
  ]
 };
