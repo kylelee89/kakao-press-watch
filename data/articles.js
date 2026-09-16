@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T17:50:53+09:00",
- "runCount": 1257,
+ "generatedAt": "2026-09-16T18:01:56+09:00",
+ "runCount": 1258,
  "price": {
   "price": "33,650",
   "pct": "-2.46",
-  "at": "2026-09-16T17:50:55+09:00"
+  "at": "2026-09-16T18:01:56+09:00"
  },
  "articles": [
   {
@@ -31339,6 +31339,82 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T17:50:53+09:00"
+  },
+  {
+   "id": "80c8549936782014",
+   "title": "카카오, 인적분할 후 AI 사업 2030년 매출 6조 달성 목표 제시",
+   "outlet": "아시아경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jYkF2RlZyX3FIS2pSc0dPY0ZkOW41QlNZT2g1YVpraldLdTNzcHpwT0QwZV95VDFoRFNqOVBtc2ZnTUVCQ0VLeDBpMHhIYUNubmJvWnowTTdrOXhJNEtfcQ?oc=5",
+   "publishedAt": "2026-09-16T17:56:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:01:56+09:00"
+  },
+  {
+   "id": "8057cea5e1f44dcf",
+   "title": "'인적분할' 카카오, 소액주주에 \"김범수 지배력 강화 목적 아냐\"",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sLWVzOXhsWTJmRDEwTjh4dkhFdC0zU1EtaWZPVlQxazRHT2lBRnU1VWVITm10YXBFd3pleG5RcXUybnctMGY3Z1BLWUs1dUpvbkI4SHdvWE5CRjByZTBNQXJBSWd0RGw40gFuQVVfeXFMTll1aV9xMi1TRVMzZWZHNGlPdmhrOERrZllIcFhDYVJ1a1VjbnlKSGQyUENTVzh4UGh1TldrRG14Zm83R25jQURibWZILVpQWVAxQzRPMV9nWjZWYUxiZl9jcFVzNUk2NXpBRVBZakE?oc=5",
+   "publishedAt": "2026-09-16T17:50:02+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:01:56+09:00"
+  },
+  {
+   "id": "eb6f7af871e14be0",
+   "title": "두나무 매각차익 주주에 돌려준다…카카오X \"3년간 3000억 자사주 소각\"[일문일답]",
+   "outlet": "edaily.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc19feWZHS21fOU9VNTRRcEtYb3AyZmlZNUJiS3FRSDlyYmxyQTZjbHdBTmwzSDFkai04RWplZ3ZzWG5YenFRY1MtN2JORXUxWU0tRXdTX09YNXpmWmJydFphVGdpcXBsNXIxSEw5NzVmZy1YV0FYZW5FNlhqNnlDdw?oc=5",
+   "publishedAt": "2026-09-16T17:53:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:01:56+09:00"
   }
  ]
 };
