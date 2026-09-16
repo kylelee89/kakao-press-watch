@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T16:15:15+09:00",
- "runCount": 1248,
+ "generatedAt": "2026-09-16T16:25:42+09:00",
+ "runCount": 1249,
  "price": {
   "price": "33,600",
   "pct": "-2.61",
-  "at": "2026-09-16T16:15:16+09:00"
+  "at": "2026-09-16T16:25:44+09:00"
  },
  "articles": [
   {
@@ -31012,6 +31012,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T16:15:15+09:00"
+  },
+  {
+   "id": "cda61cc2588886bb",
+   "title": "새로 추가된 버튼이 궁금한 분을 위한 나트랑 홀덤 카지노",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZnI1dVlDSG5UTnBrLW9SR1FUV2x5RVlMcHJCR1V0TE12T2h5X2d2TXdsNUE3UWJRQTljRnRLa1Z2ZXUybmpjVEhyTTYtV0hkckQ2RzA5akU1Vm9fVHk1VDIwVWx5bVNVNUFpWHpMMDNiUXNYX2ZuYUhSR1UwNzFFMTA3LXJvVmJPLTFsX2x0Y3U3Zm9rX3RTTkk1aThESjcydjV1Z0NBVFJSby01ZXF4aklFaw?oc=5",
+   "publishedAt": "2026-09-16T11:54:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T16:25:42+09:00"
   }
  ]
 };
