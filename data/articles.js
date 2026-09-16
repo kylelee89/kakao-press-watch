@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T18:24:26+09:00",
- "runCount": 1260,
+ "generatedAt": "2026-09-16T18:34:45+09:00",
+ "runCount": 1261,
  "price": {
-  "price": "33,600",
-  "pct": "-2.61",
-  "at": "2026-09-16T18:24:27+09:00"
+  "price": "33,650",
+  "pct": "-2.46",
+  "at": "2026-09-16T18:34:46+09:00"
  },
  "articles": [
   {
@@ -31713,6 +31713,156 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T18:24:26+09:00"
+  },
+  {
+   "id": "4a86b7806d03171e",
+   "title": "\"인적 분할, 최대 주주 지배력 강화 목적 아냐\"…소액주주 달랜 카카오 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51djA1R3lTYVpYOW1tYmlobHMwY0hVWUJMZHBVVndYMzVBSlZBckhKbFAyNy1GektvU2t3QTc0Z2p5OUVKYmp2S3dSTTZqcFc3dmc0MjFZdklYcFRjR0xtWU5hSzdBSzjSAWxBVV95cUxNV0NUbmpSZVB3OXdEYWtaSkt6UnZfeEx4S2Qyb1ZSejMzbGU1aGhDdlpOVnhvYzR2UllwaVM5VzFvbG5jWG9xLWtORXNHdl84M3ExMlBGcndPcDR1VGp5VVRMcVJKYm9DTURmSy0?oc=5",
+   "publishedAt": "2026-09-16T18:30:21+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:34:45+09:00"
+  },
+  {
+   "id": "499d55a3b2c9a0f2",
+   "title": "카카오, 인적분할 앞두고 소액주주 달래기···\"기업가치 높이겠다\"",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVzhua2dSaTV4UFVMWXVWVDY5N2lWQ3hSYTVvdFRWcTM3amVxc28wUVh4VlQ3T1pTeWxyUVJrS1ROa0NHczQya1YzeGJiZ1VQbW41SEYxT2tGSU1fcHZiNlhITHZFMjFGRnc?oc=5",
+   "publishedAt": "2026-09-16T18:25:45+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:34:45+09:00"
+  },
+  {
+   "id": "a210cb56cab740e2",
+   "title": "주주 화만 돋운 카카오 간담회…인적분할 '빨간불'",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zd045cnVGUXVacW5mYUZheFMtVkI2ZU9MLUhTX1RRSGZKNHI1bEl2Q0tjbHBYd1VlTmVwamRkUndsWExPSVc0THBua1J2eU9wQm5PRmVEYm1yajBt?oc=5",
+   "publishedAt": "2026-09-16T18:22:04+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:빨간불"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "빨간불"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:34:45+09:00"
+  },
+  {
+   "id": "0c452ee74ad409e3",
+   "title": "카카오 \"2027년 AI 수익화 본격화…2030년 AI 매출 1조\"(종합)",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQel8zVlNXM2RXYnNiQXlGNlZjMTJmRFZpY1ZJdFZmdFlrWjVRd1hQejY4NjdSMEZJR1d5NEVpd2tkLVhCZTdSQzFmMTdsdE50d2pKbVdvb1g3ejR3R3VueXhFSHkyMmk5X1pJM05lb2c2NkpEQkhlQmxaZjB1Vk45TFBfR3laNXNKOUZZcXh1R3VwUjVpXzdveENMVFZTMnc5dWUybDM2eXY3X01xMXdRZU95YTc0akl6T1U2R3VVdWpEdmJZYmRrQWcwQmt0OW5MSzkyR1AyOUVCZXFPT0VEY04zRQ?oc=5",
+   "publishedAt": "2026-09-16T18:23:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "일정(12/17 주총, 27/1/27 재상장)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:34:45+09:00"
+  },
+  {
+   "id": "37720b9bc85ba812",
+   "title": "진행 속도를 바꿀 수 있나요? 포커 연습 기능 확인",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDlzZkh1NjJrazY2clg3VkJFNVVFbUFYNVdoY051clJvZW4tU1l1dml0Y0FIbGVjbmhRc3czWFFudHBTekprclJFRTVzdldHUUVTWEhRVHVJOHhpbWRCMGxKWkdsMFdtMWJyZ2NDVGt3LU93YW96TF9Tdlp2YWZaS1YwVmN4UE1jSjkyUEdFbC0wWm9JblprbDJ2YW9PSnM0UlMtSzBQMDJEblZIZ3p4VUhCekJYUDRY?oc=5",
+   "publishedAt": "2026-09-15T15:02:39+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:34:45+09:00"
+  },
+  {
+   "id": "91b8d08c4b5dd280",
+   "title": "어디서부터 봐야 할지 막막할 때, 챔스 선수 평점 사이트 입문 순서",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzhQYXFGSmZXMGVTNDJRejVzVUFKX0wzdkZoNlZuREVMLVB5TkdJZWtfTzlFRENPYzM4SzczQjdETXlhdGxkWTlGQXlFTmRaR1hCNF8wWVhOYXNpSHhUSEdGRWFjVzliMWFUZHkzTkpvc21VV0dEOHJDNzBaVE5vZ0I4X2s5UzV5RF9feU1BOVZtaEZMX2ZWaE1WUVBHT1A0MTZCREZIZUxwVXphaEE?oc=5",
+   "publishedAt": "2026-09-15T19:09:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:34:45+09:00"
   }
  ]
 };
