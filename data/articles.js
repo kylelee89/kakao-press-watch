@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T10:24:27+09:00",
- "runCount": 1215,
+ "generatedAt": "2026-09-16T10:35:26+09:00",
+ "runCount": 1216,
  "price": {
-  "price": "33,875",
-  "pct": "-1.81",
-  "at": "2026-09-16T10:24:32+09:00"
+  "price": "33,950",
+  "pct": "-1.59",
+  "at": "2026-09-16T10:35:27+09:00"
  },
  "articles": [
   {
@@ -30722,6 +30722,90 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "3239ed4318191c71",
+   "title": "상세 정보 페이지에서 빠뜨리지 않을 홍대 배팅장 항목",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0tPXzdULVp1OE5kRUZ5TEhkTWlPWHRXd1ZjT01oYnUwMDFHQVFlZVNmaUlpV0oxOVlsenZIeFhldXVPYVRETkJ6TVpybXpFWjRrLUJuZUwxUUd5LTlobl9OWW5aUzNDZ2phMGxIYjZBeVJrWm4yM2dNTmJlb1Q1dzRaUV83ODJRbVQwdEMtbnA3aFdMcWxpblB0NkNvbGRPV3RNQzVfdkhuY2ZiV0hoa1Y3aXF6V3h1?oc=5",
+   "publishedAt": "2026-09-16T02:51:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:35:26+09:00"
+  },
+  {
+   "id": "539f2ec505773b7c",
+   "title": "마카오 카지노 환전 알바 AI 시대 디자인 패턴: 역사, 현황 및 미래",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOEJ4WFBzZ1ZCNmlEcUxXM1JOMFk5ZWM2Y0ZFdDg4T3l6QkRteGM2ZU1PU29OdmJMSnVVMEwxWkVBc0w5cjhGUHNJTy13clY0TU1WdHZPYWZVUE9kTlNOc3hyU01LMC1nbXpvVm5oT0xCRDN1bnNzTExmVUtaR2VfRWt0LXg2cThrZFdDaks1MU1iUQ?oc=5",
+   "publishedAt": "2026-09-15T21:50:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:35:26+09:00"
+  },
+  {
+   "id": "8468c04b0eac567b",
+   "title": "모바일 브라우저에서 점검하는 카지노 드라마 배우 표시 상태",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjRuWVdSQ3RLRGFLelBFeXEtQlltYnVKbGxYaDdoeXM2WVFYaGhKVmtmY0VZSm45ZnJScjdCR2dMRmpFa1VSMGVUQk9kNVRVTGdWY3laUzJIYW85NmktV1gtZWJDSlNRRHFqZGJaQWVNVXpZN2xJcFhnTElZVkFnRWtrTDgzU0Z3LUNjNWVyWFk1cl83Q00xd2N6MEloYkpmX2t6V1VvYUUzNHYwOE55T0RYQmVrcWM?oc=5",
+   "publishedAt": "2026-09-15T21:11:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:35:26+09:00"
+  },
+  {
+   "id": "dce4577f4f263321",
+   "title": "게임 설명의 그림이 궁금한 분을 위한 바카라 롤링 총판 슬롯보증",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWRLN0dlRmxhVUZCQlcxMDJCa1JNOVI4Z3ZYQXJfMldqb196eEJiaXUzb3YwVDJVWjBCWTJtTTZjV2xoNjZxaE1Tb1NqdlExX2VNcWN2UmUwSTZOVXRQUFFxQ201ZDFmb2gyamRkdzN6RFBsNmk1UXdRSlUwclcwU0lZMllPS29waDhrLTdMYWxDWjBxcXJZMDhwdG1RbXFMOEROT2dKTnJld1ZickQ2MUFNaw?oc=5",
+   "publishedAt": "2026-09-16T01:37:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:35:26+09:00"
   }
  ]
 };
