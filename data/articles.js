@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T18:01:56+09:00",
- "runCount": 1258,
+ "generatedAt": "2026-09-16T18:13:10+09:00",
+ "runCount": 1259,
  "price": {
-  "price": "33,650",
-  "pct": "-2.46",
-  "at": "2026-09-16T18:01:56+09:00"
+  "price": "33,700",
+  "pct": "-2.32",
+  "at": "2026-09-16T18:13:10+09:00"
  },
  "articles": [
   {
@@ -31415,6 +31415,231 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T18:01:56+09:00"
+  },
+  {
+   "id": "be46ca13e80f5e11",
+   "title": "인적분할 카카오 \"AI 기업으로 평가받겠다\"",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZOVJ6WlN5aUxrcTFHNm9WSFJNR01IaTVfb1VxV29nSVdIUExFbk1HZUtQUlJfYXRqZ1VveFhTMTZ6elNEb0R3N2hzY2l5dVFZYXNaQktUOWlQQQ?oc=5",
+   "publishedAt": "2026-09-16T18:06:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "fd484761a732f517",
+   "title": "김도영 카카오X 대표 내정자 \"인적분할 통해 'AI서비스 기업' 정체성 명확화\"",
+   "outlet": "신아일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MNDFSOG5oSDRLeGRxNXdqQkxPSjAxN2ZaUl82eVRZMk43Zi03SGpoZmJZakdsLVpodzE1XzlyU0xXOW8tb2RoSHBGSDZKMWJZOFI1Sl9LeHFVcWM1S1cxbVlORktpRm5GZTNfa0JkbVU?oc=5",
+   "publishedAt": "2026-09-16T17:54:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "c49f32d8d42e9576",
+   "title": "카카오 소액주주 간담회, 현장 질문 2개로 끝... \"주주 소통 맞나\"",
+   "outlet": "한국일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VRUJOeHVhVXVrRFowbGd1RkpQRVRoZVA3c181NTh1ZlBGVnYyQnpwaGhOZFU3UEkwV2NVcGpROEhUZEpFRFlQaUdxZWR2UXpIbDN5SWE4UDE4QjlsenBqUHN5NkJLSGhmYmFTN1J30gFzQVVfeXFMT0Z3S3dxSnctNDFpSVJDcFliTU5QSkpoMUhub2FQTU01NWdMQjJsclVlSXk2YnlIZ0N0QTZVcUFXLVQzWnVRQnpoZHFOczQ2QlMyR01TZEtUeFV1dnRRNHlhcWdPSnpYckFQN1hUd2wxaGlVZw?oc=5",
+   "publishedAt": "2026-09-16T18:06:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "71a161bbfeea90f9",
+   "title": "카카오 \"주식 분할비율 바뀔 수 있어···분할 뒤 재확정\"",
+   "outlet": "서울파이낸스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zY1dZcVBQVHZPS0NIb2xsWTk0UkZRNFVEQUM5Qld2eDI3Z1R4VHFXYmVfajlMVmM0NlZZVDFCdTNmSks5eXlmNm04LTAxSnRmZVNrMVkxbGFzZGx1bHdkdWI0ckMyVEQwbVE?oc=5",
+   "publishedAt": "2026-09-16T17:41:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "분할비율 0.36 / 0.64"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "fb0dbca6557fd85f",
+   "title": "'인적 분할' 카카오 “김범수 지배력 강화 목적 아니다”",
+   "outlet": "포쓰저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Bb2ltMnh6QU1UUUxPQ2MwcHlOYXc0dEJJU3BSYUJpbl9WRlJsVXhQcjdjSjIySFJwVWJHR0cwaVRtMlF1X25TcDdDbHN3X28wUmduYlhLRkQ1U0tQVEhMS3F4ajI?oc=5",
+   "publishedAt": "2026-09-16T18:02:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "66558434832eaf54",
+   "title": "카카오 “통합 멤버십 준비…카톡·모빌리티·콘텐츠 결합”",
+   "outlet": "시사저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVcnJaQWRVZVpySDAta0REMURidzZjUDdXcmx2RXFRTVVkLVhUcVJRWUFWSE1JX1BrSGN2NlE5NnRuZmJyRktrcTJvYTlucGJJUmpXb3FzRUNTYWxlUzlVMzc1WjBOTU81SmdUMk5HMNIBc0FVX3lxTE1OaDNsWm10VzFvMnpCa19rOFlDTVJ6WlFNM2N0ckZtT1JjdWNZalR1YlpLOXpXQThKVE1pbFBKMi15R18yRlEwLXpqQkJvWkJUblVRaThlNmpwVHBZSUFJc2RNcDI2UmJPbGFLSFdTZWNzU2M?oc=5",
+   "publishedAt": "2026-09-16T18:04:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "b14b321aafaafe1f",
+   "title": "카카오X 저평가 우려에…카카오 \"자회사 가치 더 제대로 평가받을 것\"",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDRmUta3RDTkhOOWxTdkR6M2xHQklieHNLREp1WngzODRCTTM3OGNYenNwdXRmdFFobnBGOGQzWTg1dmFTUTEydUlxSnNYOFk?oc=5",
+   "publishedAt": "2026-09-16T18:02:36+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "SOTP 34.2조 저평가 논거"
+   ],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "밸류에이션",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "12cd2afa0e33c95d",
+   "title": "게임 선택 전 지원 환경부터 확인하는 슬롯 무료 잭과 콩나무",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTF0RWRzM3lWeU9RZ0dBLTdGd01ocnNJVkJPMGhPU1EtNUsxYWZDRC1jOUNERlppakNJNk9hUHNhT1o2WTVUNE1DaWpIdG92VVRpS0tzMkVkTGE5bUducW1aN2hhdmdOUFFHbERUQ1BidC12MzRYV3d0b3hWT0JhWS11Qm1SVXp3d1BSbFNxX2NIcnZUOE9fTkxxbURjbHdYTW1uakhDNnNBaFBySkNtWUxXeDdHeWxRR01v?oc=5",
+   "publishedAt": "2026-09-16T11:24:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "b785de6b474c7ab1",
+   "title": "카카오, 소액주주 설득 나섰지만… 카카오AI 지분비율 의문, 분할 후 카카오X 저평가 우려 - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEYxUzJDbTVKNmJLbXg1eUNYVmo0U3VaLTdvMkNnbDRUTzVFclNMNmNRalFBa0xQNTFIZUtQMDBfMkhlNmU0RHk2VHZZQkhZQ1FKeEhfaV9QU1pfOUxRaFhoMy04bV9UUXU3LU5TS1NDM0JZOHJmWHVXMXdtQjg4Nnln0gGWAUFVX3lxTE5TdWZTaG5hVmpmUGNEWDVPZVp3eUxBUEc0djctSnFOLTlUQXFSdURhNVJDVExhdU14N3N0Q2dOcGVtYTVXeWYyTjB5QVNLaFdmQnM1N09aT2ZLcDRnRHY3RU1WbkNFSzJsWFZxZHdPYzQwTkR5YWdQdkE1X2NVV0FBNC1qVkh3WDJrejJUZWJkMm5TN1FaUQ?oc=5",
+   "publishedAt": "2026-09-16T18:02:00+09:00",
+   "tone": "우려",
+   "toneScore": -5.2,
+   "frame": "중립전달",
+   "messages": [
+    "SOTP 34.2조 저평가 논거"
+   ],
+   "signals": [
+    "역접:지만",
+    "적대어:소액주주",
+    "적대어:우려",
+    "적대어:의문"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략",
+    "지배구조",
+    "밸류에이션",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "우려",
+     "의문"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:13:10+09:00"
   }
  ]
 };
