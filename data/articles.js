@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T16:57:00+09:00",
- "runCount": 1252,
+ "generatedAt": "2026-09-16T17:08:20+09:00",
+ "runCount": 1253,
  "price": {
-  "price": "33,650",
-  "pct": "-2.46",
-  "at": "2026-09-16T16:57:01+09:00"
+  "price": "33,600",
+  "pct": "-2.61",
+  "at": "2026-09-16T17:08:21+09:00"
  },
  "articles": [
   {
@@ -31156,6 +31156,50 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T16:57:00+09:00"
+  },
+  {
+   "id": "21d7b532bf19ba72",
+   "title": "[IR] 카카오 \"인적분할, 최대주주 지배력 강화 목적 아냐\"",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SMHBGZnU0VkgtRnkzRmc5TFR6dlY5UXFyM0V2ZE94b0dLd0dnMml6MmM1WlZIVFZiRXE0eFFSSHdjb29RZ0dPWFpNTERCY3hMVGZOb09Nd2NpMUpLWjd4LURvUDZDUkdv0gFuQVVfeXFMTnpvZ1E5WTBXSmRJUXp1a1Z0X29jQ1Rabmp6SlM3TGJWQ20wZlJXT0xRSDFxYWNWX1JVU2ZWX1d5WF9rdUNpNjJNTTgxSUtnMkl2a1RKNTZnUFpnUkdHWDVYX3NMaHl0b21NMGQ4dGc?oc=5",
+   "publishedAt": "2026-09-16T16:52:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T17:08:20+09:00"
+  },
+  {
+   "id": "c31a0a649c714175",
+   "title": "화학산업 뉴스",
+   "outlet": "ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Rc01ZTklONnB0Ty1EMFlBdnFBd1hGMFlUZkhKbndLT21NU2taeDdiUVNOellJUFJOSVZadkNtSEhtaVE3ZGhxVHdacUlQR3BlbGQwcno4Y05ETjhpQWFHd2NsRnFnVjF0SFg1RzA2ZVZOUUUzcnc?oc=5",
+   "publishedAt": "2026-09-15T12:55:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T17:08:20+09:00"
   }
  ]
 };
