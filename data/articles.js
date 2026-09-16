@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T16:04:49+09:00",
- "runCount": 1247,
+ "generatedAt": "2026-09-16T16:15:15+09:00",
+ "runCount": 1248,
  "price": {
-  "price": "33,650",
-  "pct": "-2.46",
-  "at": "2026-09-16T16:04:50+09:00"
+  "price": "33,600",
+  "pct": "-2.61",
+  "at": "2026-09-16T16:15:16+09:00"
  },
  "articles": [
   {
@@ -30991,6 +30991,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T15:22:06+09:00"
+  },
+  {
+   "id": "fe45ce1421ffbee8",
+   "title": "이사회로 끝내려던 카카오 합병… 반대 지분율에 향후 절차 달렸다",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIamk5N1NZc2IwR3JiS3BvTE96akI4b3pScklJR2RIbHlUN2JQM1VydkVsT3NKYWdHWHhTZ0djMFRESjZUbTMxTjBaQmdxaDZ3SVlrTS1Qc25wdXliS202VjR2cFJPWVg5YWpsLTNxbU3SAXRBVV95cUxPNmpJUEdad1ljWEtrVy00UVRLNlJTaGM4RHRmNzJpWkFNbXR0UlZDbDMwVEE0cmR4al9XTVJ2UTR6dGV1WmhjRm1oZVhDUWF5aWlkOEZrWmEzZWhwQXI3VDdCcWRNVUVLbWVrZENFVHkzSjhrWQ?oc=5",
+   "publishedAt": "2026-09-16T15:20:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T16:15:15+09:00"
   }
  ]
 };
