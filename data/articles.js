@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T12:21:42+09:00",
- "runCount": 1226,
+ "generatedAt": "2026-09-16T12:33:04+09:00",
+ "runCount": 1227,
  "price": {
-  "price": "33,825",
-  "pct": "-1.96",
-  "at": "2026-09-16T12:21:44+09:00"
+  "price": "33,800",
+  "pct": "-2.03",
+  "at": "2026-09-16T12:33:05+09:00"
  },
  "articles": [
   {
@@ -30831,6 +30831,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-16T11:29:58+09:00"
+  },
+  {
+   "id": "626c3a233cd9316f",
+   "title": "언어를 바꾸면 달라지는 킨 토토 리뷰 메뉴 표현",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclVha1VLV3JQUHUzSFRPczEtekZnVkJMY1FESVFVaFJMM193bFFBSTFfQUs1dXFIU01ySjFGT09odkQ0MXFKcEN6UmhDdU1FaTQ5QmdSMzNTWFNFdk5FMkNwUmp3WkJ2VGwtbW5BLVh4YVpsdEtHa0dzajctYzQtMDkxTDNJTURfd3RicVljVjFXVUtqQVVsLW1sdUF3czhfTXNIMDZoNnl6ZGRpYWxLeFdscktUU1ZTVURBR2RtQkdveVRjMm5NUXNFdHZ2OGc?oc=5",
+   "publishedAt": "2026-09-15T18:33:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T12:33:04+09:00"
   }
  ]
 };
