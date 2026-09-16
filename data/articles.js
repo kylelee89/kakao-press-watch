@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-15T17:38:39+09:00",
- "runCount": 1214,
+ "generatedAt": "2026-09-16T10:24:27+09:00",
+ "runCount": 1215,
  "price": {
-  "price": "34,450",
-  "pct": "-0.58",
-  "at": "2026-09-15T17:38:39+09:00"
+  "price": "33,875",
+  "pct": "-1.81",
+  "at": "2026-09-16T10:24:32+09:00"
  },
  "articles": [
   {
@@ -30293,6 +30293,435 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-15T17:28:15+09:00"
+  },
+  {
+   "id": "1abe4aeec283b197",
+   "title": "[0916주요일정] 카카오, 소액주주 대상 인적분할 설명회 진행 예정 등 By 인포스탁데일리",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ucFZ6NGRWVkZiMUZkbzJuUnNqMUdpZnRENW5oMmxTdW5Uc1ZTT0tUS2NoRnpYcU9wSUczc0dnaXVYUm9HSmx2OHV3dUhFUHpHX3Jza1BreUZ3enpVM2pZek1scDlHaXE1R3dWYkhBQkY?oc=5",
+   "publishedAt": "2026-09-16T00:32:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "91332eb512854998",
+   "title": "카카오인베 합병 반대 20% 넘을까…카카오, 인적분할 첫 고비",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94ZnA3NklLLWlISjdEMG5JZzI0dXNmNFlqNVNIeEhuYUIyaTdUM2UwbXVWSXhzTFpVamNKYnI4ZlVPU3dyTlBlUUJqc0dKTHozSVVTT25rYmkxTW85YzlyMHBnUzM?oc=5",
+   "publishedAt": "2026-09-15T17:48:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "28c987682287c405",
+   "title": "인적분할 놓고 카카오 '내홍'…소액주주 반발도 변수",
+   "outlet": "뉴스토마토",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OQVBjb3JMZU1uaUVjTEhrTHo2aVRXQWdQWC1hYUFmQ25KNjIyeG1SRDNlcVh2S3Fjd2NCOXpfVTQyRjFOR0VrblZ1amU1Y01vWUhnV19WRzhMVXRyYTVIVA?oc=5",
+   "publishedAt": "2026-09-15T16:45:16+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "c9ab2089042bd152",
+   "title": "[그래픽] 카카오 인적분할에 대한 노조·주주 입장",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aU2daalJmNkhsZkFOYTR1S1FwSHNDSlZCdWktNDBkSHY0WWRSLXIwUGZmb3hsOXF3UWlvbEZKTlRNbkRPODBzWHpIcG0zcllkeHBkWHFTWGtlU2pPdXRpUGN5MVVYUEUy?oc=5",
+   "publishedAt": "2026-09-15T17:38:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "71cd85d3a78c46bc",
+   "title": "카카오, 16일 인적분할 설명회…노조·주주 설득 통할까",
+   "outlet": "파이낸셜투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RWVJYVVF2ejlOUXhFU0E2cURMXzE3RDBfMmNONm5sOW51UUlITW1rNVhWNy1FMHVMTW1ua3FHa2ltOEQwNkNJeHJDNGc5V0hwakR6WHk5QW1pS3JtMmZ4X0NaeEUxTEVTMWVv0gFuQVVfeXFMTnRhWnhhQ0pJREVLTjZTOWh1MmFLcm1BOU5yeDJOR0NoU0hVNVAteHVOX0h2dW9LTzVFTEFPMkUxWVVlNFV5cVZ3V3VNeDBYX3BlU0ZPYWtLNHA0c1pLR3Z4ckY5QnBHZFp1Qmd6SVE?oc=5",
+   "publishedAt": "2026-09-15T18:44:52+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "728f0f7f7b10dcc8",
+   "title": "[EBN 오늘(15일) 이슈 종합] 대한항공-아시아나 마일리지 통합안 확정, 카카오 인적분할 최대 변수는 '주주 설득' 등",
+   "outlet": "ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBV01RUEdpR1c1emlHemp2ckU5ZlpCT3JFcDJkekk3M0ppck9nTlZ2TUQ3bUgwdlBUaE95alhVWmJoeUI5a01YWWlmdjlib3BFUUt4VmI0bzFOMTRVdjRhR1dFMFM3TTNF?oc=5",
+   "publishedAt": "2026-09-15T19:39:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "2fcf67f0abbe5f9a",
+   "title": "다른 테마와 비교하는 빌리빌리 다운로드 사이트 시각적 구성",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM1dZT3BXSGViNk5IY25YTnU4RWxEYmh6SEwtZDlxSFJ2T1FoWC1HbGtKMzRqTkhsTlFWVmZxMjU1a3oycjgxb3NCbndLMkc0Y3hTTTdyRUk0Z3lDOWVYTF9ZTGFlYmRQNTdBR0hGQ21YZWw3UXZySElETTBXMmRkZ2gza2xqTldkYTRVZkRtYkJvQWdMcFRyMFZGOE5ScVQ3eUZRbl9UZ3d0aTVIMWxaam5Xcnl3Nm9pNk1iY3VNajJJYVdDZlBIUVFIRjdOVzJlWDYxbkVSUW1ENGJpcjFSN2VkZGw?oc=5",
+   "publishedAt": "2026-09-15T18:06:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "1b4ec6c1cb4e93b6",
+   "title": "히츠 토토 연구원를 위한 사물인터넷 핵심 전략",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeXM3ODZuZHR4ZlVlMVYzYmc2NUZNYVRJRTlhRjFudldFY0dPUDlUZW5JenpMN3NZcVZzYXplQUFISk1LWTM0ZGcyT2w2ZVViN0VJVl9IS3JOVzFPN0JCUmY0bGFmcU45OTBBVjd0MENrYVlKMFJXd2hvd3d5U1hzVDZ2M2tYSzJkYm1YUFV6dG1IYXBxUDFXS0hjLVBTbGl6b2dRN05NRVN0U09nU3hka2tBUWN6dXplRkhTVXFhbEF1bjVIOTl3SFQxYXp3MGEwb1F1R3QzWUk2MHVtSjhfWkp6Y1NZOUdZdW9MME9CUHlURnRHWVhyMk9hekNxbEVyMy1sbUkxNlprdTRhcV9HZzdBLVg0VzZqV1AxNVM4MVd5OHc?oc=5",
+   "publishedAt": "2026-09-15T15:06:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "806c77437ef8df3d",
+   "title": "카지노 총 회차 도움말에 없는 항목 확인하기",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVlCQ2VQYTZKSzFmMjJLTGk5TUZQbkI3dFJILWdXdm9TaEY0bF9LLVRid0NoX295NmdibUwzbFZnZFNhSDI5djFaX2k4QU8tb0VPNTdRZUt2U25rYWd5TGZPWFdDM3JkczRTY01zYnJnTDd1blA4dlQwVFVCTTJyUVdxdHdNQ3NkRUotdUQyUHRDWUFwTHc5dHpKYUJ2ZEhaMGY3TXE5RjVVb21sbTh2UHdCaXF4bjRh?oc=5",
+   "publishedAt": "2026-09-15T15:42:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "f69bcbb4991b1ae1",
+   "title": "“AI 에이전트가 상호 거래·정산까지”...카카오페이 자율결제 실증 완료",
+   "outlet": "AI타임스",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCWFR6YmZxdjJDeWR0clV5UEN5UEdObXJPRnhNdnpPanVVUEU5TmItalZPZ2t6ZHRnX1Q5eUlpYk5sem0yNi1MdVlwNkRSWEI5VmluMmRkZ3ZWN1ZhRlJhV1JqU3JvLUVkclE?oc=5",
+   "publishedAt": "2026-09-15T17:11:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "cc1b3155bb3bdc87",
+   "title": "다른 테마와 비교하는 파워볼 소음 시각적 구성",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbm1zYkRsMHRXUWF3REpQd3R6SUhUQTd6c3RNZHlqTWMybGk4RGNHU0NmOURlQ0xLb1JFX1UzSUcyWFZNUUdaalphREpnMEVSdXNWY3V3R0RibnFfUGFfTncwanY2NXFCbTRwWGhwd2pKWU9HYng1eUM3SU4wU1J4N2RyMi1OMFl5eVNsQ3R1c3pFTVQza09INVR0VGFEeVpLN1N6X2thRnRhWnVhQm5NYzhuZmFKSkJPeC1OZFhadThqdHdUd0ZEaDVMRmVGM0x6eTNrSDlMTmFQb2cxWkptNnZyRlJoYmk3T2tyZzMwbmJJOC1JbnYtWVdmZHZ3QWlpN1BBemhB?oc=5",
+   "publishedAt": "2026-09-15T17:29:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "57defae2de354496",
+   "title": "칼리 토토 추천인 코드 특수 심벌의 중복 적용 규칙",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmZ5NTVUbDVPX0hfMS1VdnRQLXdBZWxvUkRKTDh1SU9Fa0Fod2pKM2R3T1hEUXljaWpGMTZkOFNxNzNvQ01SY3ZrZXBRVmpMeG5PUWpUcFh6eWJoMkptSGotWnRvZDluNlBobDZfamdqcnRuMFNGN25KV3pvWm16TFNzZ0N1YWNhQjY5WEFIR2ZaQXZaeHhtZHlTRU1uOENQ?oc=5",
+   "publishedAt": "2026-09-15T15:00:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "0b9086b916954c08",
+   "title": "게임 설명 속 변동성이라는 말, pci 슬롯이란 용어 풀이",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMkdUMVhxZlRjVk5ld3BqUlh6RC1HQlIxQzMxbTJWbnJuRHFzMUdsUThrT0MxaFFmbFpOR2JwVzdsYjlDSk9xVzF1ekpxcnEySl9VeWRZblpzRFFzeTRVS3NLOFlHbzFkRE5iN3EzeFotWHBBcm5ZX0MxTGRWUWd0bldoR2FoMmJ2R216Tk9zLW5Eelh2Um1sRE9fbGNaVWpTNk5TQUF2VlVfbzZDVjVrTnRGdUdFbkJMYkkyVGxRMGF5R1I4NFk3azVNUmdmYlUyZzY5Nk5mMjRMdGFtTks1WUxNR3ZGTkdyeEhqNWVId09oVUNlNFMwaHJGdWdmNGdnbng3d2JFSEJsdXl2Z3c?oc=5",
+   "publishedAt": "2026-09-15T19:49:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "db7606da6f4b77bc",
+   "title": "게임 설명을 읽기 전에 알아둘 모두의슬롯 베스트 온라인 카지노추천 용어",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yc1U0WXVOZmFIQzNXUGczd3dhdU80SE0weldscjdRaUI2cXVmaUxqckJUeWpWOG1laDVRdnRUQ2Nud3RRRVdibVM5Rmk3bVpOcXNuWGF4R19Nd0U?oc=5",
+   "publishedAt": "2026-09-15T14:05:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "b823d5bce41c460a",
+   "title": "휴대폰에서 팝업이 겹칠 때 보는 내기 온라인 무료 칩 화면 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjZuTzdybUhzUkxMa0ZVS2ZYaEdpbkVOZ3hmUG1FVUZoTk1nLW8wS1dpaml2VVY1RVZnZEg5YklXQ2RiQUhPNUVEV010OTNEbGNHN01TQ2JyQ0pPVzllbmRzdU1fY0pPT0dtYWNvZkdlLVNlMXBtclZDUjNBTVFJYjJxUjNDcHpNMi1YbkQzTGR3dGszSHZOZnVSXzVBVnFzdXMzTUxfbFBhZzdndFRtUXBLVHl6YkxxNUpfOC1mRDJJNEstaVV5bHZlUQ?oc=5",
+   "publishedAt": "2026-09-15T22:45:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "09f304968e703f38",
+   "title": "자주 쓰는 메뉴를 찾아보는 전통 도박 화면 탐색",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWU9CSncyaVpiX0VVNkMzenNpTzBsbjZ1YTlsRXU2NHFrN0RPamFfY3VmeWUwUFl2NWIxTFgxaE5oSlMzUFJmaE1mT0dCbGYzU2d4VmtaMkJkYUdQam41eGNrX3k4WV9FcnlkZlYxR2tuTFZ0ZW5SYWZ1Z2pjV2dNNHR6TzVuZThXNFJTNGFEbDhwN1k1d0w0QmtkZUhyR0hIOW0wRjBHdlBYcGJ1UDljLUw5MWpWR25GX2pTczNJSUYtNl9yQlBsRWxFNjVYNnNLdl9OU0FrdjBGakNzSjA1VklKcEZsRXNGRnlVa1NJc2RkQQ?oc=5",
+   "publishedAt": "2026-09-15T11:47:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "bf76753337609c98",
+   "title": "게임 설명이 짧다면 어디를 더 볼까? 카지노경영",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGV4TmJFZVR5MTQ5ZGRWRlFNZmZhQlk0X1hSUXBCUk9kWEZKaDdvNTg5c2tNZDZseFVsNlk2TklyUkhsRHpCTUNqOEZiR0U1eEVFdjk1S0lKSVhreFFKaEZScUkzT0hBN2t0MTBBTlRDeTZtSjlDZ0lQRmhaOWdFdEs2R3NDemEzc0hjMGNGNUM5Vm9BVDllTzNZSTlBN0oxZXNIalB2U2IyUQ?oc=5",
+   "publishedAt": "2026-09-15T15:18:26+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "fd2d98f5b52a85c1",
+   "title": "처음 접하는 슬롯이라면 읽어볼 온라인바카라 딜러",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWI0OW9fanFtMXhQbmt2emF3dVVNQm1vMEp2N1hEWjA4RVRzMzh0cEdlS3Vqd0U2Ni1obGtZcVk4YjV6UTllTXkxZW5DT3VZZl80bmxhMTBHSkdrOHBNQ2d2ZlItd3hBTXE3MC04SmhBWGtMNldoN0NRY2ZMbVZ6VTV0dmlIcXNQYklhMk50NGR0blNpdkxzSHJMLU9LOTdYclBtSWw0STdlQXVFY2c?oc=5",
+   "publishedAt": "2026-09-15T08:21:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
+  },
+  {
+   "id": "c6eade7c8321f2d1",
+   "title": "게임을 이해하는 데 필요한 최소한의 용어, 더 오토그래프",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckxTcjhTdkhObjQ1ZEgwaU8wVHpON1duR0pBREc0MGFhS1NjenVRQjJoYkljY3V5ZFpYelFhTlQ1bUZzUFhQVjBtYUJoZW5sVEF5ZzJBcThTOVVpWnl2YkFIdlNZd01uY093dWFiLTFOZVdVREU0YldJa1hYRktKYkNJck10WUdwUzZieU8xU0o3MWQ5UFFJ?oc=5",
+   "publishedAt": "2026-09-15T07:57:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T10:24:27+09:00"
   }
  ]
 };
