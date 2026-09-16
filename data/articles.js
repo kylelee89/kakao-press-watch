@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T11:18:38+09:00",
- "runCount": 1220,
+ "generatedAt": "2026-09-16T11:29:58+09:00",
+ "runCount": 1221,
  "price": {
-  "price": "33,725",
-  "pct": "-2.25",
-  "at": "2026-09-16T11:18:39+09:00"
+  "price": "33,775",
+  "pct": "-2.10",
+  "at": "2026-09-16T11:29:58+09:00"
  },
  "articles": [
   {
@@ -30806,6 +30806,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T10:35:26+09:00"
+  },
+  {
+   "id": "47f3f2f320723283",
+   "title": "결과 창을 닫은 뒤 어디로 가나요? 카지노 777 게임",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGtyekY0TXpXODJHUm5YdnFybURZVGY4N3EzRVBPTG9kTDQxVnhhZWlueEctak03MTg1OUdNWEw2MlU2VWkwQTcxckwzaWtSUlB0bk1XOVJGZmpoYVA1Y3FWOFNQZnRwS0FfSDJaTFhlbVRsRGtqV0xoNlQzQS14ZWgzZkt5LWs1Q1NwclhkbWgwSkV3dU8zMjBaZFlnaDNSLVdBUDhIdVNrbi1VUkQ4U016LWJSUWNkQkRzU2tR?oc=5",
+   "publishedAt": "2026-09-15T16:44:07+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T11:29:58+09:00"
   }
  ]
 };
