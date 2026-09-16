@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T14:28:08+09:00",
- "runCount": 1238,
+ "generatedAt": "2026-09-16T14:38:32+09:00",
+ "runCount": 1239,
  "price": {
-  "price": "33,650",
-  "pct": "-2.46",
-  "at": "2026-09-16T14:28:09+09:00"
+  "price": "33,600",
+  "pct": "-2.61",
+  "at": "2026-09-16T14:38:35+09:00"
  },
  "articles": [
   {
@@ -30928,6 +30928,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-16T13:36:15+09:00"
+  },
+  {
+   "id": "9e79acbcfcf7f40e",
+   "title": "스마트폰에서 글자가 잘 보이는지 보는 피그 슬롯",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFNaWG9EMnZsR1N6YXB4WmMtUkpuTjRJT3M5dFBHUnlWYkE2Wll4cEJLa2xRdHFuZmJDWlc4VWZOU00zUFc0eTZHWGtzblE5MGpqYlRORHBSbHE1RWlZVW1UOEJTbDRJOHBsOVJFX1pMNTNXVXM5N2FoOUppOUU4dGdkbmJHcllGMFBSY2pUVUZKOHBIT1FFbG5WNE9OaXJfVVV4cHlYN3VRX2RSX0Jrc1RRQ05yNnBFOW53b3ZBZw?oc=5",
+   "publishedAt": "2026-09-16T07:59:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T14:38:32+09:00"
   }
  ]
 };
