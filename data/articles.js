@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T12:54:41+09:00",
- "runCount": 1229,
+ "generatedAt": "2026-09-16T13:05:07+09:00",
+ "runCount": 1230,
  "price": {
-  "price": "33,850",
-  "pct": "-1.88",
-  "at": "2026-09-16T12:54:42+09:00"
+  "price": "33,750",
+  "pct": "-2.17",
+  "at": "2026-09-16T13:05:08+09:00"
  },
  "articles": [
   {
@@ -30873,6 +30873,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T12:54:41+09:00"
+  },
+  {
+   "id": "0324281f99991580",
+   "title": "[빅테크 거버넌스①] 네이버의 확장, 카카오의 분할…AI 패권 다툼 속 빅테크 거버넌스 승부수",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoemc1VW1GWEphQ3pCU3BwRVFrNDVQTjBzYXBVaTBaNGFudTdRSGxpSEtlYy1IcWpjZC1QOWdsenZOMU1oYnNzb0JoZGd0dHJCaGlFcm1WbkRqWnUzOTB4TEZaQ2g?oc=5",
+   "publishedAt": "2026-09-15T17:43:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T13:05:07+09:00"
   }
  ]
 };
