@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T12:44:19+09:00",
- "runCount": 1228,
+ "generatedAt": "2026-09-16T12:54:41+09:00",
+ "runCount": 1229,
  "price": {
-  "price": "33,800",
-  "pct": "-2.03",
-  "at": "2026-09-16T12:44:20+09:00"
+  "price": "33,850",
+  "pct": "-1.88",
+  "at": "2026-09-16T12:54:42+09:00"
  },
  "articles": [
   {
@@ -30852,6 +30852,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T12:33:04+09:00"
+  },
+  {
+   "id": "0e259df0298f7d03",
+   "title": "릴이 멈춘 뒤 이어지는 bj 실시간 토토 결과 확인 단계",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWx0dXpLblhQT2RucHFKb2tYcVJzdHdfVWFLYVdlUDNQaTVNRjhNeFNEV2FlVkp2Yk1IaHVWelk1MDF2WmsxQktJWlpjODhIckRGNEVsT21kaGpFbDYzWjBMSE5qdmltSm1JTldnem5yVUhBb3FWVm5NNVZaODhrQXZxR1lvM2RQeEtlbjBQUy03bXd0WFcyS1A1YWVIcG5wcHBxVjFFU1hlRW5zNUMtN1dCMEM2RG9FODBZZkRxemNybVhLeXdr?oc=5",
+   "publishedAt": "2026-09-12T14:59:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T12:54:41+09:00"
   }
  ]
 };
