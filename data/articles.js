@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T16:36:08+09:00",
- "runCount": 1250,
+ "generatedAt": "2026-09-16T16:46:34+09:00",
+ "runCount": 1251,
  "price": {
-  "price": "33,650",
-  "pct": "-2.46",
-  "at": "2026-09-16T16:36:10+09:00"
+  "price": "33,700",
+  "pct": "-2.32",
+  "at": "2026-09-16T16:46:36+09:00"
  },
  "articles": [
   {
@@ -31085,6 +31085,54 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-16T16:36:08+09:00"
+  },
+  {
+   "id": "26acf0ab53c53c9b",
+   "title": "[IR] 카카오 \"인적분할로 기업가치 상승 목적…AI 사업 집중\"",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iOXd3QlhrejUwZ3lyS19Oc0xWeEotVGdCYmRaLUZmeWUxX3BkSktTR2pOTWFnLXdpSEdHSElDa21NY29xQVpyR2F0SWgxVmtBOVlqNmhUc1ktWlJORU1tRDhYTUVWMkVx0gFuQVVfeXFMTnJHaHlBc0pVUzNrSGJiVnBuc0JjNTR1RzRiN2hWMHUxMFlpUjlSUk15eVVHcXdfSXdoSkk2VkZxV3RvX1Z5bFV0Z2pfTmtmQkRHMGpPYVZZRnBKR0VsZm1FcGQ5VWxuQUhvd2NfdGc?oc=5",
+   "publishedAt": "2026-09-16T16:33:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T16:46:34+09:00"
+  },
+  {
+   "id": "6645dd982a8dfbd3",
+   "title": "[IR]카카오 \"1월 1일 분할기일 이후 분할비율 재확정\"",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YUUMxZEJ5RFpkUVdodkQ3V0VlMUFoTjYxS2tzSTI2WTdET3dFWWlOUElYeF85algtd0s4MzBBV2pUSms2YmRzelVkNWFLN0tzSi10T0I4SzJQb2pNSWkzU09YbjBlRjlK0gFuQVVfeXFMTW5xbWNMd09NTmV0RnpWMm5rMC1yV2w4WFk4dlcxamRZUFJVRG92UlBCN1hPS2g3a2lJeVliangwa3Z6MFF4QkN2Z2RLbFIyclZaZWlfdmFkTTh5ckt6QVV6dzdXMHE1cmpwX0ZSTGc?oc=5",
+   "publishedAt": "2026-09-16T16:19:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "분할비율 0.36 / 0.64",
+    "일정(12/17 주총, 27/1/27 재상장)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T16:46:34+09:00"
   }
  ]
 };
