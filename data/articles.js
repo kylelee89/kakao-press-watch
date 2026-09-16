@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T16:46:34+09:00",
- "runCount": 1251,
+ "generatedAt": "2026-09-16T16:57:00+09:00",
+ "runCount": 1252,
  "price": {
-  "price": "33,700",
-  "pct": "-2.32",
-  "at": "2026-09-16T16:46:36+09:00"
+  "price": "33,650",
+  "pct": "-2.46",
+  "at": "2026-09-16T16:57:01+09:00"
  },
  "articles": [
   {
@@ -31133,6 +31133,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T16:46:34+09:00"
+  },
+  {
+   "id": "0a0910548e2ddc96",
+   "title": "카카오, 인적분할 승부수…“복합기업 할인 해소하고 AI 집중”",
+   "outlet": "아시아타임즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MNGJOc2N3WnI2dlZfQ1dTN01qMzc4cUc5clV0QmFXcmRBYTZFSUZFeHh5OUU5X1JOcXBwSll4VHprTWVWYXNaekd6YkczNnNQX01qU3pxLWxRYUpvTkE?oc=5",
+   "publishedAt": "2026-09-16T16:50:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T16:57:00+09:00"
   }
  ]
 };
