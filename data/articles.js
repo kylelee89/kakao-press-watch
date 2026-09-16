@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T17:29:04+09:00",
- "runCount": 1255,
+ "generatedAt": "2026-09-16T17:39:31+09:00",
+ "runCount": 1256,
  "price": {
-  "price": "33,600",
-  "pct": "-2.61",
-  "at": "2026-09-16T17:29:05+09:00"
+  "price": "33,550",
+  "pct": "-2.75",
+  "at": "2026-09-16T17:39:33+09:00"
  },
  "articles": [
   {
@@ -31265,6 +31265,32 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T17:29:04+09:00"
+  },
+  {
+   "id": "024544f42ae6730b",
+   "title": "\"회사 분할해도 지분 안 줄어요\"…소액주주 달래기 나선 카카오",
+   "outlet": "edaily.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhCOVhlclRCSXpOLXdKellQdEJVZ2UxQldmT3JKNUgzcm9NMzR6MVJxSDN1VjE0M2piVTM3LThVV3RiSjJOT1VMT1lobDVKdnhGckgwUDJPd0pndkNwM09ySXh4ejdDcS02R2pROFpSdzJZVEdjbDNZSWJNMnlsaQ?oc=5",
+   "publishedAt": "2026-09-16T17:34:11+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T17:39:31+09:00"
   }
  ]
 };
