@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T18:13:10+09:00",
- "runCount": 1259,
+ "generatedAt": "2026-09-16T18:24:26+09:00",
+ "runCount": 1260,
  "price": {
-  "price": "33,700",
-  "pct": "-2.32",
-  "at": "2026-09-16T18:13:10+09:00"
+  "price": "33,600",
+  "pct": "-2.61",
+  "at": "2026-09-16T18:24:27+09:00"
  },
  "articles": [
   {
@@ -31640,6 +31640,79 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-16T18:13:10+09:00"
+  },
+  {
+   "id": "9673cf50be68a394",
+   "title": "설명서의 예시가 실제 규칙과 어떻게 연결될까? 토토 메이저사이트",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOazg5VzR3eWNoQnJjcnZlU1pQR0o0N01iT1ctaXhvOEdWY2xtbEpvb2xOUHNGdXVnRENCdUttanYtWS1yamw5NHUzeTctQS1EanVIZm9TYzV4UG11OGJYXzVqOFR5ZmxuUElHT2xlVTY0cmlBbVpGNDN6bVhUcTVwOERTMjZQeDZtdTFWR2l4X1FlYjY1R2N5b2NmekNNbjBaNnR6blNlUEJkNUNmSFFmbldRcXVvUmdDdWV1U1RCcVNGWDlnZXp6YUxyRXRqNTVK?oc=5",
+   "publishedAt": "2026-09-16T11:37:50+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:24:26+09:00"
+  },
+  {
+   "id": "6a1d75790c66dd3f",
+   "title": "카카오AI, 2030년 6조원 매출 목표 제시",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZXzVlUW5ackJhTWdNQVNwa0ZJNnA0Z3NqU2pOQjRPOG54Z0w4UUhaSU9XSGExTzlobWpUbGF3RnJ3eDVzVkxZVUJKTjk5WDQ?oc=5",
+   "publishedAt": "2026-09-16T18:05:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:24:26+09:00"
+  },
+  {
+   "id": "7e89fa850ffa4e8e",
+   "title": "카카오, 인적분할 주주 설득…AI 매출 1조·3년간 3000억 자사주 소각",
+   "outlet": "디지털투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUnpFNHJnZHMyRkg3X2hNRnVwQ2dPWG1nZktNakN4T05rMUJzSWE0d0hmLW1DVmFxM3VYSDNmbkhRQWZNeU5DNlZLMzNQV2s1RzF2UmptRk1MdkJjT19aNEZvcFQ2aEpiUklIbzlTeWx2d0U?oc=5",
+   "publishedAt": "2026-09-16T18:16:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:24:26+09:00"
   }
  ]
 };
