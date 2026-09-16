@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T17:39:31+09:00",
- "runCount": 1256,
+ "generatedAt": "2026-09-16T17:50:53+09:00",
+ "runCount": 1257,
  "price": {
-  "price": "33,550",
-  "pct": "-2.75",
-  "at": "2026-09-16T17:39:33+09:00"
+  "price": "33,650",
+  "pct": "-2.46",
+  "at": "2026-09-16T17:50:55+09:00"
  },
  "articles": [
   {
@@ -31291,6 +31291,54 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-16T17:39:31+09:00"
+  },
+  {
+   "id": "a2180c0dfbf794eb",
+   "title": "카카오, 인적분할 후 2030년 매출 6조 청사진…통합멤버십 준비",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLN3BEYnBMTTFhS0pFeTlKcFV1VkphaXhVbHQ3ekxzcFpUaE52V2h5MHdxQnVtUDVrWEhCZDdLZ0VzWXN2X2V1ODJnZmVVVW8?oc=5",
+   "publishedAt": "2026-09-16T17:36:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T17:50:53+09:00"
+  },
+  {
+   "id": "06ae1210c8d4c379",
+   "title": "카카오 \"1월 1일 이후 분할비율 다시 확정할 것\"",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNZmZvdFhvbm90LUtxUlo5VDVBWk02dmdnMi1mMHJIQk1wR3kzZE1vSko0bERxdDRnS3RIdGtaSTVaaEYwc08wa3c3VHZmLXB3Zi1CZTFRUGhKcWdTWjhOUFl2ems?oc=5",
+   "publishedAt": "2026-09-16T17:44:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "분할비율 0.36 / 0.64",
+    "일정(12/17 주총, 27/1/27 재상장)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T17:50:53+09:00"
   }
  ]
 };
