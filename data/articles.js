@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T17:18:39+09:00",
- "runCount": 1254,
+ "generatedAt": "2026-09-16T17:29:04+09:00",
+ "runCount": 1255,
  "price": {
-  "price": "33,550",
-  "pct": "-2.75",
-  "at": "2026-09-16T17:18:40+09:00"
+  "price": "33,600",
+  "pct": "-2.61",
+  "at": "2026-09-16T17:29:05+09:00"
  },
  "articles": [
   {
@@ -31200,6 +31200,71 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T17:08:20+09:00"
+  },
+  {
+   "id": "99b33ecf812d701a",
+   "title": "처음 진입한 보너스 화면을 읽는 룰렛 도박 게임 조작 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVRtT0lGV2M4cmg5eklKelFuXzBzcUZ4MFcxOXFaa2RQUDhMdjAzcFJydkJxdmhhOGh1ZXlpMzNqVWdnX0wyQlRfeVBhalBmMlljNmtsT0ZRN2VBWUoxcmNoelI5R1FUWGl5QVdDQ3NSYnVRNFBMWW5tNWk4bXotMGpXMGEwNWp4UEVPTWFZNlZ6ZndQMVZGOVpRNVdsbHJYSk0xdG9PSFc?oc=5",
+   "publishedAt": "2026-09-16T12:37:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T17:29:04+09:00"
+  },
+  {
+   "id": "5a9745ff95965f94",
+   "title": "규칙을 읽고도 남는 토토 로고 ai 세부 질문",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMWJFUmgwbTBpdzBiU29Ncmp1d2JUUXoxSmFNeTcwcWplNTV2TC1Ya1ZMX3JFaHBmSFRHejdBM3VXSUxLd1hreU9BdjVCYzVwZmZmczRTTDNTdXZfTVB2VnlBWFpnMDhEQTViMU1melRfOHZ5TG5BTkh1a0trYjNPZ0dvQU5tdVVpdTFBb2RVaW5kZFI2b2xDZ1oxcHlBMWZKMVNteUc1cDVSVVRL?oc=5",
+   "publishedAt": "2026-09-16T09:18:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:고도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T17:29:04+09:00"
+  },
+  {
+   "id": "147d5ffc01927248",
+   "title": "타워 팰리스 토토 인식 디자인 패턴 상세 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT2xSczlGNmgtUFc4dFF2UF9Pc0pacW9SYnZIQmNqOWw4ZVo1N3ROS0ZpbXVJeFJqOVM1NU1vYnBNYS1wUGlMaEdHcG5kdEYyY2w2X09xSVVPTjVVSXNOMlNlaEIyZ2E2R3g0V3BNV1QwUUM2YW5MQ0VqY081bU1XYlRxNmlWckhlcFNSWWxEMl9NeXZLX3hnbnVlc1JJYVpRUm1YUy1xWi13ZEdxay1DZDVINmRWRlZKWXVCVl91Y1RsWHFsNUxTSTBzOElVZTlzMEtJ?oc=5",
+   "publishedAt": "2026-09-09T22:23:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T17:29:04+09:00"
   }
  ]
 };
