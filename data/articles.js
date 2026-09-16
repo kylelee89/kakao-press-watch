@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T15:00:26+09:00",
- "runCount": 1241,
+ "generatedAt": "2026-09-16T15:10:47+09:00",
+ "runCount": 1242,
  "price": {
-  "price": "33,550",
-  "pct": "-2.75",
-  "at": "2026-09-16T15:00:27+09:00"
+  "price": "33,400",
+  "pct": "-3.19",
+  "at": "2026-09-16T15:10:48+09:00"
  },
  "articles": [
   {
@@ -30949,6 +30949,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T14:38:32+09:00"
+  },
+  {
+   "id": "704aaa06f6a0f495",
+   "title": "사설 토토 적발 확률 디시 라운드 종료 후 남는 화면 정보",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNY1dKbFFjbUVmYUdMZFlBZG55RzZUWWVUSFRfQ0VTVlVJNUx0TjhMTmhjM081RGZpeEJuOGwwc2o3WWx6aXVSb2hkbmM2NEtUejAtTlBuclZIRzc5ODJkOXhPbl83TVY2N2NfUGRWQXJFRDRDV1YwMWNNLVB5MDBlYXNVa2RRQXVLa29MV1ZTVk4yV2plaFFqZGhOVTlMZ0hEcmhGNzAwTE55RVFmMHE0V1Y2YXNtLVBWbzQ3djJENXFNc2NCd3I5ajBpUXhCSFh6SzVjOGJBNGgtaExJZGpKTGRpb1hLN2pXZ2QxUkF2WnM0d0h5RXVMalN4RlRrbjlOdUFtdWRKZGM?oc=5",
+   "publishedAt": "2026-09-16T03:48:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T15:10:47+09:00"
   }
  ]
 };
