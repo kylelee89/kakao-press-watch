@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T13:25:52+09:00",
- "runCount": 1232,
+ "generatedAt": "2026-09-16T13:36:15+09:00",
+ "runCount": 1233,
  "price": {
-  "price": "33,750",
-  "pct": "-2.17",
-  "at": "2026-09-16T13:25:53+09:00"
+  "price": "33,700",
+  "pct": "-2.32",
+  "at": "2026-09-16T13:36:16+09:00"
  },
  "articles": [
   {
@@ -30894,6 +30894,40 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T13:05:07+09:00"
+  },
+  {
+   "id": "cd451593368069a0",
+   "title": "카카오 인적분할 가시밭길… 주가하락에 개미 반발",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVWpCY1RyY3duZHJMY3ZxNmYwQ01YLWFfNGFrN2lYNnM0bFppd3NRN0JTMVcyc0ZkSTk1N0duekFBZmNVN3Q1eWJrODVLWXQ4NHpBZFk5YXU3SE9BTldLOVlsa3NuQkVOZm1fQW5pSXfSAXRBVV95cUxNdWlTVzBYSXhmWVEzT3ZhQmpiTDdQR1pJeEd6bjlqWnJ5a29Ja3ZEbG8yVWxoMmN3TWFndk5ZblZWMk85NzFUazVDNFhGbkJlY1Z2anQ3WFdQbmY1WjdYOHlNUmN3emtTbmlUQzdZNEtaNDZ0UQ?oc=5",
+   "publishedAt": "2026-09-15T06:40:00+09:00",
+   "tone": "우려",
+   "toneScore": -8.2,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:하락",
+    "적대어:가시밭",
+    "적대어:반발",
+    "적대어:개미"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "하락",
+     "가시밭",
+     "반발",
+     "개미"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T13:36:15+09:00"
   }
  ]
 };
