@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T16:25:42+09:00",
- "runCount": 1249,
+ "generatedAt": "2026-09-16T16:36:08+09:00",
+ "runCount": 1250,
  "price": {
-  "price": "33,600",
-  "pct": "-2.61",
-  "at": "2026-09-16T16:25:44+09:00"
+  "price": "33,650",
+  "pct": "-2.46",
+  "at": "2026-09-16T16:36:10+09:00"
  },
  "articles": [
   {
@@ -31033,6 +31033,58 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T16:25:42+09:00"
+  },
+  {
+   "id": "948ba4ecba34c7c4",
+   "title": "김도영 카카오X 대표 내정자 인적분할로 AI 정체성 확립",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xMm5LNy1HSmE4Tkh2NXlZNDdsQmwtdGNza2RwTk00VW9GNUk5Ynp0TzhxWlNEaHZJUUJsM2JXemFaZGk1akhweDhBaU0xWW1ZRWZ2NmdtTkxxUdIBWEFVX3lxTE9Da0NJeGlaWVdXa01YUDBOTjhhMVhMeS1lM2l3ZjZaT0F5cW15RTNUdDR6Ylg3TlZVejB3MnhQaGtGblhHVTFRNmtqZzlWbXIwT2pkZEluLXE?oc=5",
+   "publishedAt": "2026-09-16T16:21:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T16:36:08+09:00"
+  },
+  {
+   "id": "64ab1a60a93c9b79",
+   "title": "스타트업에 밀렸다…자율주행 지각생 카카오모빌리티, 우버 수순? [팩플]",
+   "outlet": "중앙일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5cEQyVE9pVVRsOU9xdFBQN29uTEhIOGwtQWUxa0tINjVkaDVsQmtOdmc4anRocVJlenNJenU4T1h4MUdsOXhVeXM2T3EwOUF5U0x6TDhR?oc=5",
+   "publishedAt": "2026-09-16T15:49:17+09:00",
+   "tone": "우려",
+   "toneScore": -3.5,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "물음표:?",
+    "적대어:지각생"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "지각생"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T16:36:08+09:00"
   }
  ]
 };
