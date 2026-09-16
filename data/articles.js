@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T18:34:45+09:00",
- "runCount": 1261,
+ "generatedAt": "2026-09-16T18:46:01+09:00",
+ "runCount": 1262,
  "price": {
-  "price": "33,650",
-  "pct": "-2.46",
-  "at": "2026-09-16T18:34:46+09:00"
+  "price": "33,700",
+  "pct": "-2.32",
+  "at": "2026-09-16T18:46:01+09:00"
  },
  "articles": [
   {
@@ -31863,6 +31863,143 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T18:34:45+09:00"
+  },
+  {
+   "id": "abebcc30c1a11db6",
+   "title": "카카오, 인적분할에 주주달래기…“기업가치 할인 줄인다”",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aRjhMSFV5NzEyUVFXdGFBMlI2NjVUV3VkUUhabmN6Y3pkSDJnTnJCbWNIdmlSRm1RS0haLXJWLURPNWlWSE1rUDJXN2Q4b1U?oc=5",
+   "publishedAt": "2026-09-16T18:32:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:46:01+09:00"
+  },
+  {
+   "id": "5da0936118419326",
+   "title": "소액주주 설득 나선 카카오…“분할 후에도 지분율 그대로”",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vQjVKR0xDdl9LSExwaElfMm0xV2tkTjNIZnIwcnVOQ1lLNzdIWGlwVERkMllnRXFTZVNaWEUwOFdxNEtMVEJMQ0pHaVY4N1pZd1FDeFBpMXFDQWNlbTgyazQwN0g?oc=5",
+   "publishedAt": "2026-09-16T18:38:20+09:00",
+   "tone": "중립",
+   "toneScore": -0.4,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-16T18:46:01+09:00"
+  },
+  {
+   "id": "1ccf6f0b25a6ec75",
+   "title": "인적분할 후 ‘매출 6조’ 내건 카카오…AI로 새 성장판 짠다",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96U1FKcjM5eEhtOWp2dHRNaWgxUmdpZlBobGYtYTBfNjZIWmlsY1ExUThOY1hBNF9FYjZUS2ZBUS1aQ0x0MkFGS1VqeGJ4Zk0?oc=5",
+   "publishedAt": "2026-09-16T18:32:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:46:01+09:00"
+  },
+  {
+   "id": "37fdaf3e557989af",
+   "title": "파라다이스 서울 카지노 컨설턴트를 위한 친환경 에너지 권위 있는 가이드",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Ml9uaEhMMkVxODhnVWtKTHpER0tzdXNQTDgySTBUVl9tNjh4SnFGeGFtcWRpTEJadGIxR3R1NjVYRGZaMzFGQnlWdHQtdE9xcXkxNTV6N09GdWwyVFVWUlFRR3Q5MGNpMHJ5RW5qMA?oc=5",
+   "publishedAt": "2026-09-06T01:40:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:46:01+09:00"
+  },
+  {
+   "id": "a03f0a476780a1ad",
+   "title": "중국 슬램덩크 모바일 고객 서비스를 위한 리더십 최선의 실천",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb1FzQ2FRY0FfVTVZRDUxNVpSLThQbHcwR3pNNERFOWhyMlpTYVI2UlB3UHI1cmhxckh5amxPQlV0Y3VDNWFPWEpHbkVQNDZUXzZSZWprZGlfeThnYTFIbjBSZWQtajJuYnQ3MTBINVp2ZjJEdDBtVnVoMkpVb0p1U0FMM0k2NTZLM0x5SVNoWnh2TS1INzliNEdsdGxObERyMTNabG5VTWs?oc=5",
+   "publishedAt": "2026-09-07T17:59:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:46:01+09:00"
+  },
+  {
+   "id": "4b7e4e24993122ec",
+   "title": "바카라중독 의료인를 위한 알고리즘 설계 실전 기술",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS1UtREZfNDU1dlc4LVI3cThBRVVWYnBaaUlabjNhZWV6aHl3WlVLSnhBdU0welFZd0JCZWRfZ20xcUM3dnA3T3JJRkxBSFhjaElTUWdfOV92UUlwb0VwckV5aUJEczNDbFlZNkRzS2lLd2lNSHFKRzVENmxjOENhMXFnekdVbjFISWMyRzRyMld1V2MyOFRDZnMwZXBROFp3Zk9LaDU0cHFpc3NOdDZ2emNlMlVtODVWcGpLTTcycy1xU01uc3ZiYjZtT0M0LUlLaXBSYlpfNUR0QkRTQkR5ekJ6X3ZfLWNWRUcwaTlNRHN0dw?oc=5",
+   "publishedAt": "2026-09-15T00:56:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-16T18:46:01+09:00"
   }
  ]
 };
