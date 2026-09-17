@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T18:31:54+09:00",
- "runCount": 1310,
+ "generatedAt": "2026-09-17T18:42:21+09:00",
+ "runCount": 1311,
  "price": {
-  "price": "33,650",
-  "pct": "+0.45",
-  "at": "2026-09-17T18:31:55+09:00"
+  "price": "33,600",
+  "pct": "+0.30",
+  "at": "2026-09-17T18:42:23+09:00"
  },
  "articles": [
   {
@@ -34985,6 +34985,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T18:20:31+09:00"
+  },
+  {
+   "id": "fe9cae9735c2b93d",
+   "title": "카카오 소액주주 간담회 통해 향후 비전 및 기업가치 제고 방안 공개",
+   "outlet": "게임포커스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtcVZCSWtXcXNDS3NTYVVsOEZ6OU5VVlZ0Ulg4YTBxbU5RSGlpX1NjTDU1WUNFdmdlN1dOMDVRODU2ek1nbm82eHFBdHVPcEJpVUZIOFczSFVSZEI5bV9vZA?oc=5",
+   "publishedAt": "2026-09-17T10:42:32+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T18:42:21+09:00"
   }
  ]
 };
