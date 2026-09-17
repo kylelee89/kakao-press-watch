@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T04:22:43+09:00",
- "runCount": 1366,
+ "generatedAt": "2026-09-18T04:33:55+09:00",
+ "runCount": 1367,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T04:22:44+09:00"
+  "at": "2026-09-18T04:33:56+09:00"
  },
  "articles": [
   {
@@ -35389,6 +35389,81 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T03:40:44+09:00"
+  },
+  {
+   "id": "db2bcf6ce9984604",
+   "title": "“AI에 집중하고 주주환원도”…카카오, 인적분할 계획 공개",
+   "outlet": "the-pr.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wejJKM2Yyazg0VncxY2J0X2luVmJUclFTbUI3NmFEQ2xjRlcyb0RULWRqQ0NVRm9XNzlDcS1yLXp2SUwzdlVnd0RCWEowbk5fbGdCbzhvUGdyQUlNM3c2eXhaRVJiUTVNMG5zTUxB0gFuQVVfeXFMTzB6MkozZjJrODRWdzFjYnRfaW5WYlRyUVNtQjc2YURDbGNGVzJvRFQtZGpDQ1VGb1c3OUNxLXItenZJTDN2VWd3REJYSjBuTl9sZ0JvOG9QZ3JBSU0zdzZ5eFpFUmJRNU0wbnNNTEE?oc=5",
+   "publishedAt": "2026-09-17T13:45:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T04:33:55+09:00"
+  },
+  {
+   "id": "9fb8570456fa0bdf",
+   "title": "카카오 \"인적분할로 기업가치 높인다\"···노조 \"소통 아닌 '쇼통'\" |",
+   "outlet": "현대경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRlVQSFpOR0NISjZmTnlWYW5sMG1lMF84eFNHOUZmQ05Vd1kyRXRpYjlyQlVBTmxmUUY0YnFYdzFWZ3dVLWVoSVpzQnpWX25VUjUtcFNYSnR3VzVRTGI1OGZpa1JrbnMxa2U4?oc=5",
+   "publishedAt": "2026-09-17T16:53:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T04:33:55+09:00"
+  },
+  {
+   "id": "a526df987784860e",
+   "title": "카카오, 소액주주 대상 인적분할 설명회 개최",
+   "outlet": "한스경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tUTZodmN3eld3V09DVVBiZ3RUUTY0VzNITzZ0eUhHalhxa1hxOXl6aEVTUW1uQU01cE9FYk95ZHJUa2J5b3BlaUJYZEVLS3l1bFYweUI2RjNRSWdraGVyNzlnclhPaGIyYjVz0gFvQVVfeXFMTTJUNURPaFE4dG4wMVJSYTd0dW9QME1uTF9oLXNETGdWTUZsMm1SM2xiTVpERlhfOEJXNGQzMXhKTEY0SWljWG5LUGd0bmlhMzg4UEZCcW1jenB2bXR2TC1paEphZlZmb0Q5czQwU280?oc=5",
+   "publishedAt": "2026-09-17T15:53:23+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-18T04:33:55+09:00"
   }
  ]
 };
