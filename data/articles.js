@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T16:07:20+09:00",
- "runCount": 1297,
+ "generatedAt": "2026-09-17T16:17:45+09:00",
+ "runCount": 1298,
  "price": {
-  "price": "33,550",
-  "pct": "+0.15",
-  "at": "2026-09-17T16:07:21+09:00"
+  "price": "33,500",
+  "pct": "+0.00",
+  "at": "2026-09-17T16:17:47+09:00"
  },
  "articles": [
   {
@@ -34639,6 +34639,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T16:07:20+09:00"
+  },
+  {
+   "id": "07b4bc2e7af0e7e2",
+   "title": "카카오, 두나무 매각차익 30% 주주환원",
+   "outlet": "글로벌에픽",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42OGx3YmNqbHA2MFNiMGwydTNKU2t2MU5HcGlQWmNlREZSOG42VTV5Tl9mQmlZcW1jclRZOHNsZUJpdXVLTmdNVjZJWk1YaGlvay11aVVSVklkbFFYVUJpenRVRzFyOWRCRkk4ZGRxTU1samozTkxYWG03YmI?oc=5",
+   "publishedAt": "2026-09-17T11:43:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T16:17:45+09:00"
   }
  ]
 };
