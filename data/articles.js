@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T12:24:42+09:00",
- "runCount": 1276,
+ "generatedAt": "2026-09-17T12:35:56+09:00",
+ "runCount": 1277,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-17T12:24:42+09:00"
+  "at": "2026-09-17T12:35:56+09:00"
  },
  "articles": [
   {
@@ -33978,6 +33978,32 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T12:24:42+09:00"
+  },
+  {
+   "id": "be7fab851f9814cf",
+   "title": "카카오, 인적분할로 2030년 카카오AI 6조·카카오X 10조 매출 목표",
+   "outlet": "스페셜타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNX1c5QTJsajNsV2VTSjB6RDRGNmF2RWJmRlg2ODk5T29mcU1wMWdhRnRnUDVFLU9PRmUxVm9tT0g5bTl4ZHRVdHZIcnd4bVNyd0liYUN4RTJEM09fNEtLXzhra1Nkak1yX3prN2JXa19MZw?oc=5",
+   "publishedAt": "2026-09-17T10:04:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T12:35:56+09:00"
   }
  ]
 };
