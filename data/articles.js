@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T08:34:11+09:00",
- "runCount": 1390,
+ "generatedAt": "2026-09-18T08:44:29+09:00",
+ "runCount": 1391,
  "price": {
   "price": "33,500",
   "pct": "+0.00",
-  "at": "2026-09-18T08:34:12+09:00"
+  "at": "2026-09-18T08:44:29+09:00"
  },
  "articles": [
   {
@@ -35573,6 +35573,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T08:02:21+09:00"
+  },
+  {
+   "id": "b63843c6367d6596",
+   "title": "카카오, 인적분할 청사진 공개…노조는 소액주주 간담회 방식 비판",
+   "outlet": "테크월드",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RRklXV0NXZDZXOEdMMWpXZ3NVd2xWQ08yRENTaEJndjNTbEk5RWpzemVUbWxXWV96VWpubFR6R3huSnFOay1aZGI2VXFoQUNsVkZuQUtkT29qY3d0NHJCTGhzZlA2bHN2?oc=5",
+   "publishedAt": "2026-09-18T08:30:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-18T08:44:29+09:00"
+  },
+  {
+   "id": "2df3823767759df7",
+   "title": "순서대로 따라 읽는 카지노 시즌3 차무식 한 판 설명",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMEJyRGJheVM2TmdfZGRhdF9qVS0tU3N2SlVwenhkYm5GOFpWRnF3cnFRdDFKZWJIMDJIbU5NVEFnT1VHRkhELWZaZVBfa05rbjNnaDdteXRHcGdBeXRLdjN3RXpyNTN6bXVoVjhQdDlfVTFLRFVvVzdSeVFNRlB6RWQwemNCVmhueVRtckVBcWZvejBUeFo5MnkydDdfalVGYUk2cEJJS2tMWFlmeXh1WGRrUQ?oc=5",
+   "publishedAt": "2026-09-17T22:03:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T08:44:29+09:00"
   }
  ]
 };
