@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T03:30:29+09:00",
- "runCount": 1361,
+ "generatedAt": "2026-09-18T03:40:44+09:00",
+ "runCount": 1362,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T03:30:29+09:00"
+  "at": "2026-09-18T03:40:44+09:00"
  },
  "articles": [
   {
@@ -35368,6 +35368,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T02:47:31+09:00"
+  },
+  {
+   "id": "f1f77421a6dc3420",
+   "title": "주가 13% 빠진 카카오, 3000억 꺼냈다",
+   "outlet": "sisajournal-e.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hekFuTEUtY081VXI4bmVYU2pVcWxaOC1DekFyaGU4SHdWRXpBdmFQT29fYUN4dGQ0ejRGaHpXRTBGdHNVT2xDckJGUlBidWpYWGVjcE0wS3BWM3JxLXBLRWJ2TmpnRlF4dU8wQ2ctdlZqUdIBdkFVX3lxTE5lbWNvbHk1VXp3ZFlFWk0zYWJEWXFHcmQ3czN2N3FabUFMSERqX01KUHJ2VTRDbm83dlZscG9FRkQyMXp4UmJYcE5XS0VNaDJCZ1o2MXhYMHpUdHpQQVBOZVAwMXVNSWJuYnpva2ZWVXk2MHdOUlE?oc=5",
+   "publishedAt": "2026-09-17T17:00:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T03:40:44+09:00"
   }
  ]
 };
