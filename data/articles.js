@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T02:37:15+09:00",
- "runCount": 1356,
+ "generatedAt": "2026-09-18T02:47:31+09:00",
+ "runCount": 1357,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T02:37:15+09:00"
+  "at": "2026-09-18T02:47:31+09:00"
  },
  "articles": [
   {
@@ -35326,6 +35326,48 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-18T01:00:55+09:00"
+  },
+  {
+   "id": "f516d2ce64a247ec",
+   "title": "선택형 보너스가 있다면 살펴볼 에볼루션 코리안 딜러 조작 규칙",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQLUhxcGhrT2FDSEpHLVZZalM4bVVoTXFnXzhiZ3diSlQzRFlZdTRxaVVHT3NoSTBUSXVONTQzY192ZHBWdmhsX25pLWdHclNMSUlKUHZJZVI5Y2pYWmVNelVlRjlsdEFJSU55S0hQRUVDNWRjekdLOF95bjlDaE9tUVZ2UUNJaW1mdE1rYWZVdEF1bDRrZDlFb2tpb3lPSEFma0tDdkhEVmhUNllxMVYwNTVUVWVfWEdqdzNOX2NQV2o1ZUpZV2FycV9NOFo1Y0Vpc0J6cnB0OFlSWS1neFR3cXJDa0dzQjIya21DTWxUSjZhRVRpVW53YmtxbWVSS0F2a3p2THloR21vR0dTYXczbm93WU56LVNyQnhaeUl6TTMwUTY0a1E?oc=5",
+   "publishedAt": "2026-09-17T18:38:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T02:47:31+09:00"
+  },
+  {
+   "id": "0d172dc61f319bb5",
+   "title": "게임 정보가 바뀌었는지 확인하는 슬롯 apk 변경 기록",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVFKUko2aVBwcUg1RWNKTDlxdGdJbTdIaEFmTFZQVDNYZW03Qkh3cEl1YTNCMU9qclNmY0pHd2dObWZJbklUbHYwR0ViVUw3aFlyMVBDME1udjV5V2ZjTXhkcTBXaEg2OWtZTVJCOXI4SzJsaEN4SWEzSkF4MG80b1hyZERXR0QwakR2UWJ3d0VzdkszRkY5VF9QZS1hT0lEamFnN3R3?oc=5",
+   "publishedAt": "2026-09-17T12:13:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T02:47:31+09:00"
   }
  ]
 };
