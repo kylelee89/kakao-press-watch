@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T17:46:54+09:00",
- "runCount": 1306,
+ "generatedAt": "2026-09-17T17:57:21+09:00",
+ "runCount": 1307,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-17T17:46:56+09:00"
+  "at": "2026-09-17T17:57:23+09:00"
  },
  "articles": [
   {
@@ -34937,6 +34937,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T17:46:54+09:00"
+  },
+  {
+   "id": "fd71dc8241f3d8a2",
+   "title": "카카오 인적분할 초읽기…64.83% 소액주주 표심 잡기 총력전",
+   "outlet": "대한데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56YXRJemJleTBBWnpVTkZtc2FoMll4dktsSmRSTU9XcW5aeWN4QkxhR0NnQ3RPOGJCajFTei1FLTYtb2Mtd2NFb2hVbEdRTjl0VWp5cjBvQUdzR2lHMjh3bldPOEFGZ1l1Q0E?oc=5",
+   "publishedAt": "2026-09-17T17:49:26+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T17:57:21+09:00"
   }
  ]
 };
