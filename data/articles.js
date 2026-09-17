@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T20:28:26+09:00",
- "runCount": 1321,
+ "generatedAt": "2026-09-17T20:39:41+09:00",
+ "runCount": 1322,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-17T20:28:26+09:00"
+  "at": "2026-09-17T20:39:41+09:00"
  },
  "articles": [
   {
@@ -35115,6 +35115,58 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T20:28:26+09:00"
+  },
+  {
+   "id": "1c6c252e63e6d021",
+   "title": "카카오, 소액주주 간담회서 인적분할 계획 발표",
+   "outlet": "BBS불교방송",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KZk91OVJ0ckZGZU9wODA4VGgzV2VCZmJaSlFfOU5XS3h1aFltZVNEcVZhQXpwc0c5V1RwVzc5cWhUaFFad21DVV9nTWk4WkFlOHNXX0ZWNEtuVVpGa1AzOEVyUFJUZVVYRk44?oc=5",
+   "publishedAt": "2026-09-17T17:47:18+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T20:39:41+09:00"
+  },
+  {
+   "id": "1882cbbf924581ba",
+   "title": "기능이 끝났는데 화면이 남아 있다면? 카지노 시즌2 3회",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUYtZ3h6ZC1iN0pQaklvYndLZmthbVF6ODNHNFhpRm5QR3FfLVBLZTdxbElKY3NwOTR1NmUtWWZ1RHl0UEVweFdPWVV3OWRYNTM2M01pN2RGLUtadmQ0SXMxLVBzc1ZqMVFPSFVvcG5hcDc0YjhLVkVYVXphTXNyaFhkSGw1X3lMUEFYTlFoVS1pMHhzVzJlNk1aaEFIMExFa2NpME1n?oc=5",
+   "publishedAt": "2026-09-17T14:10:15+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T20:39:41+09:00"
   }
  ]
 };
