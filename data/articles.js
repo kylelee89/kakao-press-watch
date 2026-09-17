@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T18:42:21+09:00",
- "runCount": 1311,
+ "generatedAt": "2026-09-17T18:52:45+09:00",
+ "runCount": 1312,
  "price": {
-  "price": "33,600",
-  "pct": "+0.30",
-  "at": "2026-09-17T18:42:23+09:00"
+  "price": "33,650",
+  "pct": "+0.45",
+  "at": "2026-09-17T18:52:46+09:00"
  },
  "articles": [
   {
@@ -35010,6 +35010,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T18:42:21+09:00"
+  },
+  {
+   "id": "623843e770794c8e",
+   "title": "소액주주 설득 나선 카카오…분할 후 주주환원·사업 연계 강조",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vSFdMdDBEbmFkZFRWRk9zRm1ubk9sT0RWNDNXSkVtbW1GdmNUY1Jkb01BMmpGeDU2dGFRLWtDTzBoeXJwUWV2WENrWFluTVROaFJwdWtQM2VHSjFXN1pzWHM3bFJhQTNXa0t3?oc=5",
+   "publishedAt": "2026-09-16T18:38:20+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T18:52:45+09:00"
   }
  ]
 };
