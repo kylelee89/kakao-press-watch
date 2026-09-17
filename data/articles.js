@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T11:41:52+09:00",
- "runCount": 1272,
+ "generatedAt": "2026-09-17T11:52:30+09:00",
+ "runCount": 1273,
  "price": {
-  "price": "33,750",
-  "pct": "+0.75",
-  "at": "2026-09-17T11:41:53+09:00"
+  "price": "33,650",
+  "pct": "+0.45",
+  "at": "2026-09-17T11:52:33+09:00"
  },
  "articles": [
   {
@@ -33831,6 +33831,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T11:41:52+09:00"
+  },
+  {
+   "id": "6a8e195c65e3df99",
+   "title": "카카오, `기업가치 제고` 내세웠지만…노조는 \"소통 아닌 쇼통\"",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQQnF6OTB1aWdNSGNZbkYzSzVsbE81ZzRXcDFYZmllV2pnVjJvTVN6Y1A1aFQwSHhJb2ZpdDZ1NzhfbVBtbTJUc2ZpSWtLUGNqVnNWUFdodlV5b0hWclljMkFvbXY?oc=5",
+   "publishedAt": "2026-09-17T11:41:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "역접:지만"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T11:52:30+09:00"
+  },
+  {
+   "id": "1a7d4770b4cfc1be",
+   "title": "카카오 노조, 소액주주 간담회 비판…“질문 16개 중 14개 사전 준비, 소통 아닌 쇼통” - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVp5WHZkdnRFbXVXWEFjckV2VDl3dnpIRFNhdG14bjhjSXVhajF2V1pGU1NmR01UTmN3YVRPOXFrcC1hZG0wRnFLeF9jVTVMUmdCTmFMUU1oUFZFaUR4OTJVVEhadEFvMW5vRTZWWEJ2NUMybG53MGdaekhvbkRXNEZ30gGWAUFVX3lxTE9HT1FhUnYtYlBocENwOVZUeGRjYzBGZDNZVW9leXRMN1NLMk5BcU1HQ2lzdmVYY0syWnV1c0xTdGgzLThST05Jbll3VkU4bENMNkJlakJzQUF2cTVUWFFmeTh0dDRSVzBUWmN6MGFDV05FSlNtUGNycnJaejRyVlV5a0RVcW9qbktUTE0za1JDZTFLVk5OZw?oc=5",
+   "publishedAt": "2026-09-17T11:45:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T11:52:30+09:00"
   }
  ]
 };
