@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T12:57:30+09:00",
- "runCount": 1279,
+ "generatedAt": "2026-09-17T13:08:52+09:00",
+ "runCount": 1280,
  "price": {
   "price": "33,900",
   "pct": "+1.19",
-  "at": "2026-09-17T12:57:31+09:00"
+  "at": "2026-09-17T13:08:54+09:00"
  },
  "articles": [
   {
@@ -34057,6 +34057,54 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T12:46:12+09:00"
+  },
+  {
+   "id": "34abb997ecadad56",
+   "title": "카카오, 인적분할 소액주주 설득 나섰다.",
+   "outlet": "중소기업신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Zk0wVTFCbm1QbHh5dWIzaEFhQm90MFRDUzFGdmxxcm5SdjdxX1NLcW5jVF8wNUcxQjhTY0xHRXFNc0pGc2d1RFR5dEVzOHlpTFQxZ3hwWUxoSTVWaFlaYng5R0hhVkJBbzR1OQ?oc=5",
+   "publishedAt": "2026-09-17T12:59:48+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T13:08:52+09:00"
+  },
+  {
+   "id": "041015401b055c27",
+   "title": "더블에이포커 머니상 : 새로운 트렌드와 발전 방향",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGE0RXplc1F5N2tKY2c4NTd5bVBPSmZMNFlYUWZUUnFPelJjYVA3N19LdHctbEI1MFAwQ09ncTBtaDhab0xmVmt1SDNtYmxhakxUak5hZF9fWDdNdTRqeXdDdFhJTGxHZXpGWGtqdGM2N1Y4djRvYjVIeW5JaFNoY2NMUEZMalBqN1F6WWlQTnNnYnpYajkySHB1SWpKRW1va3BjNkIxdXAtc2pnb1ZvenA0QUdzSDBELUZLcjFn?oc=5",
+   "publishedAt": "2026-09-17T08:09:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T13:08:52+09:00"
   }
  ]
 };
