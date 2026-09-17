@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T23:57:10+09:00",
- "runCount": 1341,
+ "generatedAt": "2026-09-18T00:08:32+09:00",
+ "runCount": 1342,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-17T23:57:11+09:00"
+  "at": "2026-09-18T00:08:32+09:00"
  },
  "articles": [
   {
@@ -35238,6 +35238,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T22:34:04+09:00"
+  },
+  {
+   "id": "366787afed53cdb9",
+   "title": "아이콘 설명이 제공되는지 살펴보는 룰렛 플래시게임",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLWE4VXhSSU9nUWlhaExwSXFzY0Y0YThkRHd4bjlLamhIVjhwY3JVZHNSXzRzUmpqQmk4cV82Z1R3NjBOUVlvaE9PbEcwNnJDVFRjQXc1YzIxckk5ZGVETzVfYWQtOUMzaHliX0dQOUVXSlFrODQxa0VnN1YzVW9EZUVSVEdGOFV6ajN6UE1FWDI4ZUs2V2pKUUd4SzN3cUo2eThGNmc3NXA5WG9IWGwzSjBGdTlCbXJwWF9mQTZvOXZnQm1WaC1ubEp5LWZuWDMzWGJpV2VMMHIzbk82Z0hWTzJUQW9HSHNfWXljREFhWHVWV2c1LVE?oc=5",
+   "publishedAt": "2026-09-15T03:48:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T00:08:32+09:00"
   }
  ]
 };
