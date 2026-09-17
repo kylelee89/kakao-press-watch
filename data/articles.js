@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T13:50:35+09:00",
- "runCount": 1284,
+ "generatedAt": "2026-09-17T14:01:00+09:00",
+ "runCount": 1285,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-17T13:50:36+09:00"
+  "at": "2026-09-17T14:01:01+09:00"
  },
  "articles": [
   {
@@ -34248,6 +34248,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T13:50:35+09:00"
+  },
+  {
+   "id": "e0893659966f0e03",
+   "title": "카카오, 2030년 매출 6조 목표…내달 AI 에이전트 시연",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ubUlsZXJWcXdZNU9xTEtjUDR5YXg4SFdGNC1NQUhZSkRXNmYzRzZmRFNoWFAzQ3E0RzRSUF84aTlWLUVHeVBDREVtU29CUQ?oc=5",
+   "publishedAt": "2026-09-16T18:01:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T14:01:00+09:00"
   }
  ]
 };
