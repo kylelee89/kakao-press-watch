@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T16:30:05+09:00",
- "runCount": 1299,
+ "generatedAt": "2026-09-17T16:40:42+09:00",
+ "runCount": 1300,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-17T16:30:08+09:00"
+  "at": "2026-09-17T16:40:45+09:00"
  },
  "articles": [
   {
@@ -34662,6 +34662,110 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T16:17:45+09:00"
+  },
+  {
+   "id": "bc8ae110d4bcb036",
+   "title": "카카오, 인적분할 최대주주 24.1%로는 부족…소액주주 표심이 변수",
+   "outlet": "PRESS9",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZ1QzQi0yTG9MRFVNOXRCSE52V2c5angzb1pvejZXX2VYcVo4bmJtMVhVTW90WEVZZ3BwVm1HNjhkanNZOXpuaXhFZmk5Z0NyTVRpRkItbF9aS3NybmpqSUJvQ2Q?oc=5",
+   "publishedAt": "2026-09-17T16:27:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T16:40:42+09:00"
+  },
+  {
+   "id": "10ee821dc9e9511d",
+   "title": "카카오, 인적분할 앞두고 소액주주 간담회 진행 “기업가치 제고”",
+   "outlet": "디지틀조선TV",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YbkVjd19Na2xkQk5fUE1CQ2w0elVMS21ZVHhFekI3MFo5X3dIdXlyWkllZmNad0pVeURERWZYUGJVQVgydC1hNnNBSEdaZ3FHZWJfTGxYZHg4cEg2cWFhYnVkV0VGb1JTT1UtaGo1c3NQSnRZS2t0MEFBaHA?oc=5",
+   "publishedAt": "2026-09-17T16:30:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T16:40:42+09:00"
+  },
+  {
+   "id": "05228ce8fc1d2ecd",
+   "title": "카카오, 분할 후 성장 청사진…2030년 AI 6조·X 10조",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xaFllYi1hSG1fTTF1bzhLcjQ0N0FoTUNRN0xFLW9BOWRXMUxjTVBBYzlPNWFITHgtcW5jV1dNaFFsckxNaHNwZUFZYmdjaGFPZzU5bzlaWVpXV2NEQktQQm50N190RWhRaTE3SUEtT2FYWXPSAXdBVV95cUxQR2dzUlFsUUdHSzVyRXFBaXVOcThXaE1fQ050ZTF3ZEhrdnJnSG1UTWVlb2k1RXAyTm1kZE9sTWU0UnNBYVJfM25NRkxBVk9JeldWcGZIYmNnY1o0QUpiRGI4ODBfaTZaV21SSTZqZ1Q2aTFOMWhiUQ?oc=5",
+   "publishedAt": "2026-09-17T09:55:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T16:40:42+09:00"
+  },
+  {
+   "id": "946f632781a2bcc0",
+   "title": "카카오, 자회사 합병 계획 無…상장하면 '중복상장 가이드라인' 준수",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yMnZkcmo3NW1EcFV3YnBNaldiSjk4Qi00SzZYb2NaSUcweDJOOGpKYjZKNS1XTU9MRFJlcWN1Qm5EUXpBLXVQazlRUmNZWUo0cXhuY0I4VXRzai00UUxMNEQ2Z2w?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:중복상장"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "중복상장"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T16:40:42+09:00"
   }
  ]
 };
