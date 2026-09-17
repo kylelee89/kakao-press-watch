@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T16:40:42+09:00",
- "runCount": 1300,
+ "generatedAt": "2026-09-17T16:52:16+09:00",
+ "runCount": 1301,
  "price": {
-  "price": "33,600",
-  "pct": "+0.30",
-  "at": "2026-09-17T16:40:45+09:00"
+  "price": "33,650",
+  "pct": "+0.45",
+  "at": "2026-09-17T16:52:17+09:00"
  },
  "articles": [
   {
@@ -34766,6 +34766,75 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T16:40:42+09:00"
+  },
+  {
+   "id": "7b68efa0a83b4bc8",
+   "title": "카카오 노조, 인적분할 주주 간담회에 ‘보여주기식 소통’ 비판",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fcEVHbWFCc29GekhiUmhUb3hleFFqMGMzYUh3UUFKNC1USTNrdzhjQ3FIUXhWS0lpVE4zU1FUNk9FR3c3aWtsajVHWjhPaG1OVG9meWpGazlEX1M2cF9saTVhclN1N2M5eEtvR2N6UHHSAXRBVV95cUxNdDhCRW14U2dHUlVaSjZuZmIwRGEtWkozdnQ4SVprVzItZ21sOWZNR0JuTG9uQ1VOeHB4MU1RWEdZM1pKREcxTVBxc3FIMDNhLXdzSkJLVm10Y25vZHUySVZ2Y3lONHFLaHVDcFBXbmEwVEVVUg?oc=5",
+   "publishedAt": "2026-09-17T16:30:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T16:52:16+09:00"
+  },
+  {
+   "id": "587a8f3620dbe620",
+   "title": "카카오, 인적분할 청사진 공개…2030년 ‘AI 6조·X 10조’ 목표",
+   "outlet": "thepowernews.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNc2ZFLS02S0tabnp5WFZ4MXVVaTRqVkNNaUhpSXA3eS1wc3JGdFJJV245T3FDTUc3UXRkQlJ3TjNHeFAwOWllb2FUVGc3ZEY3WUw0TVByeHB5c2lLck1tLXBMTEplWVJCQmg4MGhTay1xR0RuUTBxSklsRF8?oc=5",
+   "publishedAt": "2026-09-17T16:13:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T16:52:16+09:00"
+  },
+  {
+   "id": "33b0ee8ae07d6fbc",
+   "title": "여러 테마 사이에서 살펴보는 슬롯다이코팅 분위기",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOZG5XalFudzZNNnJBRThTdWxfVG1zWjBFU1NFaHZNU1p2ZVRyQ3psaUItQk9IR09rUUFKQTM0ZHBDN19TeXc1Si1aODgyUUwydmNadDBEaDc4Z3YwMFJHM1lGbVI5OWxkRnpqSWVUT1M0OXBMS0hLZGsxZE9vcWtDX2szcDNrTTMtYWxpWFlydktJdHpmQTZtd1RsRENuRFdnZG1Gazd6bUNId3U3NVNqSTh3Nnc3U3VTcWRMVUJ0ODNlaW9FZHZBbDR4SmxETWRDUURCYncyV1EwaHBUN29JVmRkak5TX3NsNEg4ejBVUmFwbWxiQW0yWDNpTkxPRDNoV29DZmZ3VkR4Z0NuTGFYOEJseUVYeHlDaTRPb1Y3OHVSalR5UjAwZTREbjhfVDlsT0dLN1VxMWhaSW9Nd2R3YzBGTGhyQ3dyckZZQWppalRwWlU?oc=5",
+   "publishedAt": "2026-09-17T05:42:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T16:52:16+09:00"
   }
  ]
 };
