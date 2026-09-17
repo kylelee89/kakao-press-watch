@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T00:19:45+09:00",
- "runCount": 1343,
+ "generatedAt": "2026-09-18T00:30:05+09:00",
+ "runCount": 1344,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T00:19:46+09:00"
+  "at": "2026-09-18T00:30:05+09:00"
  },
  "articles": [
   {
@@ -35280,6 +35280,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T00:19:45+09:00"
+  },
+  {
+   "id": "f5d483a46dd473d3",
+   "title": "부가 기능 없이도 이해할 수 있는 리썰컴퍼니 추가 슬롯 기본 흐름",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV25laS1BcXJLWWFZQlNLcXhqZVdBaHg3SHlwM1BtVVhKLXRHQUFvN3ZCckFEN2FzeHppbkJyYjJ3a3FkS0xha0xRYWVZWTJtT2VJNEZWOGwxQi1WeHRPVldqRnVXdkN2RjIwa3lXQXJqSnprNVVLNVFUU0dTUWp4TXF6OUZzUzc4aXljT29iOTlhNmlaRWNVZ3Z6OTNZTmVLMW9EMFE3RzVlUnRUaG9naWlkZw?oc=5",
+   "publishedAt": "2026-09-17T16:46:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T00:30:05+09:00"
   }
  ]
 };
