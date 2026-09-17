@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T11:20:06+09:00",
- "runCount": 1270,
+ "generatedAt": "2026-09-17T11:31:27+09:00",
+ "runCount": 1271,
  "price": {
-  "price": "33,700",
-  "pct": "+0.60",
-  "at": "2026-09-17T11:20:07+09:00"
+  "price": "33,650",
+  "pct": "+0.45",
+  "at": "2026-09-17T11:31:28+09:00"
  },
  "articles": [
   {
@@ -33726,6 +33726,59 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T11:20:06+09:00"
+  },
+  {
+   "id": "504ff239b436be28",
+   "title": "카카오, 소액주주 직접 만났다…주가 부진에 ‘3000억 자사주 소각’ 카드",
+   "outlet": "the-tech.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yTDZfd2N6ZTJLbzZMVHJfUkNQLUhzLTFzdU5YUXhkekdMYzNpWUVpeTIzYW5ZRDZsaElLbmtkNVNTcU5sdk1pV1lWTk0tdFI0RFRKazlhNU9RWEVKbkNReXpzYw?oc=5",
+   "publishedAt": "2026-09-17T11:19:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T11:31:27+09:00"
+  },
+  {
+   "id": "9edba38f6224b46b",
+   "title": "경마 보는 법 의 혁신과 미래: 기대할 수 있는 변화들 - 장단점 비교 분석",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlE1OFp4Z3poT0VWdTM0SFlYX1dEb2pzNjBraWNOd3l0eDZzcDM4R3U5VU5wTC1GMll3ME1CZFlZQzN4MTdrd0RJVXozeW9WNkxHVG8zdEdtbXRoZVpBOWN5Q0kwdEQ5Q0NlOUI5TkVsS2taNWdxclI0MnEtcnI1dWJhNTZTeE4tQ1VRQVY2VjB3b0J6SXpreVpPMEJFcndLNVNveHpXZUJfNnVqQk53N0lycG4?oc=5",
+   "publishedAt": "2026-09-16T23:07:26+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T11:31:27+09:00"
   }
  ]
 };
