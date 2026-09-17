@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T07:41:45+09:00",
- "runCount": 1385,
+ "generatedAt": "2026-09-18T07:52:03+09:00",
+ "runCount": 1386,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T07:41:46+09:00"
+  "at": "2026-09-18T07:52:03+09:00"
  },
  "articles": [
   {
@@ -35531,6 +35531,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T06:59:38+09:00"
+  },
+  {
+   "id": "e90079aa3d98e854",
+   "title": "여러 기능이 함께 나올 때 읽는 마기 토토 작동 순서",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpwMlY4N0gwZGJSSzJwUjh1RHJNRmJ0ZzQwS24zdms5VUdWZlp3RnJ5clBGdVprZS1ERnAtVXhCanV4NXVrM2daRVE1d0lVa29vZEtzbHJvS2RpWFhzUjgwWWF3b2lneHBFZlNyYkFIUHQxdXkzVXp6UlJDRzRqUUNuQzZDUWxET25RX2ctZkhhVXAxOW1EdWtKUEpqc3BQbUVFR0VCQjhvZ3dsckpDWDhldlFWSjg5UGc?oc=5",
+   "publishedAt": "2026-09-17T15:37:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T07:52:03+09:00"
   }
  ]
 };
