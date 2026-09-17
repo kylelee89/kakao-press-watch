@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T17:02:48+09:00",
- "runCount": 1302,
+ "generatedAt": "2026-09-17T17:13:23+09:00",
+ "runCount": 1303,
  "price": {
-  "price": "33,650",
-  "pct": "+0.45",
-  "at": "2026-09-17T17:02:50+09:00"
+  "price": "33,600",
+  "pct": "+0.30",
+  "at": "2026-09-17T17:13:25+09:00"
  },
  "articles": [
   {
@@ -34835,6 +34835,32 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T16:52:16+09:00"
+  },
+  {
+   "id": "755212e291503ea9",
+   "title": "\"기업가치 극대화로 주주가치 제고\" 카카오, 소액주주 간담회 열어",
+   "outlet": "문화저널21",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YVlVCTHJPOFZkRmNURTN1ZS1mQV9hajBvQkN0b01SalNQTVVkM1QzWExuX3loZmFPeVUtMFlBX2pGY3h4RW1VMDBVZm9INFVXRk94UUt6bVhtSXpPU0lrYXp2WWR4LWs?oc=5",
+   "publishedAt": "2026-09-17T16:54:53+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T17:13:23+09:00"
   }
  ]
 };
