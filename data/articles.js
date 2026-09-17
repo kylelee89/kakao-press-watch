@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T07:52:03+09:00",
- "runCount": 1386,
+ "generatedAt": "2026-09-18T08:02:21+09:00",
+ "runCount": 1387,
  "price": {
-  "price": "33,800",
-  "pct": "+0.90",
-  "at": "2026-09-18T07:52:03+09:00"
+  "price": "33,500",
+  "pct": "+0.00",
+  "at": "2026-09-18T08:02:21+09:00"
  },
  "articles": [
   {
@@ -35552,6 +35552,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T07:52:03+09:00"
+  },
+  {
+   "id": "00dcfcedf40e5416",
+   "title": "소개 페이지에서 규칙 페이지로 이어지는 주영 부 경마 실시간",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOWWdtY1ptTk1ub3JZR1FybnRzYVAwOTZCeVpJUkM4SzVWSTAzcG9ZVjFOLVgwdkpjU1pIbENnQWNLcmR4MWVVYmg1OHNPUUZCb2dIZnlqVjV0RWZjcnZ5MU1wVkJ5bEN3ZlprbHBrRDg0TVVNRTFiVFNyRzJoQ3E1aXZwT1FiWHU5Vjc5blRaN1dDX2ZOSXlnQ1hhSUc1aXp3Rk1wbGFlU2MxQ1gxbUF0LTZIXzdPWFZlWUpZTnhTb21vc0pIbVBhSmVjR0xHRjU2enJTNU1VVWlESnpMVERPOUJJZklyaUdKTHN3emQwX0QteFdMZF9Sd3JHTXRwdmlNd2FPenRDNG5uT2dadkQ0VnM3ejItcmxpQWFXcw?oc=5",
+   "publishedAt": "2026-09-18T00:52:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T08:02:21+09:00"
   }
  ]
 };
