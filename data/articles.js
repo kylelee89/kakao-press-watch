@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T10:36:36+09:00",
- "runCount": 1266,
+ "generatedAt": "2026-09-17T10:47:57+09:00",
+ "runCount": 1267,
  "price": {
-  "price": "33,750",
-  "pct": "+0.75",
-  "at": "2026-09-17T10:36:37+09:00"
+  "price": "33,850",
+  "pct": "+1.04",
+  "at": "2026-09-17T10:47:59+09:00"
  },
  "articles": [
   {
@@ -33353,6 +33353,239 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T10:36:36+09:00"
+  },
+  {
+   "id": "ba97c99a3c46551f",
+   "title": "[카카오 인적분할 ‘험로’]① ‘카카오X·카카오AI’ 인적분할 12월 주총 앞두고 소액주주 설득 총력전",
+   "outlet": "대한경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcWR4aG1HcHlxUm1HTXlHZC1fdHItSTBYRmJZMmZ4RTFVNHNNa3AtM0dzaUJDQ0g2M2k2Z3pUa1lpY0llWThJazhVeEZRWlZkTWRmTzNkX3poYlZkaGZXUUM5YktwTzZsVGNTcHN5TmFVUGMy?oc=5",
+   "publishedAt": "2026-09-17T10:18:50+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "4e02278a94bb7765",
+   "title": "카카오노조 \"인적분할 간담회, 정해진 결론 통보\"",
+   "outlet": "연합뉴스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tZUxjdjhBT1NySDBUaHRvRWxYbE1FSFduZWRpNE9qTHRTMmdrSHIxNmxLTnJZZGhvck5FS1M0dEV6cmRwc1Z4T1VlNlB1NkotYlp6N3lDbGYtd2dTNVJOdHFILVd2bU9CeS1WOGRLSFNpQk5iUjNF?oc=5",
+   "publishedAt": "2026-09-17T10:40:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "f49b711ea9f10905",
+   "title": "소액주주 설득 나선 카카오 \"인적분할은 기업가치 극대화\"",
+   "outlet": "라이센스뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5STg3ZU1IOXNWWEJIZ0lqbnhZVVJLS0NtX1VvaHVGOTFrVHRzb3pmMUlqQ2NidGI3Uk0wWDBVZUo3c1otU2FwM3g0RF9WOUhKZ3c5c1ZJbXZINzUxSWpsT2loQTE3eFN4RlUw?oc=5",
+   "publishedAt": "2026-09-17T10:38:31+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "89d1085e4e1c9988",
+   "title": "카카오, 인적분할 관련 소액주주 간담회 개최…노조 “형식적 소통” 반발",
+   "outlet": "fetv.co.kr",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5dkt0Z3lBdkk5R2h5NlRUZVYxR2MySDc4ZkptVGd3YnRnQnoxUy1aN2duRWIzYThVYXB3a2t6dGZZbGhiRUlGY1ZHMEM2MG1xR1dNRTdRSWxmQUJwdWdxUzJVbTFidjdZ?oc=5",
+   "publishedAt": "2026-09-17T10:39:44+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "fac249f85f16cd5b",
+   "title": "카카오, 인적분할·주주환원책 발표… 노조 \"형식적 소통\" 반발",
+   "outlet": "아시아타임즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmYVo2RERxSEs4SDQyU1JmVm5yb1FTZHBkbUxXUkdFN05pRFYycmlGWlg2WmFISEdvTXFfZVIwUTRKQkMzZWxMTG9sNHhBZWlmT0d3WUEtQ0JzSmlJcnc?oc=5",
+   "publishedAt": "2026-09-17T10:06:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "2c7bb0084136ce2e",
+   "title": "[카카오 인적분할 ‘험로’]②소규모합병 반대 기류 확산…임직원·주주 동의 ‘글쎄’",
+   "outlet": "대한경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VVW5IUVpSeDhLb1NPTmNCSUYzMFJuT2w4bnB1MWk3Ti0wSTBOVjFOcUJVakZ2aDUyaVhZdy1HVUdsVnd3NnY3WTBrcjk2Z3B1Mm02ekFQQ1FWbDNTU295N2xhUEpMNDFoUEZRQzgzODlnRllC?oc=5",
+   "publishedAt": "2026-09-17T10:20:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "320e5249d10d9aae",
+   "title": "규칙 확인에 필요한 버튼은 어디에? 멋쟁이 토토 먹튀",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdGxISGhhNFBzMkJKN253bE83c1h1M0hYWE4yRTJ5a1VhLUR4LWZoVnVKY19Vd1dvR2RsR0MwdkM3emVTbjFaSENQcXVnRElqMmluR1M2ZjlrcjNEV1I1bmZ3U1ZqSG4taWNsX0RWTXljc2FRcGUzVGJ1WmROVU1WVUI5MEJKdGp5Wlo0SGxJeTNoMmtYdndXUVZReEMzb1ZWT2FSdHU4U1Z2UEZYT3A5QjRjMFBLSFlkNk0xc0pEUnBvQ051bk5IWGZBaTRYN2s2d2MzMnRHYjdtbjBvS0M1bV9paFg3WHRNcS1ITExWeGRTaUVCZVdZ?oc=5",
+   "publishedAt": "2026-09-17T01:22:35+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "물음표:?",
+    "적대어:먹튀"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "먹튀"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "ff21b8a5322aa44f",
+   "title": "소액주주 달랜 카카오, '주주가치' 재차 강조",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84MzNZOGtVei1mU292TzZkLWhxRjFNZnYzekl4blFISlFaYTN3T3JNOFktbTFTbUlpd295M0QyX3hMazZXRmxtRkprVGVDUVU?oc=5",
+   "publishedAt": "2026-09-17T10:37:09+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "7b1e5c2a1b57e0ca",
+   "title": "PC에서 도움말이 가려질 때 확인할 토토 금융거래정보 제공사실 통보서 일주일",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPUHVkUUp5T3kyclhHMkdJVkY0cDRkdi1KZmRrcFVBZmNPVWZBci1OODJaVTNhTlNhakJsTWtZVzBzUnZMeXpfMV91VGsxdDBzZUxkb1FBSFpIVTZkYVNRaUR0ZU1QT29aTWgxZEdmM05DbVNOT01YLWNrc19JYnZfSWJpZUxEcmZGbXhlaHRzYTZFX2N1SDVZTG1VRFZaUERkOEg5emhzaGhTUHlyeHlDanlLVG5Fb3MyUkZ4YmJaWlNaLWx3YV96UXd2WEppakpBWk1uWTItLW9aS2xJRkIzcmlUd2prcERzUkpMS3N3NVE5MGE3VkR1aGhpV1hhUlN6Nzk4a0RPaUJfUVlqZTNqOEhyUlBMbUU2MU9jOUJTVzhrUjlQRGZ4b2lSMk8wTFB0ZHNyME1KX1VUZlAtUkE?oc=5",
+   "publishedAt": "2026-09-16T09:33:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:47:57+09:00"
   }
  ]
 };
