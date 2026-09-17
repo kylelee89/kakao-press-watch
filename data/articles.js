@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T20:17:10+09:00",
- "runCount": 1320,
+ "generatedAt": "2026-09-17T20:28:26+09:00",
+ "runCount": 1321,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-17T20:17:11+09:00"
+  "at": "2026-09-17T20:28:26+09:00"
  },
  "articles": [
   {
@@ -35085,6 +35085,36 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T20:17:10+09:00"
+  },
+  {
+   "id": "2288bd05f9a03f02",
+   "title": "카카오, 2030년 ‘카카오AI 6조원·카카오X 10조원’ 매출…소액주주 간담회 개최",
+   "outlet": "인더뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yMHF4OERBM2sta2VJY1ozbGhrRzA2QUtMNXU1TWxNUmpEYkVsRE9rR3JIZ25wcXZvdFVxTlJ6REdCWjlSaUw0YnRGRTZiR0liODY5TDVCVEZUZDdTbko0ZXZEdVg?oc=5",
+   "publishedAt": "2026-09-17T15:03:20+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T20:28:26+09:00"
   }
  ]
 };
