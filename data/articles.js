@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T14:42:46+09:00",
- "runCount": 1289,
+ "generatedAt": "2026-09-17T14:53:09+09:00",
+ "runCount": 1290,
  "price": {
   "price": "33,550",
   "pct": "+0.15",
-  "at": "2026-09-17T14:42:47+09:00"
+  "at": "2026-09-17T14:53:10+09:00"
  },
  "articles": [
   {
@@ -34465,6 +34465,84 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T14:42:46+09:00"
+  },
+  {
+   "id": "5a0db5526dadc55c",
+   "title": "인적분할 앞둔 카카오, 소액주주간담회 개최…노조는 '지적'",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pWW9UbDlOcm8yMnlaM2VZaE5UeTBHaGYwTU5VZENBZUNOMVhCNTlrVWctNS1DdkNUUGpvMEhjN3BEVTBCN3ZqOUsyekozdzNsVDhQVmY5dDZfQQ?oc=5",
+   "publishedAt": "2026-09-17T14:41:42+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T14:53:09+09:00"
+  },
+  {
+   "id": "58d4a8828bc3a781",
+   "title": "카카오, 소액주주 간담회…＂기업가치 극대화로 주주가치 제고＂",
+   "outlet": "KPI뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Ql9FOUhTQ0hleDRkeFBxeWE1YkJHQ2tHT1VnbE00S1dkT3pZZXhMMlhNSjJ5MERYeEszUEFEd0Y5ODctMHVpYWRVR1pzVjlHUTBiTXRhWdIBU0FVX3lxTE9pRUc3MnBaY3N6SzBHV2p6dGo4UFpnN09NUkFUbm5MMFU4OWlka0VDbk9obC14NS1NNDA2UkJMZHdmU2c2STR3aFI1NVZaYmJ1dlZJ?oc=5",
+   "publishedAt": "2026-09-17T14:08:43+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T14:53:09+09:00"
+  },
+  {
+   "id": "98069c4d002301a6",
+   "title": "카카오 노조, 소액주주 간담회 비판…“소통 아닌 쇼통”",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPS0ItTkprSUVQTDR2MlhNZWJRVjN2OFJ0WlRzZFlLNC1ucTNxRXB5aFJhenNFNzd3amlRWHVvWnV0M3k1RWQ4b0tCSlJWQndYdlFqc1ZkVUlZeW1aX1FpSnpfeXR1Q1ExcWZqZTg4QjVUVGxaSkw0TEtBNl9QS0lZREVqVERZM2g1MG85MWZTZS0zNlBUUjRzcVBqZTZlaUlDVnhkQkdmVjY3Z3BmY1gtN1FJc2RxS1VHdFpVZXl3UlFOODVKTjN6bFU4QlhNT2JOajhHemhVTGliWGRrUHEzNkZBOWtqMks4TURCd1BvQjBReUNGdE5pMktqRFJ4UXAyZndkdjZuYU1LU2Vzb2NnZE1Oc3VqNUoxUWxVN0hQdWZPMkE?oc=5",
+   "publishedAt": "2026-09-17T14:43:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T14:53:09+09:00"
   }
  ]
 };
