@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T10:26:09+09:00",
- "runCount": 1265,
+ "generatedAt": "2026-09-17T10:36:36+09:00",
+ "runCount": 1266,
  "price": {
-  "price": "33,650",
-  "pct": "+0.45",
-  "at": "2026-09-17T10:26:11+09:00"
+  "price": "33,750",
+  "pct": "+0.75",
+  "at": "2026-09-17T10:36:37+09:00"
  },
  "articles": [
   {
@@ -33247,6 +33247,112 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "a17975ed8d92219f",
+   "title": "카카오, 인적분할 소액주주 설득 나섰지만…노조 “쇼통” 비판",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbXVxRnppYUxodVdLR0NUQ1B6ZVdmUGQzRGtOSXhPM1BGZ2VQWENxZFF4Z0d5X0VEbXRxVEJBNDh2eGJHcVNrbW9wZFlwT3dZaXdDejFjVzBTcDBZT01aelQydGZnMVZK?oc=5",
+   "publishedAt": "2026-09-17T10:02:01+09:00",
+   "tone": "중립",
+   "toneScore": -0.4,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:지만",
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:36:36+09:00"
+  },
+  {
+   "id": "40ce927d4e880acf",
+   "title": "분할 앞두고 소액주주 달래기 나섰지만…커지는 반발에 난감해진 카카오",
+   "outlet": "아시아경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6T2pmbW1lejFQaWxWZGo1S3FLQUZaeWhweWJtMVFJVnliWDJUbC1MZzhSRFp3VXUxTUdWUU04a1k0MVFjaG9ZVVBLZzBvT2gyM29DeDI4Zl9YZUViMTVjbQ?oc=5",
+   "publishedAt": "2026-09-17T10:16:32+09:00",
+   "tone": "우려",
+   "toneScore": -4.4,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:지만",
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:36:36+09:00"
+  },
+  {
+   "id": "16d73c8a60f5154a",
+   "title": "카카오, 두나무 차익 30% 주주에게 푼다…인적분할 설득 주효할까",
+   "outlet": "서울이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DRXotTWJITVZXTmdMb1Q5aFhjRWNkU20tYk1YM0VxNHQzdHQ2UzJ4c1NuNFl3SndjS1NDR1p3QkhqSnVmLWZBcDZSQ2Vib2JkTGdFUm82SVZqVkNuTzFaalg4NzRQMDZwT0QxdEhn?oc=5",
+   "publishedAt": "2026-09-17T10:30:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:36:36+09:00"
+  },
+  {
+   "id": "b7625ebc762cfccf",
+   "title": "\"두나무 매각익 3000억 푼다\"…카카오, 인적분할 앞두고 주주 달래기",
+   "outlet": "와이드경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIRF9ISkNWd2lDZ25lMW1qUFVSOVNBSXMzUUVVTVU5RlpEV2FheUl1c01mUW9hb1FQQy1BNzRocXhDSkZhN1pkbXdnMGxWQUhtSHlYU2ZsbElhU2lnNDQ1SGFYSmJKbHVvZWsxNA?oc=5",
+   "publishedAt": "2026-09-17T09:55:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:36:36+09:00"
   }
  ]
 };
