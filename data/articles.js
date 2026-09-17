@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T22:23:48+09:00",
- "runCount": 1332,
+ "generatedAt": "2026-09-17T22:34:04+09:00",
+ "runCount": 1333,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-17T22:23:48+09:00"
+  "at": "2026-09-17T22:34:05+09:00"
  },
  "articles": [
   {
@@ -35192,6 +35192,52 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T21:01:18+09:00"
+  },
+  {
+   "id": "ceda7debfa5d13b5",
+   "title": "첫 화면에서 길을 잃지 않는 아톰 카지노 도메인 메뉴 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlRVSURBMjcwSjExLXNmb21kQW5wdjJCTDA5Yk93Yld3U2xSUnpGRTkwY3MwNUQ2eUNwMU52Rll1ajZFaGdTT0E1X2p0aVRjV3RrOVlHQmZQV055LVR5SHJ2NkhiQ0Y1bkk3UmZaa2IzdWhZejhqMGhjN1ZtSTREY0JCU2hDUVFhc0tCdGsyRnVFZ3NnTklZZVAzak54bXl1V1JaRm9jT0U3RWUxVG1tYnZ0M05KR0FUYXkwZWVQLUQ0VDVZSDVNblpkUlNxTm1aLVZzYkNFZXFZUmxkRVdON3l3?oc=5",
+   "publishedAt": "2026-09-17T15:20:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T22:34:04+09:00"
+  },
+  {
+   "id": "59419894feaeab70",
+   "title": "조용한 환경에서 확인할 먹튀 닷컴 베스트 온라인 카지노추천 소리 옵션",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFpCdXFJTTVyUmxfWlJiSDgxVzlTMEVsTndZTDlHZU5aOEItYVVVbGFzRnBMdGI4a0Yxek5iUm54WnRwY1dSTmhiRENwX2tudWU1Uk1YQldxVjA2ODVoZHlZaGdfS3g0TzVaTXRGWXFKUnlWamVEblE3SjFkRmFlWTF1M0hCT3VRcTJhZlp5RFhlUlNjbkZXbThkQnAyMGlqOEEyaFJYSTRXcVl2NFE?oc=5",
+   "publishedAt": "2026-09-17T00:54:49+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:먹튀"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "먹튀"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T22:34:04+09:00"
   }
  ]
 };
