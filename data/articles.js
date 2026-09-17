@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T19:44:21+09:00",
- "runCount": 1317,
+ "generatedAt": "2026-09-17T19:54:41+09:00",
+ "runCount": 1318,
  "price": {
-  "price": "33,700",
-  "pct": "+0.60",
-  "at": "2026-09-17T19:44:21+09:00"
+  "price": "33,800",
+  "pct": "+0.90",
+  "at": "2026-09-17T19:54:41+09:00"
  },
  "articles": [
   {
@@ -35037,6 +35037,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T18:52:45+09:00"
+  },
+  {
+   "id": "0ef7542e364b4abf",
+   "title": "페르소나5 배팅장 보너스 대기 상태와 진행 상태",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTNIdjl1a3U1VG15ZmRhMkU0QWowNXcxVkNtb3JtWDZOdE0xRl82S21nWUkyM0lLMGNIRXVRdXhPSW9ra01GcnF4OTk3bUc4R1ozSXlkNUJ3SmZ4YThXRTRmeThJMUhLdXhBRFUwUklrcjFhLXc4Y0Y4a0h1eFhTVHEtSHBVT1FCV3VtLVhzbFI0YWtQWUItUVR3Q3puR3hYcjZGaExXNHlwRFkyU1Fv?oc=5",
+   "publishedAt": "2026-09-17T11:53:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T19:54:41+09:00"
   }
  ]
 };
