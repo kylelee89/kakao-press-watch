@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T18:08:55+09:00",
- "runCount": 1308,
+ "generatedAt": "2026-09-17T18:20:31+09:00",
+ "runCount": 1309,
  "price": {
-  "price": "33,700",
-  "pct": "+0.60",
-  "at": "2026-09-17T18:09:00+09:00"
+  "price": "33,650",
+  "pct": "+0.45",
+  "at": "2026-09-17T18:20:32+09:00"
  },
  "articles": [
   {
@@ -34964,6 +34964,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T17:57:21+09:00"
+  },
+  {
+   "id": "30437d5531fc9a16",
+   "title": "단계별 화면을 비교하며 이해하는 라이브 바카라 쇼미더벳",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdFQ1cDRIRzlzVVM2Q3F1Z0xiZkdDZ1ZmVk1OSEd2bU5aWDBkQWxwckR0RGx5OXJDdHhManEzb2hHbGhhMHh3TXlVREZONC10c0ZnUEwwZlhQd2h6U2hIcVdtUGhhSDZ4Vzl6TmNGeGE5NDlMdkNjNXB2b1dON2lWcDJHSDJaeGVOVThSRERLTUxyTm4tVjRndU83VF9MQ3hOMmxLcHZfYjlmMS16UXNNUlEzdzlicnEySEp4X1BMTDI?oc=5",
+   "publishedAt": "2026-09-17T06:39:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T18:20:31+09:00"
   }
  ]
 };
