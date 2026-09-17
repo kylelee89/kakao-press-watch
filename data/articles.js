@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T05:56:55+09:00",
- "runCount": 1375,
+ "generatedAt": "2026-09-18T06:08:06+09:00",
+ "runCount": 1376,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T05:56:56+09:00"
+  "at": "2026-09-18T06:08:07+09:00"
  },
  "articles": [
   {
@@ -35464,6 +35464,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-18T04:33:55+09:00"
+  },
+  {
+   "id": "9dddebffd173c624",
+   "title": "새로운 기능이 추가됐는지 보는 카지노 온라인 스필렌 변경 정보",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQcHVNc3pNQUUySG1PTkF0TFg2cEViZGFQa0R6VzB3RjdkdlpwVlAxN09IeTl4VnlIajJDTmpYeWhwN0M0NFMwMFRlc191UXo4UXRLRTZkcDZ5UThrZVhDdzdsaEFhNWpVRGpXWmRYTm56cC1fdm5PQmhBMTVQcTNFUF9xYjVmV1RIejVVX21na0wzX3haVzdPNlREVW5NR2Fpajg5OTNuQ2ZybE9VY2lZVEVFVHVJbDFQdUVIMjhKUnUxczd5WE9yTTNkVmdGSTgzbV9POE8zdXp5WVM5ejZLcWk4eUlaWkhYOTF2bkc0dks4UXc1a3JkRFl5X1Vjenh1VmFYT2hVdWNENlo4YXNrWGM3YmNjS1RNenhPb0xMd3BOMGYwMEVKa1c1d0otdWZpTVM4QQ?oc=5",
+   "publishedAt": "2026-09-17T13:53:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T06:08:06+09:00"
   }
  ]
 };
