@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T10:47:57+09:00",
- "runCount": 1267,
+ "generatedAt": "2026-09-17T10:59:18+09:00",
+ "runCount": 1268,
  "price": {
-  "price": "33,850",
-  "pct": "+1.04",
-  "at": "2026-09-17T10:47:59+09:00"
+  "price": "33,700",
+  "pct": "+0.60",
+  "at": "2026-09-17T10:59:20+09:00"
  },
  "articles": [
   {
@@ -33586,6 +33586,100 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T10:47:57+09:00"
+  },
+  {
+   "id": "0eafc4118146b468",
+   "title": "카카오 '인적분할' 앞서 소액주주 대상 간담회, 노조 \"일방통행 소통\" 비판",
+   "outlet": "businesspost.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43eWNNQ250OTJrRjJYWGJFVXJvck5yWm9IOW1FRUN4aHBjcmg4NDFKMVpwTk9fanF5eDJKVFVabFpRUG4tdDNMR2dUVUl2VUctVERjUm1YeFhMU1M2OENwN0lVcmNBSUM1MHprc1B1MXk2RFU?oc=5",
+   "publishedAt": "2026-09-17T10:17:59+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:59:18+09:00"
+  },
+  {
+   "id": "89f4f8264171e682",
+   "title": "기능이 잠겨 보일 때 읽는 글로벌 카지노 산업 조건 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPM0tVTXZ2cGFHQk5mWGNUb2NIbHFwdzl6eng1VXIzTHZtaDExVFBLVXgzeVBGd2MzcDhmZ29rSUF6T3NtMGl5R1B4dXFkSkdiSmtXUWs5em1VYTBXNTRfTFZCQ0pfM283R1dNS0pDS2EyTFo4Z3JJbEFDQmFPMU9fN1YxVnBvOENVdTNWcDBiaTZrWlBpNU1CYmZPWGZaSHl0NDBkdFFlNmJDdEtPRjFtaHhjdkhJVnluZWV5WEEtTExHNUlIX1JoU2ROWGVDejg0cmJMLXBXTmVVR1BLY09hTTZHVUNRUzJFT2JfVUlxZjNFZkhlVW9EdHlYRjhnQjBpMUk0eVVyN29hemlaWWQ5UGo5Y0xSWnFYcHN6bGRBUnJTQ21EVnAtd3l1X0NPZw?oc=5",
+   "publishedAt": "2026-09-17T04:44:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:59:18+09:00"
+  },
+  {
+   "id": "06907332b0330ff7",
+   "title": "처음 보는 숫자와 기호를 풀어보는 곽튜브",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUFUQkMwV2MxRURlajZGcng4UmU5cUNlYm5JdmkxaXJ0OHlnUzJtak9YMF9YVnduWlIwN3YxTXl3NWJwYWkyV1MtVzAtQXpCcGtMemdNenM5N292a3NhYUU2YjdJZUtOa091cm9qVFFKMHVKdFMyWWhhRndZT0JkM05meEU1NmtaT1l1VXg5WjZOengydGI3SFpJNnBhVWpYT1I1M1p5VVVuTDAzU29IMEhRYnkza2J4cVBteXp6ZU1NQVNVUzFXTTlUaw?oc=5",
+   "publishedAt": "2026-09-16T17:36:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:59:18+09:00"
+  },
+  {
+   "id": "96e6e7acbf40b8d1",
+   "title": "특수 기능이 반복되는 조건은? 토토 강승 뜻 세부 규칙",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUpfbEF1UDBZOW5GVzJ2NGxESjVCc2UyTS15OTNKSnVUWWNGa1lySUJZWXItOFRHQ1ZDV3lIek11S0JmZW5QelF5U0I3b1NXZjZmWml0X0VCLUtqYV83bGF6UmFIY2MxZ1JjZFpibnM0UHkzV0s0ekdVS1NvcjF5WC1TN3BNZ3oxLU9XOU5FYmFGbl9IZlF5blZjN2hkamd6cFpr?oc=5",
+   "publishedAt": "2026-09-16T19:20:48+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:59:18+09:00"
   }
  ]
 };
