@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T00:50:37+09:00",
- "runCount": 1346,
+ "generatedAt": "2026-09-18T01:00:55+09:00",
+ "runCount": 1347,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T00:50:38+09:00"
+  "at": "2026-09-18T01:00:56+09:00"
  },
  "articles": [
   {
@@ -35301,6 +35301,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T00:30:05+09:00"
+  },
+  {
+   "id": "bbfe46fe5fa95fe4",
+   "title": "카카오, 소액주주 간담회 개최…\"사업 전문성 강화·의사결정 효율화로 속도 경영\"",
+   "outlet": "비즈니스플러스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Eam5RcmVhbVVBMUpiOGE3TjA0dWdibWV1WjVIYjBCZjJ6VW90dUhpWk9yd2JLTExYcHIyQ01ieVFIaXIzUDlMRlVFYjlOMlZpWDgyUXdQendqblNBQzU5NnNVeUl0ZGdxY3dRTnVLYw?oc=5",
+   "publishedAt": "2026-09-17T15:02:51+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-18T01:00:55+09:00"
   }
  ]
 };
