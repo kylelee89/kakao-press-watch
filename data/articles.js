@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-16T18:57:15+09:00",
- "runCount": 1263,
+ "generatedAt": "2026-09-17T10:15:15+09:00",
+ "runCount": 1264,
  "price": {
-  "price": "33,700",
-  "pct": "-2.32",
-  "at": "2026-09-16T18:57:15+09:00"
+  "price": "33,650",
+  "pct": "+0.45",
+  "at": "2026-09-17T10:15:22+09:00"
  },
  "articles": [
   {
@@ -32079,6 +32079,689 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-16T18:57:15+09:00"
+  },
+  {
+   "id": "04c5b52514fdd693",
+   "title": "어떤 내용을 다루는 게임인지 궁금한 강원 랜드 리밋 홀덤",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1VBb3FTbzZxZTNPNHhEZElxTUV2NE56UVIzZXdZUU1TQzVPMGtrZWxxSHRja2tkd3VkajVhYUZ5NktDdjN1WVpWZVV4OTBVUDNWRjlGTFFpajhvVTFWMkw1QjlzYlZyanFnUjhaMUFfYVpSVndFS2pZWWNTLVlYclpmcVo1WG5aSFNoekpFZ1J4TEg4eGc3ejl5eXRCWWExSUNv?oc=5",
+   "publishedAt": "2026-09-16T21:11:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "666c49e4b70261b1",
+   "title": "카카오, 거래소에 분할 재상장 예비심사신청서 제출",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95SDd5MjMwZGhiNXY3aTUtZEh4MlgtcEtBTWJ5bVlMNmI2UFlRN1U5Z1RVYjEwZURpa1JHNmxsWDN0TllfdTl6cEE1UE4xSjZ1U2NXUUlDNUowN2pFMjZQRUdjSzLSAWhBVV95cUxPVDlZVGlKbVVOQXRFRlZJS19KeVRDWGcyTGQtdEtWOTdOdFZ4ZFFOZGpEWGhGT05hcG5WcU9kcVF2U2U3Q2ZhaGp5dHdPYnl1NXRSWTd5VC1UWW5RYkhUOVl3R195TUdnLQ?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "일정(12/17 주총, 27/1/27 재상장)"
+   ],
+   "signals": [],
+   "frames": [
+    "규제/거래소",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "674ee8ff84742770",
+   "title": "카카오, 개미투자자 만났다…인적분할·주주환원 설명",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtLWF4RWZsdnhac2VtN3U0a0VYaUpZUkh2bU8yYS04a0lZam5CWVJBWXpDUnNHekdPU1VITzBBdU1qZG1zUjluU1Zqakd2SVNnNHNLd2xWMkZyNkZXenhfMVExVXdfbVlYTHpIeVZ6SEQ?oc=5",
+   "publishedAt": "2026-09-17T10:07:10+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:개미"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "개미"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "e973a29a33b5525f",
+   "title": "'인적분할 주주달래기' 3000억 소각 카드 꺼낸 카카오···주주 마음 잡을까",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTTBPV0FvRDUwU05nbWRGR2dtbEZWOGxIZWFrSnNEN0llTzBoVDIzNlp0WVBYYVM2U2ZFbno5U28xTXh1LUVER0NadUJGck9CUFNaRGFkWjdkc21CbGdUdGczY2t4Y1JQcHhXTDFYWXlCaWJNZEHSAXZBVV95cUxNck0wT1dBb0Q1MFNOZ21kRkdnbWxGVjhsSGVha0pzRDdJZU8waFQyMzZadFlQWGFTNlNmRW56OVNvMU14dS1FREdDWnVCRnJPQlBTWkRhZFo3ZHNtQmxnVHRnM2NreGNSUHB4V0wxWFl5QmliTWRB?oc=5",
+   "publishedAt": "2026-09-16T21:18:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "128ac3eb9d02f9b5",
+   "title": "‘쪼개기’ 우려에 주주 설득 나선 카카오… 저평가 해소·환원 확대 약속",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sUzlkNGw3TUpuQl9YdEtiNHVBblhzX25YdTRRSWdXOVhzdkxIbVdLY3dJejRRRUpCQ1lJNU1Jd0dXeXhWLXhYMFV0djl3Tk4zaHZXRk9qUWJELXd0VDdxcm9lVmRDYU5McGxfWDRibUkyZ0Jv0gF0QVVfeXFMTWxTOWQ0bDdNSm5CX1h0S2I0dUFuWHNfblh1NFFJZ1c5WHN2TEhtV0tjd0l6NFFFSkJDWUk1TUl3R1d5eFYteFgwVXR2OXdOTjNodldGT2pRYkQtd3RUN3Fyb2VWZENhTkxwbF9YNGJtSTJnQm8?oc=5",
+   "publishedAt": "2026-09-16T19:29:30+09:00",
+   "tone": "우려",
+   "toneScore": -5.2,
+   "frame": "비판프레임",
+   "messages": [
+    "SOTP 34.2조 저평가 논거"
+   ],
+   "signals": [
+    "적대어:쪼개기",
+    "적대어:우려",
+    "스케어쿼트:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "51fec0df1c7040ab",
+   "title": "카카오, 인적분할 앞두고 소액주주 설득…\"두나무 차익 30% 환원\"",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaW02MzQwcGdtTVJpbHB1czlib29mMWxETXlfT3IwVEVEdk9XalZFQWVlSlBQTXlIMm9mazdCcGR1cDFhVGl0VGlfaThRYjM4Y3Y2bDNybjdmTGxqRUZ4LdIBeEFVX3lxTFBGNVZzSmVfMWNZTUJQMVdTTWY0VGxkUkc4MTRVTXFVTS1HTGtzTUExNlRXMWIySS01UUVVRnRqQWMtbHhxVU1hdG9fS3dGdUtDUEFkNFJRS2ZsLTdkTTB0MmtZWWtZNklFR1diWWZWRVJFeUhvdXBERQ?oc=5",
+   "publishedAt": "2026-09-17T08:30:11+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "30eb01b6608a2483",
+   "title": "카카오, 인적분할 앞두고 소액주주와 소통…\"기업가치 극대화로 주주가치 제고\"",
+   "outlet": "newstopkorea.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HWEN1TEpmVGxyTjRldjVVd1dlMkx5RGZTRzRLQjgwVXR6QTBzSWNNbWx6ZVdMZnV1R2pWSHRIT1VTcGpBRjZhQjJlancxSnhPTXhuWld4UEtPMW8zNk5Vekk1T2V0alZxcmt4TkRNcw?oc=5",
+   "publishedAt": "2026-09-17T09:39:21+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "f0103369fcc66855",
+   "title": "카카오, 인적분할 후 성장 청사진 제시…“2030년 AI 6조·X 10조 매출”",
+   "outlet": "아시아투데이",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EMW41aGxodC1vY21lc01pVURBUTRqRUJDNzhhQV9LLXRCUF8teUpyOFlZQ2FvajlPbTJkN0FwRkFpRFFxWDhTRkVfZ25SVDJDdnlEd3BObnVFYUlicGt5ODZtMzJEcE9OazNBQ2h3?oc=5",
+   "publishedAt": "2026-09-17T09:18:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "80fdf851a68e42be",
+   "title": "카카오 노조, 소액주주 간담회 비판…\"현장 질문 답변 2건뿐\"",
+   "outlet": "글로벌이코노믹",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSjF6MG9pdjJLY1RkTmpVcVNKQllneVd1LXNOQ3R4ek5KazFhZDN0cjVoOHJ3LV9jcVZPclNmTThtdnZOaVNwSzNaaUhWM0hqeFpETUpJM1pMeDRheDl5dkhYblUyZl9tQjNMWDV5UHdMMUJkcS0zbEpQRFBXUEE?oc=5",
+   "publishedAt": "2026-09-17T09:38:54+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "cf5ffdaf55e0b415",
+   "title": "카카오, 분할 후 성장·주주환원 청사진 제시..소액주주 간담회 개최",
+   "outlet": "한국정경신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wX2lJMHl3V0tCNkhmSE9RcTFMZ0dnZmJRdnhrYnhKMjFkVms2cTBVY0RoeG5vc1oyWk5lTkRBZHUzdXYwejZkcWQ5R2g5SEE5TEE?oc=5",
+   "publishedAt": "2026-09-17T09:21:36+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "02b2bf546be3374f",
+   "title": "\"쪼갠다\"…카카오AI 6조원·카카오X 10조원 정조준",
+   "outlet": "financialpost.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pcGVQWGJSM0NRSUI3RVhscklTdEs4QWZJQ05jSTYzWTlCdzV5cUlZWk8zT0oxaUxJVTBsajhrSXNNMFlZa3QwX1Flako5TF9PLWlWVGd5MTZFSkxUUzdBUXZPdEVqZGp3Mjh3X0xuRk5Cbmta?oc=5",
+   "publishedAt": "2026-09-17T09:36:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "e303882e7bed1655",
+   "title": "\"인적분할로 AI 기업 확립, 2030년 매출 6조\"⋯160만명 소액주주 달래기 나선 카카오",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TSmd0RDBBUDhVdmFiZ2xLZzM5MjBtQlZoc0ZoSVI2aW82eUphTk9telkxTl94VjhLdkxYV1l1ZGVSTHdHeFE?oc=5",
+   "publishedAt": "2026-09-16T19:31:27+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "993fec8818a1f52a",
+   "title": "카카오, 소액주주 간담회 개최…인적분할 후 성장·주주환원 청사진 공개",
+   "outlet": "한국면세뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3MEdQSER4cHE0N2ZIUjJjNGpRcWt4ekdRM0hCeDJENkRXVG9MTS1vcVM0TzNvU0RfVE8yM2Q1aTdNdF9CRXVqX1dxNkhtZS1CX0hSaVh5a0NkRXZmVDItdm0waTNONHhSMmc?oc=5",
+   "publishedAt": "2026-09-17T09:38:02+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "603dd4a27e8da372",
+   "title": "소액주주 설득 나선 카카오…“인적분할로 기업 가치 높일 것”",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ya1FfeTNocGFSY1ZoNkRVUDFTTWNWNnlTOVM0MUxleThpM3lheHNtR1hhRTNXTWxJZW9jTTVCSVdQbndzc3VJSDNUbV8wV2g3UURz0gFTQVVfeXFMTjJrUV95M2hwYVJjVmg2RFVQMVNNY1Y2eVM5UzQxTGV5OGkzeWF4c21HWGFFM1dNbEllb2NNNUJJV1Bud3NzdUlIM1RtXzBXaDdRRHM?oc=5",
+   "publishedAt": "2026-09-16T19:46:10+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "9b711f093aa59473",
+   "title": "카카오, 인적분할 후 '2030 청사진' 공개…카카오AI 6조·카카오X 10조 목표",
+   "outlet": "중앙이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZEg4OXJBajl2Nk1OeG50T19WMFBldDdLZXVLWENyZmlXYW16WnRPTEZOeHQ4a3lNVVVGZm1VNFNMNm5KZWw0RVBia0xrRS10Ujc5bjVueDMyZFBTSVVOR0lFV01RYUdBVjJxdUhQcTAzQQ?oc=5",
+   "publishedAt": "2026-09-17T09:19:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "3242a1eb7cec35e9",
+   "title": "처음 보는 효과를 기능과 연결하는 w88 카지노 화면 읽기",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjRzQUlqb1dqS2VTdnBqWVJMYWhpWklVWjFyS3RkZEV0LUJjcUZ6dzJ1MkYwcjl0d2VjbTJwYVJMRXJjVjdkMVZONzN2OW1SZXVYaGdGVUxLaFZpbmpnWDJKMWt5Mm0zVGlEZWxBd2pCY2lYUzljc2p5Z01ZSE9DbzFnRlJyZDZ6QVdPbEFkVVByNlYtWEM0cE9TekVSYmE5WDN4NVNGMW1jUFpkYW9saQ?oc=5",
+   "publishedAt": "2026-09-17T04:42:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "f25f57760e7fd191",
+   "title": "일반 화면에 없는 버튼이 나타났다면? 카지노 5 화 누누",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVBoaE5iMGpId1J0dlNhR0UteTI3TjI4eUpScHRLRUI4S0Z2cDZsMW9jZ2ZydVVqSHlaT3F2cWV4VXFZRmxFWXBaQzFVLXgyTWZ2VF8zdDg1am81dzM4MzRNZ0hXejJiTlhJR3E1NDk3d1dDalZRZW42cVZOVV9pT2ZmbEU2STZPd3ZfZ0Y2MXNDRERQekptWFdYbGxvV2pfYjV1OHd5MDkxdGp0dFhKSmFqcy0zY0tsXzljVlNR?oc=5",
+   "publishedAt": "2026-09-17T01:03:23+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "52f6b2226a7e0d3a",
+   "title": "스캐터는 위치와 상관없이 세나요? 에볼루션 도박 규칙 문답",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFh1c0xhY3RfYm9oWmpmeHdtb1ZaRGk4b3RZMkx6NXA2UGU5THY4TXRxZzk2NG81QXJ1UU9ueWpRZWdsd18xY3M1YUY1VE9RUW1YdnR2TlhSMXZxTlk2UFVnZzZBV0J5RFBYRFhkQkVkbVRwWnpiXy1JOFRkbDhpSHpKX3dKQnlIUUdBNWM2N180T1g4d2lvNGlHaWpFSERhVzA0ZE9SUWYyeHdxcWVfTk9saC1vTlp6?oc=5",
+   "publishedAt": "2026-09-16T17:04:41+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "5a3e804dda16450a",
+   "title": "카카오 인적분할, 소액주주와 첫 소통…카카오인베 합병 '20% 반대' 변수",
+   "outlet": "데일리팝",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZS1NWZm5nRDZ2S3ZZMVF6TU15ZU1UNVRvZkJZRGFwTlNRUGdZalhybk8xS20xVmhsRENjQ0M3UnFuTHlTOGFvMVBuVnRUNGplMEw3MWNpSEx1RmQ5ZlFQeF94ZU1ZYTNB?oc=5",
+   "publishedAt": "2026-09-17T09:41:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "cda341ec67958151",
+   "title": "기본 라운드의 판정 순서를 따라가는 삼족오 카지노",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb3BDS2NQYTBFSFVJcGhDcGVMWlA2dktoTkNGSEwtUVZTSFM3UFJHbUljRy03MW5VNUQxamVJa1ZialVHT3hCQml1VDE1X1EtODJnSXh1eHFCZEZObXNpZm9WMHlzTElnNTB2Q1RTU080c3NRMXgtOTNtTGFyZFR2Y0x2eDJ0LWdpbTJsMFc2b3lPcHl6ZXJreVZIR3haWUk1QVV2UDMtVjlBU2dsQ2UtZzJYYzRPRWI0b2tBRGVKMGlBaWlqNXpSWmxhMmNqSFZWX25YYWFiZHF1ZUt4ZmlHZHFjTFh4VzZ4?oc=5",
+   "publishedAt": "2026-09-16T20:45:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "3db3a0f5daabdc5a",
+   "title": "청담 카지노 화면 전환 중 입력 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE5XUDBYak5jaUZtbDQwaDlpbE1Bd25qRXNJLUM4YnZ0RlphWXFDRk96aWZMYTNOaWEyYjRmb3RTWHh5R2owX21VRjR3LU5IQ25MbEFwZW82U1QwRXFGYW4yT2FQUDNCbjZUTjNJNXJZYkZfcDJVNHBXemVfekQ5aE44YXh1YmVoOS1sZG51QU1CZmZCXzdFcXBjblRiQTg0bkxaVDVxR2FXdG5fOExEeVNaTUpubi04TDJFaw?oc=5",
+   "publishedAt": "2026-09-16T15:35:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "454b8d4935050b20",
+   "title": "내 게임이 현실이 되었다 리뷰 2026년 애자일 개발: 현상, 본질 및 법칙",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZGh2M1l4UmdhXzY0RWQ4UkZxTWg3T19YQUJhNjJvckNHMVBQZENhdHdCMUNOTF90MTB0eTBLcXFNVnZOYV9sS2hZM2czanBUbXRGblp1OEZUdnNra0pENmxTRGJEdEt4QnY0ZS1scjk4dXZPSGt3WlBEVG0zbHg4SFBmOGtEbE9uYWQ2MjZmakJ1YXZkNVhWMUFaOTJUOF9qY1Q4dlJnbUdneWdTWHlJ?oc=5",
+   "publishedAt": "2026-09-16T12:41:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "9ec3c3bc080f5a87",
+   "title": "다음 단계가 무엇인지 알려주는 토토 골인벳 진행 표시",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3FHS012aTJSV3gwZ2JnMV9kUUg0eHpnb2U5NGZ5TDR4RDNtamFCeVk4TFFxeG1lWkdvQmhEbU8wcVRzSWVtVS1GaHgwdVA4TGwtU1Q2cnlCREdIVGwteVVOdmRuUjUxNDVWSkhXc2poV3cxa0kyVmhDNE9zbmlXVkVVY3VocldFNWxEbmYwYlIwXzZMRE1qNzVyRDU0TnB0MW93bDVWdWViWUN4cGlWQjdRM3E1SkdkQlVnWA?oc=5",
+   "publishedAt": "2026-09-16T17:45:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "7695071ba279ee3e",
+   "title": "게임 설명을 읽다 생기는 질문과 꽁 머니 바카라 ggongclass com",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTDdrWkpieS12UXZFckFzMmdKVjBhMENGYkZyblp1UnFVRkZjV0JpRUROTnlVNkpSQnhhelpvYWNNelBNc1I2czVGYXRjbU5WWGFsN3ZVek14ZGstUGVJYVpLNVZxbmhGbVNSay1qbG9qVldwSDF5djNtNnBJRDc4dDBhenhpUEl4THUydlEwUU9iNERRazdQUVdlNGw2SmFRemVMZXl2blhtcmQwTGhZdl9pc1EyZll4OURRRmk1Z1NRMXg3bXlhTGN4bGh3aEtUeFdkblNhT1pvNXJjblJzMW82aXBCSEVwTVVVdXlYT0JfVmhUY1hHZXlzUi1XeGpIMmhHeA?oc=5",
+   "publishedAt": "2026-09-16T23:08:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "7204dd618b23353b",
+   "title": "동일 심벌 판정을 이해하는 토토 toto 예시 설명",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOG5XXzdMajNaeERhWkRUMi1PNFl6eFM4YWY5NlZtd29lUG9hN3JidjM0d2steUxOak5YZFVDcUVjWloyT0xHZ1VjN29ybTd0MTV0NnBWT3ZKRFZxdDZMc0QwY2Q0OUJodDRBNEx2b0RqZE8xVFVXalZtT090S1ZEY2JFMUpHSWppY1hDX2R0Q3ZESjM4TmlJeVZiSXBOa3pxODdHTmoyTllDNWtqNzJNNU4zQXQ2T1FDNUFFZ3p3?oc=5",
+   "publishedAt": "2026-09-16T09:17:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "75c0fe172664b843",
+   "title": "토트넘 연봉순위 에 대한 진실: 흥미로운 사실과 통찰력 있는 분석",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYV9VU3k0ZlF5aWE4M0k3WUNXTWtzaGJlSVd4cUl5VVNjb1VaTGlaclZxUVBXNFVxY1NxZVV4aDQ3TnVlZkV1VUNiSDE3UERlT0d4OFoxSWhGaUlXbExuNXAwRi1OMWh0RWhMVTRlcEhvMjBwV1hqbHJkcXNaQzgzQjNzaml3NnN0YVBqSHFqS2sxYzhPV2pSSEw1REhsSWlHSkZLY3ZDbXhqOUhreWNIZjRHc2oyaDZC?oc=5",
+   "publishedAt": "2026-09-16T16:57:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "a9c0516fd18b2fdd",
+   "title": "처음 본 화면이 낯설지 않게, 올인 토토 | 온라인 카지노 바카라",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEZLaUZqemdPaG91d1NWRFhTNDdaMExQU0YtYjFIclRZTGZoMktkdGJNUEgwUEw5YjQ0SmFKODlrWE1jdkxVLVE2RkxOWkJ0Z1J2SVlGWHdZd0paLTBNRTlWQWVFMnBmNFBLTlprTXlGNzJJdFBkSWpLMmdNOENsZk5BMkdZY0RfVG4yZ1FDNndpNDlRMU51a3JLSHIwWENWU1F4aklkMy1MeUlGaVQ3bFZPeVQ3TjhKazFYTHNpWE85ZURtRDJNTmVfMzBpMGpnTDV2di04YmJtZw?oc=5",
+   "publishedAt": "2026-09-15T22:39:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "1bd2c8ef512646dc",
+   "title": "모바일 도움말의 스크롤 영역, 월드잡 모바일 화면 사용법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWU1MckJiVk44ekhreUthTUxEUldUVUxmMWI5b0ExUENySWtpSzdMdGFHeEFYX3Vua0pUdkVXMlNrb3FFZXBPTWlTNmtrWGRJcEFGUU5iZndiaU40X3ppa3FUSFVpZ2wzYmIzUlVWUmdoWU9Ua3lQS1VQSVUzb3NpVHdnTncwSnBQM3V6NkxrWDU3SExpS0lBV2JWQkxzektoVExVYV9vb3pRbE5KaVd0MHVLYzR1MmNUanpzUUpqN1BMVERaTC1lU05yRk9YczBmdFFKOHNiV3VHRHJiYkhNVml1OFZWenZmb1RZWA?oc=5",
+   "publishedAt": "2026-09-16T12:07:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:15:15+09:00"
   }
  ]
 };
