@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T17:36:20+09:00",
- "runCount": 1305,
+ "generatedAt": "2026-09-17T17:46:54+09:00",
+ "runCount": 1306,
  "price": {
-  "price": "33,650",
-  "pct": "+0.45",
-  "at": "2026-09-17T17:36:22+09:00"
+  "price": "33,600",
+  "pct": "+0.30",
+  "at": "2026-09-17T17:46:56+09:00"
  },
  "articles": [
   {
@@ -34907,6 +34907,36 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T17:24:55+09:00"
+  },
+  {
+   "id": "2fcad8fe63000ccc",
+   "title": "인적분할 앞둔 카카오 이례적 소액주주 간담회에도 노조 반발 여전, \"책임 경영진 참석하는 추가 간담회 열어야\"",
+   "outlet": "허프포스트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxaUhmc0c3cWJ5VUs3eklEQS0yU21wQ3dsN1ZwMjBabjFnMExfLU5BV0Q0OVpINXotU3duUWdFTU9Rb3RRQ3NIZE9CX245bXBCOFFJNnpFRQ?oc=5",
+   "publishedAt": "2026-09-17T17:30:53+09:00",
+   "tone": "우려",
+   "toneScore": -4.4,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:에도",
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T17:46:54+09:00"
   }
  ]
 };
