@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T13:08:52+09:00",
- "runCount": 1280,
+ "generatedAt": "2026-09-17T13:19:18+09:00",
+ "runCount": 1281,
  "price": {
-  "price": "33,900",
-  "pct": "+1.19",
-  "at": "2026-09-17T13:08:54+09:00"
+  "price": "33,850",
+  "pct": "+1.04",
+  "at": "2026-09-17T13:19:19+09:00"
  },
  "articles": [
   {
@@ -34105,6 +34105,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T13:08:52+09:00"
+  },
+  {
+   "id": "36cad39dbd37e6d3",
+   "title": "카카오 노조, 인적분할 소액주주 간담회 비판…\"소통 아닌 쇼통\"",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00aHNFeVRWVU9zUzVQMDdYUDlGYk1ZdXVrTldNRlFtUnhzU0U1bE4yekxUZ0xUUXVkVDQ2eTlXdVdYTVl1MEpXNjQ3MWxzdXBubkNfTzg5YmlEOC0yLXRBNktYUmdJNmVP0gFuQVVfeXFMUHc5VHdRdE5KY3dLWWs0YnU1aWhfUmZob0s4UUZOaXA5V2s3LW9wTmZ2WHlhcEhlYnRKb0djRVg0Z0VQc04yTm1hd3ZSMlhiZm5ubFlzWlhpX3MxY3VQZU9EMjV6dnU4QVFQb3FreEE?oc=5",
+   "publishedAt": "2026-09-17T13:08:25+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T13:19:18+09:00"
+  },
+  {
+   "id": "0c7beb2dd534174c",
+   "title": "처음 본 화면이 낯설지 않게, 롤 템트리 사이트 추천",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNMXl0Q2U3TThFQlpLelBDdWllc1M2ZlJ4UzROWERmVk1qS0oyR0s3NTFYLUFhbzc1eFgwYThTdTE5c1o5V2E2OGU5TVEyWFN4RF9HSXVIMW5Jdk96OWwxMXl4T2VJbU52X2ZwSnN3QnMxNTRqcUw1RzIyMDRCajh1dXA5UGJSUGRWNFpYMHlkbkZSNVVReHA3X3h2bWxRd1lnQkJybk1BeUVoRE1WNFB2bnplTkt4UXhNVTVib05UcGdqLXpNVEFiZEZTT0ZNV0ZTRHI2anFsZEdpLV9OdThhclNHRTBRR25oNkxBZ2FpeW9wbUpLWThHaXBWZWgtTXg5Rjd5cnNoYXE5WFdXNE1aM25Qdld3aEpDd0Z6aTJTMHR2ZGFxZEE?oc=5",
+   "publishedAt": "2026-09-17T07:11:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T13:19:18+09:00"
   }
  ]
 };
