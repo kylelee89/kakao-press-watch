@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T06:49:21+09:00",
- "runCount": 1380,
+ "generatedAt": "2026-09-18T06:59:38+09:00",
+ "runCount": 1381,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T06:49:21+09:00"
+  "at": "2026-09-18T06:59:39+09:00"
  },
  "articles": [
   {
@@ -35510,6 +35510,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T06:49:21+09:00"
+  },
+  {
+   "id": "ee98cb707fa88467",
+   "title": "피망 바카라 환전 게임 버전에 따른 정보 확인",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUpaNUdQbVBBam5wc04zZWJXS3l5TXFfNkJabEZTczl4YWJ3UnU3ZmFZUEVrTzMwdFBjWEstek1SZE14Y0lJMzZ6VHhxSGdIV1VhbEsxeFExYmJmVzVrMmlKanM4SHo4bWgza2txZnNuTURhWE10dXp6b0JEVWllUjZ3VFg5cWpGNkdPdW1tbkpaUG1oUTU5OHJuTWloQzZiRkpnVFZmbUhHbm11aVoxVg?oc=5",
+   "publishedAt": "2026-09-17T18:48:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T06:59:38+09:00"
   }
  ]
 };
