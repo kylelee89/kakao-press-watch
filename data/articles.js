@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T14:21:55+09:00",
- "runCount": 1287,
+ "generatedAt": "2026-09-17T14:32:22+09:00",
+ "runCount": 1288,
  "price": {
-  "price": "33,700",
-  "pct": "+0.60",
-  "at": "2026-09-17T14:21:57+09:00"
+  "price": "33,650",
+  "pct": "+0.45",
+  "at": "2026-09-17T14:32:24+09:00"
  },
  "articles": [
   {
@@ -34271,6 +34271,152 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T14:01:00+09:00"
+  },
+  {
+   "id": "a0209fbebf7fa2b2",
+   "title": "소액주주 지지 필요한 카카오, “주주와 성장 결실 나눈다”",
+   "outlet": "주주경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGQXdfM0dmU2ZvMktoLVRlRU1sVWtCcDVxQVJUQjItOVBmbDY5TndoRkpoaXhYLWhsNFhtQ2djbUlPcks5R3hkOU5BWEFMMHFaR2hmMkRrczVDLXpRY1ZhRm1CVlJmbVR3?oc=5",
+   "publishedAt": "2026-09-17T14:15:49+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T14:32:22+09:00"
+  },
+  {
+   "id": "847a5ee9714321f3",
+   "title": "카카오, 인적분할 주주환원 제시···비즈니스 파트너 공모전 개최",
+   "outlet": "globale.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ybUowbGZZQ1RUV3F5SVFwc0ljaEtUVWVscl9ueHVFYmNsYjJZUnExSDh6aEFDaXVQUlIwM0ZXYjBkYzk3dXZ6eEJBNFZ1aU9DY1l0SWtkdkRRUUlUZEVTcjZidURoTWhiME5Z0gFvQVVfeXFMT3JzM19oQ3I4aWt5UjdOanZ1Vng4ZE0wcFRlTzFUV202Y2dBbTBUV2VBRkVxTDMwOHN6dWxxM1BLVkJQOUN2SFZCLTk0UElEUk9sa2l3SmtVcVhHYmdIaVcwX2lZTkVzeENBYzE0bkZj?oc=5",
+   "publishedAt": "2026-09-17T14:26:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T14:32:22+09:00"
+  },
+  {
+   "id": "4d86f5a09ecfa1ed",
+   "title": "“카카오AI 6조·카카오X 10조원 매출 목표”",
+   "outlet": "헤럴드경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXWWgwQlFGZXFtVjkxRml3UmIwNjB0R3hRNGlSRjZsOXdCWFhCd0RwWW9ITEE0MlliRGF6THdjX2lhUXZVbjRuNFJ3UGtsOTJIWEVnUEtxSQ?oc=5",
+   "publishedAt": "2026-09-17T11:17:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T14:32:22+09:00"
+  },
+  {
+   "id": "c1738988158e4f57",
+   "title": "카카오, 소액주주 간담회 개최…인적분할 배경·주주환원 방안 공유",
+   "outlet": "직썰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSWxTdEY0eGJSaFhrRUVncTJ4UGstU1hyT2VxX09YQnlMQkw2TzNLdHlIUHh4aDZtOGl2alJKSmd3YWlXQ2hqaWV4UVdXNWZwY3FxYUZqVW1weFl4ZVBVS2R0WS11VkEtbkp6atIBbEFVX3lxTE9MSWxTdEY0eGJSaFhrRUVncTJ4UGstU1hyT2VxX09YQnlMQkw2TzNLdHlIUHh4aDZtOGl2alJKSmd3YWlXQ2hqaWV4UVdXNWZwY3FxYUZqVW1weFl4ZVBVS2R0WS11VkEtbkp6ag?oc=5",
+   "publishedAt": "2026-09-17T10:13:20+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T14:32:22+09:00"
+  },
+  {
+   "id": "f856752df55d9967",
+   "title": "인적분할 설득 나선 카카오...노조 반대 재확인",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JSTEyTTZ4M1JuTEYxYTJlenpDZTJYOW5QWDRqQjZwRWtrSlhmSm5EdlRwdWpjOVRCekkwSWVtZjFCNnU4RUhxMEtZcFB2NlNid25WX2pNQkZHMzZDdlU5MWlIM0ktcWxzd3dPOGJn?oc=5",
+   "publishedAt": "2026-09-17T14:22:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T14:32:22+09:00"
+  },
+  {
+   "id": "3a80e44e92b9e6bf",
+   "title": "일정 변경 전에 확인할 펜들 슬롯 레이싱 할인 코드 예약 규정",
+   "outlet": "actt.org.tt",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1MzQxdmxSbTlLTWxfTlBiUmtJMndLRUIyN19NMnpkV0ZlREJHa0JReC10cmhUNURYeTBqd2NPZUpNU3lHUndLV2ZkOEZSeWdWNFpVTWdETWdGMFZ6OXg3djNjMDJUVUk?oc=5",
+   "publishedAt": "2026-09-16T06:03:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T14:32:22+09:00"
   }
  ]
 };
