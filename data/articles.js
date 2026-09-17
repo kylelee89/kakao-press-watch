@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T12:13:27+09:00",
- "runCount": 1275,
+ "generatedAt": "2026-09-17T12:24:42+09:00",
+ "runCount": 1276,
  "price": {
-  "price": "33,750",
-  "pct": "+0.75",
-  "at": "2026-09-17T12:13:28+09:00"
+  "price": "33,800",
+  "pct": "+0.90",
+  "at": "2026-09-17T12:24:42+09:00"
  },
  "articles": [
   {
@@ -33906,6 +33906,78 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T12:13:27+09:00"
+  },
+  {
+   "id": "940b7bcbdb40e9b6",
+   "title": "카카오, 인적분할 소액주주 간담회 개최…노조는 \"형식적\" 비판",
+   "outlet": "시사포커스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reXJoRW4yaWZQR3l2VzNNUVRNNWFET0pGV2d2c1QxNndXSTBFaGVRR3UzXzkwZ0lIaTdTZVExWVNNSW91bFFQTEVLeFdES2lpNk82eFJCWVFaSXdHRkFCdHJldkVPdTZfUVByYXV3?oc=5",
+   "publishedAt": "2026-09-17T09:30:37+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T12:24:42+09:00"
+  },
+  {
+   "id": "3cf16a9e2bdcaa6e",
+   "title": "카카오 \"2030년 매출 16조·3000억원 자사주 소각하겠다\"",
+   "outlet": "콕스뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hM3ZGckxuaV9kS3Y4RXUtVmVDM3g3LVN5VFJQUXNWclo3ZFJ1MXlGdUMzcmkyRmtGdFU3a2VSSWpBQTZpbXpuV2xzUU9EY3I2R0NqbXd6VkIzdUlkZkdObjg3Z0JFOTlCN3c?oc=5",
+   "publishedAt": "2026-09-17T12:05:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T12:24:42+09:00"
+  },
+  {
+   "id": "63a6771d7573bf79",
+   "title": "조작이 간단한지 궁금할 때 보는 레드 드래곤 포커",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNcFdSU3laWmNlRE91SEJ0VDFhcWNMZlpXaU1wbkJZY3k4LW9SRWFZbkhGVWYwOHJ2T2NlMUdfQzFfMVk5eVJxaHpPb3RET3RxTHNNTmlYM0VSVGo4YXJzUnVUMUhRM1VVOUxRajVqNkdfUGQ4bjU4cVVHb0N2NHJxWGxCQkhpOUdCdDJxTU9LR25MOUFYcTNuZmxxTV9HUExpTW5EZmVOSk9HbTNxTjVSaWVDbHFCd1F6dktqWFFLRDZxWXJVQ04yRXlTYTBCTEhzbV9oNGtXNlNUSmFFaFJ4c2lidE1VOVd1aGdlajFRTW1NWXJQVnNLTzVhWExuWkRUZlFlN0Z5UXFDX1pjbGo5aUNJcEJqTU1PZjJqOVJyS2paanhQUWZCc3I0NWFtR0J0aFZoTlFIZUN2NWlpWE5uSUpCVGVPVjh0UXJZT093SG1jQnNKVDVrLUpKMmp0UXF6VUY3MGxjZDNIQWRPdlRZUDFFc0w1VUxNVTI1ZmV6TVFfbkJmcjBSRXZMWk9pdDFHWndwbmwzb20zUnpTenZjMTZsdlNPSUJYcFRlNGlGM0pURWlqNEFJamlpTHg0T1lyeldDZ1BEZHFUZnZ2OFhYNDFhdVVaNWg2WUYwZ2ZqVDRRNDhma0t2dV9zNkNKOU0?oc=5",
+   "publishedAt": "2026-09-13T14:38:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T12:24:42+09:00"
   }
  ]
 };
