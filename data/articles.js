@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T15:24:40+09:00",
- "runCount": 1293,
+ "generatedAt": "2026-09-17T15:35:07+09:00",
+ "runCount": 1294,
  "price": {
-  "price": "33,450",
-  "pct": "-0.15",
-  "at": "2026-09-17T15:24:42+09:00"
+  "price": "33,500",
+  "pct": "+0.00",
+  "at": "2026-09-17T15:35:08+09:00"
  },
  "articles": [
   {
@@ -34543,6 +34543,77 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T14:53:09+09:00"
+  },
+  {
+   "id": "e659ed3332b17d29",
+   "title": "카카오, 소액주주 간담회 개최…인적분할 청사진 제시",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvZlNZQnZOXy0tVjFfWjl2UkxzNlBMRUhLWV9ZTldzb1FyZlRyb1JHWEZpY19GTS1KSTVjbU9xUUIzTmE2MlNZTHV3VTJ0czRsTzZuMHVLQnYtcG92QnJKaEstU3fSAWhBVV95cUxPQUltNkRvVm9Gd1FvSXlWeUdJWlpBNlN4X3BTWV95MmpPT3pGMHItcWFtalNna3JOdEdYOHBudU9JWTlXWnlRVklieWhPekIzUXExU1Z0WENMSDNod291aE1ya2hVWE1faQ?oc=5",
+   "publishedAt": "2026-09-17T15:22:28+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T15:35:07+09:00"
+  },
+  {
+   "id": "d1cde1ce54ba2b53",
+   "title": "슬롯 수 설정 변경 전 확인할 적용 시점",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3AySXQ5aENNRlpEWkdSLW1PTTRfbkFBaXJUTGlBY3FDM3NobWxGeFY5bXF5WEt6TDdXc2NLZ1NIenRWYURMdkJjR1hYeGoxazlIOHRzY1pOVEJndHo3WWlkZmhTMjFXbG01TlNOV0dUalZwcHdZc2RrdHIyS0E2ZmF3ejM1cjlyeHRkMEV4S2NhQ1dkWU9sTUo5TGh1UlpBdFpTVnNSSGlXeTdEWWFIbVI2aWhkbTkx?oc=5",
+   "publishedAt": "2026-09-16T20:50:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T15:35:07+09:00"
+  },
+  {
+   "id": "d83a8b8bb916aa5d",
+   "title": "카카오 \"분할 비율 소폭 바뀔 수 있다\"…1월 재확정",
+   "outlet": "자본시장뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnQUp5cENOQnR3R1hXMjk2OVlCNllCLVZzdkFYOF9KWlAyVFRDR3FnUHMyZGNmM2lqUHhpQUZsOHFaSVJlWHV3WW9pWV82WkNKM0lFZTJfLVVodnVhRXNXb2dialNLWEk?oc=5",
+   "publishedAt": "2026-09-17T11:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "분할비율 0.36 / 0.64"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T15:35:07+09:00"
   }
  ]
 };
