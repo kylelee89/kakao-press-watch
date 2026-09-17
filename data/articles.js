@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T20:50:01+09:00",
- "runCount": 1323,
+ "generatedAt": "2026-09-17T21:01:18+09:00",
+ "runCount": 1324,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-17T20:50:02+09:00"
+  "at": "2026-09-17T21:01:19+09:00"
  },
  "articles": [
   {
@@ -35167,6 +35167,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T20:39:41+09:00"
+  },
+  {
+   "id": "56caa79c5f96457a",
+   "title": "메뉴를 닫으면 진행이 이어지나요? 무료 포커 슬롯 도움말",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SdTIxWmtUR19veHZpdE1jWUpFMDUyNGRJYWZSYVJQQ2Ffb2lUc1FPQkppX011NEZpZk9EakQwWFU1TkhtOS1WSXUtaHRPanc5VkV0VWRUZHZ3MkY1NGdmOXoxeTdsSldvOFFNeWd5MWNiaFpRcEtJ?oc=5",
+   "publishedAt": "2026-09-17T11:41:12+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T21:01:18+09:00"
   }
  ]
 };
