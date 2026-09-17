@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T17:13:23+09:00",
- "runCount": 1303,
+ "generatedAt": "2026-09-17T17:24:55+09:00",
+ "runCount": 1304,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-17T17:13:25+09:00"
+  "at": "2026-09-17T17:24:58+09:00"
  },
  "articles": [
   {
@@ -34861,6 +34861,52 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T17:13:23+09:00"
+  },
+  {
+   "id": "ccf00530b1b6758b",
+   "title": "게임별 심벌 표기를 비교하는 사설 바카라 조작 자료",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjgwdDJDMW1PRzZCX1NqWUZOSGU3WHVLZkMyMnUzTElCT0JBWURYSF8zdHB4RmdIMEFWaUZZbHhhd1QtdnJrZHJkMnRHWHA1RkZraDk0YVJGb3k4eDQycFoxdlJwUU0tVk1zVGdPRlpJVEljZXJZRVczOWM0NUxFM3llaHNQTjZqeGN6V3FkSGJnUVJiRHo4aDVXR1pFRjAwck53cWRoTm9WRlhLaWphUUI2cDBaTEpJ?oc=5",
+   "publishedAt": "2026-09-17T10:21:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T17:24:55+09:00"
+  },
+  {
+   "id": "0a3dfb2060c1a4b6",
+   "title": "디즈니 슬롯 먹튀 안내 창의 확인 버튼 역할",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOEpQbzU3UnZLcnE3cVNtM3E4TDhMUE1feU5sRXMtYnRBR0w5UVJQZ09xLUpvS3NWZFhNNkwzZ190c3NOSmpMMlc0d1JkWV82elZkTVRtVVBiMC1KeVR5S1FLb0M0Rjg4VkJ2WlZWbVNmMTNCOWlQa2xvZHJHSkI1N1NjR0VvTFBIMXpWRlhxblFMalVXMEl2Y3lWSXp1dWhzNlNWSEE1LWVhYUxtUUVhRjdrbC1rM0llSVI4LUQ2U21DclhsN1JndEhZVmU?oc=5",
+   "publishedAt": "2026-09-17T06:16:50+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:먹튀"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "먹튀"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T17:24:55+09:00"
   }
  ]
 };
