@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T00:08:32+09:00",
- "runCount": 1342,
+ "generatedAt": "2026-09-18T00:19:45+09:00",
+ "runCount": 1343,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T00:08:32+09:00"
+  "at": "2026-09-18T00:19:46+09:00"
  },
  "articles": [
   {
@@ -35259,6 +35259,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T00:08:32+09:00"
+  },
+  {
+   "id": "e5f9fda37458b2b1",
+   "title": "한글과 영문 용어를 함께 읽는 더온카지노 참고 자료",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODR3WFdka2Q5QXd3T2g5Q1V4cU1wY3hhNWNEeUVmeXhiVEhuUmpaWlB6VG9fTWd0aWpPel9yN3Znb1hibGp5c0IzeXdCcnZGVlZkMlphZXRJTFUtUm1QcXVtdlUzbGlsS3EzLTd4dDhCaHpBYzZKb05ocXU1elpUY2FPNFB2cl9Uc2VIOHFiYmt3a0hHQ1E?oc=5",
+   "publishedAt": "2026-09-17T10:50:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T00:19:45+09:00"
   }
  ]
 };
