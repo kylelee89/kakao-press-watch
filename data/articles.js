@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T12:35:56+09:00",
- "runCount": 1277,
+ "generatedAt": "2026-09-17T12:46:12+09:00",
+ "runCount": 1278,
  "price": {
-  "price": "33,800",
-  "pct": "+0.90",
-  "at": "2026-09-17T12:35:56+09:00"
+  "price": "33,900",
+  "pct": "+1.19",
+  "at": "2026-09-17T12:46:13+09:00"
  },
  "articles": [
   {
@@ -34004,6 +34004,59 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T12:35:56+09:00"
+  },
+  {
+   "id": "da8f4f15aaf823b7",
+   "title": "카카오 “인적분할로 기업가치 극대화…카카오X, 30년까지 年 매출 10조 목표”",
+   "outlet": "와우테일",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fX1R1d2xVRlppZUItQXdaekpBdTBoLTNYOVNxbTFWMzhQX0IwbWtEV3JxVWFubXJnZFNHdzg5U0dRVF9CdVZBNUsxMkJhaG8?oc=5",
+   "publishedAt": "2026-09-17T09:44:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T12:46:12+09:00"
+  },
+  {
+   "id": "238d098ab8c5d23e",
+   "title": "카카오, 소액주주와 인적분할 설명회 … “AI 사업 속도 높이고 주주가치 제고”",
+   "outlet": "worktoday.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YWmpKZnBsSWtaaUVFWGRlM2RWeXVXaG5SMVozaHpHR3JoRjlqM3VmNWlnM29LX2xYZXZ6bVFFQ2YyNFFwQ3lZMWIwdklRZVphbG9UbUQ5bmZZZGlGbnQ3ODBId3dWekVQamVCOQ?oc=5",
+   "publishedAt": "2026-09-17T12:38:43+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T12:46:12+09:00"
   }
  ]
 };
