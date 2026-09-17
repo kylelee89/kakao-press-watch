@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T14:32:22+09:00",
- "runCount": 1288,
+ "generatedAt": "2026-09-17T14:42:46+09:00",
+ "runCount": 1289,
  "price": {
-  "price": "33,650",
-  "pct": "+0.45",
-  "at": "2026-09-17T14:32:24+09:00"
+  "price": "33,550",
+  "pct": "+0.15",
+  "at": "2026-09-17T14:42:47+09:00"
  },
  "articles": [
   {
@@ -34417,6 +34417,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T14:32:22+09:00"
+  },
+  {
+   "id": "cc364e7c0f030558",
+   "title": "카카오 “인적분할로 전문성 강화”…소액주주 대상 온라인 간담회",
+   "outlet": "IT비즈뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5faFg2N0o5d1A5WDF6a1RPdTF2T3dFdG85WjBTM1lQUmI0TVRuTFN2cjVWVm5MZjV1cjJvWmdLWG04aVMyX1RTTWRrSGt5ZGlVRlctQU1UY3hxcHZyRTl5Sm9iMlZyVE1sZXNnVA?oc=5",
+   "publishedAt": "2026-09-17T14:40:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T14:42:46+09:00"
+  },
+  {
+   "id": "eec38a1fec7c8e87",
+   "title": "토토 장난감 사이트 보너스 대기 상태와 진행 상태",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3BBWjcyZHhHejU3NEhxTFN3Ym0tMHF1bGh0dTY1dGVNX0VqWnBMTTVxak5JSmJIb0paeF9YZmNmU25yM1oyLTB3OVpwUmJ2OU1JYVAyRG5yVzBwUF9BZ2NaODROYmdpdlFyenM4Y040MXdtR2VtMUYtWk1FbjQ0cHpmc3BtVTgteTVFY01QWV83QUNCR2NBVHI5VGtIQ2RWQnpIRktlQlFmRXJnblRV?oc=5",
+   "publishedAt": "2026-09-16T21:11:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T14:42:46+09:00"
   }
  ]
 };
