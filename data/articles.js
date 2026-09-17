@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T20:05:55+09:00",
- "runCount": 1319,
+ "generatedAt": "2026-09-17T20:17:10+09:00",
+ "runCount": 1320,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-17T20:05:56+09:00"
+  "at": "2026-09-17T20:17:11+09:00"
  },
  "articles": [
   {
@@ -35058,6 +35058,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T19:54:41+09:00"
+  },
+  {
+   "id": "654945c6d17ff815",
+   "title": "카카오 노조, \"인적분할 간담회 실망…추가 소통 필요성 제기\"",
+   "outlet": "cwn.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00blphMUt4VEFLNm9URWJPUm1jd0x0c1c3NERvLW8yQUhGZ1JFX3R1MWQ5Y2hpZllRSHVKM0hERmlaVU5ERGF2MVhmSG5KakJnNzlwUlNWZnVVVVFMY01qNVNn?oc=5",
+   "publishedAt": "2026-09-17T19:21:46+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:실망"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "실망"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T20:17:10+09:00"
   }
  ]
 };
