@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T06:39:03+09:00",
- "runCount": 1379,
+ "generatedAt": "2026-09-18T06:49:21+09:00",
+ "runCount": 1380,
  "price": {
   "price": "33,800",
   "pct": "+0.90",
-  "at": "2026-09-18T06:39:04+09:00"
+  "at": "2026-09-18T06:49:21+09:00"
  },
  "articles": [
   {
@@ -35485,6 +35485,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T06:08:06+09:00"
+  },
+  {
+   "id": "f8bfbf7e762bf8b8",
+   "title": "카카오 “쪼개면 커진다”지만… 인적분할 기업, 태반이 역성장",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wYkdrcVFiX1NobGNiM2ZXMTBsS0lQdHUwR1VPc1dDOWRlYkVZb3N1cUw3azN0VUV2eGo3LVMxOXpnSXVSSjJpaHFnSDAyNm9TdnV4Wm5jNVlVWF9TeF9pbi1za0cxTnZrX1pjaVJrT2PSAXRBVV95cUxQOFM2aE1sazJuMFkxOTNqOWVGTzEwbmNnQ0Z4T2RlZmtROE90NlNXSllyZGtiWlkwSFR1cU96Ui1rTFlWdjlKSHJLblNWdXpJbG0yWGFWRTN3bTJaTFpwYXdPQjZub1lVUU1JVS1GelZEVVRCNQ?oc=5",
+   "publishedAt": "2026-09-18T06:20:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:지만"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T06:49:21+09:00"
   }
  ]
 };
