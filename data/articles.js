@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T12:03:04+09:00",
- "runCount": 1274,
+ "generatedAt": "2026-09-17T12:13:27+09:00",
+ "runCount": 1275,
  "price": {
-  "price": "33,700",
-  "pct": "+0.60",
-  "at": "2026-09-17T12:03:06+09:00"
+  "price": "33,750",
+  "pct": "+0.75",
+  "at": "2026-09-17T12:13:28+09:00"
  },
  "articles": [
   {
@@ -33879,6 +33879,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T11:52:30+09:00"
+  },
+  {
+   "id": "4f06c660439a8221",
+   "title": "카카오 인적분할 첫 고비…소액주주 반대 땐 카카오인베 합병 제동",
+   "outlet": "thelec.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VS0k2aENGLVpPbGZWemxkVXNmMkZoSFNQZko4cGRPbDFUM3I1VFRCSkhaTnBLazFoOWpzS1k1ZjlsNFk4Wm1oZFZ2MkZDcEVwS1FPQl91bjJueG9sd09rQTBlZnhfQQ?oc=5",
+   "publishedAt": "2026-09-17T12:08:04+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T12:13:27+09:00"
   }
  ]
 };
