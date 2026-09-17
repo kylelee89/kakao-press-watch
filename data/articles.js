@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T11:09:43+09:00",
- "runCount": 1269,
+ "generatedAt": "2026-09-17T11:20:06+09:00",
+ "runCount": 1270,
  "price": {
-  "price": "33,650",
-  "pct": "+0.45",
-  "at": "2026-09-17T11:09:44+09:00"
+  "price": "33,700",
+  "pct": "+0.60",
+  "at": "2026-09-17T11:20:07+09:00"
  },
  "articles": [
   {
@@ -33680,6 +33680,52 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-17T10:59:18+09:00"
+  },
+  {
+   "id": "84d47bb4fb7155cb",
+   "title": "카카오노조, 인적분할 간담회 비판…“정해진 결론 재통보한 자리”",
+   "outlet": "KBS 뉴스",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTeHNuUWwwMjJXNzN5eENMelZiT18waG9zZHNBeXBfTEJIZ0tXYnhmMG5iWGJtSHZDdWFwTHhDWVo1b3Y3TFdxTU9ONlVJdGdwOWZJQlJYWTJtMWc?oc=5",
+   "publishedAt": "2026-09-17T11:09:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T11:20:06+09:00"
+  },
+  {
+   "id": "5cb15b68d7a02823",
+   "title": "카카오노조 \"인적분할 주주 간담회, 소통이 아니라 '쇼통'\"",
+   "outlet": "핀포인트뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMW1FQmhyRUZyVnRpX1ItWDdKYXN1ZjlOMmlkVEpEQzZSWm5CeGtpUV9QMWlJVEtsR1JSSjVOWFRrSVNnZ3ZFTGc0RWQ1ZjUtdWZ3dU8zNGRQd2txakVnUnZMVWpoUWNQN0NMSnFjalB6V1k?oc=5",
+   "publishedAt": "2026-09-17T11:03:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T11:20:06+09:00"
   }
  ]
 };
