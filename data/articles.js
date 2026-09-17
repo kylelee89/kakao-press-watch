@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T13:40:12+09:00",
- "runCount": 1283,
+ "generatedAt": "2026-09-17T13:50:35+09:00",
+ "runCount": 1284,
  "price": {
-  "price": "33,750",
-  "pct": "+0.75",
-  "at": "2026-09-17T13:40:13+09:00"
+  "price": "33,800",
+  "pct": "+0.90",
+  "at": "2026-09-17T13:50:36+09:00"
  },
  "articles": [
   {
@@ -34153,6 +34153,101 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T13:19:18+09:00"
+  },
+  {
+   "id": "1736c9176e8170ec",
+   "title": "“인적분할인데 주가 왜이래?”…또 쪼개는 카카오, 주주설득 통할까[김미정의 머니태그]",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SZ0I2bnJLYkludkJSTEdCRnQ5WnpQZzNtdURZbVNWazZxX2xucDBQRWR6Z0FtSGlUQVhOZEcyb2xUMDRzQS1SU1ZTSHg4aTQ?oc=5",
+   "publishedAt": "2026-09-17T13:39:11+09:00",
+   "tone": "우려",
+   "toneScore": -9.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:인데",
+    "수사의문:할까",
+    "적대어:또 쪼개"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까",
+     "또 쪼개"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T13:50:35+09:00"
+  },
+  {
+   "id": "ea3a314a4da7feba",
+   "title": "카카오 \"2030년까지 카카오AI 연매출 6조 달성\"",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45cTRPZmlJM0kxLWt1ZkExdDZJTWk4OERPYVZkWTJjc1F3TzVZSUpMUTJYMkh3Ml9NcEFJdm1Ia0VLT2s3ams1X0JPLVhPLW8?oc=5",
+   "publishedAt": "2026-09-17T13:41:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T13:50:35+09:00"
+  },
+  {
+   "id": "8642792f5bd34183",
+   "title": "[빅테크 거버넌스②]카카오는 '분할', 네이버는 '동맹'…네카오, AI 시대 생존법 갈렸다",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtWmhna3A1c0NQdGRiSFFsaTlGT09vdlZxTE9BYlpYV2I5Mm5ZMVdwWkpXeGRUMTQ0YTV2ZFdBMHdzYjBFSVFEMzVoVU40OHFTeUhHTEdHYVlNVkt4NXRCNWJOQmo?oc=5",
+   "publishedAt": "2026-09-16T16:57:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T13:50:35+09:00"
+  },
+  {
+   "id": "2192cf6e2c263eed",
+   "title": "화면 확대 전에 확인하는 파티 카지노 무료 코드 글자 크기",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0ZkT2ppTGdzZUpvT3VlVEZncXJHZnFuSFRIMjdNdjM4NGNJVG9DbS1EOGV2cmM5b2k5WFk0N0pYNHp3N09RaVhKSmNTT3IxU2ktWWdxOWZvRW51aW1ZdEtId0oyemRlcFlhVG1WNHdLLVJmS2JYMnlFeUNJOGdCRUdDcVJXekpXRy03ZmVrR25ETkZmUWxZaVVMbWxQR2FRaXo0Y05vMWdSSVNhaXotdFZjQ0tsUzNaUjVYeHZfWlNnaUpsRzRz?oc=5",
+   "publishedAt": "2026-09-17T03:21:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T13:50:35+09:00"
   }
  ]
 };
