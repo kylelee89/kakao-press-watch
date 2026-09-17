@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T11:31:27+09:00",
- "runCount": 1271,
+ "generatedAt": "2026-09-17T11:41:52+09:00",
+ "runCount": 1272,
  "price": {
-  "price": "33,650",
-  "pct": "+0.45",
-  "at": "2026-09-17T11:31:28+09:00"
+  "price": "33,750",
+  "pct": "+0.75",
+  "at": "2026-09-17T11:41:53+09:00"
  },
  "articles": [
   {
@@ -33779,6 +33779,58 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T11:31:27+09:00"
+  },
+  {
+   "id": "8fff3eae298ef2e5",
+   "title": "카카오, 소액주주 간담회 개최...\"신설 법인, 2030년까지 매출 6조 목표\"",
+   "outlet": "핀포인트뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IMUhjeVY2X2xmR2Y3OWhCUTRzbkxLSkhtS21iNkpsYzdTODJ3YkpzVlFBMEdUQkdxeDdhQkhtV3I0TmxQaHR1dUY4cjdIU3lmUnJhNExDUTJDZW00ZUVnME5URUtCTlU3c3lERW5TV1d6YzA?oc=5",
+   "publishedAt": "2026-09-17T11:32:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T11:41:52+09:00"
+  },
+  {
+   "id": "e651788fed4c2b32",
+   "title": "카카오, 분할 표심 잡기..'3천억 소각·매출 16조' 꺼냈다",
+   "outlet": "포쓰저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNOGpxcEtuRWVLeDA3Qkp1MjRPVDhHMWw3dDFZLVp2NE01cFcyU1JxMHRxclBfTFNDdzc3SDc5NXdSVm5uZjFVY2x1N1U4T0QzbnplaGlaaUgwQUI1TURVV1BNS0o?oc=5",
+   "publishedAt": "2026-09-17T11:22:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T11:41:52+09:00"
   }
  ]
 };
