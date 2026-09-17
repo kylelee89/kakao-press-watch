@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-17T10:15:15+09:00",
- "runCount": 1264,
+ "generatedAt": "2026-09-17T10:26:09+09:00",
+ "runCount": 1265,
  "price": {
   "price": "33,650",
   "pct": "+0.45",
-  "at": "2026-09-17T10:15:22+09:00"
+  "at": "2026-09-17T10:26:11+09:00"
  },
  "articles": [
   {
@@ -32762,6 +32762,491 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-17T10:15:15+09:00"
+  },
+  {
+   "id": "dfa673b98722857b",
+   "title": "카카오, 소액주주 간담회 개최⋯\"인적분할로 기업 가치 높일 것\"",
+   "outlet": "브릿지경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nM1JVVWNYb0xFVWVWQlNPTDdhaGtNMjBmb01Fb0x0ZmJCNTBnUnpZR1NESTAtQlo0dmFQUHdoakk4LVlCbEswOE95a2oteURyNnJ2YS1jd0hXQQ?oc=5",
+   "publishedAt": "2026-09-17T09:24:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "70fec0745b847838",
+   "title": "카카오, 인적분할 소액주주 간담회…노조는 '형식적 소통' 비판",
+   "outlet": "ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96N1ZJODBINDQ2Q19UVWt6QjdTeU1FRFYtRm0wdlpJYjNWcjNDSnIzak11VDVGNlhwenljaDg2MUV1a1NJQVZCUWVmWjRUak5keUk0OEpqX2NNR2NfMVpFNVVmdXpYaEln?oc=5",
+   "publishedAt": "2026-09-17T09:36:51+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "8044e12ae302a443",
+   "title": "“기업가치 극대화로 주주가치 제고” 카카오, 소액주주 간담회 개최",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNeWJ2TmliSVFuRzJPOXcxcWx5NmV4VDd4aHFzN3NvQWd1eHVSNm5FSGM2TmdVbWNYRkktbHdvckQtSUp3T250U3BDdkNNdGc?oc=5",
+   "publishedAt": "2026-09-17T09:33:04+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "88befd18d49afc19",
+   "title": "카카오, 소액주주에 인적분할 청사진…“주주가치 제고”",
+   "outlet": "메트로신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WczRkUVlGQUFMajVUcDFlRlV2d3hGUS12ZFFlNnlyWm9MMjdHcWNId3VmMzBGeDJKSWQtZWl6MTBSODY4ajJtaVhVWE1uSm03NUVSR203Y3ExNkVsbExCYg?oc=5",
+   "publishedAt": "2026-09-17T09:47:16+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "ada9f79fffd55b6d",
+   "title": "카카오 \"인적분할 후 2030년 매출 6조 달성\"",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxMmRUVzZZX2JHSF84YVctaV9nWUNVTU0tMEM3YkJySDZ1cE9IMFdYdi0xRHlEWGdlTFJqU0M2NEx5c0hsY2UtNG9wbEZHTlV0YURvSg?oc=5",
+   "publishedAt": "2026-09-16T18:59:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "ea2493845a01491b",
+   "title": "카카오 “2030년 카카오AI 6조, 카카오X 10조 매출 목표”",
+   "outlet": "뷰어스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWEplbzg0eDduVGtnLWZLTWdxUGppNFBnQ09mQlNxNElCaFU1TFpia2wzYzNSQTJsR3BRMGNkelZZeEtaSjNmOHJCREVzLVV1a2NCVVZwYjU?oc=5",
+   "publishedAt": "2026-09-17T09:51:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "afd79d49bee938e7",
+   "title": "[종합] '왜 쪼개나' 답한 카카오…'AI 1조' 증명은 남았다",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lQmVDcmkxOVZDZ2dnd2JMUEJXRWN5TjE1TFMzRFhUVWo5R2ZhMG9ndGhnc1J0b1F5NUVoczhNdWhHN09rckFpQUpQcDdvaDgwVlAtWXZWbGZLNldK?oc=5",
+   "publishedAt": "2026-09-16T17:59:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.8,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:쪼개나",
+    "적대어:증명"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개나",
+     "증명"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "75917cd44d581e68",
+   "title": "[현장] 카카오, 소액주주 달래기 나섰지만…온라인 간담회 후 주주 반발 더 거세져",
+   "outlet": "alphabiz.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tUExFclZuSlJvbEx4SXpLZ1N5R2hmTjZFYURFVk1Bc0ZPY3pwVDVBN0RGR1hyZHloTDFpdWZ5V240WkNxVnAxUDRKUG1hczllbTl1WmxLSUtIaGNmOUxUdTRDOTk4Wi1XYWVjZW1R?oc=5",
+   "publishedAt": "2026-09-16T19:38:39+09:00",
+   "tone": "우려",
+   "toneScore": -4.4,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "역접:지만",
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "40c79310fae9f21a",
+   "title": "입문자가 먼저 읽을 파워볼 밸런스작업 짧은 규칙 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVBjV1N4M19aWDNDVVJ5UWJIUmloS1Awd0ZmdnByX2xYUGJCMGtwNFFkWF92QlVlXzVxMEpWT2NMbmpWMGJTU1IteXNmeFIxVGNOSkpuaHk0SFNjbFZDMXJXUTY2czYtM1ZfTlRfU3dTaEdrY3hOZW5BWV9PYThrOTBiQkV6ajdFcGlZVXowdTdIWTRreHFpS1hQZk42Zw?oc=5",
+   "publishedAt": "2026-09-16T20:30:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "8dfe95138f94f982",
+   "title": "입문자가 먼저 읽을 신설동 경마장 짧은 규칙 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0NVMU9pTkl2QmdRZlZ4MnJXVWgzbDFtbjF1YlMwUk90R1YyN3VhU2dJNlZiaTlMb1c3T2tOc1FPa0h2RG5RLW9EdDMwa25TQ1duUmxyZ3ZidGcta0VCZ2ZET3k1aE4xeVJfLXBtaFlqNTVoOE1vQXFibmtZdFFvRW9GOTNCVDFxVkxPQzdHSk56RUVINkxvVDV4d1dsVzJ3bXB2bWg4NUR2OHBDMWJvYXllU3BFbktubGR6dEs4VURXU2d0dzM0?oc=5",
+   "publishedAt": "2026-09-16T21:00:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "4f9a14d237ada812",
+   "title": "규칙을 읽고도 남는 슬롯 사이트 뉴 헤븐 카지노 세부 질문",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcVNnbHF3S2VJTExGTzl2WjRBZ0pzb3lvMDZiTlBtZW9US2stdkVHa0xncE5BZUs0V2otVm5zQktlSU1leU5UYkJ1WFktNU9pbGZNVEhvOXZ6TUUzZnBlUV9fcXhCcG5HOEhrVUpJZkRSSXhTUWtKa2dLQVBNcjBhSnZpZUhSZkduMDVRdTZrQW9vNGhJQ2JUYU9CQTZyR2lfZUhtRDVwSjNJQ3hCd3NlSzhGWGlZMDQ2UTc0YjdlTUJUQUkyNE1yVC1hdzA1ckxEMWNIOGk4S1NqWlg2cDJUak1RSzJfRjBIaWl5dFNQS19uLUZtV2Q0dThtbmRXTklpeEtBcF9CWDNRY05RNWN3?oc=5",
+   "publishedAt": "2026-09-17T06:49:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:고도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "01af94df65a09347",
+   "title": "'인적분할' 카카오 \"2030년 매출 6조 달성\"",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSZ3lqM0hGWjJCT2dOdlA3UzN4V0hab2lqdGxBRDhOc1l4Zzc1eEprTTNTZXNlQzdIT2RSU2NwNWJzWFE2S1FNMTlsNGZjd1U1UlFXa21HdGtvUQ?oc=5",
+   "publishedAt": "2026-09-16T21:19:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "078c3a2ec745b4a0",
+   "title": "카카오, 2030년 매출 6조 청사진…오는 10월 AI 에이전트 시연",
+   "outlet": "생생비즈플러스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTOXZjQ2E5c1ktSjRlNGprNGdLTVFpOGxFWE43VVlNcHpmRVVaOWlwUHJKUHJKUzI5QkNsYlRoUENTcFdrYW9kTXNodmVIQ1NNaTNmRjV2ckRVTW9oMTRPYWY5TjZpd1dmdHpLNg?oc=5",
+   "publishedAt": "2026-09-16T21:50:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "af24a07f9001542a",
+   "title": "부가 기능 없이도 이해할 수 있는 게임 24인치 기본 흐름",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYcmRnN0NnUkw4NTNXNGVoSl9xOWl0eFBIcFgwVERjRmpHaWRJaFJDZXRuNlNYVHNHcm94NGZ0d0RES2Z1U0hjbEtMMmxpQU9qT1Z3c3p0OHRqcmVDVl9PMm9wdVBLejdKLUQzYkNpM2dYLTMxbk03VQ?oc=5",
+   "publishedAt": "2026-09-16T15:17:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "1e970bc65e474aa8",
+   "title": "카카오, 소액주주와 온라인 소통 … 인적분할 배경 상세히 설명하고 비전 공유",
+   "outlet": "biz.newdaily.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41bzFjMFYtb2VxRFZqaG5TWFUxM2lyaWE5UWhfREVySzd4bW9VVUF1MGhISEN0VFhHanVqbWRob2JNVFlJNXRGMEs3NHZibGxsNndIcnhkNm5CV3Y3ZFZiNWloTG9GcGhMcVRhenlQdi1lOXVSU2FDVndfc9IBgAFBVV95cUxNc19xMjZZMVlyUHFLcklNZm5vWmJKcVBIRVdoOWtNeGxFRHFaemNEWE5kbEQ3VzFaTVZzQkVmQmJtc0dKNi1UU1N2bWltbl9rSzViLXE2QVdDbHZaa09BaXcySDlHM0lJS016NS1MbVQzU1pwYVdkYkUyNS1PeXRYWQ?oc=5",
+   "publishedAt": "2026-09-17T09:19:26+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "79158f4af088db58",
+   "title": "10월 'AI 카톡' 베일 벗는다…카카오, 1조 수익화 시동",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LUkNjWUotcTVqdXRlaDZ1YVJIQUl4ZnlJeHdZZmxqNkk5ak9pdHoxcThLRVg3RzhoTk9BTVpwU09aTWM3akZmY0xuV2FieUpKRTBnakVaRXoyYjZp?oc=5",
+   "publishedAt": "2026-09-16T17:39:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "59b54194d9b047d2",
+   "title": "\"이사회 의사결정 85%가 자회사\"…카카오가 밝힌 'AI 분할' 속사정",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wYnRqZURaOERUcjlRVVN4YWFyNUxpT29Mci1xYnl0c21qbkYxMmpidVdYRXFPMk9lZWxkREVZSlhvdmFUNm9URmNjV2ZCN2NYdGU5WGdDZWJUNmJ5?oc=5",
+   "publishedAt": "2026-09-16T17:37:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "30512c4ba961daaf",
+   "title": "[팩플 Weekly] 카카오 입사 2년차, 6조원 굴리게 된 김도영은 누구",
+   "outlet": "중앙일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAySF9TMVJ0bG56dXIxZWpMTExLZlZ4LTBaX2stT2pJaEJoUkZkc1FsS0l2eFFnUEhOSlhnTGZJN0VVdHZWLU1ma2NXOUZxUEhHODlib3hERmNxNFlIRm1N?oc=5",
+   "publishedAt": "2026-09-16T09:48:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "c834136649a42abe",
+   "title": "카카오 \"두나무 판 돈 3000억, 주주에 돌려주겠다\" 소액 주주 설득",
+   "outlet": "조선일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT01nWWozeG5oY0gwT3psZ1ZOUkF0VzN4SmdKTnFzSURaMS0xaWFjRW01dWt2SzNnZ3Y1R0Y1dGREZUhyQWowSm92RjYyTmZvYk1raTk2M3dWNzVRZ2RhbFJMU3NSVU1ZOGI1c29TUmJMMk5pZkRUWnk4VGh6NWhUZWFaSQ?oc=5",
+   "publishedAt": "2026-09-17T10:11:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
+  },
+  {
+   "id": "f6648b90e3fe74ee",
+   "title": "카카오, 소액주주와 소통…\"기업가치 극대화로 주주가치 제고\"",
+   "outlet": "인포스탁데일리",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13VFFsbmdQaTU2VEVGeVd1bHBhNjJ5bXZQNnV2anRMLXE3SHdYUldBaDBVb25WMHU1YTVHd1BSUGtrV0hXOTd0UFNOUEJmdTdPeExkQ2FCQjU4VHAxc2l4VjVZNHRhc0R4WVJocWpWeVFQWHlVN1E?oc=5",
+   "publishedAt": "2026-09-17T09:17:02+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-17T10:26:09+09:00"
   }
  ]
 };
