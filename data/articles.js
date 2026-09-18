@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T20:39:18+09:00",
- "runCount": 1458,
+ "generatedAt": "2026-09-18T20:50:33+09:00",
+ "runCount": 1459,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-18T20:39:18+09:00"
+  "at": "2026-09-18T20:50:33+09:00"
  },
  "articles": [
   {
@@ -35984,6 +35984,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T18:54:21+09:00"
+  },
+  {
+   "id": "85b4ea4e89b13da6",
+   "title": "여러 게임 중 메뉴가 편한지 보는 모반",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFVCaFJfMmVSdk9SZE5oSzNRR2V2RUdSX25TZHM3Vk41bjEzcG9sdUZLS0RESVR3MTlZSWQ3S01GLTNvSFRQdUg3ZkhIby1EeTdQN1BheklwZEQyUTN2dzNFZ2NxVmkwVlpXRnBwbmtXSk5ieWMtRkpVVEppdGMyUzA5WG5rb3R3T0MtSWRiUUdfbUgtSzg0SFV6M1ZOZ2RxWUMw?oc=5",
+   "publishedAt": "2026-09-17T01:31:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T20:50:33+09:00"
+  },
+  {
+   "id": "5c8315e217477575",
+   "title": "일반 심벌만으로 읽어보는 토토리세계명작 독서 기본 판정",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNM2Nxb2U5WXlUOC14S0F2a0R4N1hsd0pCakNHZllaUmctQnpWRFUwYkhPdVdNYWp1cFZveThpT2UzWnBCUGxBZ3lOYnNfNmR3MUxQYnV2MnpyU0d0Q2I1ZUk0NDhsWUdnTm9zcHF4VHpORkVSZGdrNG1rSDF4Y0ZZelIzRkxYUUJMdXdOanRGYW9MUUFZVFhIU1U2OW05SXVVV0t2XzI4M3paM2RSN2dZNWViRXJObjV3TzllRFdwVUZqeFlmTjVrdUNablRsZ2RBUVhGVFdqX0N5Y3dxUUJzVEFBbXM2SW1PYlFrMlZRMEVYX2VaZ0V0elVGN2ZOenliUDBEeGJJdkFoMDVvNG1WLVgwYkpFNWF4RmdTZ0k4LWtORWowQ05tN2hLTVltSnFEN3Y1cHpQRVJFaXhDUVNzOFdEeFFMczI5bV9aV19yXzZ0T0pXS3BtWEpyQzNLZjNnSUE?oc=5",
+   "publishedAt": "2026-09-18T11:36:51+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:만으로"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "만으로"
+    ]
+   },
+   "firstSeenAt": "2026-09-18T20:50:33+09:00"
   }
  ]
 };
