@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T13:52:16+09:00",
- "runCount": 1420,
+ "generatedAt": "2026-09-18T14:02:45+09:00",
+ "runCount": 1421,
  "price": {
-  "price": "33,450",
-  "pct": "-0.15",
-  "at": "2026-09-18T13:52:18+09:00"
+  "price": "33,500",
+  "pct": "+0.00",
+  "at": "2026-09-18T14:02:47+09:00"
  },
  "articles": [
   {
@@ -35837,6 +35837,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-18T13:30:27+09:00"
+  },
+  {
+   "id": "efccc256cdaac239",
+   "title": "기능 설명의 빠진 부분을 점검하는 퀵 슬롯 영어 정보 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0xkaEg1OGpqS0hId0M4MHY2ekEtbHF4YnVtM1FRMzRJSlpYeFA4dmoxeGU4X29mcW9Qb09hZzh0UnJqWUpfaDB0NXU0RjFpZC1RV0t2ZGlQcmh6amFMT21FSHQxM2w5OEpDeXRYbWdKX3RpOUUwLXk2dURhVVR0Y01HTnF5R3RUU1M5bVJ4ZWYzNjEzX1l4Sg?oc=5",
+   "publishedAt": "2026-09-18T01:31:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T14:02:45+09:00"
   }
  ]
 };
