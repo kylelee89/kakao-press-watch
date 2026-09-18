@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T12:37:49+09:00",
- "runCount": 1413,
+ "generatedAt": "2026-09-18T12:48:08+09:00",
+ "runCount": 1414,
  "price": {
-  "price": "33,375",
-  "pct": "-0.37",
-  "at": "2026-09-18T12:37:50+09:00"
+  "price": "33,400",
+  "pct": "-0.30",
+  "at": "2026-09-18T12:48:09+09:00"
  },
  "articles": [
   {
@@ -35764,6 +35764,50 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-18T11:01:36+09:00"
+  },
+  {
+   "id": "97754677c6e381c4",
+   "title": "규칙을 확인할 때 도움이 되는 강남 불법 카지노 화면 예시",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWVHJNblRaS1lTZm16NjJ4d3hzLVV5QUlzbVZrRkxBUzY4UTgxWnJqdFN1UzNLTVZIRXVvZ0Z1ZFJDSjZlby14Y24tbTJJS0NaelhSSy02N1dzVDQ?oc=5",
+   "publishedAt": "2026-09-17T23:34:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T12:48:08+09:00"
+  },
+  {
+   "id": "7ae42a6f80ee26ab",
+   "title": "배당선과 연결 방향으로 보는 토토 꽁포인트 비타임 규칙",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFdaNzZDLTNoZ08yUGZ4NFpFX2UwZDJsRDVHZDdLLVpQZ3VjYXpDa0ZpV3pJS3FEUjJBTkVIWV9NaWNVYVROajR2dTBHdk9hb0IwSEM5RmJ5dzNUak1XYzdzWWpEa3hQdFBKOFRTSEpUdkZuMWJrX2xBVnR3MF9CWlc2LVNvU1ZpbnNVdGxSbWQxbm5Id3FQRDhoc1ZSUQ?oc=5",
+   "publishedAt": "2026-09-17T19:18:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T12:48:08+09:00"
   }
  ]
 };
