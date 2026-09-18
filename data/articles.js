@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T10:07:46+09:00",
- "runCount": 1399,
+ "generatedAt": "2026-09-18T10:18:04+09:00",
+ "runCount": 1400,
  "price": {
-  "price": "33,500",
-  "pct": "+0.00",
-  "at": "2026-09-18T10:07:47+09:00"
+  "price": "33,475",
+  "pct": "-0.07",
+  "at": "2026-09-18T10:18:04+09:00"
  },
  "articles": [
   {
@@ -35621,6 +35621,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T08:44:29+09:00"
+  },
+  {
+   "id": "4368ba54afd657a1",
+   "title": "카카오, 소액주주 간담회 개최...“주주환원 정책 의지 강조”",
+   "outlet": "파이낸셜투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qQW1hY1lZaUZXUXVfalNUQVhKRUJVN2Y2bUFESnNkVzdCNW9Zd3hBSm4telJ6d2VCekVVUi1KWGZTd1diX0VJMFRXREJpYWxLd1htbjg1dUdlc2VERmxkdTB4aGk1OEhvQldF0gFuQVVfeXFMTWlhdGlFbENrN2RKUmhIS1dzVFJuOUdDeTlsT0pvak9LdDlFc2xmcE5XZzNhWlFydDhEZy1OSlQ5VlVnbV9vM2U0Y3hhY0tNQm9VUmRrTFNEOUpDYngxMDc5aV84QU52RFhENTBsNnc?oc=5",
+   "publishedAt": "2026-09-17T15:40:51+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-18T10:18:04+09:00"
   }
  ]
 };
