@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T21:54:19+09:00",
- "runCount": 1465,
+ "generatedAt": "2026-09-18T22:04:38+09:00",
+ "runCount": 1466,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-18T21:54:19+09:00"
+  "at": "2026-09-18T22:04:38+09:00"
  },
  "articles": [
   {
@@ -36030,6 +36030,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-18T20:50:33+09:00"
+  },
+  {
+   "id": "086579eea03a2fa8",
+   "title": "[전자·IT 레이더] 네이버, 지도·쇼핑 AI 에이전트 고도화… 카카오, 인적분할 후 성장목표 제시",
+   "outlet": "더밸류뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OVlBReG9CRjBPUkJuTVdWbTZ5bUxFd1BIdlg0UE5KVFEtN1oxbzlaQmdOMDlQdUEzY3RXUGdxcWlfWHdqbEtpUnZ3TjlOVGF5R01J?oc=5",
+   "publishedAt": "2026-09-17T15:22:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:고도"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T22:04:38+09:00"
   }
  ]
 };
