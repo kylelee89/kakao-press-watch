@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T14:44:56+09:00",
- "runCount": 1425,
+ "generatedAt": "2026-09-18T14:56:18+09:00",
+ "runCount": 1426,
  "price": {
-  "price": "33,600",
-  "pct": "+0.30",
-  "at": "2026-09-18T14:44:58+09:00"
+  "price": "33,550",
+  "pct": "+0.15",
+  "at": "2026-09-18T14:56:19+09:00"
  },
  "articles": [
   {
@@ -35858,6 +35858,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T14:02:45+09:00"
+  },
+  {
+   "id": "b46fbefb7354b3e6",
+   "title": "다른 테마와 비교하는 토토 승부예측 시각적 구성",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3ZLazZsWlVxQS1DbjZybFhaMjRIR0JDN2NFbloyeW1TbkFlSHFiWThkNDZmZGlabWVWU2EtSkRURWpWNnhWdHk3VUZVVXNLWldFemxIVjk5Z18wR2x0eUtWanc5S0VnWGs3S3N0R2x0cWozMFo5b01tMG1QbmxZeHpoZlhldVRnYWxJNS15enRpVXEzcTVzN3IyaVh6OWh0ajJuQ2xLZWljQ2Z2SGZEX2NrMkxXMkoxNXlXTQ?oc=5",
+   "publishedAt": "2026-09-17T22:50:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T14:56:18+09:00"
   }
  ]
 };
