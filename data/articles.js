@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T10:50:38+09:00",
- "runCount": 1403,
+ "generatedAt": "2026-09-18T11:01:36+09:00",
+ "runCount": 1404,
  "price": {
   "price": "33,450",
   "pct": "-0.15",
-  "at": "2026-09-18T10:50:43+09:00"
+  "at": "2026-09-18T11:01:37+09:00"
  },
  "articles": [
   {
@@ -35648,6 +35648,122 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-18T10:18:04+09:00"
+  },
+  {
+   "id": "e3a09ea86e20244f",
+   "title": "인적분할 앞두고 소액주주 설득 나선 카카오 \"두나무 매각차익 30% 주주환원\" 강조",
+   "outlet": "글로벌경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQTFwZFpuWWdTRHBsdXpsRUpSZE55bnItbWwtd0VFOFBpQktFZnRSUVlOWWd4bzA2Q1pSc2tSSEk0OS1tUlpWZGtBOFkyTlZiQkxuT0szMVI5ZlpmSlN3OUJ2YUp0WUtQTDNzOdIBcEFVX3lxTE5aZjhBTHgzblNPMjJ2X3F4YlBtRTdDcHFndG1SMFlsOExqZjM5Y2tSSU5vLThWLU8ycUV4dEJSWlNScFFBRVRTZXRKejFkRF9SREg0T2RVYXVkRlRNZkg0bVk2cGEyTU80b1ZZbVFZQkI?oc=5",
+   "publishedAt": "2026-09-17T17:05:14+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-18T11:01:36+09:00"
+  },
+  {
+   "id": "7258467ff3a80e7c",
+   "title": "보너스 안내가 나타나는 위치, 토토 분석사이트 화면 관찰",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaE9ieEhHa0tUem55bVg0UFZ2OHZTOW1ZTzZyZ3A1SW54RzAxSmhMU20xbGh1Zkp6cVZHdGl0MHA0R09oVzRkLTlZR3VwZ1UzRDlscWtnZ0NQamQzRDZqYkhHNzk3Rmp0QmRyRUFhajdEaEJ0NWtGeXR4QjEwMEhKeEU2TXNXYjdTTlBueEx3TW5vMWdOdnBpamZTVl9oR05PZnd1cnFWbnNRTFZPTXlsczQ1eEVZZExabzlDRkRTRncyNmVUZWpKZVIweTBkZV8wNlE?oc=5",
+   "publishedAt": "2026-09-18T02:05:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T11:01:36+09:00"
+  },
+  {
+   "id": "572cec1d11b9d6ea",
+   "title": "게임 중 회전 잠금이 필요한지 보는 일본 경마 상금 모바일 정보",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUW9qNWgyc1kwSS1zWWJSZE82cGZvbGM4Z0hEZ1d6Qy1zamhnOGF3R0wyd19OTVBJeWpQZkRFUkRScG1JdGswc0xwaEk5VEFraV9BNUpHM05Ka0dQMEJiN0FTVnJlTWtDQzFHM0xVSlBRRU1qS3BnN0hrdnBfU1lBbVBPbV9rMS1QWDJfcHV6VTlKY0Y3aXdRelVMNzAxckJFODdlVmc4Sl9rRmNEenBiQ0IwY0s4Rm9ZNlFROXBYOF9EMEFfYzBnTG1GVVhqRE5zaVdRcUp0clVfVHE2OExZZE5pTm8wd2ZuV2FjTUFNWmdFMjBTZmg4NExiLTh2RU5QQkhoUk9Ed0hCRE1BcWxWZVUtdkVMVmlSYng1Q1VOYlltTm9mbzZ4S1M1cFZqUVhqTzJLa3VzNWdqYzFMN090aW5B?oc=5",
+   "publishedAt": "2026-09-17T18:03:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T11:01:36+09:00"
+  },
+  {
+   "id": "05c982e4ace2ee06",
+   "title": "게임 설명과 실제 화면을 맞춰 보는 재미있는 ai 사이트",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGNzVFJEajE4TkU5aTFyZF9QZnJNTDhhdTFEZHhSLWlKTkI1MWFvZUdIb3p1SGJGbmRaSjB4YmlsTVloTHFzZUtiSVdfaHlfVktaVUVMQmstUFFKYXNnY21GRnREZWxkMXBLOVg3SGNFb1VzWFNseVVRM0o0UEx3SGFfTEU0bkR4YlZFU1pQY0dOdw?oc=5",
+   "publishedAt": "2026-09-17T22:17:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T11:01:36+09:00"
+  },
+  {
+   "id": "5d25e6374dc22fd5",
+   "title": "승리 조합은 어떻게 표시될까? 바카라 환전 결과 화면",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZW9SNGg2czg2ZkFrakF5QzNJenBUdDYxVVdlLUhzcE1XbWRpUVRZS255b0FYNmZtQnRtalkwT25lQk92N3R4MzI3aTlFUTVlMjVSaC1ZZ3NXZ01NYzlaYkNuMVdvbERVb0hfcVZ2NGx5WjVVczE4R25CTmVyb1FRY0w0bUlLWERLYW9oemxIVG1FVWFCRWxZQkt3NlFuQnhNU3EzWGtpTkFZbndT?oc=5",
+   "publishedAt": "2026-09-17T21:52:53+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-09-18T11:01:36+09:00"
   }
  ]
 };
