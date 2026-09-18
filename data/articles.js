@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T13:20:04+09:00",
- "runCount": 1417,
+ "generatedAt": "2026-09-18T13:30:27+09:00",
+ "runCount": 1418,
  "price": {
-  "price": "33,400",
-  "pct": "-0.30",
-  "at": "2026-09-18T13:20:04+09:00"
+  "price": "33,450",
+  "pct": "-0.15",
+  "at": "2026-09-18T13:30:28+09:00"
  },
  "articles": [
   {
@@ -35808,6 +35808,35 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T12:48:08+09:00"
+  },
+  {
+   "id": "7975466049ff9ae9",
+   "title": "소액주주 설득 나선 카카오…김도영 \"인적분할, 주주가치 제고의 열쇠\"",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15aWJRS0hRbWUxZG9lTDdOWGt5VWhKLXM2R0tMd0c2ZDZMMlk5WDlxSXp0VXVIaldTQXoyVmwxSW13TExCTlE?oc=5",
+   "publishedAt": "2026-09-17T10:19:06+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-18T13:30:27+09:00"
   }
  ]
 };
