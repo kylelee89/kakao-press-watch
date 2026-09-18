@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T15:18:46+09:00",
- "runCount": 1428,
+ "generatedAt": "2026-09-18T15:29:09+09:00",
+ "runCount": 1429,
  "price": {
-  "price": "33,650",
-  "pct": "+0.45",
-  "at": "2026-09-18T15:18:46+09:00"
+  "price": "33,600",
+  "pct": "+0.30",
+  "at": "2026-09-18T15:29:10+09:00"
  },
  "articles": [
   {
@@ -35879,6 +35879,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T14:56:18+09:00"
+  },
+  {
+   "id": "0d319e6e652b6855",
+   "title": "게임 정보가 서로 다를 때 확인할 물고기 게임 광고 버전",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BMXZ4Wm9kTVo3dXNjRG0xQ0FmSHliVS14QV90dFBuc2M2WlBvS1BUdHlWNFFKaXNNYVhNcU1neHVxbklJaWdkQkxVSWJOOTRRUFFQQlB1R0Nxam8?oc=5",
+   "publishedAt": "2026-09-18T11:24:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T15:29:09+09:00"
   }
  ]
 };
