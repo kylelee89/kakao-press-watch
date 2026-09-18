@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T16:33:48+09:00",
- "runCount": 1435,
+ "generatedAt": "2026-09-18T16:44:16+09:00",
+ "runCount": 1436,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-18T16:33:49+09:00"
+  "at": "2026-09-18T16:44:17+09:00"
  },
  "articles": [
   {
@@ -35900,6 +35900,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T15:29:09+09:00"
+  },
+  {
+   "id": "9dfe689b213d8cb2",
+   "title": "처음 접하는 기능을 하나씩 읽는 맥그리거 토토 입문 해설",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUlh2MU1KOUhXazBrYWFTOHFJbXBRY1VIdjM3YmZidXNpQjdWSTFiY016TnNvRWVxaW9jTFNSMHRzbllsc0xic29ZMGJBSVFDMzc3RDFiaHpsLVdLTk9vamp4NEtNOXkyN2JKc1pwS0pRM0RoUWJqcDVCOGJkcWVzdUdsak5sMnpxTklIZHFyNXBwTUFwVnZkb2otYUdtVEVlU09uNWpsZTBtLVRGWWxqQnJIajNnQkNkZUxFYlU0cTJtYktIVjdhb1cxdXIzanA3a3VOTUNLUk9CbHhfS0wwSDFaNUpLXzduZXVndHoyS05VYU9DNUl2VUQ1N19qMmVDZjFJZ2pPUU0tcEhwTVYyNVB5dGtsUmtmUjFiNG93?oc=5",
+   "publishedAt": "2026-09-18T11:01:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T16:44:16+09:00"
   }
  ]
 };
