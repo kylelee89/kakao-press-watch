@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T16:55:42+09:00",
- "runCount": 1437,
+ "generatedAt": "2026-09-18T17:06:13+09:00",
+ "runCount": 1438,
  "price": {
-  "price": "33,600",
-  "pct": "+0.30",
-  "at": "2026-09-18T16:55:46+09:00"
+  "price": "33,550",
+  "pct": "+0.15",
+  "at": "2026-09-18T17:06:15+09:00"
  },
  "articles": [
   {
@@ -35942,6 +35942,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T16:55:42+09:00"
+  },
+  {
+   "id": "ccb77052275962ca",
+   "title": "설명이 필요한 표시만 골라 읽는 바카라 업어치기",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPbUp1TjBGN2dfRFU4V0VGdVRKeVlJLW9ZMUphN0FwaFU1dEV2Z3p2b296X2IxQ1BTYlRSeWRkQkFpal9XOUJHeDZtcFpldF9POEtTNlJJbDN1di1RR252OXVXT3l2cWFRSlJJbUNudFgtTTA1bjdsZjVham1WdjdvR21XOXp2U3RQS2hJZmwtT1BNTkVqMVJ4MEh4U3UtcDlleXpwem9LMzg3MVg5UkpnZ1dlM1lXNVBmbWZtdWVwcWM5bndoTnZmUmt5dU5zWndQUmJ3LUhnMjYzUmFhQmtSeEQ5QjFqYmY0bGFlOFl1d3JlMHRUd1NYejdOMXd0b1FPZ0RKUFJTSW1BQjc0emFFbVVhX3loOHhVY2pPem9ZQjVaRVF4a3JaXzdFV2NUTFZlam9GX19lUFBMUk1Jd05KOUM4M0NrTzJ5eC1pVFBhMzBXal9uVXJFUEM5UWt3UXBtdktISm5jWGpZc1JZRlIxaXZ0UG5JX0UwTDNhaA?oc=5",
+   "publishedAt": "2026-09-18T14:16:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T17:06:13+09:00"
   }
  ]
 };
