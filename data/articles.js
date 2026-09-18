@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T22:56:03+09:00",
- "runCount": 1471,
+ "generatedAt": "2026-09-18T23:06:20+09:00",
+ "runCount": 1472,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-18T22:56:04+09:00"
+  "at": "2026-09-18T23:06:20+09:00"
  },
  "articles": [
   {
@@ -36078,6 +36078,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T22:25:12+09:00"
+  },
+  {
+   "id": "a28bad0a6c1af540",
+   "title": "처음 보는 메뉴를 이해하는 eos 파워볼5분 인터페이스 해설",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc29oZ3RkYm9BU3NFX1otbWNkcFcwNWE3bkkxNUFDd0pYUWlFbGgwbS1qWFZVMi1kZ1hxNGhRSUxMSWFGMmpNSmppT2syalVvQXBNbVFfTkxRTy1TUFM1MV9zRE82QTEyYVRXWmNfVF9pNmZYdFJBRE5XQ3RiUGNLTEc4QWRWN3ZrN0N0UDl6WlBldUJjNXBqcWNYWkQ0MFdtUkhHTWd6QXhTOHk5SUtUOTE3Y1hxeDJ0TGo3MExnQTJ5WHJMemtXMTA1MmJSMzNXZE5DamhfOWRJUQ?oc=5",
+   "publishedAt": "2026-09-18T19:12:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T23:06:20+09:00"
   }
  ]
 };
