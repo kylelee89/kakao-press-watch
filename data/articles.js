@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-19T06:01:50+09:00",
- "runCount": 1512,
+ "generatedAt": "2026-09-19T06:12:05+09:00",
+ "runCount": 1513,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-19T06:01:50+09:00"
+  "at": "2026-09-19T06:12:05+09:00"
  },
  "articles": [
   {
@@ -36120,6 +36120,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-19T05:09:36+09:00"
+  },
+  {
+   "id": "c074b42db51637b6",
+   "title": "[빅테크 거버넌스③]전공 심화 카카오, 복수전공 네이버…김범수·이해진의 엇갈린 성장 전략",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBERjlRNmNOX0Y0S1gtTGx2WG9LM3ItcDVXLTRvMmNBdFFta3k2M1JiR1Y5UzdKbTdCR1NIZDNnZVRkRFFlbU92aHlObVZZUnFOUWJRWkVjUFNLVHNSVWJndGlXa3Y?oc=5",
+   "publishedAt": "2026-09-19T06:02:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-19T06:12:05+09:00"
   }
  ]
 };
