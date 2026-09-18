@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T22:14:55+09:00",
- "runCount": 1467,
+ "generatedAt": "2026-09-18T22:25:12+09:00",
+ "runCount": 1468,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-18T22:14:55+09:00"
+  "at": "2026-09-18T22:25:12+09:00"
  },
  "articles": [
   {
@@ -36055,6 +36055,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T22:04:38+09:00"
+  },
+  {
+   "id": "621b959108642f99",
+   "title": "카카오, 인적분할에 주주달래기…“기업가치 할인 줄인다” : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVg2X0hocF9INms0LTV2Z3BkQUpJSF9xNGtuelF5OEllYUF5dkE3R19KcF8zbURTb2lBWDJHLTVCdWM5SDJOQWFrU2ZSQ3pyQlpmNXg2blpIVXA2UmlNRFQ1SHpjQjY2MlZ3X3pyU2V2Y1lGSlF4cTlKNFVHVk5pdGUxS3NaYjRSdk9zem50TQ?oc=5",
+   "publishedAt": "2026-09-18T16:23:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T22:25:12+09:00"
   }
  ]
 };
