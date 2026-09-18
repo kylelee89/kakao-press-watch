@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-19T06:22:20+09:00",
- "runCount": 1514,
+ "generatedAt": "2026-09-19T06:32:35+09:00",
+ "runCount": 1515,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-19T06:22:20+09:00"
+  "at": "2026-09-19T06:32:36+09:00"
  },
  "articles": [
   {
@@ -36141,6 +36141,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-19T06:12:05+09:00"
+  },
+  {
+   "id": "a840c5f1b674843b",
+   "title": "카카오 인적분할 절차 본격화…‘합병 반대’ 20% 넘을까",
+   "outlet": "조선일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFBoejRJX3RIZmJLY3lQZV95XzZZUHlHRWZGU1dDdVYtMkNvNmNqUGhNRmhfR0F3ajJCZmJ5YXFpZ3ZfNV84R0hZeE1oVXQ3Qm5fN09mSndKRFAyRm9KM1JXU2lHS3ZpcUI5Um5ya1V0Z2FUbzdVY2hzSEJoYWVuVjJGYw?oc=5",
+   "publishedAt": "2026-09-19T06:25:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-19T06:32:35+09:00"
   }
  ]
 };
