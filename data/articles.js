@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T18:43:05+09:00",
- "runCount": 1447,
+ "generatedAt": "2026-09-18T18:54:21+09:00",
+ "runCount": 1448,
  "price": {
-  "price": "33,600",
-  "pct": "+0.30",
-  "at": "2026-09-18T18:43:06+09:00"
+  "price": "33,550",
+  "pct": "+0.15",
+  "at": "2026-09-18T18:54:21+09:00"
  },
  "articles": [
   {
@@ -35963,6 +35963,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T17:06:13+09:00"
+  },
+  {
+   "id": "39feadbc076a1bb1",
+   "title": "게임 구성 요소를 짧게 소개하는 강원 랜드 출장 정보 카드",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1dLa2JfQVNsMkoxalhDR0FsT3RvNl9uX0VGckNBSkl3QUQxcE11NmxpbDhyR090VW52Vkp6SDF5dzRXUnlOaG9hOXZWQThGN3Z3dEl0bTFBcEhGOV9neTI1RTc2dnZZZlN6V0pjSFAwUnlRc0d1V0syeVJhNlpBbnRELWFMdTVCMm55eFBqYVllbGNDY3NldFJTNGdDcTl0UDN3bkVkMjQ5SEtMd2NaR2Qxek1Gam05ZlBBUXpvZjI?oc=5",
+   "publishedAt": "2026-09-18T08:31:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T18:54:21+09:00"
   }
  ]
 };
