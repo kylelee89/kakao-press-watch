@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-18T16:44:16+09:00",
- "runCount": 1436,
+ "generatedAt": "2026-09-18T16:55:42+09:00",
+ "runCount": 1437,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-18T16:44:17+09:00"
+  "at": "2026-09-18T16:55:46+09:00"
  },
  "articles": [
   {
@@ -35921,6 +35921,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T16:44:16+09:00"
+  },
+  {
+   "id": "ca2a992a68f67d14",
+   "title": "do카지노 도움말에 없는 항목 확인하기",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHk2NFQtVm9QUF9JcV9RQ21jNDdpZEhMTGRNaFYzb2pOTE5rU21tMHlhcUlJMWpxZWpxSnF2cnhhaTc0eGpxVkdHOW15cUFVdE1QUUpnLVJqQ0h1OUpNaE52UHk4ZHh0dlZrV1k2WnFJa3JRUmJOUWViWERiYlByRnVuMFVCVlhZTjA3cld4S1FLM2pEWXdXMy15V0VQeGZnWFhIaEM1VDRtVy0wVDRzYW9mbmZhaUlHWXY5ZExJT2wxa3FJclMzWVNmM3k0SEpi?oc=5",
+   "publishedAt": "2026-09-18T03:16:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-18T16:55:42+09:00"
   }
  ]
 };
