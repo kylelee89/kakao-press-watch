@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-19T04:59:20+09:00",
- "runCount": 1506,
+ "generatedAt": "2026-09-19T05:09:36+09:00",
+ "runCount": 1507,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-19T04:59:21+09:00"
+  "at": "2026-09-19T05:09:37+09:00"
  },
  "articles": [
   {
@@ -36099,6 +36099,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-18T23:06:20+09:00"
+  },
+  {
+   "id": "56a2dc3ea9f5d122",
+   "title": "기본 정보와 주의 사항을 함께 읽는 맞추자 토토",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sMGZBSVJ3SFM3SnhBRmViZjhuNVRvR3lRNTZWNFhsTWk3bTdra1dIOWc5UlhEOVYtX1YtLTEwNFMzc0NZWjV3ZC1xajV2U0J5NTBWRFFPczRSVDhDQ3JDSFZNQQ?oc=5",
+   "publishedAt": "2026-09-18T19:40:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-19T05:09:36+09:00"
   }
  ]
 };
