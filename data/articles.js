@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T02:26:43+09:00",
- "runCount": 1628,
+ "generatedAt": "2026-09-20T02:36:58+09:00",
+ "runCount": 1629,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T02:26:43+09:00"
+  "at": "2026-09-20T02:36:59+09:00"
  },
  "articles": [
   {
@@ -36299,6 +36299,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-20T02:26:43+09:00"
+  },
+  {
+   "id": "24ce09676a955f72",
+   "title": "체험 모드와 일반 모드의 조건을 비교하는 마작골흑염소",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamZrVWFJSnZHdVQ4UGU2dF9heExtWVp1aHU4V3F0ZV9CbDZoM3JfdndobDM4bjRwOUtSSWl2Z3lwTHg1ZHlXN0pPbTAzRk5PNTlkNUVqdkJmeFVuc1FCRmV2MjgwYldBNHlWQXFSNVRVTExqUTc5amc4YUYwOW9fb3pzdXI?oc=5",
+   "publishedAt": "2026-09-11T18:23:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T02:36:58+09:00"
   }
  ]
 };
