@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T01:10:59+09:00",
- "runCount": 1621,
+ "generatedAt": "2026-09-20T01:21:16+09:00",
+ "runCount": 1622,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T01:10:59+09:00"
+  "at": "2026-09-20T01:21:17+09:00"
  },
  "articles": [
   {
@@ -36190,6 +36190,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-19T19:43:27+09:00"
+  },
+  {
+   "id": "e00d291d9110f944",
+   "title": "포키 코코아 - 업계 전문가들의 조언",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNkpibjEtVTFnN25qeUZPRmtvbFFCaUktQWRfZzNLeHZwWUVvUllFYU5PdGx2SWpQcE1PRDlIYXVPb1RLT0N1T19pLXJIMWpjQ19aMVJyT183UWFxNnpJTlVVQWFiNXFVWDZXY2dyV3lfTlZtOGtUQmljTUNWVHFYZ2pYTkJ2cHJpUGxGZldNRXl3b0VJS1gyZzllVTFPU1NvTVJZYjZtb0pwa1VZR2FZbWxIODRpUFJ0bG1wNkJOT1lTa3FLQXkxRlFQWTlZT25BSVlPZ0hwVWNXdnlVWVlpQTA1dVhocXlIUnk5QTE4OGNmd3ZBbGZEcHhFR1ZEUQ?oc=5",
+   "publishedAt": "2026-09-19T04:17:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T01:21:16+09:00"
   }
  ]
 };
