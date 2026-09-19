@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T03:07:48+09:00",
- "runCount": 1632,
+ "generatedAt": "2026-09-20T03:19:01+09:00",
+ "runCount": 1633,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T03:07:49+09:00"
+  "at": "2026-09-20T03:19:02+09:00"
  },
  "articles": [
   {
@@ -36454,6 +36454,48 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-20T02:57:32+09:00"
+  },
+  {
+   "id": "c42e1c458fddee4b",
+   "title": "토토 홍보팀 잭팟 기능 유무와 적용 조건",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TNWU2cDlhdlBuWDNBVmNOLWsyOXRyTjJKVVVKQlFkRUpVTGNaRWhVMkV6YWdYSk9hOGdqdkU1S3J4bHcyTkktbEVRV2prMndnM0wtVjdoc3VRZXdMTGpxRko2ekxOdy0zTVNB?oc=5",
+   "publishedAt": "2026-09-19T15:40:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T03:19:01+09:00"
+  },
+  {
+   "id": "1f24d27b9d5273f4",
+   "title": "보너스 유형에 따라 달라지는 만달레이 베이 카지노 화면 구성",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDRqb3Q0WE0wcUVsVk9zUHhXYVVuN01WeG0yMUNOZk1NNnpXZmctbmZfQWl1MHk5ckE2SHowMzRudTBSdVZIS19VTmF6U2h3N21MWmtoUm5TT09UdW9DN3BqbzhVYTIzczBIM3VYd0hkaXVyUTJOVlZodF83aGZZY29ad01lcmJ6OXkzMXBqXzVza2FNTlE?oc=5",
+   "publishedAt": "2026-09-17T21:25:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T03:19:01+09:00"
   }
  ]
 };
