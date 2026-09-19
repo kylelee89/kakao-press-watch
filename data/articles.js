@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T01:21:16+09:00",
- "runCount": 1622,
+ "generatedAt": "2026-09-20T01:32:29+09:00",
+ "runCount": 1623,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T01:21:17+09:00"
+  "at": "2026-09-20T01:32:30+09:00"
  },
  "articles": [
   {
@@ -36211,6 +36211,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T01:21:16+09:00"
+  },
+  {
+   "id": "fc5241c47aeb7266",
+   "title": "보너스 설명의 적용 범위를 따져보는 험블 토토",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbElUV0hRRjNVUFJmQmh6LXp5cVFMdHdha1g1YTdjZER0aUNlSF9oT0xkbWVCWHMyYUlpeEd0VnJMV3VSYXRITDB3VUNXMGpuYVZ2LUpjWDB4T3l4RWdacUFNejl3UHZTcTVNRTN2Mk5Kd1NjVzhqM3VqcFRnd2FhMHBTTnQ3NUlweHQwWks5VGJrS2g4aHYwSVNmVXRFREx3X1V4ZEUwV0xPZnNrQjZ4RzlGQ0hScXU0cjZR?oc=5",
+   "publishedAt": "2026-09-19T09:59:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T01:32:29+09:00"
+  },
+  {
+   "id": "3fbd151275cfc1cd",
+   "title": "스포츠 스코어 사이트 게임 중 표시되는 진행 횟수",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ0Y0Wm51UDJRazJkbVF4UUhaTWRlUy1zNXd5RTVQTjQyVFBSZEczdGFERERqcnV0OG5nSnlXQUVhMlpObzIwal9ONWRwWUhhNDE3aldZUDR3ako1MVBIUXpndm5vLW1GTHhzczUzSFV4U0ozNk5FNk1zNGZ2U0x0UkllZ0hqcmJHUVlucGc2OE4wWGU4ZTZmdlVSWGVjaGF0YUQ1bE95OXVUSlBEZEZoUC01SGJEXzVJR3JRUmEtNzNYbEZ6VXNpQXB5bDc3bWtkS2prcm93SllLMjgwaDhJ?oc=5",
+   "publishedAt": "2026-09-19T11:43:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T01:32:29+09:00"
   }
  ]
 };
