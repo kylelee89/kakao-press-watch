@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T05:58:38+09:00",
- "runCount": 1648,
+ "generatedAt": "2026-09-20T06:08:53+09:00",
+ "runCount": 1649,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T05:58:38+09:00"
+  "at": "2026-09-20T06:08:54+09:00"
  },
  "articles": [
   {
@@ -36827,6 +36827,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-20T05:06:19+09:00"
+  },
+  {
+   "id": "11845a6d41b27ddf",
+   "title": "한글 설명이 제공되는지 확인하는 타이쿤 카지노 무료 게임",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95dmNJWXRiVGZPUUVHR1RHcW16ckhMZEZ5SWdyT2s0b3hvS3FJYTdBbExmX1RCbkhKdldTN3FRSW9oSXBSSF9FTWM3TXRZN3BZUld4cUxWMU1SY2o1UWdMQVBsRVV2VjJVTFdsQVZ3?oc=5",
+   "publishedAt": "2026-09-11T14:39:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T06:08:53+09:00"
   }
  ]
 };
