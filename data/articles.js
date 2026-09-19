@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T06:20:05+09:00",
- "runCount": 1650,
+ "generatedAt": "2026-09-20T06:31:17+09:00",
+ "runCount": 1651,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T06:20:06+09:00"
+  "at": "2026-09-20T06:31:17+09:00"
  },
  "articles": [
   {
@@ -36848,6 +36848,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T06:08:53+09:00"
+  },
+  {
+   "id": "c9aacac10980ea6b",
+   "title": "취준생 몰리던 '네카오'…공채 멈추고 취업문 좁아지나",
+   "outlet": "연합뉴스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZQi1TVWlVYU0tREFESHlERlRBellFQkNSVWhmQnhqT2ZTSUhwUnZkUmE5MGFUSGc3OEs1UnhCd1M1Rjd0MEY0YTdiTms2RnBackJUTlVPRGJoeWvSAWBBVV95cUxNQlIzRGtFSGs2QUNYU21SN2Z3b3JOV1VYM3dYeWNqSGFGVlEzbmhZcm1hX3Z3S1BiZTg4czM5emNZRkdzazBjSEd0ZTN4QVYxUjBwcmtDQ0V6VVNZSTZKQlA?oc=5",
+   "publishedAt": "2026-09-18T17:26:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T06:31:17+09:00"
   }
  ]
 };
