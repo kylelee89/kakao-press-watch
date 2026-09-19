@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-19T19:32:14+09:00",
- "runCount": 1589,
+ "generatedAt": "2026-09-19T19:43:27+09:00",
+ "runCount": 1590,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-19T19:32:15+09:00"
+  "at": "2026-09-19T19:43:28+09:00"
  },
  "articles": [
   {
@@ -36164,6 +36164,32 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-19T06:32:35+09:00"
+  },
+  {
+   "id": "9c5085a283fda791",
+   "title": "\"주주가치 높이는게 목적입니다\"…73,000원 → 53,000원 목표가 '싹뚝'",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zY3ZRMUNWaGt0SmZBRU5ienh1TEl0T0NVeHNraS15Tm84UTJRbWRTSFN1OUdCLUx6MkxYUmtwN1dFcjNwclpUcEVfelc4Qjg?oc=5",
+   "publishedAt": "2026-09-19T19:20:40+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:뚝"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝"
+    ]
+   },
+   "firstSeenAt": "2026-09-19T19:43:27+09:00"
   }
  ]
 };
