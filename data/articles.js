@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T04:22:28+09:00",
- "runCount": 1639,
+ "generatedAt": "2026-09-20T04:33:40+09:00",
+ "runCount": 1640,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T04:22:29+09:00"
+  "at": "2026-09-20T04:33:41+09:00"
  },
  "articles": [
   {
@@ -36609,6 +36609,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T03:40:28+09:00"
+  },
+  {
+   "id": "90c3126be329ec34",
+   "title": "조건부 기능을 구별하는 카지노 외형 설명 읽기",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qd0N0ZkdHMy1Lb1l3MW9FWnpBdWhDd1NIYm9neHBmMGpydUxsa0hZblZOdVRyXzZDOV93MHNqQmNUSzRjX0pmRVI5NFJaS0xCaW0xVkFoUmZGZGF6Z3l1dzR2bXZ4VVVySWJGbGhNV3JVTDlhRmc?oc=5",
+   "publishedAt": "2026-09-19T10:08:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T04:33:40+09:00"
+  },
+  {
+   "id": "9e71fb720dd04d08",
+   "title": "다시 열어볼 만한 마작 패산 개수 도움말 항목",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNZXJTbWEtMmlNdGNfZXNjQy1EUGpaVUcxZUVnYjNkMmVYVzFjbnBJekpxNVFTWVRwaEpMNWgxcmVxejRGcjRmS25JZ1l5eUk3QXphOXZ6WjFRZnd2bWdnWEVqMFd2RzVQSnR3RlJGZmFqQ0c1SENVcHdHZ1EwQQ?oc=5",
+   "publishedAt": "2026-09-13T01:08:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T04:33:40+09:00"
   }
  ]
 };
