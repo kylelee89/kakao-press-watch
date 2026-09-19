@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T04:55:07+09:00",
- "runCount": 1642,
+ "generatedAt": "2026-09-20T05:06:19+09:00",
+ "runCount": 1643,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T04:55:08+09:00"
+  "at": "2026-09-20T05:06:20+09:00"
  },
  "articles": [
   {
@@ -36714,6 +36714,119 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T04:43:55+09:00"
+  },
+  {
+   "id": "55d41ec39b09dfaa",
+   "title": "규칙 문구의 이상과 초과, 트윕 스트리머 수수료 조건 해석",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbG5KMDZTdnJkT3ZZdXVmdThQSVozZV9jUnlWYnlvLVFjR2pHeDNSeUE3dWw5M1ZuNmNWTEp4dGNoSmk2SmpkNVhfeEY4TF82WWxXQmxUQW9pQjlXazA0RzRobjNQLVViVmZIYXJabTJad054VWRLSUdyZjJ5RDBQZjFzdnpOWEp3QVBKaWMxRWg2ZElBZVM2TXdaZzhWdw?oc=5",
+   "publishedAt": "2026-09-18T21:36:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T05:06:19+09:00"
+  },
+  {
+   "id": "c3287216572c6554",
+   "title": "토토사이트 승인전화 x 히츠벳 게임 버전에 따른 정보 확인",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmtEbUhDM1A2Z25QbUNmNDl3emlMekZuZWtXU281SF9VQ090T2ZBMVBhNGZzWW11dVJ5UlJoeVFjTlFad1pxMTVJWlhRWmVfQ0twT2k5QWNydm5ZWlBQQlpyR3g2ZmNEcjdzUzlEVFRTcU1TRDB2V1hSMXk5aXVKVlVXVHBvZzRBVW1oQlAwSWttUXhmRGYzN3I4S2h4YWJvLVNtU3pRb01TeE1PTlB2ZFJBRQ?oc=5",
+   "publishedAt": "2026-09-18T02:23:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T05:06:19+09:00"
+  },
+  {
+   "id": "c0bd655762626767",
+   "title": "설명서의 예시가 실제 규칙과 어떻게 연결될까? 게임빌 주가",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjd6dk1yTlN2QTRES0JMNDBjckFJUkhyTTlQdU16NXg1d1lHQXMzUDlodjRQYWw0bVVSQTRPbER5S3JJbEZGanJJMGozbm4tNWxLMXdJWjJaM09EMEdkcWU2eElqYk5vVUtQbnVfU0owNVBCRTdrVnZ3V1pwMUd1WkRCd1BxN2pkS082dkNEYW9VQkk5Z1hLYzlDby03aWZzNDRudThRWEpmRnNidHFvZXVWT1dZc0lJeE5WSw?oc=5",
+   "publishedAt": "2026-09-17T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T05:06:19+09:00"
+  },
+  {
+   "id": "69f68b375a1f30a6",
+   "title": "기본 규칙을 다시 확인하고 싶은 분을 위한 카지노로얄 줄거리",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPUkhYRUJPcklES2FrWlAza0doSC1sbjZfVGJyblpWd1BzTFpOSWt3RlQxZ3pnVlNKZTM3REdsLVVzcGpYYmV1NWxJSTV3c2o4T18yMWNFUmhWVjU1SndGTTJjLXpPcm4yRzYzZ200ZWxNUTk4OXVybmRKSVRiaTRpVG9naUJWSXl2cmtxOXlUVUN2NC11QzI3MlNEMzNOUXExQVp0cmpiWU9id2FkQ0ZEM1JNZ3NONm9rZ29MUHgyUlh5NTRvX3lvcllEVnJRWUNUNWtVQ1pISDhZd0Y5QUhZbFBQUnFXTUN0UzVtNHNWNS1Nc2hKeXc5dG9scU56M0xqcFFDQVNfV2tHMDN3WjZkVDZpM2d2Zw?oc=5",
+   "publishedAt": "2026-09-19T23:48:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T05:06:19+09:00"
+  },
+  {
+   "id": "b1eb9c6a0ea0341e",
+   "title": "처음부터 알아둘 결과의 불확실성, 카지노 마틴게일 베팅법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOWnRRSHZ1QnJUMVdPNkkxa2MxY1JKbEtXbEVRUEtnUHN3aUJOLWhkWDVaU1VzcjZKOHBXUkU2bHBZaUd2Wmh1Ymt3WTNFajIxUFZ1aEhLODJ5Y29xdFNNX2VoNzVwYWR2YW02UWlBU29nRkZlajVXZ1FOOU5PWkI2dzdwTHAtYzQxb0M1WXVFWjBmWHRmWkZoTzhVTEoyelM2dDhWRVdPRDF2OEpUTW9mcW1WS29ROTVLY2J3VEFWLXRpVHdlTk96RmZjdzNqd3ZPd0FnT2s2aFZFZGNJOTA1STVfZ2JnVTRJLVNQVk9iN1g4NG55RXk1UnFyUWlKTWxCeHZDd1M5elhXQ1ZOQmNUT2RUa1owZWtQTEhaOTJqUm9TUTh4bWpTQWg0Y0VqcXhib1p2MjZEbWEyZDN1?oc=5",
+   "publishedAt": "2026-09-18T06:57:38+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T05:06:19+09:00"
   }
  ]
 };
