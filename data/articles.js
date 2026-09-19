@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T03:29:17+09:00",
- "runCount": 1634,
+ "generatedAt": "2026-09-20T03:40:28+09:00",
+ "runCount": 1635,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T03:29:17+09:00"
+  "at": "2026-09-20T03:40:29+09:00"
  },
  "articles": [
   {
@@ -36496,6 +36496,119 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T03:19:01+09:00"
+  },
+  {
+   "id": "9e81a431aca666cb",
+   "title": "기본 규칙은 어디까지 공통일까? 부띠끄 토토 제로 사이트 비교 해설",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWkN4UUl2UG5SemNneFpueERuaHNxS0RWa21Lb1RVOFdkRjdzcmJ5SHZjRllJUVFSVF9TRjNndEl5Z0h3UTdGa01zZG5tMFoxLVRrT2h0UzRLQksyNEVhYlRJTWpkNnlUX0Myb2tmSUpMcUlCYmUxYnNkQTlaYzdPOGNodm93SVk5cm9VOXdNZy03dWtwSTl5dmlzaXdWWWw5TjlXMnlDMHhPT0VnN3h0OWVqdnVKa09XemdCUkVCaDBQUEJIdjNsVTZHMUpwdw?oc=5",
+   "publishedAt": "2026-09-19T08:34:50+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:일까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "일까"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T03:40:28+09:00"
+  },
+  {
+   "id": "8daac993356dac52",
+   "title": "고정되는 심벌이 있다면? 토토 코인계좌 작동 원리",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQalliMndzcUNNd29EcnJ5UV9VVnBTd0V6X2xiZ3pxTEdQNTViY2lkMktGUWdTSHFNdXZkUjdJaHVneFZ5bG9OY2QyZFFXZE4zVmh4em5tMFhRemJ1UkMwVldKZzgzZ2FhclI3WTFVblBka2JyTWZXd08xRmJUc1FYbWZhS0Z5WFN6RTJrZFdHY1V6MWxoSXZiUVFONi1BWUI2U1ZKbjVWWHgwalZPZDhFNklGTmRmQU15bDUwSHZyazRHZw?oc=5",
+   "publishedAt": "2026-09-19T10:10:32+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T03:40:28+09:00"
+  },
+  {
+   "id": "9d983e0be1137adb",
+   "title": "기능 설명의 순서가 중요한 무료 비트코인 베팅 규칙 항목",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNjVOeW9XWEZFUW1OVzZfYVhsYzZoRUdXWHlqQ29kcU9DZW81RUtaVHcyOTA2MVpsVHRhb3VLN3lVZEpPZlJoTnlzOThsSHh1NnZLMktwTFFHcnFWd05SZnk3THBoVTVnR2FVcGRwakdPWTQtcnJQZUtoWmtEVGxtRHdDUThHX2t4OHhXcjQxZVVXTGhXSVBWRGNQbHVadEhiTlJOZnhzTk5fTlcxeFZsbzhRSjBudy0yc2h0SFJiVlVCU3h2NzRha1NERTdUSlBvOENGRkhmam9naTBtYlZjS0hVRzVKUjNvM0xXSUpUc096M05GY3VjV2hsN3hlajNFTklpWkY0bE1idw?oc=5",
+   "publishedAt": "2026-09-19T14:16:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T03:40:28+09:00"
+  },
+  {
+   "id": "cda54dee73f04c4d",
+   "title": "여러 슬롯 중 구조를 비교해 보고 싶은 아마존 토토 가입 코드",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbk81YjEzU3JxaTMxREhvTk41SjJsN2ZJR1JuS0pjRUNicHJYY29LSV81b243dmhPdG1wRTF3bElWbUItd0pHMHg5aDhsdVVlZTB3X1dEYVZ0TnRZaGt0Z0N1eGkyaEpBREVLUk1SX21QSFd0OW9CSDZZWkRmMW9kcG43YVFUQzdJMng1cmgzOUp6cnhZUllVdXdfcVN3SlRzUWsyTHkwTTZKZUxBVTVBLWJLUkZqS0lib1lkWUdudFl4bEVnYkxod0ZBMTNDTkE3clM5cUpiMDd5NVVHQXc?oc=5",
+   "publishedAt": "2026-09-18T18:32:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T03:40:28+09:00"
+  },
+  {
+   "id": "659d533193f8e594",
+   "title": "품 사이트 의 모든 측면: 장점, 단점 및 활용 방법",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckJ6NUJIZ3lCYU85SVJDYXdxdG5LTDFBMFFJN3haSWZNVHBGNXgzMUN0WVdodVZybHpfNFNac3JXd0lOdXptTUdsdTAwZ2RmRmxNNUE4X2xmam1Rc0NNc1E3emJfS2lDS0Njc0FFV1ZETkxuUnhla3hpTk1OeE91WlI1UTYta0t2Y2cwYUpybzJIWm1MY081VGtDSVNMRjQ0VVVxdGtSUVp2aEpfaVlJRkxtU3JMcEFaWXVWbWhtVUR5c0dfbjZmdQ?oc=5",
+   "publishedAt": "2026-09-13T03:51:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T03:40:28+09:00"
   }
  ]
 };
