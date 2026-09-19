@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T02:47:15+09:00",
- "runCount": 1630,
+ "generatedAt": "2026-09-20T02:57:32+09:00",
+ "runCount": 1631,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T02:47:16+09:00"
+  "at": "2026-09-20T02:57:33+09:00"
  },
  "articles": [
   {
@@ -36320,6 +36320,140 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T02:36:58+09:00"
+  },
+  {
+   "id": "80844eb98f617920",
+   "title": "카카오의 이별법… 지분 끊고 계약으로 묶는다",
+   "outlet": "바이라인네트워크",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VV0FUVzF2aVZVVXhKbWc4T3d1eV9KUG4xWnd1a1NjMi13NkcxYVltVkNwR1hxUDRCMU9ielQ0dWdyYUMxcWFNV01FbEk2Rm1oM25mMWpSR1A?oc=5",
+   "publishedAt": "2026-09-17T10:47:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T02:57:32+09:00"
+  },
+  {
+   "id": "f181f89fb6137575",
+   "title": "비주얼 중심으로 둘러보는 파워볼 회차분석 게임 디자인",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVEhFMVVRU1cxZTlfMjJOakFkT3NWWDN6QUJMYjQwTlBfUEhUOHQ4VGlWWGpMSFRSS0tWMjk2VXdaX3FCRGZVVHZuY1NMcHRFY19BTUVFanNtczlSeElodkRPdmFCalFGNkZfZWlucS1CRTRxbkUtcGNNWUNOQkxsWmZsbmJIbVhzdlgtNy1IU25vc183d2JQUVlMY3JnS0h5WE1Db1pzRXRwM08xYUlGNVlVSHI2akctQ19CLXVRU2hFTFcycHJVc2NtUjhmS2NLOW1rX2VESk4tNm5uSkt5ZHBELVNqTUd5MVoyLU5B?oc=5",
+   "publishedAt": "2026-09-19T13:06:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T02:57:32+09:00"
+  },
+  {
+   "id": "a1a696eaefaef05f",
+   "title": "현재 설정을 확인하고 시작하는 도박 충동장애 이용 순서",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMURfeDhBSlVkbVI0Qmt6LXVSNmtwZ2k2QVhKZ3FROXNmS3NEdVNUSGlMQTFqNWtDemhNVmRUWXpELXhRM3JuR0xFeDdJUWRaVkVYbV9YZ2Y0Z2RrM2c0RzZnbmxWVHR5TXcyX1llNV9aazVDNjNhdTByQ3lQdm5pVzI0dEZMZlY3b0tudkl6QnFPd3BIWkloZzJ2QjlQeDg1UlZDTTRLU2lwYjJLSjVDczFzQ3BIMHM0TE1UMGxESEZDb3VXUHJpM3d2bHRmLXgxU3h6NXFzeUlPZlBIaWdUN1hBbGVwN1N1Y2w0ZUwzTnRiWV9KMGJheV9IM2U5UnVQdTZSTEJDNENQalphcEdaRmtjdHkzNUZhLWc?oc=5",
+   "publishedAt": "2026-09-19T01:02:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T02:57:32+09:00"
+  },
+  {
+   "id": "94cf38628f3653f7",
+   "title": "같은 심벌이 모이면 어떻게 될까? 농구 토토 연장 판정 방식",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb1FvTGtpSXlxTnRsVXpVTGZkdVczMGtmMFVoTVc1RFJlUFIyVEs0a3h1VEptQ0pfa0VUa05uVHQ3U3NmbEJ2UGxqblY5YS0xWHJuWjI5XzZtbnYwc0s2d3hpbk5Fbmc5WUd2R29hbmRBMHpvRkU2YkhzNENpRm9NUGVZMWpLSEZVREd4TW9KbWx0cFR1X2J4YVZNV2llbmJUX2RsVmVOSVhoUEhsck5BdEVZVVVTSjM1ZUt4SUk4WE9RUnBzYWtGUElwRHhQd2dOS1ktdG5yTkhtSmxTVFlDNlA2Y09ib1ZoOGZNaGEyREU?oc=5",
+   "publishedAt": "2026-09-17T22:21:48+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T02:57:32+09:00"
+  },
+  {
+   "id": "3a90e2b16f3471ec",
+   "title": "게임 중 회전 잠금이 필요한지 보는 홍진호 포커 실력 디시 모바일 정보",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHVocTRHWmgwN2Vxd3VnbjhLR0VhczczNFQ2U1RfcnRXUF9hS282SlY4c3pyMlJRb1lXbW9nMzBuYzg0NFBfaUF4ZE9CU0tTbkFHVE5ESS1OMGFtcWJ2ZHNqSzlxQ1VBZDRPWkcyT2xoOG82T0kyVjRDWWJOVTF2SE5Xck9McVRQR0ItOU1wOVpWT0lINi1zd2JiMVJuaGNEcFF5N3RCZWE1M0xRNXh0TDFyUnVLbWNlX1M3aw?oc=5",
+   "publishedAt": "2026-09-15T19:07:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T02:57:32+09:00"
+  },
+  {
+   "id": "69a00737c03b62b2",
+   "title": "게임 설명이 짧다면 어디를 더 볼까? 악어게임 룰렛",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnpwYk9LZC1KNHZpU3FXZFJ0MXVhaDlHSVo5STNKQlBMRURqSDBGMmZ3VXlxN0c0b1lGaW1kZC1hR3FrQnAzT2tBUU4zTkJ5MDZta05oTDVQQkhzRkVKVW9heXBlUnd6TjdMZHJ1WGJ2aWF3YTZJbUhwcks1YWlDcnh5RHJlN1ZraDh5SHdvTzJocHVRMGZoRE9B?oc=5",
+   "publishedAt": "2026-09-18T23:09:58+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T02:57:32+09:00"
   }
  ]
 };
