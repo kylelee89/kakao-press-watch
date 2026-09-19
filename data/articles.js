@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T04:33:40+09:00",
- "runCount": 1640,
+ "generatedAt": "2026-09-20T04:43:55+09:00",
+ "runCount": 1641,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T04:33:41+09:00"
+  "at": "2026-09-20T04:43:56+09:00"
  },
  "articles": [
   {
@@ -36651,6 +36651,69 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T04:33:40+09:00"
+  },
+  {
+   "id": "d22ec86fbcf139c0",
+   "title": "토토가나이트 일과 균형와 깊은 이해: 본질, 법칙 및 응용",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVk1Z2thMU9sZWx6LV9RczducDdnWjJLU1BrejVCV003Y2tXVGZxU2t1WlZIRlRFaEY2RXpvZlJFcTQzWW1kazJBSER2Yms0NmRpNUlMWEQwMDJJQk9zZHU3VTZmSC10azl6QmgweUtfbDlndVhmRUlYTzhJWV9fLWZCajVNd0RpRDllQk90WERRSF81aFE0QnJ6eE83d1Q0OFlOODdReWxjZnE2SURDVUtrY3hSOU0?oc=5",
+   "publishedAt": "2026-09-09T15:17:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T04:43:55+09:00"
+  },
+  {
+   "id": "a0224e924d2aa882",
+   "title": "화면 연출이 차분한지 살펴보는 카지노 시즌2 8화 후기 비교 기준",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaUXVSS2thVzlMMjVaUk5QcGp1SkZDdXBvZ0c4WlI4ZEdpdlhleHdld2NyTjNvSTFFLUFiX0hPQmprVW9vMmdHRXFqMGR3MWNsZ0MzbkZNa0FXekZWOFdRUFcyNm85VHBpdENfU20xZTM1ZzF6UlRtSDVxS0JkUQ?oc=5",
+   "publishedAt": "2026-09-18T19:57:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T04:43:55+09:00"
+  },
+  {
+   "id": "98cff4ac6313e771",
+   "title": "암호 화폐 가상 화폐 소리 설정이 저장되는지 확인하기",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPek5hR1BoeGkxYmVHdTZwWGxSb19rR0lFeERPNnk1NmRjNXhfbzU1NlhaLWdwY2RkelhhWjZvRXc2dGtjcklqb1Vpb0FQV2libmFTajk1bnFidHo3ZDhnVGdWUDMtNGxCMzhYX2NmZGt5SG5pSjlYVGVud3I3SEJuc1EwaDQyTUpFWFFQSmxRVFMyYmZ6WHFQcEd4aElqQ1BwNEw4ZkJqSTE2RWZIaENqQ1ExazV4RUIwSm15QVFVcVlvUGk0allhQ2thR0pfZw?oc=5",
+   "publishedAt": "2026-09-18T20:43:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T04:43:55+09:00"
   }
  ]
 };
