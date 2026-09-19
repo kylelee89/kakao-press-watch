@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T06:41:33+09:00",
- "runCount": 1652,
+ "generatedAt": "2026-09-20T06:51:45+09:00",
+ "runCount": 1653,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T06:41:33+09:00"
+  "at": "2026-09-20T06:51:46+09:00"
  },
  "articles": [
   {
@@ -36869,6 +36869,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T06:31:17+09:00"
+  },
+  {
+   "id": "40063d04d5f4ce0a",
+   "title": "느낌표 토토 사이트 : 장점, 단점 및 활용 방법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLUdLR1NzYlR5bGlQUjVBclNCSVdzQ2QxUkFZc1J2cXRQaUhyVHFPQWUwazJldTd5Q3FmalFILS15U3pCOFM5ZG44S3lLXzZQMkMwNHpCM2dfOXR3bFRuNS1oNnJGNXFDODlBVklqb1MxVHo4d2QzLUdXZDd5QnFfalNpcEFqX1FHTlExaENLYktvM3ZJaFJKNVFqRFZFR19WYWtfOEtnZHRFbkllWXdLdkFpcFc5NVYyZmxCbmYtOVR6cjg3RUtRekFzdnM3eVpPSThjbEE3NzI5clBNT0dEV0ZtTk9SQnM3S3pOSHhwTVNMdw?oc=5",
+   "publishedAt": "2026-09-19T04:46:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T06:51:45+09:00"
   }
  ]
 };
