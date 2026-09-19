@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T02:16:26+09:00",
- "runCount": 1627,
+ "generatedAt": "2026-09-20T02:26:43+09:00",
+ "runCount": 1628,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T02:16:27+09:00"
+  "at": "2026-09-20T02:26:43+09:00"
  },
  "articles": [
   {
@@ -36274,6 +36274,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T01:43:43+09:00"
+  },
+  {
+   "id": "1ecc62bc8bc4cb61",
+   "title": "설명서의 예시가 실제 규칙과 어떻게 연결될까? 블랙잭 유칼립투스",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQbTNnaEFBZjRRR0g3Ym1qQlJrS2RIRWJqcGNaaTJyZ0p2aENmbk1feTNOdlpuRm9xWlF5VFg2RkJFUTlUZmNtMW43RU8wZ0Z2Zkl1OTY4QmJRZGVPYzRMaWFxSFplUDRLOGhvdWQ3TW1icjJDdWlWckZybzl4SGw2aUxCU0dfd3ZPQnZRTENVNUpyR0FxdDlqZ19sRXE1c3FTV29uZ1VTS1ZDUjVDTktmY3dPamxuWVZLMzFxSnFscFN2aV9RM3BSODE5SEkwVGs0bDMxMWN1LWs4dWsxc0lodzFmc3ZoODVUUkZnNkdGLW53azZkOVpfZi1HMmFpem50OTFRTnFyaXhFeHZ3cE5aSGVCMkd0eE5GNW9pM3BNS0ViZw?oc=5",
+   "publishedAt": "2026-09-19T16:59:56+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T02:26:43+09:00"
   }
  ]
 };
