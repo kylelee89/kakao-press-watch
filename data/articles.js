@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T01:32:29+09:00",
- "runCount": 1623,
+ "generatedAt": "2026-09-20T01:43:43+09:00",
+ "runCount": 1624,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T01:32:30+09:00"
+  "at": "2026-09-20T01:43:43+09:00"
  },
  "articles": [
   {
@@ -36253,6 +36253,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T01:32:29+09:00"
+  },
+  {
+   "id": "acb29bc67288a7b1",
+   "title": "토토 꽁머니 주는곳 제로추천 소수점 자릿수가 다른 표시",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaVU1aVFuVU5GX1p1WjZhbUN0a01PSVlfVTFxUlBQb21PS0pTbmtkX1FMN0dLUmJTb280SnhWNUhQNDM5bHl5NnVib2dpcjR5dTBLZjBINjVUbk5LZll6clZaWGR5cXJodFhnZ3hfZmY4NHhaRl9RQVhWek9yYm9PWEd5VGJvdDVTRXFWUlpHYWdKV1ZJcGxvd2ExaFFUTGdFeFo3SGVueFh3TGtNandsekhWaDYwcENWOVdxOEFLVFBza3hKYS1MOWpvajRoZWgtSDZZckh2OVlSTE45MWE0Nm5KSVg0RE1mbEx5N3dMckk4ZWpIZEhvcUlzLW1KdlJwMllWMWZqWFIwSlhZNmRF?oc=5",
+   "publishedAt": "2026-09-18T16:01:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T01:43:43+09:00"
   }
  ]
 };
