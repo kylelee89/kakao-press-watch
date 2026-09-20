@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T13:34:07+09:00",
- "runCount": 1691,
+ "generatedAt": "2026-09-20T13:44:23+09:00",
+ "runCount": 1692,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T13:34:07+09:00"
+  "at": "2026-09-20T13:44:23+09:00"
  },
  "articles": [
   {
@@ -36974,6 +36974,32 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T13:13:34+09:00"
+  },
+  {
+   "id": "eb51d063d70bd9ce",
+   "title": "[IT돋보기] 주주 환원 계획은, 분할 후 주가는 어떻게⋯소액주주 설득 나선 카카오",
+   "outlet": "아이뉴스24",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95TVlsbE55akFGMklHdlZmTldScE40cnZSTXFubDl1c3luTDhSVDZNUmpnNG5zdXhpeHBHMzFVR2h3TnhURG9Rb1NJSQ?oc=5",
+   "publishedAt": "2026-09-20T12:01:14+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T13:44:23+09:00"
   }
  ]
 };
