@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T08:20:19+09:00",
- "runCount": 1798,
+ "generatedAt": "2026-09-21T08:30:36+09:00",
+ "runCount": 1799,
  "price": {
   "price": "33,550",
   "pct": "+0.00",
-  "at": "2026-09-21T08:20:19+09:00"
+  "at": "2026-09-21T08:30:36+09:00"
  },
  "articles": [
   {
@@ -37540,6 +37540,56 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T08:09:02+09:00"
+  },
+  {
+   "id": "914f98e7b81c09d5",
+   "title": "\"카카오, 목표가 5.3만↓…인적분할 실행 관건\"-IBK - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkMlo3cnEwclFLQWdDeHZSdVU1S0NsaVpUTXNYYTgzVVQ5dlJYUGVEbzczR0pJbHFqWHRRd3VnekNRb3VmRE1MRnp5bkNwSTdmcU91QkxYZWVnUGFSVEt0V3RCVWtwV0Uy0gFuQVVfeXFMTkVIV0VId3IwU2I5YUtWWFNxcWVfSnZMY3Z1b29kSlJVLVFTV3FKNE9YeUhBNDEzM1pKLXVLMTV2NGhNT3VmUEtaVDY0VndjSkNVRGNJa1FfM1FuQW8zNGRURkc4UnNHeC1IUUYzQWc?oc=5",
+   "publishedAt": "2026-09-21T08:21:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T08:30:36+09:00"
+  },
+  {
+   "id": "f1f245fcbe8739cd",
+   "title": "IBK투자증권 “시간이 필요한 카카오, 인적분할 초기 불확실성 전망”",
+   "outlet": "financialpost.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90QnduRlM3bkJJVnMzN201dTZhc3pOMGpfM2p5eVkwaFVfQXVLN0tXZGEzUFJRRTZXbXZBZnZDWlBRMzF5dFpkWW1Ea1dabUNneDVkMTQwRU0tWXpvdExpRDNCN3hTVFRrQ1RaNkpMLUtSRjFO?oc=5",
+   "publishedAt": "2026-09-21T08:23:19+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T08:30:36+09:00"
   }
  ]
 };
