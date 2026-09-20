@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T13:03:19+09:00",
- "runCount": 1688,
+ "generatedAt": "2026-09-20T13:13:34+09:00",
+ "runCount": 1689,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T13:03:19+09:00"
+  "at": "2026-09-20T13:13:35+09:00"
  },
  "articles": [
   {
@@ -36953,6 +36953,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T12:53:03+09:00"
+  },
+  {
+   "id": "5536322794b1cd15",
+   "title": "파워볼게임 방법 잭팟 기능 유무와 적용 조건",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXd6ZVd4U2k0WkJhZXpod2t3c2ZNLWJTU3BTT1p0WUEzRS1BOUpfZVpMTUdtN0NRdGdqb0NlZUxKUENkczVOMFpQSUxhak9MSkg1YzNtLWYyTTNXWEh2QWVwZWplcjFUdUVYQXdDUWZNeks2cWQxV2VOSlNVT2tIQ196QmNQemRUeXNxbHhZX2diVHlQTzU0aWZldzByc0I2amVEdzdER1dhR0FqdEZDTHVjLW9ib1M4My1SQTN4T2VNUQ?oc=5",
+   "publishedAt": "2026-09-20T06:35:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T13:13:34+09:00"
   }
  ]
 };
