@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T07:58:47+09:00",
- "runCount": 1796,
+ "generatedAt": "2026-09-21T08:09:02+09:00",
+ "runCount": 1797,
  "price": {
-  "price": "33,600",
-  "pct": "+0.30",
-  "at": "2026-09-21T07:58:48+09:00"
+  "price": "33,550",
+  "pct": "+0.00",
+  "at": "2026-09-21T08:09:03+09:00"
  },
  "articles": [
   {
@@ -37516,6 +37516,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T07:47:32+09:00"
+  },
+  {
+   "id": "b87416cef4905fd2",
+   "title": "IBK \"카카오, AIㆍ투자회사로 인적분할⋯가치 재평가 관건은 실행력\"",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORmoybEZWVldvVV9oMWQ0MTUzTXAzN2FYb3lUdWgyQTZNdXE2RXdqQ0VfNUVhZnpsZjFBOEhSNFEwR2NTdWNDMDR3X0tUeklmbVRHbE5OZ1duZGpGdHFpTGM1WU5YdU82dVR6TA?oc=5",
+   "publishedAt": "2026-09-21T08:01:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오X = 미래가치 투자회사"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T08:09:02+09:00"
   }
  ]
 };
