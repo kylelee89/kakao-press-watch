@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T13:44:23+09:00",
- "runCount": 1692,
+ "generatedAt": "2026-09-20T13:54:40+09:00",
+ "runCount": 1693,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T13:44:23+09:00"
+  "at": "2026-09-20T13:54:40+09:00"
  },
  "articles": [
   {
@@ -37000,6 +37000,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-20T13:44:23+09:00"
+  },
+  {
+   "id": "dfdbd8787ee03a09",
+   "title": "강원랜드 블랙잭 승률 안내 창의 확인 버튼 역할",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOUFBtSGZTaVVPMWpwLVpMV1Y5NjQtUUxlc3FveWFqbDl2OGZwR2VuMzRKcWFCOV9kS09IMVB2VmZoMUR6RzBUdlRINGJTWERscUJqQW9razdGUDlfaTZOcFEyUXJObE1SZXRWMm44dDJDd0RIQ29hUldleFBUZmJXR1Zwa0MwREdmc2x1bkZLV3FYQUg3VWlSX0txLUlWLVI4OHY2R0IyVFBDZ20wTXlyOEFtbnZiMk9TdURET3M4N3cyLU14MWR1TDdJaktUX0tWT3hyNVMwVi14NFFMc19uanFUX1FjWDR0S1gyMjY1M0JBTEZPWXBmVlRVNEdILXpQc1V2VUZYUU5iNkgzNGRlTHdzREd2Q280aWxhRWlSaEdvYnBLTGpXQlV0VVIzNi1BVm5tY1pXR1lrTnpjanZ6OUc1bzFTTnZSS0gwN2dsc19tNUNBN2ZfTl9zVkkwbmxwRkd0WThMdGpWVHhieF9CTFJKYm9JSW1PRjFpRlJFbTl0NlZlYXkzMXEtc3BYeTBhTkhOQWxjTmo2b2p3NHVKVTJ3Z3VhNGFwX1Vhdm5QWEJpZ1JBSG9vVmJSYXRQZy1HNmtTYjgxZTBWZw?oc=5",
+   "publishedAt": "2026-09-20T11:00:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T13:54:40+09:00"
   }
  ]
 };
