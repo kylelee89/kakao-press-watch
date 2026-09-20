@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T20:05:40+09:00",
- "runCount": 1728,
+ "generatedAt": "2026-09-20T20:15:54+09:00",
+ "runCount": 1729,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T20:05:41+09:00"
+  "at": "2026-09-20T20:15:55+09:00"
  },
  "articles": [
   {
@@ -37273,6 +37273,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T18:51:54+09:00"
+  },
+  {
+   "id": "b9bf9f00e92a91e5",
+   "title": "기본 구조가 간결한지 살펴보는 미니 게임패드",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE1XdUMxRFlzc19KUXlxaF9WNTJTWWlrUGkzMDhheFV5bWcyWFEwM0lSZFhyem1vbTdackpTSTdTM1BCM3RHUmpkMU1sdVZIQzdvQVdKTmdQelVXM0c2X0o4T3oyVy1mZ0VaM3dzTTBicGh0UHRRVW5Cc0prTWVHaHF1U3VVVUZxX0labmNtN3FHdy1VVzBMdE1wTjIzV3FHYUE?oc=5",
+   "publishedAt": "2026-09-20T10:27:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T20:15:54+09:00"
   }
  ]
 };
