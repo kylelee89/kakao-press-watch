@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T15:11:26+09:00",
- "runCount": 1700,
+ "generatedAt": "2026-09-20T15:21:43+09:00",
+ "runCount": 1701,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T15:11:27+09:00"
+  "at": "2026-09-20T15:21:43+09:00"
  },
  "articles": [
   {
@@ -37177,6 +37177,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T15:00:14+09:00"
+  },
+  {
+   "id": "00061334f9ae2917",
+   "title": "작은 기기에서 메뉴를 찾는 온 카지노 먹튀 추천 조작 팁",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPWVdZekdwUFd2by1PZmRSQ0lHU1BkVVh0UDlQUGZXd1V4a3hfMUE4ZGFveWN4aDJQaHluUXpxeVI0ZEhleHZxaW1aczJZcHF1c2NxTV80cnY2TEk0M1BjN0hKUWVFWUNsWl9leUpSc3JqRzNtWkVRM3h3d0hJMDdfY29XVFVhLVlaSXZnSGg0dUJfWTV1a0Y0STNpZjNRX1lsdzJRc3lyWFZpSks3d0RybUR3Y1JNUEFkQjQwbHRzWXZPa29nQ1VlVm9jOVlzTHNPdFRKeUNUVF9BMVBZdlFZYVA2MFMtc3NERV8tNGtOcUhPUFVDTTBCR1lZYWkzMFJqV0xkeDZpajd0SDhjNXJKWkhzN2xxMndwRkRGVDIyR25SQ0diWWdzTjA0WmI5Zlg3YTBRZEVtYTZmUDNEMW9XQ3dvekhVc2JFeXc3ZmlJM3N1eGJzVktVc0lOZi1yU3ozWTFIZkVhX1RZN2ljSEYwQ3hmankwcnJDUUhMZDlBQk9PeE5CckNyTGR1bDB5VXE3dVJEV2xNZ2tiNHFxYTBNTERJQkkxQ3ZzNWdDb2JHNGlBREJnWEJwdg?oc=5",
+   "publishedAt": "2026-09-13T05:23:13+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:먹튀"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "먹튀"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T15:21:43+09:00"
   }
  ]
 };
