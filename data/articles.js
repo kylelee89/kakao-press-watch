@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T00:18:56+09:00",
- "runCount": 1752,
+ "generatedAt": "2026-09-21T00:29:13+09:00",
+ "runCount": 1753,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-21T00:18:57+09:00"
+  "at": "2026-09-21T00:29:13+09:00"
  },
  "articles": [
   {
@@ -37378,6 +37378,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T00:18:56+09:00"
+  },
+  {
+   "id": "441d45bed6e67160",
+   "title": "카카오모빌리티, 태국·체코 교통부 차관 요청에 ‘자율주행 기술 역량’ 직접 선보여",
+   "outlet": "AI타임스",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZQ3ZWLTgtSEI4cGxfNm5lVlV4bVdYd0NxWjlYY09tdU9CYzhET1NEMWRpemlTdjJNd1dsZ045OHlURy1mMHRiRExKaXh3UFNWMGwtSEw3eU1IZVVfcDJ1amZ0VndHUU9PaUE?oc=5",
+   "publishedAt": "2026-09-20T16:45:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T00:29:13+09:00"
   }
  ]
 };
