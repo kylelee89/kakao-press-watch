@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T00:08:39+09:00",
- "runCount": 1751,
+ "generatedAt": "2026-09-21T00:18:56+09:00",
+ "runCount": 1752,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-21T00:08:40+09:00"
+  "at": "2026-09-21T00:18:57+09:00"
  },
  "articles": [
   {
@@ -37357,6 +37357,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T23:47:11+09:00"
+  },
+  {
+   "id": "3d4148400937786e",
+   "title": "취준생 몰리던 ‘네카오’…올해 대규모 공채 진행 안 해",
+   "outlet": "자유일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoLXhBcjFIaXUtNnl3N0RLQ2tWZHVqcXJKd2JQZUROODJKa0tMbEFwM0xjcktYMEpTNy14RVYxeDlrSmN1Sngtcm9uTzI2Mk1pTjExVWZrV1MwSXlvVVBUY18yZWJSd3Bjb0x30gFvQVVfeXFMTkY4di1hRFFMOW5YT1RLTXBybDgxaTBPOXZvNnQyUjNVbDVpNTZCMnN6QlJhY3VOMXVuZDBIMGlqdnY2LUtVbF9kQnpibk55bDQzTEpwOUhEdl9YS2tMUURGVndkd28yTHBZdWFVQkNN?oc=5",
+   "publishedAt": "2026-09-20T16:40:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T00:18:56+09:00"
   }
  ]
 };
