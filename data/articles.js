@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T23:36:53+09:00",
- "runCount": 1748,
+ "generatedAt": "2026-09-20T23:47:11+09:00",
+ "runCount": 1749,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T23:36:54+09:00"
+  "at": "2026-09-20T23:47:11+09:00"
  },
  "articles": [
   {
@@ -37336,6 +37336,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T20:57:03+09:00"
+  },
+  {
+   "id": "d31c04c3a779902c",
+   "title": "경마시간표 : 을 활용한 효율적인 방법",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1YyanB4N1RXZzk4ZXFNdlNrb2FBSm03UlFSd1k5NlVRcHNRbGc4blFxSkRfTlR5c09BX2tOUmI3QUtlSVFKcFVfblRYNVNWcE83T2JFalZJYjduNUNVMVRmZUljZ3AxbTdRNE5oY2xBaUluQjdpLWs5eHlTZUFOLWhnalo0OU5GYUJoUXZtS1o2U2luYzlEMXlZd2FDa1R5LWt5aXkxUzNOS1Q4d3VDbw?oc=5",
+   "publishedAt": "2026-09-20T17:42:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T23:47:11+09:00"
   }
  ]
 };
