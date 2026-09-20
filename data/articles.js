@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T18:41:37+09:00",
- "runCount": 1720,
+ "generatedAt": "2026-09-20T18:51:54+09:00",
+ "runCount": 1721,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T18:41:38+09:00"
+  "at": "2026-09-20T18:51:55+09:00"
  },
  "articles": [
   {
@@ -37223,6 +37223,56 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T18:10:46+09:00"
+  },
+  {
+   "id": "e0ad98c5e46d363c",
+   "title": "실익 입증하라⋯ 소액주주•노조 반발 부딪힌 카카오 인적분할",
+   "outlet": "브릿지경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WUF91ODluWHJQckVManQyUWVRRHROSFBLcVZIdERSSS13d3lZZ3N2SUltT3lBZGVJSk5BbXlrNWRQS3B6NGFscGVnX2pCMlBkaTktamw3azN5dw?oc=5",
+   "publishedAt": "2026-09-20T15:55:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T18:51:54+09:00"
+  },
+  {
+   "id": "bae42bf0b1a39ca5",
+   "title": "게임 설명의 별표까지 읽어야 하는 이유, 토토 가상 계좌 디시",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPYmlRX3pHQ3RKVUFGWC03UnpJb2VFa0Y1ZFlZM0FtVmVZazZKY3J5d3hEOWRQeUswNjY0bHJlYW9KT05obGNVWkFGaHNNWnlac0dkNjBWNHA5NmZaNlJ3N1R5T0RzV01kNVVyRDJtNHVXdTNjeTI4Rks1U0xVSl9OOU5BN21BeWVRckJwclpydURNTHZzdmlJUTkyM05FNEtXb1FQSWFBVHZpRzZ2ZFVZcGpNbFlYR3dXTWtiSlJEeW9LXzA4YVN5ZC1uNUhrMjF2bnBXRjlBQkpONUh1LVF1ZkdxNVc3LXprODdiR0J0NEc4WjJOcnlVdjR6V0FNZE9VbTFWRFk2V1ljTWhGTUk1V2Y0bWdVVTBkb1FQR0FaUzdtc3hEeExSclg3TExvQ3pwSGgtZWhJYWlIR1o0WWt0NHNB?oc=5",
+   "publishedAt": "2026-09-19T21:14:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T18:51:54+09:00"
   }
  ]
 };
