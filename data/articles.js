@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T08:30:36+09:00",
- "runCount": 1799,
+ "generatedAt": "2026-09-21T08:40:53+09:00",
+ "runCount": 1800,
  "price": {
   "price": "33,550",
   "pct": "+0.00",
-  "at": "2026-09-21T08:30:36+09:00"
+  "at": "2026-09-21T08:40:53+09:00"
  },
  "articles": [
   {
@@ -37590,6 +37590,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T08:30:36+09:00"
+  },
+  {
+   "id": "e4492cc9db15148e",
+   "title": "[리포트 브리핑]카카오, '중요한 것은 탁월한 계획보다 완벽한 실행' 목표가 53,000원 - IBK투자증권",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FQzZsVF9wcGRPSVVBcnptckZndnI3YW4tc1U0UUtjeDZHNDZlUVFBS3prSTZxRnZ0SGVFQ2V1VkhGYzZ4SVdGN2Z2Yk9FTmVubHAteDlJZVRYNWhi?oc=5",
+   "publishedAt": "2026-09-21T08:31:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T08:40:53+09:00"
   }
  ]
 };
