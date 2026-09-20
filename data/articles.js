@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T14:27:21+09:00",
- "runCount": 1696,
+ "generatedAt": "2026-09-20T14:37:38+09:00",
+ "runCount": 1697,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T14:27:22+09:00"
+  "at": "2026-09-20T14:37:39+09:00"
  },
  "articles": [
   {
@@ -37021,6 +37021,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T13:54:40+09:00"
+  },
+  {
+   "id": "abbed010e86143c5",
+   "title": "카카오 지배구조 개편 '주주 시험대' 놓여⋯합병 반대 20% 도달할까",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hT3dpVVFka044MUdRWkFHWXlOYXl4MGRfcVVRQVpkMS1STHlXNkZjT1VhTUh1a3h1cVdWUkFBWGh4WGRHbFVieVFkSnNndGVuQjF6U0JVQVNXcDBN?oc=5",
+   "publishedAt": "2026-09-20T14:16:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T14:37:38+09:00"
+  },
+  {
+   "id": "66321386a2131489",
+   "title": "입문자가 놓치기 쉬운 눈 맞고 세차 도움말 위치",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVUUzRVRsMWFXX25wSm9UUFdsSi1IYkV6UjJjcE93REY0TnlPR1VhQndZX0NlNGYxTG5Lcm1yMFQyaWdRSEF1TzVtaHRBR0YzVy1PMFJoUEJhWXZFNTNWRGNqWktaMnBqSEU5ZjM3bXJoLXFDbnkwdmxkeDFsRXdvYkdISGRIR3B2eW1hSmlOMTBUa0ZvTGViMXZOVm1Ma1BNQ090OU9oQQ?oc=5",
+   "publishedAt": "2026-09-16T13:07:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T14:37:38+09:00"
   }
  ]
 };
