@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T04:29:20+09:00",
- "runCount": 1776,
+ "generatedAt": "2026-09-21T04:40:32+09:00",
+ "runCount": 1777,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-21T04:29:20+09:00"
+  "at": "2026-09-21T04:40:33+09:00"
  },
  "articles": [
   {
@@ -37399,6 +37399,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T00:29:13+09:00"
+  },
+  {
+   "id": "f762655543bbe80d",
+   "title": "동일 심벌 판정을 이해하는 힐튼 세븐럭 카지노 예시 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS1NubmlTNUJMVzV5MGEyU2RIanZsM2V6UU12V0hYTkVEWDJLTWRYLUM1NlVNTi1WMkpPbTRpeDlKZFlpTjN3aVF3R05QUDBUazMxMnI5SWVnaURRcXQyQnhGMjBIUGpFdFZzTU55QjVMVVBZMUdNaDRNMGQ4RDJQWXNxaTdleHlNRGlSNmVSbXVhSm53dEQ0bEdFcTFsX29DVWx1Rmk2N2dqS1NROUZiSFRBRFJ4cGxQcG1nWjZhNnExOU03dVpEdjB2T1JXaUU?oc=5",
+   "publishedAt": "2026-09-20T23:32:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T04:40:32+09:00"
   }
  ]
 };
