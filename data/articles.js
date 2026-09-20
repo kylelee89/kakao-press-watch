@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T12:41:49+09:00",
- "runCount": 1686,
+ "generatedAt": "2026-09-20T12:53:03+09:00",
+ "runCount": 1687,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T12:41:49+09:00"
+  "at": "2026-09-20T12:53:03+09:00"
  },
  "articles": [
   {
@@ -36932,6 +36932,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T09:21:57+09:00"
+  },
+  {
+   "id": "b9d3e35d0b75927a",
+   "title": "삼성 블록 체인 정리 지속적 통합 핵심 전략",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQd1ZZOE5TXzEtcWRRTzdlc3ZUVkt0OGtMSzZORnlKWDVycTFJU3RoQ3BmY3ZaQ0JfdHIySTI5TWlONjFUcXd4aXhDZldpQ1Nka25SbHlRMkZJdnZWV1VHNlo5QjFXOGNHUXVTZU9fbzJPU0NDNFYtQXZ6TW8tS0hUNFp1Qng0ZnRoaUxpNjA4MkZBTnVGZS1GSDVlZXlDczk0LWdJWHQ0MkFjRkZlUVdhdUFBYTFpd20wU0RncE9lRFJtZWhDWGRHZ2thYllMbTFpT3Fnc05fcWltTUZlbEZQUlJvcWRYc2NQMDJ2SF9NUG5rU1FBeE0tTkJXazdTNG1ZVnhJ?oc=5",
+   "publishedAt": "2026-09-12T07:16:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T12:53:03+09:00"
   }
  ]
 };
