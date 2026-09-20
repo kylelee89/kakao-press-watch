@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T14:48:51+09:00",
- "runCount": 1698,
+ "generatedAt": "2026-09-20T15:00:14+09:00",
+ "runCount": 1699,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T14:48:51+09:00"
+  "at": "2026-09-20T15:00:14+09:00"
  },
  "articles": [
   {
@@ -37114,6 +37114,69 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T14:48:51+09:00"
+  },
+  {
+   "id": "8e6b51fdfd554ae8",
+   "title": "나르샤벳 카지노사이트 한 라운드 안의 추가 단계",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWHlqVTlpT1JYenoyczRoaWJaWEk2RG5MYUgtZ1c5UUhJd2RSTTFhMHpXcXZrYlF4YldtT3E2SUNXLV9tbjUzV0xHZ2x1VDNvdkJJVjZNWFlsLWlUOUpyb3pzYkVTbWpia01kaTRPRlRQXzhiMnRMWFZYZTdZbWhUeUtjNmRUU3RsRGpmWWFZTlZ0TkthQk1zUGZaYWFYY1JObTdrOWVEXzQxVnVleWt2TUUyUjAtVlNPVTN0cnJuRVdUSGhxRlpWSlREZk9SZnhmQVB1bUZsNVlXbEMzaWFDNDlYOA?oc=5",
+   "publishedAt": "2026-09-20T02:30:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T15:00:14+09:00"
+  },
+  {
+   "id": "42c722a3f30cd82e",
+   "title": "첫 화면에서 길을 잃지 않는 토토핫 구인구직 메뉴 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdXN2VUFKai1NNHZKN3dKNG5ROTVNdHVqak9lVHJvZ19UUDJnZmtoNGd2cEFJaUU4QVRRb2dkTzJlVDBiMkJfMWJWZzFncXo3VTVmV1R3Q05FeFFCNkNWc3h6aTF1UkY5M1AtSWxaR2ZySWQ5cnQtWXFqc0paSmRsNUl6Wko1X0d2a1JVUlhoSUtSaW5SNFZuajdGMEo0dw?oc=5",
+   "publishedAt": "2026-09-17T00:57:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T15:00:14+09:00"
+  },
+  {
+   "id": "569c1fcdf390719d",
+   "title": "맞대기 도박 보너스 화면 진입 전 안내",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPOFJib09PZ29wel9BN3dER1NHSkFtV3lZWF9Id0RIYmhHbDhZZlpCS2Q2Ym1fNVhiY2daSjE3X1RIbm5VTm1KUElxUnZia0tlNnVwSTNFeVhhWEFPcjFfVGsyc0tER2RGd1dTbXdaYVBJeTJiY3VEVWlNWm9NWlQzbDJTRG5pb1o2T0lYREgxMlAwUHpYTzZsSkN6Z1RhNFZzYUZ4VEhvbjc2U2ttamI0QjFBX3JzLW5xSUF1c29oQ2s4eHFhd3lXdDhXaE1vaXBTMDVfbWJ0c1hfeURjcjk5S0IwcXdCeEFyOEM4WVdhQmNhaWQybmJnRkRLVG8yRy1BN1A0YXE4eW44Z3JYWkRzaGdWRmZET3BQcHNJSWVIa0FEeW4wVDdnaGY2TUNRMVNtTEh4T1JVNmN2MXVPYVJfUTRqUDBEd3Z2SDRZSk1YZndDNUJfZzNqVU5uQjEwaUN5SllwWHRIMXdERUpHTnYzYk0tSkxZSmpJQVpQM1Q0aERFYWgxeS13Y0RFeU00b2xUQm1MZnNYcnF1WEt2ajdibi1HZFQ0aXYxMi05czhxaHhyOTc2bTNz?oc=5",
+   "publishedAt": "2026-09-13T05:23:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T15:00:14+09:00"
   }
  ]
 };
