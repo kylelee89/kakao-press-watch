@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T07:37:15+09:00",
- "runCount": 1794,
+ "generatedAt": "2026-09-21T07:47:32+09:00",
+ "runCount": 1795,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-21T07:37:15+09:00"
+  "at": "2026-09-21T07:47:32+09:00"
  },
  "articles": [
   {
@@ -37495,6 +37495,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T07:37:15+09:00"
+  },
+  {
+   "id": "6640c5fcedf16610",
+   "title": "물방개 도박 시작 버튼의 상태별 의미",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNjBPVkNyLU1VblRKYTJENmpOZEVaV0Zueko3SUlZU0xQdmZoRkYtcHRPbDIwTnd0YmZuWlRlMVVVaUxfbFN1Vk9IV2JTUlNVWFotZUhzRTRpenRPZWZFVGQ1dFZVNmZLb2RXQm1jeHpjT04xaFdQYmtxbDdSbmNQY2xPYVNLcHNNTUFTSjY1NzRoV19SWmlhUmk4b2VhbWlwZDV0ZzctSllSTk82cmlWc0lYM29GS1U1NkxOQnJ4cUFHc0VQZWl6dUkxWUNpVE5mcWhRZWJrZjZvMTM1ekFJZktkNThham8?oc=5",
+   "publishedAt": "2026-09-21T04:21:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T07:47:32+09:00"
   }
  ]
 };
