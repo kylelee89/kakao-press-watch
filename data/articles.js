@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T20:46:46+09:00",
- "runCount": 1732,
+ "generatedAt": "2026-09-20T20:57:03+09:00",
+ "runCount": 1733,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T20:46:47+09:00"
+  "at": "2026-09-20T20:57:04+09:00"
  },
  "articles": [
   {
@@ -37315,6 +37315,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T20:46:46+09:00"
+  },
+  {
+   "id": "23251febf82299de",
+   "title": "바카라 짝수 선 보너스 화면 진입 전 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONVZwTkw0bVZMbENqbjlFMnZVeGwtU1dqbFBkVGd4d1lQUTZROHMzaUh2T2E1Yk11QWQzclZlbkhJZjZ1VS1BR3p5M05aS0N5ajRtaE9uaDR6UHUwdnBXYi10d1htNkhuZDJzc1pJYnJRSUotSXFUM01oZVAtZ2FmNnZ0TF92anptV2JhUmZ2cmJzd1dCT2QzeE5vemdla1ZpODBFQ3E0MkdzWmtaS1BNdmItSQ?oc=5",
+   "publishedAt": "2026-09-20T11:15:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T20:57:03+09:00"
   }
  ]
 };
