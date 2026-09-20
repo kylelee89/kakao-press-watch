@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T06:56:05+09:00",
- "runCount": 1790,
+ "generatedAt": "2026-09-21T07:06:22+09:00",
+ "runCount": 1791,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-21T06:56:05+09:00"
+  "at": "2026-09-21T07:06:22+09:00"
  },
  "articles": [
   {
@@ -37420,6 +37420,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T04:40:32+09:00"
+  },
+  {
+   "id": "620dbc9d4891eb60",
+   "title": "아무도 설득 못한 카카오 인적분할…'김범수 승계 포석' 관측도",
+   "outlet": "인베스트조선",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3ZGalZqWk4tTXpQYlVpQkhnYUwxUDRHZVdZeEMtYk10d0dYV2hWYzBIdVEyOFl1NHZVLXBabTRzY0w2Mm8xX01sZmVFc0N0VWQxUXdheEIyQ1BJNHFZN040UGsyTHljcjF6d2NTMm4xSHJ4VkVUYUpSaDZ1VVdmRUFMbw?oc=5",
+   "publishedAt": "2026-09-18T15:57:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T07:06:22+09:00"
   }
  ]
 };
