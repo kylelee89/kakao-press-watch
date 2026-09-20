@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T20:36:28+09:00",
- "runCount": 1731,
+ "generatedAt": "2026-09-20T20:46:46+09:00",
+ "runCount": 1732,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T20:36:28+09:00"
+  "at": "2026-09-20T20:46:47+09:00"
  },
  "articles": [
   {
@@ -37294,6 +37294,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T20:15:54+09:00"
+  },
+  {
+   "id": "0534d0a109370fbd",
+   "title": "온 오프 카지노 가입 코드 : 전문가들의 조언",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXpiazJVY3NKaG9ZNmJsQmpJS2RiemdqRFhhcG1FTTJkSmFVam16OWhnbm1Ma19Fcl9QOEpCYnIzbk1IOTViZ0FUcE14ZHlJdWRDenZaeU5aR1B4ajYzb0VqWFpfTjdqeFZ3NjJ0QWhhYUNZTnFTV2R5TVQ2RGRCOEdJX1dNaDlqdG9yeHRiM0VrNl9kbzc1M3VqUkNQQ1hNbjZMN21OWUxXQQ?oc=5",
+   "publishedAt": "2026-09-20T17:13:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T20:46:46+09:00"
   }
  ]
 };
