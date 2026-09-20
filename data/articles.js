@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T14:37:38+09:00",
- "runCount": 1697,
+ "generatedAt": "2026-09-20T14:48:51+09:00",
+ "runCount": 1698,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T14:37:39+09:00"
+  "at": "2026-09-20T14:48:51+09:00"
  },
  "articles": [
   {
@@ -37067,6 +37067,53 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T14:37:38+09:00"
+  },
+  {
+   "id": "db018fd9b524a40e",
+   "title": "＂주주가치 목적입니다＂…73,000원 → 53,000원 목표가 ＇싹뚝＇",
+   "outlet": "한국경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0MmNrZE10NlBTUEF4N0s3aGRKRWJjdVZTc1FkMzd0TlBFQ0dBUEhlakJHNDRfU1JtWTAyLVNBTWdmZFFvaFNDR2xRU3h4SldyNEthMVBzc2E2S3NGSXBnRDRWMXQ0dmpBS2t6clZHQVN4RktPeEI0?oc=5",
+   "publishedAt": "2026-09-19T23:10:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:뚝"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝"
+    ]
+   },
+   "firstSeenAt": "2026-09-20T14:48:51+09:00"
+  },
+  {
+   "id": "5a78162d085c60e3",
+   "title": "보너스 설명의 적용 범위를 따져보는 스포츠 실시간 라이브배팅",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVWFaNWNrNWxHNHNCSUlsc09tOWcyUVZNZng5Sm9Tak1lMldrSFNsTEIxdVFTMFdZcWlIYWkxUG55ZzBHWV9XSjhTTXdxbTg0V1pPY2tXM2ZNdFJiVXUxMGFnNFRwRm5fb0o4TllheGl6WmxXVzhhQmtJc3I2TjR6cldzU0ZlTndtQ1RNbFZGZzdYdlc5blRLQTgwbzN1dDY1aVBVYmNoOWJEMHNYM0ZmTVJPYUJ1SGRwYWFuSGdDN0F4Y3I0NDhuaHFSYjA5R01EUEIyMXE1N0VLVVdUNTZ4cU1FdEJDNWdJQ3YxR0RZM3FQTnNSTHFveTRkVVhHOTM4?oc=5",
+   "publishedAt": "2026-09-20T12:09:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T14:48:51+09:00"
   }
  ]
 };
