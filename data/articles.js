@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T18:00:30+09:00",
- "runCount": 1716,
+ "generatedAt": "2026-09-20T18:10:46+09:00",
+ "runCount": 1717,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T18:00:30+09:00"
+  "at": "2026-09-20T18:10:47+09:00"
  },
  "articles": [
   {
@@ -37202,6 +37202,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-20T15:21:43+09:00"
+  },
+  {
+   "id": "2614617cd1f26e2b",
+   "title": "둘로 나뉘는 카카오…제주 자회사 노동자는 왜 불안해하나",
+   "outlet": "한겨레",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSlkzWTQ5ZERxUklJMVRQb3oxWERjOGMzX3E3dEI3QzNaMnpmUi14SGVwVDZveEpwT2dYaWQ2ZXhlT0JzbVpQQkFNcVB3a3BWeTZNUU1Uai1ZeUU3ODRJ?oc=5",
+   "publishedAt": "2026-09-20T17:28:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T18:10:46+09:00"
   }
  ]
 };
