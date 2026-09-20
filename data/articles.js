@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T07:26:58+09:00",
- "runCount": 1793,
+ "generatedAt": "2026-09-21T07:37:15+09:00",
+ "runCount": 1794,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-21T07:26:58+09:00"
+  "at": "2026-09-21T07:37:15+09:00"
  },
  "articles": [
   {
@@ -37443,6 +37443,58 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T07:06:22+09:00"
+  },
+  {
+   "id": "10272f87b6bdd81d",
+   "title": "“이번 분할은 다르다”는데…카카오 목표가는 ‘뚝’ [오늘 나온 보고서]",
+   "outlet": "매일경제 마켓",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PMHljWGtwYi1QdVBadU9yRnNkc0tNWEhwb2lRYTN5MDlkWHFUZHRJNEM1dzktbG9wbExtMkRWdGc3SkstczNlSl9VRVhSYzZYQ1E?oc=5",
+   "publishedAt": "2026-09-21T07:28:32+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:뚝"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T07:37:15+09:00"
+  },
+  {
+   "id": "deeb92dab204a9d7",
+   "title": "“카카오, 인적분할 초기 불확실성 확대 전망” 목표가↓",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Kb0l6dlhtbmxUYThZVkV5SUw1RmlueC1fbnlqekk4M1ozWFVCaVMyRkY5NTNHVnl2TjA1VUk4Z3pEMk9WQ2lVMlFhYW1tdldrVGc?oc=5",
+   "publishedAt": "2026-09-21T07:30:53+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T07:37:15+09:00"
   }
  ]
 };
