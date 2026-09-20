@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-20T09:10:45+09:00",
- "runCount": 1666,
+ "generatedAt": "2026-09-20T09:21:57+09:00",
+ "runCount": 1667,
  "price": {
   "price": "33,600",
   "pct": "+0.30",
-  "at": "2026-09-20T09:10:45+09:00"
+  "at": "2026-09-20T09:21:58+09:00"
  },
  "articles": [
   {
@@ -36890,6 +36890,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-20T06:51:45+09:00"
+  },
+  {
+   "id": "7eb8da3265c85c5d",
+   "title": "경마카페 와일드 심벌 관련 규칙 확인",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LT1FDbU42WkVCbUJzQjJRblN3ZXY4UXNKSzZwWVA0bnVZdHdaZGd0YjRsLVdNMi1hWXQ5ZVdGYk51YWZxLTBVTjFFRTQ1VHRfU2dUcXRvUlhYREpxNmwzWkQzcDd2RExmdUxN?oc=5",
+   "publishedAt": "2026-09-20T02:06:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T09:21:57+09:00"
+  },
+  {
+   "id": "0602bf06ffd6d0c4",
+   "title": "기본 규칙을 읽은 다음 살펴볼 세부 도박 예외 항목",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONk5zeWRVN19kd25ValVzM01ITGZULW42YXNPbUE4b0thTnhFSzhSSm5yZWZTalItOHVkTWhKamx0aV95RXBHdUprakdSTUY0eWFub0E3VzlrSkFBMTBRc09OdHN4Z2pDTWhnemRZa2ZwR2llX0tWZ2VLZlR6NENvVWt6S1RBbUhVcHc?oc=5",
+   "publishedAt": "2026-09-19T05:07:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-20T09:21:57+09:00"
   }
  ]
 };
