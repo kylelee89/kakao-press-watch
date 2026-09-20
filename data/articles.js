@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T08:40:53+09:00",
- "runCount": 1800,
+ "generatedAt": "2026-09-21T08:52:06+09:00",
+ "runCount": 1801,
  "price": {
   "price": "33,550",
   "pct": "+0.00",
-  "at": "2026-09-21T08:40:53+09:00"
+  "at": "2026-09-21T08:52:06+09:00"
  },
  "articles": [
   {
@@ -37611,6 +37611,76 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T08:40:53+09:00"
+  },
+  {
+   "id": "3d7d2008ddcc7956",
+   "title": "[모닝 리포트] \"카카오, 목표가 하향…인적분할 실행력 주목\"",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyVDRzaGZwUDFNSTEtS2RyVFRSY01zQkF5bVJXTXY5NzRxWFEwazRlTWlYNjNsdHlfeDZ2UTBHVHlEeGNBRU9kQkdEc2tVV3NqbzJCUGc2d2JfNXdx?oc=5",
+   "publishedAt": "2026-09-21T08:44:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T08:52:06+09:00"
+  },
+  {
+   "id": "af8a172ffe0e022f",
+   "title": "IBK證 \"카카오, 분할 초기 불확실성 확대…투자심리 회복도 시간 필요\"",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0ppMGd5RGJtQmhsLXV3SjBrMFZlT29wQmFudkZsM0RzdG5LdTRzaTQwb25RSV8zUnZGMlk5LXJvQ1dDX3ZIUjU4U1dla3IwVXhhUHo5NU0tUFYtM0hKQ0t5b2ZwMzNoOG9xSExaUTRCajVEbk1GdEE5SnB2VGtCY3VuWFk4Z2NY?oc=5",
+   "publishedAt": "2026-09-21T08:43:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T08:52:06+09:00"
+  },
+  {
+   "id": "147afb8e8bfc9f97",
+   "title": "계속 떨어지는 카카오 주가, 계속 떨어지는 증권가 눈높이",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QaWFkTDdiWWhmOFd3Q2RiZVV4bS1NNjlTTzFjVVdDbHdXN29EWTdiRUc2TUF1RnRpSldUcjZVVExnQUxWX0xfeGRiWmFRcXZxLUhsQnZLZGZnUQ?oc=5",
+   "publishedAt": "2026-09-21T08:39:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T08:52:06+09:00"
   }
  ]
 };
