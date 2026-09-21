@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T01:32:11+09:00",
- "runCount": 1895,
+ "generatedAt": "2026-09-22T01:42:38+09:00",
+ "runCount": 1896,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-22T01:32:11+09:00"
+  "at": "2026-09-22T01:42:39+09:00"
  },
  "articles": [
   {
@@ -38058,6 +38058,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T23:54:45+09:00"
+  },
+  {
+   "id": "bfa1ec3a4d464240",
+   "title": "화면에 표시되는 승리 라인을 읽는 민트 토토 결과 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVndTdFd2Vm5xYmk4Ylp5Mzh2dXJPWEVEZzNpbUpJUUplMWN1bUQwUHR4bTQ2bVgxZ3NKNE1nNjRDTGtXWWUyVVpINDVqczMyNm9hSDloVC0weUVEVHVNVjBkN2ZXdHdtNURNdUxzNnpzLWw2TlJIekhkQ2JqVlRmUzh6VFhBWWFkUEpaTDdsY0o0WkRVVUIzeXRRMEdXcU9RLU1GWWh2ODlrYWV6ZDdWNDZpN09naEhuRUpWNDRYOWlWUkZzZVAzbUFzQUxUcjNNNDJ4elhCRXRPY3BHVEt6QlNuNWRwd0gwV3UwQVhTMlpjTTJXdG9r?oc=5",
+   "publishedAt": "2026-09-21T22:45:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T01:42:38+09:00"
   }
  ]
 };
