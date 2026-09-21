@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T07:18:08+09:00",
- "runCount": 1928,
+ "generatedAt": "2026-09-22T07:28:25+09:00",
+ "runCount": 1929,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-22T07:18:08+09:00"
+  "at": "2026-09-22T07:28:25+09:00"
  },
  "articles": [
   {
@@ -38209,6 +38209,34 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-22T05:52:01+09:00"
+  },
+  {
+   "id": "6e8aa71e7e1dcd59",
+   "title": "“카카오, 인적분할 불확실성 반영…목표주가 하향”[클릭e종목]",
+   "outlet": "아시아경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFZ0pvbzJmNHRQYWlOVUNPUTNsdUxiWUxWOW50RWhhQWdUNXNqUEpXbW10Nk4taFY2V0ZiQllpZV93QzRqV3lFNm5xUjd0eHVBUDhCZXY2RDdDWW1GTnZfUQ?oc=5",
+   "publishedAt": "2026-09-22T07:20:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T07:28:25+09:00"
   }
  ]
 };
