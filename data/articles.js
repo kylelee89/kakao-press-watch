@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T07:38:42+09:00",
- "runCount": 1930,
+ "generatedAt": "2026-09-22T07:48:59+09:00",
+ "runCount": 1931,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-22T07:38:42+09:00"
+  "at": "2026-09-22T07:48:59+09:00"
  },
  "articles": [
   {
@@ -38237,6 +38237,36 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-22T07:28:25+09:00"
+  },
+  {
+   "id": "a237ea9ac9468b10",
+   "title": "'소액주주 달래기 나선' 카카오, 바닥 다지고 반등 가능할까",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YRGZ2QVllOHFvcEhrc3Rfakg1UEJzWUpFTXVwNHlhaXJpbzVmcDJfUUFWLUtYWlg5V1VYZjlramZmYUs0Y01lcWNXWXMzUDg?oc=5",
+   "publishedAt": "2026-09-22T07:41:00+09:00",
+   "tone": "중립",
+   "toneScore": -0.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:반등",
+    "수사의문:할까",
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [
+     "반등"
+    ],
+    "neg": [
+     "할까",
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T07:48:59+09:00"
   }
  ]
 };
