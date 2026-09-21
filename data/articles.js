@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T12:05:02+09:00",
- "runCount": 1819,
+ "generatedAt": "2026-09-21T12:16:16+09:00",
+ "runCount": 1820,
  "price": {
   "price": "33,300",
   "pct": "-0.75",
-  "at": "2026-09-21T12:05:03+09:00"
+  "at": "2026-09-21T12:16:17+09:00"
  },
  "articles": [
   {
@@ -37894,6 +37894,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T11:54:44+09:00"
+  },
+  {
+   "id": "321c4ca4fe367442",
+   "title": "서울경마결과 배당표에 나오는 기호 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNXR4XzZBeEs5R1B1c1J3QjRLX0V4RkxBQkVZMEdLaVNXZ0lIX1dZUTc2VVVZdmNWYTBwVEtGaC1vb1VYSHc2akR5X3hhM1dVSTk2X2R3M1NBNGpJZW1majFQcWJ4V3lXREJXRGxTLW1hdzE5b0E?oc=5",
+   "publishedAt": "2026-09-21T01:07:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T12:16:16+09:00"
   }
  ]
 };
