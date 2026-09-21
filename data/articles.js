@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T23:34:06+09:00",
- "runCount": 1884,
+ "generatedAt": "2026-09-21T23:44:24+09:00",
+ "runCount": 1885,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-21T23:34:07+09:00"
+  "at": "2026-09-21T23:44:24+09:00"
  },
  "articles": [
   {
@@ -38016,6 +38016,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T23:12:39+09:00"
+  },
+  {
+   "id": "3e89ceb7ec537393",
+   "title": "PC에서 도움말이 가려질 때 확인할 비트카지노 무료 스핀",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVFZaEdSZXhGaXVpa1AxN2w5T2paUnVOLXc0QllkMGpObzlZYWUxbVJiakZRY1h3SEh4T3pJbWdUWmxDazdBQlBEbmM3QUpaVnU0d0piMXNnWWd4a2Z1cUpsV2pTZWszSGdMTFA0cnpwVHBBUFNoVWFnSUZ5U2M5RTNlYUE5RGZpcHphZ1dER1J1XzVtaXN4WUFSV0FjQzR4ZW14N1NtQllpRk5waDgwNXJpeGh3em02VXFsa3Y3M2thSU0?oc=5",
+   "publishedAt": "2026-09-21T16:02:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T23:44:24+09:00"
   }
  ]
 };
