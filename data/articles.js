@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T19:03:06+09:00",
- "runCount": 1858,
+ "generatedAt": "2026-09-21T19:13:31+09:00",
+ "runCount": 1859,
  "price": {
   "price": "33,350",
   "pct": "-0.60",
-  "at": "2026-09-21T19:03:08+09:00"
+  "at": "2026-09-21T19:13:32+09:00"
  },
  "articles": [
   {
@@ -37938,6 +37938,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T13:41:23+09:00"
+  },
+  {
+   "id": "d73f2d45c6d10cdb",
+   "title": "[헬로스톡] 9/21 주목할 종목 : 삼성SDI·삼성물산·GS건설·카카오",
+   "outlet": "hellot.net",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jNk9PWGV1RVI3NElSSU9iTU5ISlVSQmpodDlHMlV2NkNnWWw0b1RHblVHU3c2SGY3a3FNdnBGNFY4OGcyTGFSRDF1ZkNjVjY0S2QwZVJ6b28xU3ZFaFdV?oc=5",
+   "publishedAt": "2026-09-21T19:01:45+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:주목할"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "주목할"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T19:13:31+09:00"
   }
  ]
 };
