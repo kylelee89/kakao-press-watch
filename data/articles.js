@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T23:02:22+09:00",
- "runCount": 1881,
+ "generatedAt": "2026-09-21T23:12:39+09:00",
+ "runCount": 1882,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-21T23:02:23+09:00"
+  "at": "2026-09-21T23:12:40+09:00"
  },
  "articles": [
   {
@@ -37988,6 +37988,34 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T22:52:04+09:00"
+  },
+  {
+   "id": "f836aeba671c24e8",
+   "title": "3000억 소각도 안 먹힌다… 카카오, 인적분할 앞두고 혼란 ‘계속’",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16NTl5UzE3YlFYeG0wcVRpME0xOTNSQWJfMmN4V2VrdU5NN0dpbUk1R011dWtwM0wyVHNyS0Rxd1ZuQlBjZU40d0dtN0RKR0RLYkhmbjFCRUpScEVWM0M4WUtCZHYza2dtWDlQRUpUbThhTm_SAXdBVV95cUxNZ2puQURWSEZaVmFsak12MVhpbzBOWnd5WHdfY1BrV1JaNmx6UjFZT0lVdnp0NTBaczhzQzNvRUREVDEwbTdaS2J1OW9nX3BPNFBlb3N4WDdPWV8zNHNHbXNPLWZtQUpPNnBITlBPcEVqOWJTOUR0MA?oc=5",
+   "publishedAt": "2026-09-21T15:32:51+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:혼란"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "혼란"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T23:12:39+09:00"
   }
  ]
 };
