@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T05:41:45+09:00",
- "runCount": 1919,
+ "generatedAt": "2026-09-22T05:52:01+09:00",
+ "runCount": 1920,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-22T05:41:46+09:00"
+  "at": "2026-09-22T05:52:02+09:00"
  },
  "articles": [
   {
@@ -38163,6 +38163,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T03:46:51+09:00"
+  },
+  {
+   "id": "1001430e6810a48d",
+   "title": "강원 랜드 출입 일수 결과 상세 창의 정보 항목",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PMGhXeXdwZ2JFMnBqNGdzVk1QN1k4ek84ZXJ3a2doYlhtekFVNWdIT1RmdnhYVzZjVl8zRndhQ2xOYnVKZzNPeDdaSHJkVGVJNExac21VVE5JRVVvdUNRLVZQZzdQaElk?oc=5",
+   "publishedAt": "2026-09-21T15:05:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T05:52:01+09:00"
+  },
+  {
+   "id": "d2f555de21da1af8",
+   "title": "IBK證 “카카오, 분할 초기 불확실성 확대…투자심리 회복도 시간 필요” - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0ppMGd5RGJtQmhsLXV3SjBrMFZlT29wQmFudkZsM0RzdG5LdTRzaTQwb25RSV8zUnZGMlk5LXJvQ1dDX3ZIUjU4U1dla3IwVXhhUHo5NU0tUFYtM0hKQ0t5b2ZwMzNoOG9xSExaUTRCajVEbk1GdEE5SnB2VGtCY3VuWFk4Z2NY0gGcAUFVX3lxTE1pUUptbGFjT05uVUlUWmhFQ3pQWW1Zc29Ib0twTDQ3Z1A1azkyVUZab0xwRmZGckVBYzIxUGs4b25rbnJFaU91N3R5cFVTU3ZieFNKWVNNalVTWXFuRlliQllyRmVUdTZzYnlfNGZ4ZGJsRU9UQzdqU2s5c2sxa1l1Z3ZEdjFhLUh2SnhaSnpuUF9RV0J3aWRyQjl0Tw?oc=5",
+   "publishedAt": "2026-09-21T08:43:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T05:52:01+09:00"
   }
  ]
 };
