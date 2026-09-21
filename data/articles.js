@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T08:41:36+09:00",
- "runCount": 1936,
+ "generatedAt": "2026-09-22T08:51:55+09:00",
+ "runCount": 1937,
  "price": {
   "price": "33,200",
   "pct": "+0.00",
-  "at": "2026-09-22T08:41:37+09:00"
+  "at": "2026-09-22T08:51:55+09:00"
  },
  "articles": [
   {
@@ -38267,6 +38267,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-22T07:48:59+09:00"
+  },
+  {
+   "id": "f195328f642824f4",
+   "title": "진행 속도를 바꿀 수 있나요? 슬롯나라 ocu 기능 확인",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2JBV0ZkbGRxV0VIWUhzRWtZY3hyUGR3VlZ4eWZzM1o3eXhuTGRmV2R5RjVLZE5QX2dCQWlaS01rZDdzVGgxRTBFR0x6ZXhMQTliZFk4R3llOFpHalNpZ05XV0RiNUoxdmhuVS1hSmItYjVHZWZZTVhVaURGTzZqeU9ZQ0h5TzRwVDg2WW1zS1Q3azBGNU93UnZZbzBhSlMyRmFJYXZtaDNkWDQ5SGV4djc0SQ?oc=5",
+   "publishedAt": "2026-09-21T23:19:43+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T08:51:55+09:00"
   }
  ]
 };
