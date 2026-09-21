@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T03:36:36+09:00",
- "runCount": 1907,
+ "generatedAt": "2026-09-22T03:46:51+09:00",
+ "runCount": 1908,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-22T03:36:36+09:00"
+  "at": "2026-09-22T03:46:52+09:00"
  },
  "articles": [
   {
@@ -38142,6 +38142,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T02:54:36+09:00"
+  },
+  {
+   "id": "7dcdb88e3852ca03",
+   "title": "한 번에 이해되지 않는 표현을 풀어 쓴 맞고 틀림 한자",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96azNVX2NUZGpXWTFZMzA4amJBRjBxNFBYa1llemxFeVR1VXl2TV85dTFUdFVIeUlmeTNZeVNiVU5yYmZWTE5jQTBDM2pUX2x5WVZHMG56YWsxcDdNOTlKVTMyYTBjdHFq?oc=5",
+   "publishedAt": "2026-09-21T19:54:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T03:46:51+09:00"
   }
  ]
 };
