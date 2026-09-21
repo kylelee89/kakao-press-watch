@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T10:05:59+09:00",
- "runCount": 1808,
+ "generatedAt": "2026-09-21T10:17:17+09:00",
+ "runCount": 1809,
  "price": {
-  "price": "33,200",
-  "pct": "-1.04",
-  "at": "2026-09-21T10:05:59+09:00"
+  "price": "33,300",
+  "pct": "-0.75",
+  "at": "2026-09-21T10:17:18+09:00"
  },
  "articles": [
   {
@@ -37731,6 +37731,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T09:23:57+09:00"
+  },
+  {
+   "id": "c9f859745c798feb",
+   "title": "카카오, 인적분할 초기 불확실성 불가피…목표가↓-IBK",
+   "outlet": "인포스탁데일리",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2VnMtTFhaOVpsUkNqZFRPMWNHdzhsa2p1SzBnVnRBTEpXLW5iWkJ5SnVWYmZVTDVQLWllb3l0TEhtQ3QycGpneGFEWjlOVGRFSDlyY29jUFV0elBaNFJYNEhERjZRcmE2SmJ1aHgzdHk0UHYt?oc=5",
+   "publishedAt": "2026-09-21T10:14:01+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T10:17:17+09:00"
   }
  ]
 };
