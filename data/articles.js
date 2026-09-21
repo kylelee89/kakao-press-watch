@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T13:30:53+09:00",
- "runCount": 1827,
+ "generatedAt": "2026-09-21T13:41:23+09:00",
+ "runCount": 1828,
  "price": {
-  "price": "33,300",
-  "pct": "-0.75",
-  "at": "2026-09-21T13:30:55+09:00"
+  "price": "33,250",
+  "pct": "-0.89",
+  "at": "2026-09-21T13:41:26+09:00"
  },
  "articles": [
   {
@@ -37917,6 +37917,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T12:16:16+09:00"
+  },
+  {
+   "id": "526d380e9f8c1b7d",
+   "title": "베트맨토토 구매가능금액 학습을 위한 최고의 자료와 도구 - 업계 전문가들의 조언",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVUZFa3Z2dkxRdnhLVVF6RmdZa2RfQ1F4cGNQYXlXSTJvdGV1QkhxUDZnYzZyQnlzbndLVmJTUzM2a083RkFEdHdDMGNwTmM4OURVZ3BXOGFDdFNqM2N6aVNta2l5cnIwZUpGa1FCakszMmxHTndJOG9XaGRxb0lESDUtSDFCZzdWaTdTWjlRQmpYOVd5U2x4dmVITlQ4ZXctMFQwM0pxMmRFbXBpZWwzRDVCTmc1Y0JTU29zOHd5U0xfdEdWWGh6NXRESm5rNzJ2RFNrWHROTHhXRGsySEE?oc=5",
+   "publishedAt": "2026-09-21T01:57:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T13:41:23+09:00"
   }
  ]
 };
