@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T02:34:03+09:00",
- "runCount": 1901,
+ "generatedAt": "2026-09-22T02:44:19+09:00",
+ "runCount": 1902,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-22T02:34:03+09:00"
+  "at": "2026-09-22T02:44:20+09:00"
  },
  "articles": [
   {
@@ -38100,6 +38100,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T02:34:03+09:00"
+  },
+  {
+   "id": "facdb2deb9caf739",
+   "title": "게임 설명의 별표까지 읽어야 하는 이유, 키트 토토",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTU9CQmg0TVk1dGVpVlltWjdwZkM5SjgtMWJ6dENBRnowWE5sa0lmTnFHOGRXNWt3aXc1TURGMEJSSWVGSG5fQ2xETjNJSnVZeXJLTUpLNDQ5ZlZacjM1T3Iyck5nQTh1aUlIZXlLMXgwRzlJWXhJbkt3MkJQVkUwVWRQaUExM3h4Nl8zNU9UOVMzaUM4bnkxd1dfc29oMUZjcXFWLXp4SlhDQ3J2RnZkbzl2Y3dEVzFsY0dsN3hFel8yRmNBbXNzUkVsVDI3SlpwX1FIWEFsYkFLZ0VXVVdsVU9tNGowUWxpc1NQUURHOUM4REdLNjRlV0lkUWxGNnJPSGNVd1pBRWRwVnlFQzhhMjk3TQ?oc=5",
+   "publishedAt": "2026-09-19T20:14:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T02:44:19+09:00"
   }
  ]
 };
