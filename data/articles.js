@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T09:12:42+09:00",
- "runCount": 1803,
+ "generatedAt": "2026-09-21T09:23:57+09:00",
+ "runCount": 1804,
  "price": {
-  "price": "33,050",
-  "pct": "-1.49",
-  "at": "2026-09-21T09:12:42+09:00"
+  "price": "33,150",
+  "pct": "-1.19",
+  "at": "2026-09-21T09:23:57+09:00"
  },
  "articles": [
   {
@@ -37706,6 +37706,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T09:02:24+09:00"
+  },
+  {
+   "id": "3831e8015a414b41",
+   "title": "“분할 초기 불확실성 반영”…IBK證, 카카오 목표가 5.3만 원으로↓[이런국장 저런주식]",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0aGdFZ3BidEo2V2pwaFQxampKZXlpU01oa2FPcXA3WlpUdGt0VGgtaUdKMzJGMEJEeXB3cDdoaGh6Z3dheWo2dVV2Vy1jdU4tSUHSAVNBVV95cUxNOFNQclJfTXdJNGZfeFU0cUJKU3d4TXpQZm9BcndLYXNHTGpsWk5BajhZY1dVa3M0emkwbHF3V2FCSVhELV9ac01ZLXBtTFhlMG92Zw?oc=5",
+   "publishedAt": "2026-09-21T09:07:01+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T09:23:57+09:00"
   }
  ]
 };
