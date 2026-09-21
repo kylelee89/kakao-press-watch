@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T11:12:13+09:00",
- "runCount": 1814,
+ "generatedAt": "2026-09-21T11:22:37+09:00",
+ "runCount": 1815,
  "price": {
-  "price": "33,200",
-  "pct": "-1.04",
-  "at": "2026-09-21T11:12:14+09:00"
+  "price": "33,100",
+  "pct": "-1.34",
+  "at": "2026-09-21T11:22:39+09:00"
  },
  "articles": [
   {
@@ -37758,6 +37758,61 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T10:17:17+09:00"
+  },
+  {
+   "id": "e26c77ca1c39e096",
+   "title": "카카오, 인적 분할 불확실성 확대...목표가 '하향'",
+   "outlet": "메디컬투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GSUp6VEwycGZlYldFRjRPUU9FcFhhVnpwakZtblNaYWFEdmJ5X2Q0aDNrMjgycGZzaW1kWThlb3lrOWZEenBlRjg1czVzYWhqYXVtODRwMS0tWThWTFhaOVVjQV8tazNUM0VHTQ?oc=5",
+   "publishedAt": "2026-09-21T10:54:21+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T11:22:37+09:00"
+  },
+  {
+   "id": "5f19e7520c207dff",
+   "title": "하이닉스도 카카오도 아니다…개미 순매수 폭발한 '이 주식'",
+   "outlet": "위키트리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1URHBKSENxY0YtUmpOVkN3WlV6aFRuT243akNValBFUVllSk1naUhNc09qajJSVlBybzMtdG1md1ZpdXVITUk3NElNVmRudlFaOWJMSUN3?oc=5",
+   "publishedAt": "2026-09-20T19:16:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.3,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:개미",
+    "호재어:순매수"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [
+     "순매수"
+    ],
+    "neg": [
+     "개미"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T11:22:37+09:00"
   }
  ]
 };
