@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T11:44:26+09:00",
- "runCount": 1817,
+ "generatedAt": "2026-09-21T11:54:44+09:00",
+ "runCount": 1818,
  "price": {
   "price": "33,200",
   "pct": "-1.04",
-  "at": "2026-09-21T11:44:27+09:00"
+  "at": "2026-09-21T11:54:44+09:00"
  },
  "articles": [
   {
@@ -37873,6 +37873,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T11:44:26+09:00"
+  },
+  {
+   "id": "e72db24247402ee4",
+   "title": "AI發 일자리 축소 현실로… 네이버·카카오 신입 안뽑는다 [H-EXCLUSIVE]",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VdGxZbXdBcmpDdVNpZXJfeEo3eG9zT2ljUldKejItSlU4Zk4taDNmQnBwdEs0T0VNMHJDdDVMNDVWclkxOENLcXdxSnJBRGs?oc=5",
+   "publishedAt": "2026-09-21T11:44:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T11:54:44+09:00"
   }
  ]
 };
