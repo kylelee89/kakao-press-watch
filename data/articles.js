@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T23:44:24+09:00",
- "runCount": 1885,
+ "generatedAt": "2026-09-21T23:54:45+09:00",
+ "runCount": 1886,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-21T23:44:24+09:00"
+  "at": "2026-09-21T23:54:46+09:00"
  },
  "articles": [
   {
@@ -38037,6 +38037,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T23:44:24+09:00"
+  },
+  {
+   "id": "cc7bd5e13336f4ac",
+   "title": "다른 슬롯과 비교할 때 보는 dol 도박 릴 구성",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWjA2NzVHcGJXSUJFSmZsdjBsZkZMLTVQUng0UGI3RUZvMGtBeGJVbVdHX3JDM3Fxa2VLMTAweEpLZTFVZGhyTDEtVU05bGVlVVYxSGlLNFZ0cHBxNzR2Y1Q1dmxNbmVoaGdlUWpZRENWQi1mUnc1eVpNSFBjQVdsb2dneVFQUHBFVnlKUkFfMVlYTHBjT2VFNlAtZzBXZ2EyOGRWeGkxSXVkSzJzeFlfQU80ODViQmxpc3NLTzZ4V09kbUE4MVFXQnA3eWplZXZob0t0MWY2LU84dFEtMVZlNElLQkpmWTBTcENLN2hQamdtOUx4Vjd4T3NWTzE?oc=5",
+   "publishedAt": "2026-09-21T16:08:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T23:54:45+09:00"
   }
  ]
 };
