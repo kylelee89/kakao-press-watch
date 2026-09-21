@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T11:33:06+09:00",
- "runCount": 1816,
+ "generatedAt": "2026-09-21T11:44:26+09:00",
+ "runCount": 1817,
  "price": {
-  "price": "33,150",
-  "pct": "-1.19",
-  "at": "2026-09-21T11:33:08+09:00"
+  "price": "33,200",
+  "pct": "-1.04",
+  "at": "2026-09-21T11:44:27+09:00"
  },
  "articles": [
   {
@@ -37843,6 +37843,36 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T11:33:06+09:00"
+  },
+  {
+   "id": "61f80341afd68ea1",
+   "title": "인적분할 앞둔 카카오, 주주 설득 나섰지만…노조 반발에 주가 하락 '이중고'",
+   "outlet": "더팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBMlBldFNHVnd3WmZtVVBTSkF6ekdNY3oyTnZMMjE4ZVpkM1NCQTR0MnBqSVVVYVV5NmdXTGZ4c0xaRXNmd29lYWtIMlVQV1djUllOM0d3Yzlkd9IBVEFVX3lxTE9PWERMMVI5Ql9Ebl8zYWpSNDlMa2YteXc3TGZEeUozZl9sWUNuVDY2aWNFTzFXMmFPNnJTLXZ0WE1WckY2NW5UZmVvTzlRUkpYZkRxVw?oc=5",
+   "publishedAt": "2026-09-21T11:21:46+09:00",
+   "tone": "우려",
+   "toneScore": -10.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:지만",
+    "등락:하락",
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "하락",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T11:44:26+09:00"
   }
  ]
 };
