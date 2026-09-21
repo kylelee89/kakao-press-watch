@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T11:22:37+09:00",
- "runCount": 1815,
+ "generatedAt": "2026-09-21T11:33:06+09:00",
+ "runCount": 1816,
  "price": {
-  "price": "33,100",
-  "pct": "-1.34",
-  "at": "2026-09-21T11:22:39+09:00"
+  "price": "33,150",
+  "pct": "-1.19",
+  "at": "2026-09-21T11:33:08+09:00"
  },
  "articles": [
   {
@@ -37813,6 +37813,36 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-21T11:22:37+09:00"
+  },
+  {
+   "id": "4d273b4324808ccd",
+   "title": "“좋았던 게 대체 언제냐”…카카오, 인적분할 의구심에 목표가 27%↓ [오늘 나온 보고서]",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaVU8tdzhyQjl1a0pJcFV3cElTNEZZOXIzNzRDemdOUW9BRzE1ektzalZaVEdOanNDcklxdVBJMTg3Ukdtc2c?oc=5",
+   "publishedAt": "2026-09-21T07:28:32+09:00",
+   "tone": "우려",
+   "toneScore": -5.8,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:27%↓",
+    "대형하락:27",
+    "적대어:의구심"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "27%↓",
+     "의구심"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T11:33:06+09:00"
   }
  ]
 };
