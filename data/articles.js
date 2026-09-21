@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T02:23:45+09:00",
- "runCount": 1900,
+ "generatedAt": "2026-09-22T02:34:03+09:00",
+ "runCount": 1901,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-22T02:23:45+09:00"
+  "at": "2026-09-22T02:34:03+09:00"
  },
  "articles": [
   {
@@ -38079,6 +38079,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T01:42:38+09:00"
+  },
+  {
+   "id": "e2c13a302546964c",
+   "title": "해적단 토토 가입코드 기본 조작에 필요한 버튼",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkVEeHFWNUV4dEd6ZnluU3ZlN1hCUjZUdHFHV1E4VTYwZ2JjMHVjbXVpT2VoRU9saWxteDBZOUk5TGc1dGo3MXozUkNtdEZFMUFqcGRSVVI1a0lrUDdocDRVOUxUSFduZUt2dVZ1Nm81Tks1VTBHSXp2Rkd6U1o4VS1iYTBjemw2SURfTkJQSlZSX1BIS2wwZl9VbXhHOFFyVVE?oc=5",
+   "publishedAt": "2026-09-21T19:33:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T02:34:03+09:00"
   }
  ]
 };
