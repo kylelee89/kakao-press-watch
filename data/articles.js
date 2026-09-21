@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T22:41:46+09:00",
- "runCount": 1879,
+ "generatedAt": "2026-09-21T22:52:04+09:00",
+ "runCount": 1880,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-09-21T22:41:47+09:00"
+  "at": "2026-09-21T22:52:05+09:00"
  },
  "articles": [
   {
@@ -37963,6 +37963,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T19:13:31+09:00"
+  },
+  {
+   "id": "8b0ae07ef46895c7",
+   "title": "[빅테크 거버넌스④] 네이버 규제 통과, 카카오는 주주 설득…사업 재편 발목 잡는 복병",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IQjN3X3hmc3NWOEZiWnhSQ3pSSkxybW1SaXpiVlc4WmpXWk9lOW1jNkt3d2NsWW9uYjZZRDdhWmVuVWRndmM3ZlpZNlZvRlk?oc=5",
+   "publishedAt": "2026-09-21T17:43:08+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:발목"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "발목"
+    ]
+   },
+   "firstSeenAt": "2026-09-21T22:52:04+09:00"
   }
  ]
 };
