@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-21T08:52:06+09:00",
- "runCount": 1801,
+ "generatedAt": "2026-09-21T09:02:24+09:00",
+ "runCount": 1802,
  "price": {
-  "price": "33,550",
-  "pct": "+0.00",
-  "at": "2026-09-21T08:52:06+09:00"
+  "price": "33,150",
+  "pct": "-1.19",
+  "at": "2026-09-21T09:02:24+09:00"
  },
  "articles": [
   {
@@ -37681,6 +37681,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-21T08:52:06+09:00"
+  },
+  {
+   "id": "30be5389047739ce",
+   "title": "[버핏 리포트] 카카오, AI·투자회사 인적분할...'본연 가치 회복' '효율적 자본배분' - IBK",
+   "outlet": "버핏연구소",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JcnhCS3B0Tkk2WFB4Z0RsZVk4TVB4ek1IN0c5V19RdjItSTJpci1aN05tNzdlWGtVQlBEejZNRTVPekRmWUxiYUNmLUpIWk9qS3IzaHdwd2NKODFTTGtjT3Z3?oc=5",
+   "publishedAt": "2026-09-21T08:54:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오X = 미래가치 투자회사"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-21T09:02:24+09:00"
   }
  ]
 };
