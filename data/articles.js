@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T07:25:21+09:00",
- "runCount": 2065,
+ "generatedAt": "2026-09-23T07:35:39+09:00",
+ "runCount": 2066,
  "price": {
   "price": "34,250",
   "pct": "+3.16",
-  "at": "2026-09-23T07:25:22+09:00"
+  "at": "2026-09-23T07:35:39+09:00"
  },
  "articles": [
   {
@@ -39947,6 +39947,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T06:30:57+09:00"
+  },
+  {
+   "id": "c677dce462530f45",
+   "title": "카카오페이지·웹툰 통합 …'원 플랫폼' 체제로",
+   "outlet": "mk.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtUjBVTi1feEJhT0pfUTJLcXpTQ2FsY2M3YllSamRvbC0xV3gtdTNVcVk2c0ZMcGVCZDY5LUY3RFVKZzUybnlyT0M2aTdndw?oc=5",
+   "publishedAt": "2026-09-22T17:07:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T07:35:39+09:00"
   }
  ]
 };
