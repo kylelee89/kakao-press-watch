@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T17:50:28+09:00",
- "runCount": 1988,
+ "generatedAt": "2026-09-22T18:01:49+09:00",
+ "runCount": 1989,
  "price": {
-  "price": "34,150",
-  "pct": "+2.86",
-  "at": "2026-09-22T17:50:28+09:00"
+  "price": "34,100",
+  "pct": "+2.71",
+  "at": "2026-09-22T18:01:49+09:00"
  },
  "articles": [
   {
@@ -39404,6 +39404,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T17:50:28+09:00"
+  },
+  {
+   "id": "e29a0c15d5245a1b",
+   "title": "규칙이 적용되는 순서가 궁금한 바카라 데모",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWVg4R0FPVi1jaFJ5Njl4S3lVbHdta2xWMEdqWFhSR0VzS05KdEVLcnRJNThBY19KSTR5c1psVVJtY1NxUDdnQXFpaEdrQUpMd0VPa3A1ZHBXYnR0RXFIZVY1YjNEZFNxN3ZoMVdVUlBHQWdLVWRkS2RiYWdxR1BXamFHMHN4V3drTVg0WFh5XzVRb1JJTnJSdDlvekFubURUS2ptVXR1c0FJdlMzTFVYRzBWRzZtV2dnXzB3TVVaWTBIdDlQQ1o3ZlNQMGtwNXEwWEF3ZTBIX0ZHNFJra0ZQQW1JT2pQMG04aWc?oc=5",
+   "publishedAt": "2026-09-22T15:26:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T18:01:49+09:00"
   }
  ]
 };
