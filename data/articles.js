@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T12:52:38+09:00",
- "runCount": 1960,
+ "generatedAt": "2026-09-22T13:03:57+09:00",
+ "runCount": 1961,
  "price": {
-  "price": "34,200",
-  "pct": "+3.01",
-  "at": "2026-09-22T12:52:39+09:00"
+  "price": "34,150",
+  "pct": "+2.86",
+  "at": "2026-09-22T13:03:57+09:00"
  },
  "articles": [
   {
@@ -38487,6 +38487,73 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T12:52:38+09:00"
+  },
+  {
+   "id": "0e7a3e54171ae62b",
+   "title": "연속 진행 기능의 중단 조건, 토토 365먹튀 설정 해설",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakMyRzlBWXdtMVFqLWR5VG5KNXM4Y1BPbWtxQ0hfVzB6cnBieFpDYXo4WUZ4a3pIWjJtRnZJc3lEZE1NR0UtQUJBa1FMdHVzZEprVF9kRm00aTdRYktkUzlFbUMzempOd1lnWjBhbk1iNnNnTGU5MVVTWmhnSmNxS0EtLU9CdHFKWlRSbHZOTE51YXd2aHhtVWlBS0hReXF2RmlMYlV4TUt1eWxNdUpfdTZoRml5Zw?oc=5",
+   "publishedAt": "2026-09-22T05:04:16+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:먹튀"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "먹튀"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T13:03:57+09:00"
+  },
+  {
+   "id": "44bb6f1be1e8af33",
+   "title": "토큰 바카라 베스트 온라인 카지노추천 인식 디자인 패턴 상세 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSUxFTmtqZEJuYkZMQW5BdE1keTBDamZsaWFOcHJqejAycmJaMG9aU2xTcTZueTdCYk1wVFIxMGpsYTJaSzNiazBaM1F1eWExLVlQdmE0TkNNMEVMQWlXWmNycWpWWjBLZnN6ME56d0w0eWNMMGV0WTZHSWNha2h2YTBn?oc=5",
+   "publishedAt": "2026-09-22T01:47:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T13:03:57+09:00"
+  },
+  {
+   "id": "361bf6b8518556bf",
+   "title": "게임별 심벌 표기를 비교하는 시드니 스타시티 카지노 자료",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcXo0allpdlByNndZQTYyb0hhelAyeTNOVDNIOW9yUFlHcWxNUW1UeElqWG8ycFZiRV9vbndHT0ZMMEFmbWVCM0VMVE5YdmRDXzE3ZjJsQzNIb19rTTRXSHlPQWJjN3ppUkRkek5ZX2VOVGxMMnZWUkZORnZBZlVmc19xT3ZCZ1RCck9GOUM4R0xMUGI0T01QN0xSelFvcUFtdk1GNUpXR3BIMURxd0RjbVoyTkZKUlAtQmVadWhYNXYyTTBCRkxYdVFxZVhnSk1lNDZDZ25CUjNteGg0UmIySzJsSHp3MDdSMlN4YTRtZG4?oc=5",
+   "publishedAt": "2026-09-21T22:37:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T13:03:57+09:00"
   }
  ]
 };
