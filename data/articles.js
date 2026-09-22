@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T17:29:43+09:00",
- "runCount": 1986,
+ "generatedAt": "2026-09-22T17:40:05+09:00",
+ "runCount": 1987,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T17:29:43+09:00"
+  "at": "2026-09-22T17:40:07+09:00"
  },
  "articles": [
   {
@@ -39333,6 +39333,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T17:29:43+09:00"
+  },
+  {
+   "id": "e5d081272cda4212",
+   "title": "카카오-카카오인베 합병 '청신호'…주주 반대 2%대",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NRnZiX3RBdlV0S2l2aUdXajBsVVRzM1kzNkp3OHNaaXVDVHJES2dXNXZ5eDE1U3RoNE9WTGhaZzM1Mm1oV2dHd2dPcmtDSzI1bXlYS2lWQnlGRVFkOXZ4NXFyNGY?oc=5",
+   "publishedAt": "2026-09-22T17:32:44+09:00",
+   "tone": "긍정",
+   "toneScore": 2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:청신호"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "청신호"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T17:40:05+09:00"
   }
  ]
 };
