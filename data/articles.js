@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T14:17:33+09:00",
- "runCount": 1968,
+ "generatedAt": "2026-09-22T14:28:02+09:00",
+ "runCount": 1969,
  "price": {
-  "price": "34,200",
-  "pct": "+3.01",
-  "at": "2026-09-22T14:17:35+09:00"
+  "price": "34,100",
+  "pct": "+2.71",
+  "at": "2026-09-22T14:28:04+09:00"
  },
  "articles": [
   {
@@ -38638,6 +38638,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T14:07:04+09:00"
+  },
+  {
+   "id": "678d34aac0cae238",
+   "title": "[단독] 카카오 인적분할 첫 관문 넘었다…카카오인베 합병 이사회 승인",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyNHpnVTR2V2tvbzN3NzZpc2dRZ1FVRHUwOEp6YnY4N1JrWFlycWRhdTlzbXY1ZElaamh3TXFlQzg3UjlvaHVwY1gxMU9GZw?oc=5",
+   "publishedAt": "2026-09-22T14:20:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T14:28:02+09:00"
   }
  ]
 };
