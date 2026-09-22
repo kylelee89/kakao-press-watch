@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T19:26:45+09:00",
- "runCount": 1997,
+ "generatedAt": "2026-09-22T19:37:03+09:00",
+ "runCount": 1998,
  "price": {
-  "price": "34,200",
-  "pct": "+3.01",
-  "at": "2026-09-22T19:26:45+09:00"
+  "price": "34,150",
+  "pct": "+2.86",
+  "at": "2026-09-22T19:37:04+09:00"
  },
  "articles": [
   {
@@ -39578,6 +39578,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T19:05:11+09:00"
+  },
+  {
+   "id": "b90eed08e203792b",
+   "title": "카카오 인적분할 순항…카카오인베 합병 반대 2% 그쳐",
+   "outlet": "sedaily.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfTVo0SW9aNFpGWlc2a1NYYS1iQjBlY0lESWM3MWo3UnozSjlPR2QxUXJnSjZHS284cVMxR1hvYnUxaEd5VVNEWjBqM2ZrM3daYVE?oc=5",
+   "publishedAt": "2026-09-22T15:21:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T19:37:03+09:00"
   }
  ]
 };
