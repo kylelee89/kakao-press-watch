@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T04:55:40+09:00",
- "runCount": 2051,
+ "generatedAt": "2026-09-23T05:05:56+09:00",
+ "runCount": 2052,
  "price": {
   "price": "34,250",
   "pct": "+3.16",
-  "at": "2026-09-23T04:55:41+09:00"
+  "at": "2026-09-23T05:05:56+09:00"
  },
  "articles": [
   {
@@ -39882,6 +39882,50 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T01:33:49+09:00"
+  },
+  {
+   "id": "ff0090ba0b1495b5",
+   "title": "카카오인베 합병 반대 2%대… 카카오 인적분할 속도 내나",
+   "outlet": "아시아타임즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TQWJ1RklYTXF4bzNJb3FyNkFSWjdNaVI3ZHVSZ3Y2dmpLZ2E1RmJPVEFGZVcwcWFkZFQxNWZ0MWZmREFoVTIxYUo5ckwtY2JuMG1TNG1MeEZxRUhjU2c?oc=5",
+   "publishedAt": "2026-09-22T16:17:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T05:05:56+09:00"
+  },
+  {
+   "id": "33c9be2093cfb72a",
+   "title": "카카오, 10월 1일 통합 멤버십 시범 서비스",
+   "outlet": "디일렉",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HdmlCend2TkFtNXhiczdCWTBRZGF0MU5VVFVzMlQyNlZvMmVLem1mVnRfSGR5aHh0VE5QVXBrQ01nbDA1T1pfZmJneGhyM2dpSWhqc0tXVUJsMnNiRnhoRDB0REVTUQ?oc=5",
+   "publishedAt": "2026-09-21T17:17:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T05:05:56+09:00"
   }
  ]
 };
