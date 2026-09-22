@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T16:04:10+09:00",
- "runCount": 1978,
+ "generatedAt": "2026-09-22T16:14:37+09:00",
+ "runCount": 1979,
  "price": {
-  "price": "34,100",
-  "pct": "+2.71",
-  "at": "2026-09-22T16:04:11+09:00"
+  "price": "34,150",
+  "pct": "+2.86",
+  "at": "2026-09-22T16:14:39+09:00"
  },
  "articles": [
   {
@@ -38907,6 +38907,104 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T16:04:10+09:00"
+  },
+  {
+   "id": "2c685e598b6bfce6",
+   "title": "카카오 인적분할 첫 관문 통과… 합병 반대 2%대 그쳐 - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX21IT2FBMk8wX3hCTU1qYkZIcVZNMjcxRGFXbDlFbGhGdTZPSzhuNXFVNUtlR1plRzNXNEtDSXZrY3BYT0NnQmdQa0xiZVFoZ0RCblNUS0FmT3BIMDRPamgxSFp3VmJDWFU2aWZDaFN6UDF4NVZPRGpNWHdQaDdnNVlR0gGWAUFVX3lxTE5aeHJ1Q0ROUTBfeUdEVjBiTVVjblJhRHF6YVJaS0NYUk5nQVNueHdNdnFwb1NWOFI4d1htSDJlT05nbTlXSmFjaDJZcEVHazdwX2JvNG8xQVZHYTR6VzVyR3NicnZrLTdsa1lhRjlxR0pGYkRDWTMzTkhTQVVtNVhaY0hqb3NWLTF0alhyaDFyblQ1V2xSdw?oc=5",
+   "publishedAt": "2026-09-22T16:04:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:14:37+09:00"
+  },
+  {
+   "id": "5b15f72016961574",
+   "title": "카카오 인적 분할 첫 고비 넘었다…합병 반대 2%대 그쳐",
+   "outlet": "시사저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OdXktQUswMURqbzI5UW9PVldTdDhfZFotLUxNRl82aUlHSGlVZ3c2TGRtbU5fdVlJdFpyU0cydW81UmRIR0VjZ2dOT1ZlWnlZSXFNcVJPOE8wZ0hUc0xDUDE3c3hJc2NYUFdwcURDa9IBc0FVX3lxTFBjNV9HLWhKNFFqLTFHb3IwbmNqcXZ5OEQ4NFFLcXlIM0w3d21vYzhvMTREX2daaUw2aVZHRmxBS0dUeTVFN3VyaVdjTXIzcnFfV2dKWXZLSjA2LWloY0poTlgyUng4RElKUHdMQ2U3cFRzSWc?oc=5",
+   "publishedAt": "2026-09-22T16:04:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:14:37+09:00"
+  },
+  {
+   "id": "ad002ef4fc579d90",
+   "title": "[기자수첩] 또 쪼개는 카카오···설명 없는 쇄신에 깊어진 불신",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50c29hVzhxQmhCS0c2MTJxOGl4V0hUbGFFU3dpUGEzZllwTkhjVlhiaGw2cExVZ0oyV1hEcWxIblM5ckM4NnZrU1lFekRPVE1kUGZickJYcllxOENVc01hSWNiZTZSc0ZySG9oOTVMUHZnUdIBdkFVX3lxTE9ObG9sZ3Q1dzVxRTJ0WWV1ZDF2a0YtWXU0b0I5bDdIUlhwNFFQbHVKTm5qczJySDR0em52bTFCSi1vMXVSd1RWTVgweVBfX1p4YS00ejdhVkloZzIzaXpSbVJkbFJ1WW5WQUxzZy1jUmFuS2ZmeGc?oc=5",
+   "publishedAt": "2026-09-22T14:33:12+09:00",
+   "tone": "우려",
+   "toneScore": -4.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:또 쪼개",
+    "적대어:불신"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "또 쪼개",
+     "불신"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T16:14:37+09:00"
+  },
+  {
+   "id": "f989ee7dc0be5483",
+   "title": "카카오 노조, 소액주주 간담회 비판…\"질문 16개 중 14개 사전 준비, 소통 아닌 쇼통\"",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVp5WHZkdnRFbXVXWEFjckV2VDl3dnpIRFNhdG14bjhjSXVhajF2V1pGU1NmR01UTmN3YVRPOXFrcC1hZG0wRnFLeF9jVTVMUmdCTmFMUU1oUFZFaUR4OTJVVEhadEFvMW5vRTZWWEJ2NUMybG53MGdaekhvbkRXNEZ3?oc=5",
+   "publishedAt": "2026-09-17T11:45:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T16:14:37+09:00"
   }
  ]
 };
