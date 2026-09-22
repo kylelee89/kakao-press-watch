@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T16:47:55+09:00",
- "runCount": 1982,
+ "generatedAt": "2026-09-22T16:58:19+09:00",
+ "runCount": 1983,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T16:47:56+09:00"
+  "at": "2026-09-22T16:58:19+09:00"
  },
  "articles": [
   {
@@ -39164,6 +39164,73 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T16:47:55+09:00"
+  },
+  {
+   "id": "5efc9277e4c21102",
+   "title": "카카오인베 합병 반대 2%대 그쳐…인적분할 첫 고비 넘었다",
+   "outlet": "디일렉",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmX2wxZEtrM0JpRjlrbnNPRUREQjFVWWdpdjllc3JUTXFlZlk0UGtXMFNWbnVwWnFfdVZFcUFsZHdzdWtDckV6VlptRUIxVnVWUlIzNkpjM1VHT0Y5bm9QeWJCRXYydw?oc=5",
+   "publishedAt": "2026-09-22T16:50:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:58:19+09:00"
+  },
+  {
+   "id": "e561e56177c6be5f",
+   "title": "카카오 인적 분할 속도...카카오인베스트먼트 흡수합병 주주 반대 2%대",
+   "outlet": "생생비즈플러스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRVXFySDF4dGZMUkNTbWF4dnR0X05OTThOUjM3bjBTajJtZjV2QzJKSW9MV3FmRnphOS12d2dSYzhYY2FpOHl6dXBoQWRPWUF0QlNpVm1nbzdTczBpOVM2ZkpnSVRxbTZreGxyZw?oc=5",
+   "publishedAt": "2026-09-22T16:51:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:58:19+09:00"
+  },
+  {
+   "id": "e0644de7536b8f44",
+   "title": "처음 읽는 규칙 문서와 친해지는 nori 토토",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVDM2Yk9ReThHSDY0OXZVVjZLTjBzaXdMZHgyZ0lwSEptd0dwbHE0TGFIMy0zT1hJNUtPVXNjSi1vREZ6bXR6ZWczUmwtZXVpa0p5U1Q4TUdTaWNzSDVudU51azhlczZqdlVPSWZsaHZyVThaNlNOQzBBdDFWa2I4TmJIaE8xSFpTbkJpNEJONjZZSHBrTDgxTWVQNlBCOUdGeFcxcWdXNVhzdzZhXzhNUU5ta1hPSzNWZzVUYnk1Mlg4ODhOc2hvNHgwS3A?oc=5",
+   "publishedAt": "2026-09-19T18:51:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:58:19+09:00"
   }
  ]
 };
