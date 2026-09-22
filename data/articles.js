@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T17:19:22+09:00",
- "runCount": 1985,
+ "generatedAt": "2026-09-22T17:29:43+09:00",
+ "runCount": 1986,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T17:19:23+09:00"
+  "at": "2026-09-22T17:29:43+09:00"
  },
  "articles": [
   {
@@ -39310,6 +39310,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T17:08:55+09:00"
+  },
+  {
+   "id": "be35e5d94c6368b5",
+   "title": "카카오, 인적분할 첫 문턱 넘었다...합병 반대 2%대",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lWThTTzU2aS1SSURXYk5yVFkySWxfV0RoMjVEaU8xei1fcWFuN1ZmUzVpZVNPVVdIR2k4cEZZU1lDZWZPdUhtbDcxMUYzejloYy1jcXl5Ul82VHp1VGU0X1ZONlAzU1NVYjdtUXFR?oc=5",
+   "publishedAt": "2026-09-22T17:24:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T17:29:43+09:00"
   }
  ]
 };
