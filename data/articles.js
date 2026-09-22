@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T21:01:29+09:00",
- "runCount": 2006,
+ "generatedAt": "2026-09-22T21:11:48+09:00",
+ "runCount": 2007,
  "price": {
   "price": "34,250",
   "pct": "+3.16",
-  "at": "2026-09-22T21:01:30+09:00"
+  "at": "2026-09-22T21:11:49+09:00"
  },
  "articles": [
   {
@@ -39643,6 +39643,71 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T21:01:29+09:00"
+  },
+  {
+   "id": "e095f7965dd2e92d",
+   "title": "카카오 인적분할 본격 속도…합병 반대 2%대 그쳐",
+   "outlet": "핀포인트뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CQ0JmVGY3OHZ4WjBlSHVsV1MxWi1vbDRyYlpUQXJWelcwVW95ZGREZ3B2RGlrQW5WNThjZlpSNVFSQno0VkpPSGpJQ3gxeGJBa3ZZUjBTMVNBcHVaUTMyWVhIUEVPZlFJd0liNTJTREc3Y1XSAXdBVV95cUxPTWwyMERkendOdUJjT2pJU2NkT1VpT2l1X083bGZYOVlsSXp3X3FvbkRCLVNqMkNrbHpjbkduZmo0dWNxT3ZDMmp2OFpPTE5PTElyM2ZWcHNlX1NfVF9qc21PTDlmanFxemVsdzZGZUx3U1hETG9Ndw?oc=5",
+   "publishedAt": "2026-09-22T15:32:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T21:11:48+09:00"
+  },
+  {
+   "id": "9ff4ef13bd75cd72",
+   "title": "포켓몬 카드 게임 광산 심벌 설명에 붙는 예외 문구",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTYm9KQXdHZlBQX2Z2eHVjck1CTTVJZWxoanJPWFA4cVlLWHNQc2tFMFlITU1PYk11VlJpWmZJTEdvMjhXQnktUEliMXRnMnA4T21janA0aV9ZSUFTUko1SmsteFVzZUpTd3RWdEowRmNERW8?oc=5",
+   "publishedAt": "2026-09-22T12:43:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T21:11:48+09:00"
+  },
+  {
+   "id": "c3d133c31e05c95f",
+   "title": "어디가 조작 영역인지부터 알아두는 슬롯 게임 보너스",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdGhnVDhhMm1Sa0VNTkpzUjlIbmVsRF90b2hHT3puVXZwQVAwUlpEaDhlTExRVl82RzZ4WnVkVEVlcU9BQ0VZRUlWT0NzTU9SWWdTME9YTzdkSFQ1Q2RtZmtWcEVuZ1lIUll0Wjhsa1FSa1J3RkpjVzZRMmVFRDBfZDJmTFdiQTJqOU81S0pJNUlfZ1lCNWQzQlFfMjNRT2stMW4yTEZ4ajFUcTMtNVo1NW1YYzBNOHQzTlcxLUZlVEhrSVBySktWMzU2VGhuUWx5U3BwUWlIMzFtOXRqVVBvQ1NGSzZKZ1pSQUVBWVB0ai1JY2NPVTB0d1FsQ3pSd0E?oc=5",
+   "publishedAt": "2026-09-22T16:54:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T21:11:48+09:00"
   }
  ]
 };
