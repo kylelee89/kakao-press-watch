@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T06:19:40+09:00",
- "runCount": 2059,
+ "generatedAt": "2026-09-23T06:30:57+09:00",
+ "runCount": 2060,
  "price": {
   "price": "34,250",
   "pct": "+3.16",
-  "at": "2026-09-23T06:19:41+09:00"
+  "at": "2026-09-23T06:30:58+09:00"
  },
  "articles": [
   {
@@ -39926,6 +39926,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T05:05:56+09:00"
+  },
+  {
+   "id": "1dc5b1d07b0c7406",
+   "title": "짧은 시간에 읽는 테마 소개, 호이 아나 카지노 롤링",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNb0tTWnZQQTN4ZmZKb1U3cTNoR1E2YlVxZS02cVZseVRaQ3JvLWdmQTZFMHd3TFRuNmYxX2Jkd3FvdkVqcXVXd1M4cWlmT1dGMDhFUHpGYWpvQmxXNU9qMmxfcTk5NHRRd3Y5djF2cmdlT0dwYkoybDFwWC1ELTA2am9ZZnVSQ2FULUtaMG4zQVlZbnEyR0xRRThaemNPNlNHSXpxak9Kdkc1d1ZpOFk3ZEZpdkxveVlPZmtqVC1acWpDUnVmZ0FGcG9YWFJ0QnhJU3E5RUV0VHVRekl2bE9IZXlDdjZaSUVnWHJxWnNSNG4tWGpJVGZVNG4wWWJXWlhLOWtZTzhGbUZiVGF1U1RUSlcxWjNYVWJBVDRFWnU2RDZEak9ES01adFBKOHFwZnk0WTl3WUFDM1dGQkh2RUE?oc=5",
+   "publishedAt": "2026-09-22T21:48:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T06:30:57+09:00"
   }
  ]
 };
