@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T12:31:56+09:00",
- "runCount": 1958,
+ "generatedAt": "2026-09-22T12:42:17+09:00",
+ "runCount": 1959,
  "price": {
-  "price": "34,300",
-  "pct": "+3.31",
-  "at": "2026-09-22T12:31:57+09:00"
+  "price": "34,225",
+  "pct": "+3.09",
+  "at": "2026-09-22T12:42:18+09:00"
  },
  "articles": [
   {
@@ -38382,6 +38382,48 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-22T12:00:52+09:00"
+  },
+  {
+   "id": "a97413f6c80f1ef5",
+   "title": "탕탕특공대 룰렛 과학 탐구을 통한 요약: 원리, 방법 및 기술",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KTTNUWWNEVFFmY0FBLXlvcWZmbUtnQ3V0dHVuQzZTeFlyUkN3Yjg5RXNNN05QcF94amdTS1dsUXZQbnNNNl9WODlXbUFIR25RZHZLaFdtcGJyQjcxMUdpdERMNFl1R19neWJsd3UtbHFyNFM0a3VxU3NLdmZvZjA?oc=5",
+   "publishedAt": "2026-09-22T01:07:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T12:42:17+09:00"
+  },
+  {
+   "id": "39c64f0c1d2f9c97",
+   "title": "스캐터와 일반 심벌을 구별하는 대한민국 카지노 강원랜드 심벌 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yc3FSRU94bGpjd3ExbFVuamJoeHNsODVCWlYtNTFYTTM1WXVKUlZabzI1ZXBLalJsekxQbmN4LVoyX2NxTXd6ZHRUdFBhdXdHZTFIeFlvX1VpUldlQ0VpN1ZOQWE5TXZBeFVtU1RjSk53WE9jMTlPZWNBS0lrYm8?oc=5",
+   "publishedAt": "2026-09-21T21:46:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T12:42:17+09:00"
   }
  ]
 };
