@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T16:58:19+09:00",
- "runCount": 1983,
+ "generatedAt": "2026-09-22T17:08:55+09:00",
+ "runCount": 1984,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T16:58:19+09:00"
+  "at": "2026-09-22T17:08:57+09:00"
  },
  "articles": [
   {
@@ -39231,6 +39231,85 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T16:58:19+09:00"
+  },
+  {
+   "id": "3745acce4f42015a",
+   "title": "사법 리스크에 거센 주주 반발... 카카오 인적분할 '진퇴양난'",
+   "outlet": "시장경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oOXpzQTJCMEJ5d3RuOVpyUjRLSTRyQnhRMGxkcFdqOV9hVHpWU0w4Y2o3azRGREF4cGVPU0wtMk92REFjV3pIZTZNWVR4WElaLUJ5dzhweHJLM2llWGVwSGVEUFdFYngtdEJ2dlFtZzY?oc=5",
+   "publishedAt": "2026-09-22T16:20:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:리스크",
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T17:08:55+09:00"
+  },
+  {
+   "id": "8265c7d667fecfb1",
+   "title": "카카오인베 합병 반대 2%에 그쳐 … 카카오, 인적분할 첫 관문 넘었다",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJbzJqYmZsMi1RQjRuTWF0aWVtQ2NISW41NGlLUVBwNzRfZ2FZTTRMdVpiMVFpTDloUEUwYWNNQ1BnZWdRNHFQb0E4Umc5dllwMUItbjFtWXdyVTJQYW5lOUJ6UndlS1JFdVd0YXNUSGtxRV9JMU9OSVdkb9IBgAFBVV95cUxQRmhoOGpJUHpHQVBSc0FUYldxZlVDOUNCR1lqY0VXLVRtT21YS2JiZ2FtN05rT213bE1rbWNtcGtVOUszd1dQeTNDZ3BYY0FCeXBnX3JLVXk1a2NSY3JqMmk1VmVQcE5OTkl5Qjl4ekpsTU5vd1RhT0NaTVduZDZxTw?oc=5",
+   "publishedAt": "2026-09-22T15:36:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T17:08:55+09:00"
+  },
+  {
+   "id": "6e5ff92a3d3829c3",
+   "title": "카카오, ‘인적분할’ 8부 능선 넘었다…주주 반대 2%, 11월 이사회 승인 ‘청신호’",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sMFUwV1hUWW4wT29rY2h3bmVkN3owSjZodHNWTW85M01MYnZQSndWQnJRQTlqa0d4aFp0dmpFRnoxcWlaU3ZZR3JkcnMtTEFZQmpIdGdpX2JPVWNCdzc2WDRrVU83WUdQ?oc=5",
+   "publishedAt": "2026-09-22T16:47:25+09:00",
+   "tone": "긍정",
+   "toneScore": 2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "호재어:청신호"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "청신호"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T17:08:55+09:00"
   }
  ]
 };
