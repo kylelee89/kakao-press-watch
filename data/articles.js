@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T12:42:17+09:00",
- "runCount": 1959,
+ "generatedAt": "2026-09-22T12:52:38+09:00",
+ "runCount": 1960,
  "price": {
-  "price": "34,225",
-  "pct": "+3.09",
-  "at": "2026-09-22T12:42:18+09:00"
+  "price": "34,200",
+  "pct": "+3.01",
+  "at": "2026-09-22T12:52:39+09:00"
  },
  "articles": [
   {
@@ -38424,6 +38424,69 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T12:42:17+09:00"
+  },
+  {
+   "id": "30f62d7d9a0fc164",
+   "title": "스포츠토토 디시 에서의 위험 요소와 예방 전략 (2026년 최신판)",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNei1HeU1ubWQ1M3IxbmRNYzVDVjE5eF9KZEdxSlQ1Y1NDc3FKQ05uOGJXRXgwRDJwWVVQN1JiS2wweU1XVlE0RnZoU1dleW9oLVM4czZwMWh0LWZjTy1aNkVFMERXU1UwVEdpc2xaTlhhZk5QZy1yVTlwVk4zZ1ZHN3Y4S0FRT1JNTHlwb0tNNUxLSXhqeFE?oc=5",
+   "publishedAt": "2026-09-22T06:43:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T12:52:38+09:00"
+  },
+  {
+   "id": "41494177f21da0e9",
+   "title": "릴과 심벌로 이해하는 토토 댄스 기본 구조",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0ctR2U2ZVhHb0tPRE9fZGo5R2xKeWc3UnY3WnZFcWFMUlMycTlHTWlPMURJRzRMWGhKd0tUQnk4djFVRXh2cGtTT25TSWJWR3ZLU2d4anliS01acEFYbVRpVWJxbi1IYnBIRDcwS2JkVDIxdzlsTDRkTHRfRTJMeUloUDRPTFZad2d1cS1rUUJRYUdLTXhOMHM0YTFQb2x3SWJrSmF5NkZNOW9kTTUzbVRiYzFYM3hMNTNyYjlyRFlCWlRucnJDQkxQSTNtVjB0MldR?oc=5",
+   "publishedAt": "2026-09-22T03:44:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T12:52:38+09:00"
+  },
+  {
+   "id": "ac39ccb153820342",
+   "title": "게임 테마를 분류할 때 참고하는 pcie 슬롯 ssd 소재",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRldyV0FHUTM4bVJJTEM1TjVrRFhUeDVJUGVORHJpeFlUcXAxVVpFWk1IOExzUW9xUnFxa2lyNnNxTkZoak16RVZxQ2xqZW11M3oxVnp1OGVCc0tEa1Q2bFFJM3JqSGIwNlJxT1pJd2l2MTkwR0xpazJvUC1UcTlJeUZaMUctalZDZGg1Szg4MDl0ZjBIT2pWbEpFS3ZiWmxkVmc0SXFIcmUxODVRdHVwYlgxSk5USm9UYWZRT3JaXzlncnl4MjFZ?oc=5",
+   "publishedAt": "2026-09-21T21:54:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T12:52:38+09:00"
   }
  ]
 };
