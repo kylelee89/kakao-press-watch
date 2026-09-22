@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T18:12:11+09:00",
- "runCount": 1990,
+ "generatedAt": "2026-09-22T18:22:38+09:00",
+ "runCount": 1991,
  "price": {
-  "price": "34,100",
-  "pct": "+2.71",
-  "at": "2026-09-22T18:12:12+09:00"
+  "price": "34,200",
+  "pct": "+3.01",
+  "at": "2026-09-22T18:22:40+09:00"
  },
  "articles": [
   {
@@ -39511,6 +39511,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T18:12:11+09:00"
+  },
+  {
+   "id": "4adb92685db49b9d",
+   "title": "카카오 인적분할 탄력…카카오X 합병 ‘첫 관문’ 넘었다",
+   "outlet": "SR타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0bFJhWGR6ZlpzNkhEdURYY3QtTFFTanc5Q01sTXNuOS1XYVFrbXBCNDNBZzNJeU1YWEw0VUo2R080eGphN21PZTduRXl3N3pLZzNwSjF6Q2p0MHVVSEEzSUNQQkhwU0d20gFrQVVfeXFMTV82NmI3YUNYMXRCeEFYRGhXMVRkWnJlVlRsaDRMd3ptMllYLTMxUGl5N2tfYjlvRDRHVEtrbW9rT2Nyby1DX01oQmNtLVd0OWpfVHN4RlZ2Vm5NalpBVkRkZVA2OHlRTGI1V0k?oc=5",
+   "publishedAt": "2026-09-22T17:56:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T18:22:38+09:00"
   }
  ]
 };
