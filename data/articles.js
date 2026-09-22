@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T16:14:37+09:00",
- "runCount": 1979,
+ "generatedAt": "2026-09-22T16:26:04+09:00",
+ "runCount": 1980,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T16:14:39+09:00"
+  "at": "2026-09-22T16:26:06+09:00"
  },
  "articles": [
   {
@@ -39005,6 +39005,119 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-22T16:14:37+09:00"
+  },
+  {
+   "id": "2a8492ed6b90a365",
+   "title": "카카오 인적분할 속도…\"합병 반대 2%대\"",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCM1V1dFY4Qlg3WmtDM3FESnJDZmJ6X2pzaFZFMExwbTg1U1hQeTRwNWZscExZU1hrYUFBQXJoWHJWdW4wQWIyMUxpMVhSTlROWXI4Yk1qZGJMZVM2MXdmYnplZFM?oc=5",
+   "publishedAt": "2026-09-22T16:09:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:26:04+09:00"
+  },
+  {
+   "id": "99014b74c1cd3bfe",
+   "title": "카카오, 인적분할 첫 단계 통과…카카오인베 합병 반대 2%대 그쳐",
+   "outlet": "아시아경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVelBGdGZqS1k4RG0yc25tMWRkRjVsN3Ryb2FMaEhHdlkwX1VUd0syMENCOV9mVDFpeHJkRjdENjdnSDJMT2VSckZFSUdhb21SOUk0MXlNRF9vSnNSRGk2aA?oc=5",
+   "publishedAt": "2026-09-22T15:45:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:26:04+09:00"
+  },
+  {
+   "id": "5b729a8bf716e5d0",
+   "title": "카카오, 인적분할 첫 관문 통과…소규모합병 반대지분 2%대",
+   "outlet": "sentv.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13QkYtRmVsWC1icFl4QXhPN3lMVlk1WUJmS3hlU3JNTUd6R2VsdU8xNnJuM01NMHkzeHN1d1cycFFtRnZ1YmpVLXlYcWR1bXpUSkFwODFrMW8yY2NFQlU4N0JUU1I?oc=5",
+   "publishedAt": "2026-09-22T16:13:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:26:04+09:00"
+  },
+  {
+   "id": "0eae424250b518d0",
+   "title": "플레이 화면 한 장으로 이해하는 토토 통장대여 후기 구성",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUdQU3had0wtbVUyMG1NOXdnUnFVMTZUWWJCM2hadmhEOXlDR211TGt2SGY3WjlwUXNXa09NYmV2b2VmQzB6Mi1sOHJHN29LVmIzVThjaVY4SWRUSlh0a2dNQ1ZwazBtYUp6Znk5S2d4cTc1bGxFZk0xdkstdVlxWXln?oc=5",
+   "publishedAt": "2026-09-22T01:37:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:26:04+09:00"
+  },
+  {
+   "id": "2529fb8fc8b6e1bf",
+   "title": "카카오인베 합병 반대 2%대…카카오, 인적분할 첫 관문 넘어",
+   "outlet": "chosun.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXBOTTN2NXJkZG9uVUt0TmtET1dmX0VUM3VUeUtfNVlEaTg3REU2a01uX1YwYUJJLWJQeEJ5TXBndFZ6T2ZWTFg3d0xnN0wtbDlMaE42WnhtQVBmbVBReTFVTHNpdnZjRmZXV1J6bmJ2azRGZ0hfdk54RXYtUGlaeUtEbw?oc=5",
+   "publishedAt": "2026-09-22T16:20:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:26:04+09:00"
   }
  ]
 };
