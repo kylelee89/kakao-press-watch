@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T13:56:39+09:00",
- "runCount": 1966,
+ "generatedAt": "2026-09-22T14:07:04+09:00",
+ "runCount": 1967,
  "price": {
   "price": "34,100",
   "pct": "+2.71",
-  "at": "2026-09-22T13:56:41+09:00"
+  "at": "2026-09-22T14:07:06+09:00"
  },
  "articles": [
   {
@@ -38617,6 +38617,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T13:56:39+09:00"
+  },
+  {
+   "id": "c22dea76ac5e603f",
+   "title": "[단독] 카카오엔터, 웹툰·웹소설 통합한다…연내 카카오페이지 일원화",
+   "outlet": "mk.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13aE8xMmQwM1BoZ2tXZktsOVI0WWFRajVaSXF5NXVJUGhiZHp3ZmxQTXRjSUVIbFQ3OS1vVjJlNy1NWjBkUUVLdU1XXzFBOHdjenVKOVh3?oc=5",
+   "publishedAt": "2026-09-22T10:29:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T14:07:04+09:00"
   }
  ]
 };
