@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T13:24:40+09:00",
- "runCount": 1963,
+ "generatedAt": "2026-09-22T13:34:59+09:00",
+ "runCount": 1964,
  "price": {
-  "price": "34,150",
-  "pct": "+2.86",
-  "at": "2026-09-22T13:24:41+09:00"
+  "price": "34,250",
+  "pct": "+3.16",
+  "at": "2026-09-22T13:35:00+09:00"
  },
  "articles": [
   {
@@ -38554,6 +38554,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T13:03:57+09:00"
+  },
+  {
+   "id": "90fad3b04833a47f",
+   "title": "단순한 구성인지 따져보는 한국어 무료 온라인 도박 선택 기준",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQndGTjkyaW1FZUV6UlhrckpTRHdaVkkyTFlSTkp0OXRaUnV0MkNjNTRwYVJWM0Y4Z1JoXzNuYkVNM1VidmI5SHI1RVlTRWE4Rjc1cGlXVGNhV3I1S3RwLXYtcTlnSXpKUGkyVGZDWGU1SEVDU2dCaEJ2c3VPU3FOM29xWjdSRkJpSzNVZ3ZyVDlsb3ZYcjEwb0kxa3VyaVpORXg4SVBsYUViMjVQaWRRQkR4N0V3SlVFelVUNTNoWnE?oc=5",
+   "publishedAt": "2026-09-20T01:50:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T13:34:59+09:00"
   }
  ]
 };
