@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T00:20:53+09:00",
- "runCount": 2025,
+ "generatedAt": "2026-09-23T00:32:07+09:00",
+ "runCount": 2026,
  "price": {
   "price": "34,250",
   "pct": "+3.16",
-  "at": "2026-09-23T00:20:54+09:00"
+  "at": "2026-09-23T00:32:07+09:00"
  },
  "articles": [
   {
@@ -39796,6 +39796,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T00:10:37+09:00"
+  },
+  {
+   "id": "0b3fd0345285b0b2",
+   "title": "PC 확대 비율을 바꿀 때 확인할 스포츠베팅사이트 화면",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQllLQ2ppOEZBQ3hCUy1RZng3UWt4eWljbGtnQ2xLczRBOXF0ZGU5OEloQVJVam15bWl3WnV2ai1mUmFJTmlEUVdCdlRLQzBhbnE5VndBMlotR1JmZFpHUWRBZHZHLS1Lb1l1VkVNT1lkTDV2OE9UUTFOX2FiUHE3M2Jvb0liOXVQU1c5VUxudlRDcFZWNkFaUTFFcmlib2YxaE9Jd2NHbkNvWmhqanZiY0lUREppS0NxREU4ZWRfUGpLdmNEMEtVNFJmN0FuaEE4Nkh5RnozSVYwYXVuQjJQQjlXdWh5RTR1OTlhWFY0dlVDZVlaVDRhNXVlWlJCYnRBWkNDa0xTS0x2bm5BaGNNTXlacHM0MmdjU0tqZlhFLXVsR3FBQ2Rn?oc=5",
+   "publishedAt": "2026-09-22T18:02:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T00:32:07+09:00"
   }
  ]
 };
