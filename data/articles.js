@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T18:54:51+09:00",
- "runCount": 1994,
+ "generatedAt": "2026-09-22T19:05:11+09:00",
+ "runCount": 1995,
  "price": {
-  "price": "34,150",
-  "pct": "+2.86",
-  "at": "2026-09-22T18:54:52+09:00"
+  "price": "34,200",
+  "pct": "+3.01",
+  "at": "2026-09-22T19:05:12+09:00"
  },
  "articles": [
   {
@@ -39557,6 +39557,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T18:44:25+09:00"
+  },
+  {
+   "id": "58663994777b244d",
+   "title": "모회사가 자회사 상장 반대…카카오, 카카오모빌리티 ADR에 제동",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wSmVTMERSN2NQaEZDeWNGbUJCTG1sNERvWU1POV9UVkZ3SFdmNUJlTEF4Q2lXdWEtenFISHI3MV84bDZNWkZBeTlBcEZnNS1XMWcydnZDZlAxQQ?oc=5",
+   "publishedAt": "2026-09-22T17:50:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T19:05:11+09:00"
   }
  ]
 };
