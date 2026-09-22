@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T09:02:13+09:00",
- "runCount": 1938,
+ "generatedAt": "2026-09-22T09:12:32+09:00",
+ "runCount": 1939,
  "price": {
-  "price": "33,700",
-  "pct": "+1.51",
-  "at": "2026-09-22T09:02:14+09:00"
+  "price": "34,050",
+  "pct": "+2.56",
+  "at": "2026-09-22T09:12:32+09:00"
  },
  "articles": [
   {
@@ -38292,6 +38292,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-22T08:51:55+09:00"
+  },
+  {
+   "id": "fb69cb04d19a4af2",
+   "title": "심벌 수집 표시와 라운드 횟수, 토토핫홍보글 화면 구분",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWUtS3lTS2dDTnZ2TTlPRWcwRDQwUG5uVERlWk5iRjdYU0l5UTFUeHNaZHcwSGRPV3l1Yl8yLTJpOVNmajVfaEI0M1d3SVdxcElGSUtSbFJDbjlKa2lEcm9ja3VYTHB1b01iNm9VdmZwZGtUUEVkTEFRTWVQYWdKcXBUNTJHQS1qbUp4dEFKMnlhZ0NOUXhvNDM0R01VNENBZHNjSHI4RzRuUFNidkE?oc=5",
+   "publishedAt": "2026-09-21T22:55:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T09:12:32+09:00"
   }
  ]
 };
