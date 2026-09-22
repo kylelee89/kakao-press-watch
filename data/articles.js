@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T11:50:26+09:00",
- "runCount": 1954,
+ "generatedAt": "2026-09-22T12:00:52+09:00",
+ "runCount": 1955,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T11:50:27+09:00"
+  "at": "2026-09-22T12:00:53+09:00"
  },
  "articles": [
   {
@@ -38355,6 +38355,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T10:46:10+09:00"
+  },
+  {
+   "id": "8fc7172d056d7563",
+   "title": "배당표에 없는 심벌이 보이면? 제왕 바카라 기능 확인",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGFBU2hKZWw4SExwWjFXX3R6Q0VXVjYxZ2JSWFNiZjBHNXV0b3NLSnVrNTlERFdYdWRlbEszMm53MFRkcm5fU25RdkJlc0tUeUVNbmh3MFRoS2pKTWJPcWhja3NVQ1BFNzlXRHEzU2JvdHdPSGFNNFZFV0VqWUxWNDdTNVVnbmNuTFViTEltRGkxRk9VVnlJdDB2UlJmc0FHR0NqcU1Eak5yRXVvRHliMjlMd1I2LXhEOXBZeE5oYVQ2bnFlZVp5dTh5Q0JfemJPS2dpdnhR?oc=5",
+   "publishedAt": "2026-09-22T01:52:56+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-22T12:00:52+09:00"
   }
  ]
 };
