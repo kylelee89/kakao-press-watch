@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T18:01:49+09:00",
- "runCount": 1989,
+ "generatedAt": "2026-09-22T18:12:11+09:00",
+ "runCount": 1990,
  "price": {
   "price": "34,100",
   "pct": "+2.71",
-  "at": "2026-09-22T18:01:49+09:00"
+  "at": "2026-09-22T18:12:12+09:00"
  },
  "articles": [
   {
@@ -39425,6 +39425,92 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T18:01:49+09:00"
+  },
+  {
+   "id": "9cd0878389a27f12",
+   "title": "카카오, '카카오X·카카오인베' 합병 예정대로...인적분할 속도 낸다",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuQi12U1ZhX0tvRk1FTDRsYmZZN25oaFpnLS1UQlRlOHBfak9wMFVuQ3k3OGVXVVNmN0J4aXdOMTNxWDUxUnpIblJOc2owck4xdkdVM1lmRDNlUElJMDEzbmh4V2JyVDlsR0HSAWpBVV95cUxQbkItdlNWYV9Lb0ZNRUw0bGJmWTduaGhaZy0tVEJUZThwX2pPcDBVbkN5NzhlV1VTZjdCeGl3TjEzcVg1MVJ6SG5STnNqMHJOMXZHVTNZZkQzZVBJSTAxM25oeFdiclQ5bEdB?oc=5",
+   "publishedAt": "2026-09-22T16:34:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T18:12:11+09:00"
+  },
+  {
+   "id": "3dc5c3ce4c2439e3",
+   "title": "카카오 \"카카오X·카카오인베 합병 반대 비율 2%\"",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TN0Z1UjdjZS1PQ3dhQUNjeFJDdGNNQ0RrWGg0cmYzQ2lITk5kSG10a2pra00xTVZ0dGN4YjFWdmFldXFGam4xWnZkVTlWX2dsdmg4R2xPb19DR2RtaWQxRjBkQkRaYVZRVDRrOXJR0gFuQVVfeXFMT1M3RnVSN2NlLU9Dd2FBQ2N4UkN0Y01DRGtYaDRyZjNDaUhOTmRIbXRramtrTTFNVnR0Y3hiMVZ2YWV1cUZqbjFadmRVOVZfZ2x2aDhHbE9vX0NHZG1pZDFGMGRCRFphVlFUNGs5clE?oc=5",
+   "publishedAt": "2026-09-22T15:30:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T18:12:11+09:00"
+  },
+  {
+   "id": "a1b1704df32cc5fd",
+   "title": "카카오, 카카오인베스트먼트 합병 반대 2%대… 주총 없이 이사회 승인 추진",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnVmZkMmRvclJOdjF3OTJpdkRPT1pYQ3gybTJUMmdLSG0yb003OXBNVEljMEpTMDdpLXljdXhYTmhDaE13dG1GRHExbGY3bjRJWUNVMFpvSFFuMkZxeEFOYVV3a2diT0F4OFlCeXBpNljSAXRBVV95cUxQN210ZTRBS2JsemlJNjk3N2g0UUdjVDJIQkxFUW5ZeWVZR2lLbHphMGdsRlVTeUxJZHV2eG8xTW1ZbVNoZnJXODdHZ1JucDhmNnFUYUd4NEVfNWZ5S0V6bE92bURuTUdiZkhHb2pkNmFvb2F5Tg?oc=5",
+   "publishedAt": "2026-09-22T17:40:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T18:12:11+09:00"
+  },
+  {
+   "id": "de39c80a062248b6",
+   "title": "여러 기능이 함께 나올 때 읽는 토토 바인드 작동 순서",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdS13LVl4RTJmWlpfMUxfVDZpWUhzald1ZVU5RExfdUJvaUpoMldYU2dwbGVKemRWLWtqeWpuSUhNYjExdHFoTW5uRGNGSXpkSmk1b3JZQ1JMOWRMZV91XzNzUEU4dzE2R2s1N1FNMF9WWWU3UWtRLWhPNmxSZ3hPQmxuWG05RlFWSndmODRUaE0xNHhTU1VWb1hyYjF3QTRMWWcxd0ZhS1F4U21VNEJmYng5Q1U0Um05bmxVS3FPa2xySk8wWHpKZEZnT2NQb3JvaTd5WkR4RTU4SjlOZTVHamM2SG91dw?oc=5",
+   "publishedAt": "2026-09-22T05:09:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T18:12:11+09:00"
   }
  ]
 };
