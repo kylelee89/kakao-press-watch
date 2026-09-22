@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T13:45:19+09:00",
- "runCount": 1965,
+ "generatedAt": "2026-09-22T13:56:39+09:00",
+ "runCount": 1966,
  "price": {
-  "price": "34,200",
-  "pct": "+3.01",
-  "at": "2026-09-22T13:45:20+09:00"
+  "price": "34,100",
+  "pct": "+2.71",
+  "at": "2026-09-22T13:56:41+09:00"
  },
  "articles": [
   {
@@ -38575,6 +38575,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T13:34:59+09:00"
+  },
+  {
+   "id": "05963d5dcce87b51",
+   "title": "블랙잭21 애니 연령 제한과 이용 가능 지역 안내",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMi1iTjRxTk4xVTVqYnowanp1TThtUlRrX0x0bG1aWWlQQkNmWGxrRzVBeTZOWFhiRGJTcWRieThSNjc2UFM1TS1VRXNpLVpNbHdzMG9QM0MyUzRIZnQ1RXJWUktEOWY5QU9GNWVxOGxiNS1nZ0lWdWRaTXFISzhGVHhfQTNtWXlwMG1YSnRaMU1vaVBBOWpZYzVodUM1VHgwT1pKZTBOZDBXZXM?oc=5",
+   "publishedAt": "2026-09-22T08:29:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T13:56:39+09:00"
+  },
+  {
+   "id": "c848c7428bc52e07",
+   "title": "도박 ppt 정리 지속적 통합 핵심 전략",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU9xWEJBSlBmMlRvOExCWTkxamY5SkZoN3FVb05VNUZuQUtraTUyLVQ5cWlXSmwwVU5qaFhlVDc0VjY0ZTBOajRMcThEbXFpcXdnbTJyZnpJcTZ5UkVHV3pQc3pCUkRONTNxdFlxNEtRM2NXQWxud1RTV3JiaDBkT1FBU3VwRlAxSmtsODBEaGNXTENHaEtSWDRqN3RMRGJBY0RpTWlQTm15Qkg0elBZUy1WQThYT1FfSlBlNnFsWG1FR213WEthdkdZaGY2WmJFRWlYa2U1RmRydDAyclZqM3VR?oc=5",
+   "publishedAt": "2026-09-22T06:07:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T13:56:39+09:00"
   }
  ]
 };
