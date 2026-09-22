@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T23:59:25+09:00",
- "runCount": 2023,
+ "generatedAt": "2026-09-23T00:10:37+09:00",
+ "runCount": 2024,
  "price": {
   "price": "34,250",
   "pct": "+3.16",
-  "at": "2026-09-22T23:59:26+09:00"
+  "at": "2026-09-23T00:10:38+09:00"
  },
  "articles": [
   {
@@ -39708,6 +39708,94 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T21:11:48+09:00"
+  },
+  {
+   "id": "13780da56c89d5d3",
+   "title": "카카오, 인적분할 첫 단계 통과…합병 반대 2%대",
+   "outlet": "주간한국",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MREpRR3F4T1kza2t3b2p5RTh1WTVYdnl4OE9MOFhEbUxRaUN6bmo4SlhmSm5VcW52OUVwM2hKSXVCeDFzeVc1MEZGejJZM296U2FzTlp4QkpKaGlmYWZUUGJzQ3JJTzQ3Z1BYWHNnTkPSAXRBVV95cUxPVkcyNE5zYzBBLUstY0hFZE5lcFpNTkI3Vy1ZMklFNjlpSVNJcEZqZTg4U1JPWEZxRjMwZGdtUkZhZHJlWm9MYS1Idkp6NVlhMEVJLUp2bkgyYkIzWUlKU2lrMFV4WG9fcFFJMUtxUUVxSnlJSQ?oc=5",
+   "publishedAt": "2026-09-22T16:57:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T00:10:37+09:00"
+  },
+  {
+   "id": "dea8b8d86ab6128b",
+   "title": "카카오 인적분할 첫 관문 통과…반대 주주 2%대",
+   "outlet": "매일경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DVDJ2UzBMbTlKT0t6YlZrcXFhbmw4RkxrMVdPZ2tmWkZKekYxenVtMHJDQklrMTVyVHRxR1o4ME94RnZlYWY1Rk4xRjU2UUxsZGowdllERDV2Y0RocVpOWkZhREpTa3NyN3Fj?oc=5",
+   "publishedAt": "2026-09-22T16:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T00:10:37+09:00"
+  },
+  {
+   "id": "379ac30479db35c9",
+   "title": "특수 기능의 이름보다 중요한 핸드폰 무료 게임 하기 발동 조건",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeUVoQWNUTjZiZlpLOVJxMFZDTGJOdG0zZXcxZzlJQWJHbnkzWTBhVDFEQWZXVi1iQUxWQXhCdk1YUVJudk5ySVNYNVJhcmx1bnJwVVAzNUlhYi13NXgtRWJiaVd0M0R6NFhDWUZ3aU9OMWJyR2lhYkRKR2VadjFDZ3J3WDdvZFBXcjJPRENNSzlGQmloTTNXWXhNWW1CeWlwVXlIS0Jnc1VWY3MweEdFZnZOWDBSRXhZbDJlbXhLOWRvcDJfd2xBNTlCenlpSEZaRUp1NnB3bmRXYTFxN3JiUVpvZ2s?oc=5",
+   "publishedAt": "2026-09-22T12:20:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T00:10:37+09:00"
+  },
+  {
+   "id": "9c8053852f893e42",
+   "title": "게임 용어를 화면 위치와 연결하는 토토노 무검열 입문 설명",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZ3gtcE41NklseDgyNURVaTh4ZTlGQy1oeG9DWndXNWhpWW1YbU5qZ3NJUnZXUjRiVE5QdzZNc1pRdjJadmNoZzNaN3pmemhSMlRCVHZQYmpMNUFtZzlLNUp3cDhlQ21uZ1ZzWFlBc19GZXJITjlqaU9OeE9OTTFBWU1XWHUtZHFvT3NwemhJeWRoU0pHV29PODRKTDZLTUJ6RFNLMHdadjNZTWlwbmxXM2hwQlo4a2ZzQ0ozeDNyWEdhVjBhcHFYaXBzSHVQNXYxSXdJVjFDTDczNjhUZVdUcmZXMjNoTl9xNENFUldPYzV5RE51MmFoZjU1Q1ZiQll5NGIxMkJPSWpHcFpoQjEtYUVab0JHdm1q?oc=5",
+   "publishedAt": "2026-09-22T13:44:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T00:10:37+09:00"
   }
  ]
 };
