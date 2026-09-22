@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T15:10:55+09:00",
- "runCount": 1973,
+ "generatedAt": "2026-09-22T15:21:20+09:00",
+ "runCount": 1974,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T15:10:57+09:00"
+  "at": "2026-09-22T15:21:21+09:00"
  },
  "articles": [
   {
@@ -38683,6 +38683,50 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T15:10:55+09:00"
+  },
+  {
+   "id": "3088f863a4d5d192",
+   "title": "카카오 인적분할 첫 관문 통과…합병 반대 2%대",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CZjkxVFRXTVo5Nnh1WWs0V2RFS1FpemVycElaakNzTjFMVGMzQjFNanI1RzI5dFlwR1l5dUd2S1Q4b1dBVWE2Wmw5UWgxTmc?oc=5",
+   "publishedAt": "2026-09-22T14:57:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T15:21:20+09:00"
+  },
+  {
+   "id": "ac118b92dd49eaa6",
+   "title": "카카오, 카카오인베 소규모합병 예정대로…반대 지분 2% 그쳐",
+   "outlet": "edaily.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2RUMURJX2NwN0QyN3NQcXhuWWRwT2VYV253VXhSZG5MUmYwRmJUOUduWmxSOUd2U1l4NzBPVTU1TXRITFMyMzhseDYtWUI4aWJKRHM5eU5XN1YxQUVuMmhzNVM4Rng1YWdvOFNacXlyZ3NRWlczV1VrSU82LU9jaw?oc=5",
+   "publishedAt": "2026-09-22T15:13:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T15:21:20+09:00"
   }
  ]
 };
