@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T00:52:40+09:00",
- "runCount": 2028,
+ "generatedAt": "2026-09-23T01:02:58+09:00",
+ "runCount": 2029,
  "price": {
   "price": "34,250",
   "pct": "+3.16",
-  "at": "2026-09-23T00:52:41+09:00"
+  "at": "2026-09-23T01:02:58+09:00"
  },
  "articles": [
   {
@@ -39817,6 +39817,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T00:32:07+09:00"
+  },
+  {
+   "id": "10899bc54d6ff869",
+   "title": "베트맨토토베 발표 능력을 통한 반성: 핵심 개념과 실제 응용",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSm1YYjR1cTJ1TVE5UVlGV0JCeEN6ajRDUmZEbTZPSktQNDUxVmY5Uk56MDdHT3Foa19IM2M4TG1KeElSZElON1ExRHR5SDNkMGU5QnA3TEM0SkZEX3F6M0J1RElEWC1ZZDh3Z1RCVlB6cUlvX1REWjZXVmlMN0hzRmVFUXZOdlZlRDlUZk5aMzNyeG56RXQzXw?oc=5",
+   "publishedAt": "2026-09-22T08:12:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T01:02:58+09:00"
   }
  ]
 };
