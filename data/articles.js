@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T15:21:20+09:00",
- "runCount": 1974,
+ "generatedAt": "2026-09-22T15:31:47+09:00",
+ "runCount": 1975,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T15:21:21+09:00"
+  "at": "2026-09-22T15:31:49+09:00"
  },
  "articles": [
   {
@@ -38727,6 +38727,73 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T15:21:20+09:00"
+  },
+  {
+   "id": "cbe8bbe4d0d1622c",
+   "title": "카카오 인적분할 '첫 고비' 넘었다…합병 반대 2%대",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xRGg3bnN1bnNRb21FTktKNEt0aG4yS3ljMkFIeVl1VHJTdGpKZ0VKaVJ3NFlvY2RiVkFJdk1wVWpfMzNuNjJIdWtkdFRIVVVULV8tNjhXRWFkZzJX?oc=5",
+   "publishedAt": "2026-09-22T15:03:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T15:31:47+09:00"
+  },
+  {
+   "id": "94373f242f663de4",
+   "title": "[단독] 카카오 인적분할 첫 관문 넘었다…카카오인베 합병 반대 2%뿐",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90M2UybGt6OERDeDdzR1l5YWtUam5Oc01JNW9uOFNzaV9PeUdvbjVJeml3b0FIb1ZXblBJYXBNOEtvc0MzOEE?oc=5",
+   "publishedAt": "2026-09-22T14:21:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T15:31:47+09:00"
+  },
+  {
+   "id": "0532640e6f2f4ba4",
+   "title": "'한 지붕 두 플랫폼' 끝낸다…카카오페이지·카카오웹툰 연내 통합",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxaXZLQUtJOXlPUEhWczF0X1VxWGQ4eEdtV3FSdFE4T1ViWmdpOWtpTHNQSDQ1a0ZrYzNrVm1wZkNIVDI1c3JpX1gtMGg5eWlGd08yZEF1amxJWDV1azA2blBkeHhRdmRCREM2dnRZV2xFOEotQTc5adIBeEFVX3lxTFBxaXZLQUtJOXlPUEhWczF0X1VxWGQ4eEdtV3FSdFE4T1ViWmdpOWtpTHNQSDQ1a0ZrYzNrVm1wZkNIVDI1c3JpX1gtMGg5eWlGd08yZEF1amxJWDV1azA2blBkeHhRdmRCREM2dnRZV2xFOEotQTc5aQ?oc=5",
+   "publishedAt": "2026-09-22T13:38:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T15:31:47+09:00"
   }
  ]
 };
