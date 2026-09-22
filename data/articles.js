@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T15:52:46+09:00",
- "runCount": 1977,
+ "generatedAt": "2026-09-22T16:04:10+09:00",
+ "runCount": 1978,
  "price": {
-  "price": "34,150",
-  "pct": "+2.86",
-  "at": "2026-09-22T15:52:48+09:00"
+  "price": "34,100",
+  "pct": "+2.71",
+  "at": "2026-09-22T16:04:11+09:00"
  },
  "articles": [
   {
@@ -38863,6 +38863,50 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T15:52:46+09:00"
+  },
+  {
+   "id": "0b34b111cb209ad5",
+   "title": "카카오-카카오인베스트 합병 계속 추진... 주주 반대 2% 그쳐",
+   "outlet": "한국일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lV19GN3VlX1E3cnctTjdoVDdJamR6NmhCYUMyVzRaYmVnYVVSNmhYZGtrd0tYNzd5VXdRQVZycTFrQk5DSElZMHp5dGxHa3lySHRzV1V0WnZ2YkVLdHhPMW1taHA0VU8tMG9sQVd30gFzQVVfeXFMTXpfZ01TbGtZenBWVnlxeHFpdFFkcmlISDdMa2JjTkx1Vy1GcDFXSUFLaHpod0xCRWU5NkRUeEQzT08tMFJHeVJCVExtVkx3eWZZSzJOWm5HTm9xVFU0Y3kwTkJEY2hLeVJ3TVRQYnRQbUhhTQ?oc=5",
+   "publishedAt": "2026-09-22T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:04:10+09:00"
+  },
+  {
+   "id": "da0c828ac090dce2",
+   "title": "카카오, 인적분할 첫 관문 넘었다…카카오인베 합병 반대 2%대",
+   "outlet": "디지털투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XaDhvV1hkZ0dMc0drc2E1bzlIYUJ6cDdDNUhBNWhkb2pJeGNwQzNMaHJXVEsyNjFSdVBvcDQ3bHZ2YnJmdjVKYlVIRHBhYVh5SUluU1ZlU3VvM0V6MUFBaDJaUk16b0htUTgxRk9WOFNaZGM?oc=5",
+   "publishedAt": "2026-09-22T15:58:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T16:04:10+09:00"
   }
  ]
 };
