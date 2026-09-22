@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T10:35:50+09:00",
- "runCount": 1947,
+ "generatedAt": "2026-09-22T10:46:10+09:00",
+ "runCount": 1948,
  "price": {
-  "price": "34,050",
-  "pct": "+2.56",
-  "at": "2026-09-22T10:35:51+09:00"
+  "price": "34,150",
+  "pct": "+2.86",
+  "at": "2026-09-22T10:46:11+09:00"
  },
  "articles": [
   {
@@ -38313,6 +38313,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T09:12:32+09:00"
+  },
+  {
+   "id": "55461fd9dc49c7c3",
+   "title": "[단독]카카오엔터, 1.1조 북미 웹툰 투자 결국 손절…타파스 종료 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSXMxc1l3ZE5oZmpPWU45bVlIUzhaVkE1ZXBtSjVWQ2FFSFpLLVFMZW5XMWRsUmE2WkY1MHNuYU96Y0pVNDQ0ZmoxcW1SZXRrRFJDaExOSGdiTW1fbVFNdWZUbFRPMGkzSWdMddIBbEFVX3lxTE8tSXMxc1l3ZE5oZmpPWU45bVlIUzhaVkE1ZXBtSjVWQ2FFSFpLLVFMZW5XMWRsUmE2WkY1MHNuYU96Y0pVNDQ0ZmoxcW1SZXRrRFJDaExOSGdiTW1fbVFNdWZUbFRPMGkzSWdMdQ?oc=5",
+   "publishedAt": "2026-09-22T09:50:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T10:46:10+09:00"
+  },
+  {
+   "id": "d3d7de8aa2277473",
+   "title": "네카오 신입공채 어디로…카카오 계획 없고, 네이버는 재검토",
+   "outlet": "edaily.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0lMbW9kZGQ2dHo4c2MyckVDWDF5VFE5VEpsaG15ZUJ1dWR6VFdGalJMSTZfZndld3oxVUN3c0lTOXhtUm9FM0Y2M2o1ckJvRUZrRmxjRklidkpQWk1ZVmFZTnotVG1lUkZUd2d3SHpqMWpPdXJCVzY3bmdYOUYzNg?oc=5",
+   "publishedAt": "2026-09-21T15:52:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T10:46:10+09:00"
   }
  ]
 };
