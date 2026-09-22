@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T15:00:26+09:00",
- "runCount": 1972,
+ "generatedAt": "2026-09-22T15:10:55+09:00",
+ "runCount": 1973,
  "price": {
   "price": "34,150",
   "pct": "+2.86",
-  "at": "2026-09-22T15:00:28+09:00"
+  "at": "2026-09-22T15:10:57+09:00"
  },
  "articles": [
   {
@@ -38661,6 +38661,28 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T14:28:02+09:00"
+  },
+  {
+   "id": "757e92f0caaff4c9",
+   "title": "주주 반대 2%에 그쳐…카카오, '카카오AI·카카오X' 분할 가속도",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmcVlSWlhycUZWd1hfUDJmNnhndlVPbXNqcGFxSm5oVVV2TmlJYmp1SHB5R0ZEZTMtMFIwY3BZSGFxNERncTdXNkNIUzZwdkdVSzJVcGQ5M3NyUzlzWHBFa9IBeEFVX3lxTFBtNWpNZkh1MFBJMm1nVlQyRDNib201WGNyOXF4bHU2NjRLOThYX1EyMmRFbGUxcllRMjJidlhMcnlaZHFBOEtvV3d0Q1NjdVpQWUNnSkd5d2NabFVndUpjV1B0cjRxZGFaVXRlSEJVNHpnb1A0eVdzUQ?oc=5",
+   "publishedAt": "2026-09-22T14:54:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T15:10:55+09:00"
   }
  ]
 };
