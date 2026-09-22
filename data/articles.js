@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-22T20:51:07+09:00",
- "runCount": 2005,
+ "generatedAt": "2026-09-22T21:01:29+09:00",
+ "runCount": 2006,
  "price": {
   "price": "34,250",
   "pct": "+3.16",
-  "at": "2026-09-22T20:51:08+09:00"
+  "at": "2026-09-22T21:01:30+09:00"
  },
  "articles": [
   {
@@ -39601,6 +39601,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-22T19:37:03+09:00"
+  },
+  {
+   "id": "3469bd15befadd65",
+   "title": "테마별 게임 목록에서 찾는 새 슬롯 분류 기준",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNRG5LQWs4MEYweEhwaXNvX09MY0ktcGRUOGVDVDZWZjM5dEo1eWhCOEVTYnU1cFZQWkFLc1lVQmpIZWFfYlAwNUpRWHVhUDBhbVFDNlZoYi1RS3A3TFBwRFpmNFJSTFhwSUtYS2l4c2VNNWpPTUgtSzVoYi1YemdSUktQUl9OcDdYQ1VJUWhUUFhTZlVPek1nOG9QNHJLVzgyeUhKdGI3dl9udWNTTnQ5VmhaamVCN1hRandXaUMwRHNRVW8wOG11WUpqTGtlNkJOZkdpejNORXI1QVRfNDZ1bzQ4elBkLWFWelBIUmcyT2tNdm95MTE5WE4yZ2RyLWdNYnJ4MkJHcXZ5UEJlUWwxeHBGbjNwMDhjb3o1ZVFHU0x1NnFSLW9teWh6cDhLelk5UTdNTVRyNjFqaE9wN1M1UE9Pc29xcjdjYUI4?oc=5",
+   "publishedAt": "2026-09-22T16:15:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T21:01:29+09:00"
+  },
+  {
+   "id": "6fa895f129d6af93",
+   "title": "게임 규칙에서 숫자가 중요한 부분을 찾는 도박 익셉셔널",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS0EwaDA4cFdpQTlNc1VhNzBPVFBRMzMya3ZQV05KMkh5azQ1Uk42RE1iNjZJbC1CcWpDeUJ4ejBEZmFJanUzQkh2dDllU2R2YXNxbUhWR0VEME5WT1VLbVJNRG5TZ3l2VXUzdFZGOTh3THBYLXVVZDdsdndKcDg1UlhCaWVUZDU1WWd2NWRucGlUWnVWdlBvQThHSExubjRGb2tHWk42dzBOaEJ6QnpVd3FNazlqeGtLdDNMbGJFSWh1VVkxdjJ3ZnFOTGk1OVBQa2VMeFFGS2ZIUQ?oc=5",
+   "publishedAt": "2026-09-22T14:38:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-22T21:01:29+09:00"
   }
  ]
 };
