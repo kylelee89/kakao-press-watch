@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T12:21:27+09:00",
- "runCount": 2093,
+ "generatedAt": "2026-09-23T12:31:45+09:00",
+ "runCount": 2094,
  "price": {
-  "price": "33,850",
-  "pct": "-0.88",
-  "at": "2026-09-23T12:21:27+09:00"
+  "price": "33,900",
+  "pct": "-0.73",
+  "at": "2026-09-23T12:31:45+09:00"
  },
  "articles": [
   {
@@ -40125,6 +40125,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T11:59:55+09:00"
+  },
+  {
+   "id": "fd866abcb739f0b1",
+   "title": "게임의 시각적 분위기를 담은 피망 슬롯 머니상 테마 페이지",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVp5TEV0WnJGYy1vRGRjaEE2REdRcldBQ21lSFZBTzJvc3FuZWVBbmxVcDNLRXEyb1ZhWGtCdktxMlpxQUVDSUNlWURnNGY0QWx2em9Xb2hXRmdJSTc1MkhLTndPcmo0WEgxS25zMGZva2swV2ZMa0gybmZKQWxNYnZ5bkR5MnQzaWxEbXdMdU1JNUhmZzZhUldzX1pvTUhSWXk4V2Rhc0RYYllIaUI0cGhWN0xIbVdaRDNr?oc=5",
+   "publishedAt": "2026-09-23T06:27:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T12:31:45+09:00"
   }
  ]
 };
