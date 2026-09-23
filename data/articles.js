@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T18:51:11+09:00",
- "runCount": 2130,
+ "generatedAt": "2026-09-23T19:02:25+09:00",
+ "runCount": 2131,
  "price": {
-  "price": "33,700",
-  "pct": "-1.32",
-  "at": "2026-09-23T18:51:11+09:00"
+  "price": "33,750",
+  "pct": "-1.17",
+  "at": "2026-09-23T19:02:25+09:00"
  },
  "articles": [
   {
@@ -40516,6 +40516,28 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T18:51:11+09:00"
+  },
+  {
+   "id": "f87cd8e42ffb0db0",
+   "title": "검찰, 'SM 주가조작 혐의' 김범수에 2심도 징역 15년 구형",
+   "outlet": "아시아경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNa3FLcW4ybzZYTExpV2xxdGZaTGVrdVVWQVQ3ZjA0Q2xRZVVObFBzdU02NDl0amxVQm40TEFrRElTMGFzTnJXWmN3TEFwajI2eWVWVGdwODJtLWNGRlB4eg?oc=5",
+   "publishedAt": "2026-09-23T17:21:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T19:02:25+09:00"
   }
  ]
 };
