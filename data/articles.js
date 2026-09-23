@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T11:07:04+09:00",
- "runCount": 2086,
+ "generatedAt": "2026-09-23T11:18:26+09:00",
+ "runCount": 2087,
  "price": {
   "price": "34,150",
   "pct": "+0.00",
-  "at": "2026-09-23T11:07:06+09:00"
+  "at": "2026-09-23T11:18:28+09:00"
  },
  "articles": [
   {
@@ -40014,6 +40014,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T09:31:46+09:00"
+  },
+  {
+   "id": "deaaa3dada7d2679",
+   "title": "토토 크러쉬 메뉴가 접힌 상태에서 찾는 기능",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNY2diYnprTWxKSVZLd1NWLTFCNUw5NnMtUC1GdlZHeENZSEhDT1ZDamdJR0VMaFlFQ0o5NzFwazdqTkRMLW54dnYzd0Y0bmtBQllCWjN6M29JV1h1V3BZOWkydUxtZ3k1Y25weXl4eUFTWjVwLTlPQUJCd2FZSjVnOW8yY3JZSG1DQkNGUDJONTVLeXF2RmZCdjVWVU84OVJZN3FycDVvWjlVcFRYTWJNZEpndWxYbVFfRFJtdzhEcjBWaUMtVGJmQUlncXlPTkxiMDQtcXhpSXQwTUJoOVFySktHcVJkMUtWSXE2dnF2bUhnSkpuakpsTzVaZEZ1ai1EeWU3TDFvclVkano5V0I2bW9mc1EyUlZtcUFmcWZkdm4tNmJWTHc1anJn?oc=5",
+   "publishedAt": "2026-09-22T23:32:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T11:18:26+09:00"
   }
  ]
 };
