@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T16:44:27+09:00",
- "runCount": 2118,
+ "generatedAt": "2026-09-23T16:54:43+09:00",
+ "runCount": 2119,
  "price": {
   "price": "33,600",
   "pct": "-1.61",
-  "at": "2026-09-23T16:44:27+09:00"
+  "at": "2026-09-23T16:54:44+09:00"
  },
  "articles": [
   {
@@ -40331,6 +40331,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T16:33:12+09:00"
+  },
+  {
+   "id": "a80786e1625961e7",
+   "title": "인터 체인지 맵 : 초보자가 알아야 할 모든 것 - 실용적인 접근법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmV2TnlQcktDajU0Q25VRXhnamFkZ28wMEN2OVppelF6aWNSZHByVXBJamkyY0o4VGlKajdtTl9JSjgtMENqYWUtYVJFMnIzdzFUb0J1T3JuUWF4M1RHdmpwRVZHU3RDSGhLWUJpNVpEQmx4YV9BREJtZ0Ria0ZoWFlPQWRBWjhMWU9IZXhTcFpESmJoS2Q0RkQ2dEsxaWNvWGc?oc=5",
+   "publishedAt": "2026-09-11T11:28:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T16:54:43+09:00"
   }
  ]
 };
