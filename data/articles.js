@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T13:55:23+09:00",
- "runCount": 2102,
+ "generatedAt": "2026-09-23T14:06:41+09:00",
+ "runCount": 2103,
  "price": {
   "price": "33,700",
   "pct": "-1.32",
-  "at": "2026-09-23T13:55:23+09:00"
+  "at": "2026-09-23T14:06:41+09:00"
  },
  "articles": [
   {
@@ -40146,6 +40146,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T12:31:45+09:00"
+  },
+  {
+   "id": "6ac00923aac20ab7",
+   "title": "소개와 세부 설명을 함께 읽는 더온 카지노",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUC1lS0k4WmJmOXdxTFZYdmFwRy1EX0RjdzhXZUtWSUQyMGk5emVDODB0dnRGQ1dhQzBkRVE5YXFXSlpxMUt1Ri1QQXNrMWFPYm9sMWFmUFlsQlVDOU1VWnluZkhpZTlmMjJaQ1pDV1hnejV2NGdnLWo1X0NPcEZPNk1vNHNxVXVVZUwxbkVJaXdDX0tGMmFFdGswTVdfN0lySlJfNF9lNEtrVHNOb1hRcA?oc=5",
+   "publishedAt": "2026-09-22T22:59:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T14:06:41+09:00"
   }
  ]
 };
