@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T17:05:02+09:00",
- "runCount": 2120,
+ "generatedAt": "2026-09-23T17:15:21+09:00",
+ "runCount": 2121,
  "price": {
   "price": "33,650",
   "pct": "-1.46",
-  "at": "2026-09-23T17:05:02+09:00"
+  "at": "2026-09-23T17:15:22+09:00"
  },
  "articles": [
   {
@@ -40446,6 +40446,32 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-23T17:05:02+09:00"
+  },
+  {
+   "id": "12799de2f8907f69",
+   "title": "“도무지 바닥이 안보여요”...카카오 분할에도 목표가 ‘뚝’",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHV3hnODd4TWxzQ3ZKVmtSaC1lN1VTTGdjbGZUZWpfQnV2UHl6TUdNTzgyU0E2QVpndW1fUnRMRmtGVXNjS044QlMtOUI3aGVycWhBTA?oc=5",
+   "publishedAt": "2026-09-22T14:07:10+09:00",
+   "tone": "우려",
+   "toneScore": -6.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "등락:뚝"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝"
+    ]
+   },
+   "firstSeenAt": "2026-09-23T17:15:21+09:00"
   }
  ]
 };
