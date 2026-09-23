@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T15:09:36+09:00",
- "runCount": 2109,
+ "generatedAt": "2026-09-23T15:19:56+09:00",
+ "runCount": 2110,
  "price": {
-  "price": "33,550",
-  "pct": "-1.76",
-  "at": "2026-09-23T15:09:37+09:00"
+  "price": "33,450",
+  "pct": "-2.05",
+  "at": "2026-09-23T15:19:57+09:00"
  },
  "articles": [
   {
@@ -40211,6 +40211,57 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T14:59:16+09:00"
+  },
+  {
+   "id": "b1daf7e780379470",
+   "title": "\"본사와 임금 똑같이 올려달라\"…추석 앞둔 IT 기업들 '뒤숭숭'",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xbDVuNmhBcmJxNV9qS2dERzhEaFV3R0FtcWFqaHEtVFJOUEJSaGEyVHRDdUhZeG1vVVdyOUdGVGhCMGZwd0M2LVFlN3pGSzZBdWwwX0pLV1gxZw?oc=5",
+   "publishedAt": "2026-09-23T14:59:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T15:19:56+09:00"
+  },
+  {
+   "id": "5f9454e5a04242fa",
+   "title": "카카오, 카카오모빌리티 美 ADR 상장 제동…“주주가치 훼손, 중복상장 리스크 커”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96enVDNXQ5eWdVTzFCampjZndGUEE0RjdpaXdRNlVwZWZLdUlnUHZOek9IWUR0eHJadTFaM3ZVcXI5aGVHUlo2YnE0ZHpIVEFETFpwWGpWQVRXN0xlNjNiRk01dmRnQ0tR?oc=5",
+   "publishedAt": "2026-09-23T15:05:26+09:00",
+   "tone": "우려",
+   "toneScore": -6.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:주주가치 훼손",
+    "적대어:중복상장",
+    "적대어:리스크"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "주주가치 훼손",
+     "중복상장",
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-09-23T15:19:56+09:00"
   }
  ]
 };
