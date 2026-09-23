@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T18:30:31+09:00",
- "runCount": 2128,
+ "generatedAt": "2026-09-23T18:40:52+09:00",
+ "runCount": 2129,
  "price": {
-  "price": "33,700",
-  "pct": "-1.32",
-  "at": "2026-09-23T18:30:32+09:00"
+  "price": "33,750",
+  "pct": "-1.17",
+  "at": "2026-09-23T18:40:52+09:00"
  },
  "articles": [
   {
@@ -40472,6 +40472,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-23T17:15:21+09:00"
+  },
+  {
+   "id": "cb6b931fa30d1334",
+   "title": "카카오 인적분할 첫 관문 넘었다⋯카카오인베 합병 반대 2% 그쳐",
+   "outlet": "브릿지경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CYUE1aG9HaE52Uk5oeDNQNUFwYU9JOUhIRF9DanVyajY1VUpNYk1samY4VGRxYXFMRmhGZEhiWUlMRHlfQUZhSXUxMUttNEh3TVFmLUZDN1FqQQ?oc=5",
+   "publishedAt": "2026-09-22T17:09:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T18:40:52+09:00"
   }
  ]
 };
