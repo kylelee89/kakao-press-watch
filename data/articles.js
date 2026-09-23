@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T19:34:18+09:00",
- "runCount": 2134,
+ "generatedAt": "2026-09-23T19:44:38+09:00",
+ "runCount": 2135,
  "price": {
-  "price": "33,750",
-  "pct": "-1.17",
-  "at": "2026-09-23T19:34:19+09:00"
+  "price": "33,700",
+  "pct": "-1.32",
+  "at": "2026-09-23T19:44:38+09:00"
  },
  "articles": [
   {
@@ -40561,6 +40561,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T19:23:59+09:00"
+  },
+  {
+   "id": "b3e2b216f32115a0",
+   "title": "새로운 기능이 추가됐는지 보는 미니언즈 카지노 먹튀 변경 정보",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGpVUkd3X1hpR3A3SHJpMngwb0NjMGRZa0RpUWFqaXRlZVFFT3V6eXk3Y1BmdkJSdW9qSTFzQVZQVDVaUVJPNjlSWVU1RndxUW5ydndHNzNjMXB3YldrcU5ULXpCdkQtTnFETXRsOTJISnhGZGNCVlNlTXlzQmJNT2l1RW52dU91a1ZvcDlTNVRUNTRoNEE?oc=5",
+   "publishedAt": "2026-09-23T12:29:26+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:먹튀"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "먹튀"
+    ]
+   },
+   "firstSeenAt": "2026-09-23T19:44:38+09:00"
   }
  ]
 };
