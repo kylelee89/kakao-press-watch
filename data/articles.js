@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T16:54:43+09:00",
- "runCount": 2119,
+ "generatedAt": "2026-09-23T17:05:02+09:00",
+ "runCount": 2120,
  "price": {
-  "price": "33,600",
-  "pct": "-1.61",
-  "at": "2026-09-23T16:54:44+09:00"
+  "price": "33,650",
+  "pct": "-1.46",
+  "at": "2026-09-23T17:05:02+09:00"
  },
  "articles": [
   {
@@ -40352,6 +40352,100 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T16:54:43+09:00"
+  },
+  {
+   "id": "70a65b61c7ca8998",
+   "title": "[SR한컷] “카카오 인적분할 반대”…김범수 결심공판 앞두고 피켓팅",
+   "outlet": "SR타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JSWx2SklCZVFUX0RkeTduUzQ1Zk42RW1ZUmxBVDRHSk0wOUFrYmNDUGY2XzkwV1BYdTdtbVNnUEJXXzBxcDdYNml1ZDk1U3hxaDdxdFRtUjRHU0p0dFo1TFprTUR0TVVS0gFrQVVfeXFMTktPM3BVbm1WUV9yRUJtQk1LN05jal9sYy1xdU1QTFFwS18ydHVQV2xlcjJ3YlBkRXFGcHhmeFJ6VFBtRm8yekQ2bVNaWnhmaFIxMG9tT3I5Y0ZoNVNoRGd5M2YzN2w1QzZNeUE?oc=5",
+   "publishedAt": "2026-09-23T16:59:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T17:05:02+09:00"
+  },
+  {
+   "id": "9948f73091a1042c",
+   "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 \"일반주주 이익 훼손 우려\"",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VQjNCc2dHM2NSbDl4OGtMczFPMnB0RzV5VVpkbFlReXNKaFJaQWZEZHN1WkJvbVhQZnY1eTk0YVdiM3ZfblhfVWt6UTNHcklPX1FFSnUydkhoMDE3eGtGOF9waHp0dTRFWU9tQkJhcGFxVDg?oc=5",
+   "publishedAt": "2026-09-23T16:39:48+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-09-23T17:05:02+09:00"
+  },
+  {
+   "id": "b03ae97887911c09",
+   "title": "카카오, 카카오모빌리티 美 ADR 상장 제동…“현재 구조 반대”",
+   "outlet": "SR타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WMmFUVlFRanhWdlpVbll6a1paWVlSa0JYTHJGc09vN1M5WE5NVXN1V0ZEMGE0bHBTY3NybFRwQmVaZGpxdEFJNEREckYxZnplRlNELW1STVpEaDdma19VSDhNVjR5Xzc00gFrQVVfeXFMUFdBSzZhdlJzODZrWG84QmxmekMtLWEzXy1IOThBNFlMR1ZVVVYxbjZDdDFjTlVFaEduYUVIMWw5WmRfZlAtRkpWMUpiZkprNU5teE5CZ1VjdVZ0UktYLWM2Ny1NQnkyeGo0dlk?oc=5",
+   "publishedAt": "2026-09-23T16:58:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T17:05:02+09:00"
+  },
+  {
+   "id": "aa6cc181e77c8ac4",
+   "title": "프리스핀과 무료 체험은 같은 뜻인가요? 메탈슬러그 2 게임하기",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUThTTnNJcmJ5akhMaGhkNUtuc3ZIMzJpdlRlbWhYTlMtX1lIckxPQnFCd1I4aWtlcG9tVkUxVGh5QllCRWtRRTJKZEVsZmQ0SUtVa3drbGdzeUJabklqenFnclhxaDNxbUhoUjJOMGVzM0VwTnRTUVhxMlkyamlyUnNXWkFyY1dHRWJKc3RSMnVCbGVxTVIycXBpbVlQWFhkODJ4bi1hbm9hSEVsVlIyWkdlSlVfZU1pYkZwbGRzNTlwRDJ3RmZCakhrNFg1N0JlZ0xseWFZemJROS1lZnhOSVp6bjJCWmxKQ0RPQTg2WnE5YlhGOVNRTklRSS1va3ZHY0ZpS3g1Yw?oc=5",
+   "publishedAt": "2026-09-23T10:03:06+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-23T17:05:02+09:00"
   }
  ]
 };
