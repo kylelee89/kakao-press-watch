@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T06:36:19+09:00",
- "runCount": 2197,
+ "generatedAt": "2026-09-24T06:46:33+09:00",
+ "runCount": 2198,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T06:36:19+09:00"
+  "at": "2026-09-24T06:46:34+09:00"
  },
  "articles": [
   {
@@ -40726,6 +40726,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T04:08:48+09:00"
+  },
+  {
+   "id": "185398ccd587a8f9",
+   "title": "[기업] 카카오, 카카오AI·카카오X로 인적분할 결의",
+   "outlet": "YTN",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SeWRYbE9McGFsQy1CQzc2MkYxQlpFYWstQThObHhuN1VCbWQ2M2lfcVljb3VGSEhGMHpZMVJFZDBsaThZbHllWmxGM2lLd1N2eDc3bnA3Y3hicDhwQUE?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T06:46:33+09:00"
   }
  ]
 };
