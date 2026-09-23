@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T11:39:18+09:00",
- "runCount": 2089,
+ "generatedAt": "2026-09-23T11:49:37+09:00",
+ "runCount": 2090,
  "price": {
   "price": "33,950",
   "pct": "-0.59",
-  "at": "2026-09-23T11:39:18+09:00"
+  "at": "2026-09-23T11:49:37+09:00"
  },
  "articles": [
   {
@@ -40058,6 +40058,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T11:28:54+09:00"
+  },
+  {
+   "id": "365b76148cfd961c",
+   "title": "카카오 투자분석 2026. 09. 22",
+   "outlet": "주달",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlWGVfSGJudXdnYTcwRU5xRS1sLVJOblBya2JpSmJMUTI3ZXdXemlKLXNCb1RiOVFwbWVrRW9YTVRxMVYzZVMxRTRXY0h2aWMzWUg0X2RfendaUDJpVV80Um9pRXhfNW1GV05lTGhhX2pnV28?oc=5",
+   "publishedAt": "2026-09-22T16:17:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T11:49:37+09:00"
+  },
+  {
+   "id": "dc6fa92f791a0594",
+   "title": "금액 단위를 바꿀 수 있나요? 드라마 카지노 손석구 설정 문답",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNb3loY3R1Sl9xeG00MVU5akxlN0Jxb0M5VlZsSVN0MGZRTmNhUnk4UkRJZnMxNkxwdmN3bVIxRXRkcVBURTVUdnc3d2ZKaWxITV9VcWszdHNYWVFvVUJ2LTdGMXpxcGxrNHR3Z3hBZHhNSlZnUXdEZ0VOMnJ2MDRnZkNQZnpjck1JQUsySFBad1ZpZXF6anB0VmRWQlBTYmRUWW9FdWxyTE02YTFYR1Q2bUpoTEZJNjB2YlhMQ0ZSTjhZdk8wUTVrRFNNQ3dNeHpoWTdLSTBvWnZHR2x5ajBBa0g0Qkl4dkRqblBuby03b1pmM1Fyc1h3aHl1THI?oc=5",
+   "publishedAt": "2026-09-23T06:30:29+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-23T11:49:37+09:00"
   }
  ]
 };
