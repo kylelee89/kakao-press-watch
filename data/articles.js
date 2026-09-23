@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T14:37:41+09:00",
- "runCount": 2106,
+ "generatedAt": "2026-09-23T14:48:56+09:00",
+ "runCount": 2107,
  "price": {
-  "price": "33,650",
-  "pct": "-1.46",
-  "at": "2026-09-23T14:37:41+09:00"
+  "price": "33,550",
+  "pct": "-1.76",
+  "at": "2026-09-23T14:48:57+09:00"
  },
  "articles": [
   {
@@ -40167,6 +40167,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T14:06:41+09:00"
+  },
+  {
+   "id": "ed7b11a624daa670",
+   "title": "카카오 노조, 합병 저지 무산 뒤 법원 앞 피켓시위",
+   "outlet": "연합뉴스 한민족센터",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mWXRDZ29fUms3VlJSMW9WZzFfcDdBaGUtcTFqNnhnOVU3dGJiZklCN2NRSDRZREZJSDltRzBHUlMxd2FmZlRtSkY2YUhVQWNybWFfdWRqekVDUHBkQkVicVpyVDhCakJPd0hFa2F1V2hYUGxI?oc=5",
+   "publishedAt": "2026-09-23T14:38:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T14:48:56+09:00"
   }
  ]
 };
