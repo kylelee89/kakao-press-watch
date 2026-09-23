@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T18:40:52+09:00",
- "runCount": 2129,
+ "generatedAt": "2026-09-23T18:51:11+09:00",
+ "runCount": 2130,
  "price": {
-  "price": "33,750",
-  "pct": "-1.17",
-  "at": "2026-09-23T18:40:52+09:00"
+  "price": "33,700",
+  "pct": "-1.32",
+  "at": "2026-09-23T18:51:11+09:00"
  },
  "articles": [
   {
@@ -40495,6 +40495,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T18:40:52+09:00"
+  },
+  {
+   "id": "1ca14ca8a1d47d50",
+   "title": "공간이 좁은 화면에서 읽는 주사위 토토 정보 영역",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbVFhdXFaV3ZzS3BrcVVNdmhUSmVwQXQ0SlhTQlN1dnR5dnA1SWVSeFkwbERzNWk1eE1xM24wbDQtczJRWkR1cmxrMndybjZ3RjVsRDlzUmhqd0dMRXBJa1d3OW1JSDZxeWFxSllfRzZnbzlLcnlUaUp3VmI1UlFZVm10aHpZQkJhdVFnZVpIb2NaY1NlTXdSclRmMWNmNWc3SjFRTXloVDAwLXRRWnFMWlUyMlRtLVdCYkdLWmNob1dCOWJ3YnZJbHRIbzVua3ptWnpIcW4wdFg5dS15RGVlTTZHYV9kN01vV2xWaGh3V05aV0Nk?oc=5",
+   "publishedAt": "2026-09-23T11:20:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T18:51:11+09:00"
   }
  ]
 };
