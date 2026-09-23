@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T14:48:56+09:00",
- "runCount": 2107,
+ "generatedAt": "2026-09-23T14:59:16+09:00",
+ "runCount": 2108,
  "price": {
   "price": "33,550",
   "pct": "-1.76",
-  "at": "2026-09-23T14:48:57+09:00"
+  "at": "2026-09-23T14:59:17+09:00"
  },
  "articles": [
   {
@@ -40188,6 +40188,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T14:48:56+09:00"
+  },
+  {
+   "id": "9f870e9991ddcae7",
+   "title": "인적분할은 속도·자회사 상장은 제동…카카오 '선택과 집중'",
+   "outlet": "뉴스토마토",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xY3BzeVMxVU5sMmdlWTBrcnZ2cGpWNllzTVpqT3dxVHRQWXhCYkkwSDJYZkVadHdrVW1tMjNVY0wxZTdmZ0U1Qmp5dHVjclZaa0pDeUlrWXBEcDBoeXlZ?oc=5",
+   "publishedAt": "2026-09-23T14:52:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T14:59:16+09:00"
   }
  ]
 };
