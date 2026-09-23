@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T11:18:26+09:00",
- "runCount": 2087,
+ "generatedAt": "2026-09-23T11:28:54+09:00",
+ "runCount": 2088,
  "price": {
-  "price": "34,150",
-  "pct": "+0.00",
-  "at": "2026-09-23T11:18:28+09:00"
+  "price": "34,050",
+  "pct": "-0.29",
+  "at": "2026-09-23T11:28:55+09:00"
  },
  "articles": [
   {
@@ -40035,6 +40035,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T11:18:26+09:00"
+  },
+  {
+   "id": "35175c5b3681b752",
+   "title": "카카오 인적분할 첫 관문 통과",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55ZjVsVXFzYVZBekd3MUkySml0ek9wbndGNUhDczNNc0VpZHpQaGJLVU9zTU8xNnhPeXY3TlN1VEdWeXZVNkFLaGFNRm1DTEU?oc=5",
+   "publishedAt": "2026-09-23T11:17:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T11:28:54+09:00"
   }
  ]
 };
