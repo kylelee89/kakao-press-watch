@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T09:11:10+09:00",
- "runCount": 2075,
+ "generatedAt": "2026-09-23T09:21:28+09:00",
+ "runCount": 2076,
  "price": {
-  "price": "34,400",
-  "pct": "+0.73",
-  "at": "2026-09-23T09:11:10+09:00"
+  "price": "34,550",
+  "pct": "+1.17",
+  "at": "2026-09-23T09:21:29+09:00"
  },
  "articles": [
   {
@@ -39968,6 +39968,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T07:35:39+09:00"
+  },
+  {
+   "id": "f53439a8cf3610cf",
+   "title": "프리스핀과 무료 체험은 같은 뜻인가요? 카지노 7화 마지막",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUFST1R0Z2YxLTcyUjNFenBGX3RTaVlsZnkzM0JsZWFVYXdXeGZNSGRXYURLRktnTFhPc2JEalpSU2lZWjNzZU9tN2hzRXFINjJEZl9JRnFjZ19xUWJFampYMVQxdGNoU3locnJsTU1HZF9heXJITV9ncTdHSjNLcWpDWVFNdWJBamNzSjFKd1hpZ0pDQUw1R0dnZ1phQUg4OTdWVllQdU1oUQ?oc=5",
+   "publishedAt": "2026-09-22T23:42:32+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-23T09:21:28+09:00"
   }
  ]
 };
