@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T16:21:56+09:00",
- "runCount": 2116,
+ "generatedAt": "2026-09-23T16:33:12+09:00",
+ "runCount": 2117,
  "price": {
   "price": "33,550",
   "pct": "-1.76",
-  "at": "2026-09-23T16:21:56+09:00"
+  "at": "2026-09-23T16:33:12+09:00"
  },
  "articles": [
   {
@@ -40284,6 +40284,53 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T15:30:23+09:00"
+  },
+  {
+   "id": "15ce566b0b10de87",
+   "title": "카카오, 카카오모빌리티 美 ADR 상장 제동...인적분할 앞두고 주주가치 방어 나서나",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12N3E0RnhCblhoWFRRUVNmX19NWS0xZTBEaGdqVjIyZElkYXZaNG9KYVY3OXZsazVsam1uNTdtTFNjZ1ZJcHU0M3B1ekJtcG1SRzZxYlNrOTRYZzNONmdYb19CMDZuWXNvckHSAWpBVV95cUxNdjdxNEZ4Qm5YaFhUUVFTZl9fTVktMWUwRGhnalYyMmRJZGF2WjRvSmFWNzl2bGs1bGptbjU3bUxTY2dWSXB1NDNwdXpCbXBtUkc2cWJTazk0WGczTjZnWG9fQjA2bllzb3JB?oc=5",
+   "publishedAt": "2026-09-23T13:15:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T16:33:12+09:00"
+  },
+  {
+   "id": "7aa987de44e2a450",
+   "title": "[뉴스모음] 카카오 인적분할 첫 관문 넘었다 外",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUTFzT0ppcjdJMm1heFJ5RlptY0tzZGVoMHVfNFNJQUVpOVloQ3BSaFhjaTFrcFctRzFhaTBYdWc1TEoyaTMydDFXSTlva0U?oc=5",
+   "publishedAt": "2026-09-22T17:20:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T16:33:12+09:00"
   }
  ]
 };
