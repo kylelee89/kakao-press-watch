@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T00:05:50+09:00",
- "runCount": 2160,
+ "generatedAt": "2026-09-24T00:17:03+09:00",
+ "runCount": 2161,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T00:05:51+09:00"
+  "at": "2026-09-24T00:17:03+09:00"
  },
  "articles": [
   {
@@ -40609,6 +40609,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-23T21:51:13+09:00"
+  },
+  {
+   "id": "70f2ac4676ee09ee",
+   "title": "김범수 '징역 15년' 재구형…카카오, 오너 부재 리스크 우려 ↑",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BRDFHdTBCT3JMWU1CN2tBeXZFbkJsNnQzZ0psM3podF9Bd1RSdWtwYy1GQ1o2VXdJRHFHQ0o5UkVucFRYMXJNME1qU0JrVzA?oc=5",
+   "publishedAt": "2026-09-24T00:02:28+09:00",
+   "tone": "우려",
+   "toneScore": -2.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크",
+    "적대어:우려"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크",
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-09-24T00:17:03+09:00"
   }
  ]
 };
