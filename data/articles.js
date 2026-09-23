@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T00:28:16+09:00",
- "runCount": 2162,
+ "generatedAt": "2026-09-24T00:38:33+09:00",
+ "runCount": 2163,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T00:28:16+09:00"
+  "at": "2026-09-24T00:38:33+09:00"
  },
  "articles": [
   {
@@ -40636,6 +40636,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-24T00:17:03+09:00"
+  },
+  {
+   "id": "13fc9df5df94169e",
+   "title": "[총수家] 김범수 카카오 창업자 ㅣ 항소심서 15년 구형…분할 논란까지",
+   "outlet": "CBC뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Yd0RVQUxvUi1jQjlseDFKVmpJU2R0MlF2Y1l6VjlmdjFUenR1V0Z1azViUGRPdVYzOGp6Q0lINmVXOG1oVTdvTkNQMkVQYU80RXRPbEd1dGdiREUzMm1BdnV4MkRrOW8?oc=5",
+   "publishedAt": "2026-09-24T00:30:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-09-24T00:38:33+09:00"
   }
  ]
 };
