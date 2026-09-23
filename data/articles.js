@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T03:38:00+09:00",
- "runCount": 2180,
+ "generatedAt": "2026-09-24T03:48:16+09:00",
+ "runCount": 2181,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T03:38:00+09:00"
+  "at": "2026-09-24T03:48:16+09:00"
  },
  "articles": [
   {
@@ -40682,6 +40682,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T02:55:54+09:00"
+  },
+  {
+   "id": "b8acbd55cb555e8b",
+   "title": "여러 심벌을 묶어서 읽는 파워볼 사망 배당표 구성",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcVFkRU1tTFdTY0FmaU5oUi14dnRZbE5ZUUZfZm5FS2VjS0FpbXNoVjY1NzF4ZWNuMmJDZFptNG4wXzRrTmNMMW1VRDVoYmJpZmQzNE9JVWczZnJGREFEa25jdWR2STdNcXJLT3dtcW1hWGNzVmdCaVZsSlNPTTNQbG9zeDFyN2EwWDZWa1E1dVcwUzE1bjhtcm0yRnZPS2RETXhVY0lySGRoT0Vzak50Nmd5STJjdjFVOHA0aktiODdXYlRrYnBDWUo2Rmp0TlY3SU0wUEkyRDFrbXBHbVZ1TXB1LVh3a05tZFhld084ZnAtVEpP?oc=5",
+   "publishedAt": "2026-09-20T11:50:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T03:48:16+09:00"
   }
  ]
 };
