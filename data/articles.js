@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T06:46:33+09:00",
- "runCount": 2198,
+ "generatedAt": "2026-09-24T06:56:49+09:00",
+ "runCount": 2199,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T06:46:34+09:00"
+  "at": "2026-09-24T06:56:49+09:00"
  },
  "articles": [
   {
@@ -40750,6 +40750,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T06:46:33+09:00"
+  },
+  {
+   "id": "d38518f4076d8a49",
+   "title": "낯선 아이콘을 눌러보기 전 읽는 밸런스게임 매운맛 버튼 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQclFwY0hhd2FGVGZ0Q3NOdHNVVlpzUWVLOGpUa0RXZ2p3QTRNUTJSWVNlQTBVNDk1bGZBV2Y0QjZDZlJ6QllCZ2g1Y1hSX1pzQzhvQ3YzZXBpV2F3Sk1ZMEVzSEFiVWxTdEo0bTYtblBEYTRVd3REN1lFcnZ4MnBrWTN0a1ByTThTbmM4a2RKT19GdGRiRGpUZnFhTFBBeF9Yc2FwbGNZV1luS0owelZXanFDdFM?oc=5",
+   "publishedAt": "2026-09-24T00:30:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T06:56:49+09:00"
   }
  ]
 };
