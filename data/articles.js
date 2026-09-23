@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T09:21:28+09:00",
- "runCount": 2076,
+ "generatedAt": "2026-09-23T09:31:46+09:00",
+ "runCount": 2077,
  "price": {
-  "price": "34,550",
-  "pct": "+1.17",
-  "at": "2026-09-23T09:21:29+09:00"
+  "price": "34,450",
+  "pct": "+0.88",
+  "at": "2026-09-23T09:31:46+09:00"
  },
  "articles": [
   {
@@ -39993,6 +39993,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-23T09:21:28+09:00"
+  },
+  {
+   "id": "492972bd967917f9",
+   "title": "특수 화면에서 달라지는 호요랜드 원신 룰렛 버튼 위치",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVl2b05jajZuMW9JNDBIRDN1eEdZRDJzeDIyRG96M2dXUFRPQlROdTc5T2hIbS1vNDRkOXZVR3dlWmVJSFFtSzJlYkRtUDllVlRWaFNSWE1yUVl5RnFUWnVJN05pOXNVWE9IVjIzZHN5RXJDMG00SzFCRzB2SEdGenRZdS1IOTRucTdsekxSdkE1V1h2bzFBek9EQ0F6LXU0TnY3bTNVSUJJT3ctQ0pr?oc=5",
+   "publishedAt": "2026-09-23T04:14:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T09:31:46+09:00"
   }
  ]
 };
