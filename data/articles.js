@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-23T11:49:37+09:00",
- "runCount": 2090,
+ "generatedAt": "2026-09-23T11:59:55+09:00",
+ "runCount": 2091,
  "price": {
-  "price": "33,950",
-  "pct": "-0.59",
-  "at": "2026-09-23T11:49:37+09:00"
+  "price": "33,900",
+  "pct": "-0.73",
+  "at": "2026-09-23T11:59:55+09:00"
  },
  "articles": [
   {
@@ -40104,6 +40104,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-23T11:49:37+09:00"
+  },
+  {
+   "id": "694cdded078ada07",
+   "title": "제동 걸린 카카오모빌리티 美 ADR 상장…투자자 자금 회수법은",
+   "outlet": "ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ELTRTcWpPR1p1SlNYR1VvdjhhTzRIMzQtenVya2xXUC1FRURkNFZ5Nkw4VEdEcXZwbk1sNzBzNnZZREw5ZXFRRWtjQ2hjcjZ4SWlPOWJRei1VVEVjdFotTnE1dkpqSUsy?oc=5",
+   "publishedAt": "2026-09-23T11:27:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-23T11:59:55+09:00"
   }
  ]
 };
