@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T03:58:32+09:00",
- "runCount": 2182,
+ "generatedAt": "2026-09-24T04:08:48+09:00",
+ "runCount": 2183,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T03:58:33+09:00"
+  "at": "2026-09-24T04:08:49+09:00"
  },
  "articles": [
   {
@@ -40705,6 +40705,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T03:48:16+09:00"
+  },
+  {
+   "id": "e4584f9f67d61e29",
+   "title": "처음 읽는 규칙 문서와 친해지는 인벤터 슬롯 메이트",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUJIbU1pM1BZZ0R4RlAtbEczU2EtN3luUEw2X0Rfbm92YUwzc3lSelNPZGJsUnAtU2ZlNVptRHFCeldLYVFrRE95NkltYm90VGxFTDlIZzZOSUpoV0JLa3RCdE4zY0JHblFuU2hSS0pxMHllV0xtU1Y1OTdfVzlZR2lGUV9CUnVqMmFOMGExQU9QZw?oc=5",
+   "publishedAt": "2026-09-16T13:10:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T04:08:48+09:00"
   }
  ]
 };
