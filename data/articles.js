@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T02:45:37+09:00",
- "runCount": 2175,
+ "generatedAt": "2026-09-24T02:55:54+09:00",
+ "runCount": 2176,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T02:45:38+09:00"
+  "at": "2026-09-24T02:55:55+09:00"
  },
  "articles": [
   {
@@ -40661,6 +40661,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-24T00:38:33+09:00"
+  },
+  {
+   "id": "ffaf2d7ec7aacdae",
+   "title": "특수 화면에서 달라지는 강원 랜드 슬롯 머신 자리 버튼 위치",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZzY5YmdQYVZlZzF6Q1NRX3p1SkRLMDhMdGxTRGJ5Z1V5a1cyQUpxRzl6MnZBUXN3TnYzUEpvX0xOSjFIY0FyWjV0U24zSDhUVUVTcUtCeTdCLU9mVmlWRlFFY243QXBCS3hzTVMyRlBXWW91bDlrYVlzeU9GOG9OMnFNRkVoN3lCRDdKTGlKM3loQ0oxQ1JuUVR3Y0hib2YwWHhLN1BFVVR0aTJSRVRRS0tiOHk0UTg5X3J0OC0yNDZseC14czZ1LUN1UnQ0QQ?oc=5",
+   "publishedAt": "2026-09-23T11:53:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T02:55:54+09:00"
   }
  ]
 };
