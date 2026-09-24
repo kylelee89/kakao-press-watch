@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T18:43:37+09:00",
- "runCount": 2266,
+ "generatedAt": "2026-09-24T18:53:53+09:00",
+ "runCount": 2267,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T18:43:38+09:00"
+  "at": "2026-09-24T18:53:54+09:00"
  },
  "articles": [
   {
@@ -41103,6 +41103,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T15:45:07+09:00"
+  },
+  {
+   "id": "d740418e89ae96a6",
+   "title": "RTP 표기가 있다면 읽어볼 카지노 시즌1 결말 확률 정보",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWi1fejZTd2JZZ05IaDBKQlF0cURZaUhKenBwRjhBUE1hT3lYX0hLRkxkVUZYa3hhbGFNNHNRWE15REZ3N3ZOajN3ZFVoN0Z3T2JRcGV5amNXWVZraW9hV1RUSy01eFVUdG1fZE5iREsxVmt0bTBWTXBsN0Y1SHBPVW9scWhnM09Id2dmQnh0VWlpbEdwRXhVNUhxRGF1OGhSSzlBbw?oc=5",
+   "publishedAt": "2026-09-24T12:44:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T18:53:53+09:00"
   }
  ]
 };
