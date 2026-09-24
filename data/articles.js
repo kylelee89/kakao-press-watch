@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T15:34:51+09:00",
- "runCount": 2248,
+ "generatedAt": "2026-09-24T15:45:07+09:00",
+ "runCount": 2249,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T15:34:51+09:00"
+  "at": "2026-09-24T15:45:07+09:00"
  },
  "articles": [
   {
@@ -41061,6 +41061,48 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-24T15:02:06+09:00"
+  },
+  {
+   "id": "530a5e5a61a613ee",
+   "title": "게임을 분류할 때 볼 드라마 카지노 도시 진행 특징",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxONGxKWjVaZGc3cmdNZEJCY1BBNlFPUFZ0cUhTeS0wRE93QkwtRFkzUHFrN3dRRjVCWXA3TGE4VlpnMmZlZVhiTVhBdzhGbng2OFlZczMzT19jLTdzT1dHYkEzTXJiY1JxbzdiZXRYMUthcVBhVmdKWWpvXy1DU3Z6QVN2Q01NUXhfRUY1djFRYlZ2cUxJYmVkVWRhaENzd1BVVFBPRGNKQjNqX1R5Um9nVXVTVDRrQVpRYWxSN3ZDT3pkR1o1OWp3N0JocU9xRDg1aVVXTzNjMVE5ZV83bEpCMUowMjB3QTg2SVZuSmhCVm1BMllEZHNodmdzcE5XWmllczRtNm43Q0hJOUc3NngydlByWVFBSW9aMGlVYlYyZHFnUlU5VGE0d2d0eFZLcGpQMU5j?oc=5",
+   "publishedAt": "2026-09-24T11:00:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T15:45:07+09:00"
+  },
+  {
+   "id": "13a95af902333b9b",
+   "title": "특수 심벌 수집형인지 확인하는 크레타 문자 게임 구조",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRWU1QzBPb2V4RTZVaFVrbXBRNDlCSGJyRGotenljeHB1c1BtSmJES1hPM0pZdC1WZHpDaS1acU12bkVHOHQwZHJfTUlKOXBxWkNuS0JuTzBvb1pkQ19HNDkxUVFBaEk0ZGdhZEJhYWNYYndBRTZ2QUd0Ymo2MGRybXo2WE9MQnJJSzVGVHREYWNWdjR3YUxxYjhHdkhpSzdBVWhTUkU0ZWU2UGVWR2U0VWk3aExKTGc0dThNc3AyMHFHOFBvNnpNU3pVNA?oc=5",
+   "publishedAt": "2026-09-17T17:16:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T15:45:07+09:00"
   }
  ]
 };
