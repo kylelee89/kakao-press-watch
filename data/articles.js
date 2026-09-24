@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T06:26:13+09:00",
- "runCount": 2333,
+ "generatedAt": "2026-09-25T06:37:25+09:00",
+ "runCount": 2334,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T06:26:14+09:00"
+  "at": "2026-09-25T06:37:26+09:00"
  },
  "articles": [
   {
@@ -41501,6 +41501,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-25T06:05:40+09:00"
+  },
+  {
+   "id": "671bc37ff973af15",
+   "title": "처음 보는 숫자와 기호를 풀어보는 슬롯단속",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY20wVTlsdmtYbjd2alJJVk9rdUpoNGpSUUppOUdDeXd1dFZFdHZybjB2V3RoRFJzaTBQSlVCOXpfZDNGOHRzY0Z6ek9KOExFcGs3eEtaV3hXa2M1X2kwS2pDWXBEbHg4RU1HazhkazNWcnYwY2ZVMEZPWDJoRXBVN3ZocGNSV00tanBKMElWenBEd1hyRjBiZFFEZ0x4MkNRRi05Sg?oc=5",
+   "publishedAt": "2026-09-22T13:28:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T06:37:25+09:00"
   }
  ]
 };
