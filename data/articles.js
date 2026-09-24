@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T12:43:53+09:00",
- "runCount": 2232,
+ "generatedAt": "2026-09-24T12:55:05+09:00",
+ "runCount": 2233,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T12:43:54+09:00"
+  "at": "2026-09-24T12:55:06+09:00"
  },
  "articles": [
   {
@@ -40903,6 +40903,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T12:43:53+09:00"
+  },
+  {
+   "id": "924dc78cbca54038",
+   "title": "보너스 구매 옵션이 있다면 확인할 메이플 슬롯 확장 추천 비용 표시",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQWVlKX2VvRm5EWEthNUZ5Z2Z4alZJRmw5VmFER3ctdWh4VEtOTWg2UzRHSDJWRDRMbUt0TnlSNlVRREhRZ0NWMDNZR1FRb0M3aEZuS21lTV8yQjRZOExmZW5nYWI0S3otWFpTU3ZsNTNlUWRqajFiRDhVdF9PTGdaYnF4bjNBSUs1LXZyVGZkNlBtWVR1Wm9TcFI4b1dTZWtUb1lYZ1llUXhtdkhKM3hqYkZCWnBteE5MYi1aQWh1UlJXZjZBZDNIazFsaURDNjRQdHhyV0cwQ2dLWmNSWGNnYmVXeTYtSzc1WnNBMEE2eXZsV1hDNWczYzZHZHBleFF4YlQ2MXNSYUNzSktnUkNpUmd6VXdEb3FoYTM4M0VTYlRja0lUbUE2RTUwRldxSjBTazlBc3R4MFlOel9Z?oc=5",
+   "publishedAt": "2026-09-20T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T12:55:05+09:00"
   }
  ]
 };
