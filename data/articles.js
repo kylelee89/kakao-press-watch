@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T02:05:46+09:00",
- "runCount": 2308,
+ "generatedAt": "2026-09-25T02:16:04+09:00",
+ "runCount": 2309,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T02:05:47+09:00"
+  "at": "2026-09-25T02:16:05+09:00"
  },
  "articles": [
   {
@@ -41323,6 +41323,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T00:51:52+09:00"
+  },
+  {
+   "id": "e0cdd6ce551e42ff",
+   "title": "고정되는 심벌이 있다면? 야숨 저장 슬롯 작동 원리",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYUdtbC1WeDJQR3duMFBpMHlDc0tEajZveWE1QlNSWTN5V1Bpb3p3dWE4bnU4VmdNZW1LRm9PcjlyeUk2aFVqaDZLLTh0Zm84eXpENmhyZXM1WTEzX0VCUlB1dkZPX0Ntb0dhUGNGTS13dG5Gc1lzYnZnME5hZFlqYjdHYXRjRzk0aHpqRmc2TzRtNlNqSS1seE04YWsza0ZiUU0xd0U2TGM0RkJEUEV0VnMxMFJmdkhJZy1kOHpQSHJmZ3hpSll0bW1xVGFZUzJpT0R2NDMtQ1d6NEFvR010NnhHaEM0R3JVNmNfSUdWVmE?oc=5",
+   "publishedAt": "2026-09-24T12:17:49+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T02:16:04+09:00"
   }
  ]
 };
