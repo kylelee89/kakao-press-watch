@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T03:29:51+09:00",
- "runCount": 2316,
+ "generatedAt": "2026-09-25T03:40:07+09:00",
+ "runCount": 2317,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T03:29:52+09:00"
+  "at": "2026-09-25T03:40:07+09:00"
  },
  "articles": [
   {
@@ -41348,6 +41348,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-25T02:16:04+09:00"
+  },
+  {
+   "id": "c6aa672abd522507",
+   "title": "토토 꽁머니 주는곳 제로 인식 디자인 패턴 상세 설명",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU2tud2I4VFlHOTZoY1hub21KX3VMbjZud3FLelZjQmFlbm5tbjF1a2FjQzVPdjJxVEdodS1mcWRVZ3hTS0JSU0Z6X290Skh3WTZraTU2dVZkTE1nQXRwZklfNWcxUGxLOHFRREs2SFZzMjlKNGp2dWlkU04wZkNWYVpPbFNLUWVBNUp6UUpyNlNEZkt0dDhOanBwUVRINkJ1TWRDSXRNcUE3V1lhWGRrX2cxNmEteVRCODJTNmVmTGE3ZGQ5M1ZMM2FXNDhVbXJwRmthQUd3QV9Eb1lQQlFQbkdpYURuVXRCLTg5b0doMDg3Z3AxSzJUYl85bXFDUQ?oc=5",
+   "publishedAt": "2026-09-20T07:06:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T03:40:07+09:00"
   }
  ]
 };
