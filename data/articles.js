@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T19:46:15+09:00",
- "runCount": 2272,
+ "generatedAt": "2026-09-24T19:56:31+09:00",
+ "runCount": 2273,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T19:46:15+09:00"
+  "at": "2026-09-24T19:56:32+09:00"
  },
  "articles": [
   {
@@ -41145,6 +41145,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T19:35:02+09:00"
+  },
+  {
+   "id": "d35bf67ddfe0d48a",
+   "title": "업데이트 날짜와 변경 항목을 읽는 카지노 싸이트 정보",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN3RaSV9NRUwtY0RGZzFEYW51Mk9oMkZ6OERpOWxRRzVuc05IaWJVU3NXaXpaVUVDeFFLeUFDOFdoZzNmakVIdFBLOEltM1FRcmJrQVd1c09OdTNUQWpaVEtLRi1SVTNUMGRLRDJCeUQ5ZjFYM0g3S3JvNEpoaF9zY2NzM3ZkRzBMZS1QUFkzQk0xRmFXbnliX0x6LTctbnJ0eEtrSGhOSDhldXFOTEp0Z1hTMnAyOEp6WTIwOGZUOVVnbWR2blZMRUliVTdQaVJVT3hXWWdFV1FISDJ2M1NN?oc=5",
+   "publishedAt": "2026-09-24T09:25:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T19:56:31+09:00"
   }
  ]
 };
