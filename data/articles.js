@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T04:11:48+09:00",
- "runCount": 2320,
+ "generatedAt": "2026-09-25T04:22:59+09:00",
+ "runCount": 2321,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T04:11:49+09:00"
+  "at": "2026-09-25T04:23:00+09:00"
  },
  "articles": [
   {
@@ -41390,6 +41390,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T04:01:33+09:00"
+  },
+  {
+   "id": "a0beca9b6817c952",
+   "title": "설정값과 결과값을 구별하는 블랙잭 만화 결말 숫자 읽기",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd182Rk1qQjZQaG1GQXhOZHdfeEV1Rlk4OUJYZEd5WmtYZlRvdHh3cUI0VWhZQnlyNG5QQ1Fkc1hTd28yNURJdG9adndZOU5uNWo5WEN4enFiVnlpWnVySU9tWUtTVHRJTlpRZTM0QjhRcEhpMXNjckMyN2JQbDdFcURNYUJ5YlNudTJTOFBpQmpycnRmbGk5bHZjbWpsc3hJb3dZVi1rSF93ZFBtQTVXNWtRMm5EZE96NFpyeWttX2FINmxTUmJBejd1alktOTZoenp2QVVFeDFHUnNHdkVOeFdBeFE?oc=5",
+   "publishedAt": "2026-09-24T17:29:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T04:22:59+09:00"
   }
  ]
 };
