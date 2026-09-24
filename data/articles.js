@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T13:26:49+09:00",
- "runCount": 2236,
+ "generatedAt": "2026-09-24T13:37:05+09:00",
+ "runCount": 2237,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T13:26:50+09:00"
+  "at": "2026-09-24T13:37:06+09:00"
  },
  "articles": [
   {
@@ -40924,6 +40924,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T12:55:05+09:00"
+  },
+  {
+   "id": "6cc2821e949a508d",
+   "title": "주제별로 연결해 읽는 룰렛 삼치기 게임 해설",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTNmUVpiVFpEdzAwc2syb0Mta3FnU0dOY3FHOFJuNGs5UmowVFZuODBIZjlqQTZaQ2YwNGxJVm5CdWRFU3lDVGN3d0FsVEd2YlRoQ25OaGthMldpZXFxWTM1b3BrU1R6TGJleF9tOWdBTnljSzU5Ym5YTlB3bG1peHdudkQyWkdfeUwwVnJ2bTBPQ0dTNXM1ZzJRUVZMUWJmcW9aRXplV3dlOGltQW5MZjh0Mkw0NjhZNlRmZW9aVmI1cGRMVjJYOHJNWk1lZw?oc=5",
+   "publishedAt": "2026-09-24T09:39:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T13:37:05+09:00"
   }
  ]
 };
