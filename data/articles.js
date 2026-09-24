@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T14:51:46+09:00",
- "runCount": 2244,
+ "generatedAt": "2026-09-24T15:02:06+09:00",
+ "runCount": 2245,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T14:51:46+09:00"
+  "at": "2026-09-24T15:02:06+09:00"
  },
  "articles": [
   {
@@ -41015,6 +41015,52 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-24T14:51:46+09:00"
+  },
+  {
+   "id": "cb216ec2ca252b17",
+   "title": "보너스 전후에 유지되는 설정, 개인회생 도박 진술서 기능 질문",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUDNxUldBTDRIcnA2WXp5cXJIeVNZck45bm40Mzh2bHE4ZjZ3U3hhU1BjRmxfWHlSM3RfUHhtYmhvelZOZnlkRURNSVR5cEhMNGxqSm4xVVZYdzhMdkJjc2xEM19TMDRuTDhlVy15alVMYjJLcDhMeGlsZV9YQ3pYSnB4SkhhWlZwRndDLXUtdlJLMmE3eTlBSkQ4RE90QTg2V3dzSXJ3Yi13dVRSY01YQUl0b0pFa0k4TUVfbktqX3NmVTFnM216cE92bXR0SkRUZ3pyby1TTW5nbVVJX3Vj?oc=5",
+   "publishedAt": "2026-09-24T09:45:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T15:02:06+09:00"
+  },
+  {
+   "id": "c0df33561e846653",
+   "title": "프리스핀 중 남은 횟수는 어디에? 나르샤 토토 가입코드",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEx1MzBGdWwxMGRaX043N2lrOUpJV1dxNHFkTVhQZU5TdFZQdEJ4MXliLW9IYnV1SWNKTko1UEtDT29zTlphbGJ5Yk93d0pGWHNvTEhTRlZlX1Rxd1lsWHc2SjhyUWNfd2pRemxCTzNtOGRiRHFUdGl3X1lqeXBPUU9mWjFUZFBxX3hpMDJrbzlmb2I5bGZQNjRrbWY4Mlh1VHE5VG1LcGlHbUtYcWF1UWtFWWkybkhQVnRUUmJVTWhlejhWeEhTZ1hrNm1TVlRlWXZ4ZkRUMm1CY2g1ekQzZGRKRkJUU1lIUWFMcUg2X3BjWHhvakQ2QQ?oc=5",
+   "publishedAt": "2026-09-24T04:58:29+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-24T15:02:06+09:00"
   }
  ]
 };
