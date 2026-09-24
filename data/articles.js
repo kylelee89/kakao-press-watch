@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T03:50:23+09:00",
- "runCount": 2318,
+ "generatedAt": "2026-09-25T04:01:33+09:00",
+ "runCount": 2319,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T03:50:23+09:00"
+  "at": "2026-09-25T04:01:33+09:00"
  },
  "articles": [
   {
@@ -41369,6 +41369,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T03:40:07+09:00"
+  },
+  {
+   "id": "20c56db7ecf68e03",
+   "title": "클레오파트라 슬롯 화면에 나타나는 배율 정보",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUC1pbDQxU2N3X3RIcmpjQk1Ibjd1OUljSFF6WlItaTEtZS1qMGwyNGFBTmJpa0tsN1g1Z05vbWxvU3gzdkpUdGJ5STY4cjREWEJkanVhalBvV19ub0lXSzFVYnRGckt3dzMtZG5abEdvRHJUZlJYWFBNZDA5c0tNdURoR0xIczQ3aDFkRW5pR0l6b3lDMGxNdFBZel9pOXVtd0c5Z2pjQW5Ja2pxWVNORUZCNTNQYlA4bi1ZQVc4ejhNb3Z2VmVyd3JTcw?oc=5",
+   "publishedAt": "2026-09-24T23:36:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T04:01:33+09:00"
   }
  ]
 };
