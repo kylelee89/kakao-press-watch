@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T23:07:09+09:00",
- "runCount": 2291,
+ "generatedAt": "2026-09-24T23:17:27+09:00",
+ "runCount": 2292,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T23:07:10+09:00"
+  "at": "2026-09-24T23:17:28+09:00"
  },
  "articles": [
   {
@@ -41210,6 +41210,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T22:55:56+09:00"
+  },
+  {
+   "id": "bbe1fee808a8c9ae",
+   "title": "기본 규칙은 어디까지 공통일까? 웨인루니 도박 비교 해설",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUEJyMFN5dEU3RkpLbF9XRXdzMjlWTGpaTEpkOFdGOWFIRW1SQ2l1TkpGNE9RVXNfVEFKQTMyc25pc1p6N1lXNjRueFItVkNiSVEtSFJDVVVGdDFGY09rZnNtOXhXQURuMjVHTk9Zd0tFcEUzNmRTWVIzdnJ3NFYwY3IzbzRiUUhKaVVWaml4WUl5NHcxRWplQVBZcEZ3aFYtM0djWW9GcEU1MC1IQTJYWEd0a3NBUUJLd2NTYmNjS2pISU0ySjJ1YkZCWjlEcXUwWXNtRXdoaXRkVmQyYll4M3ZhLWwyeUYzWHBhd0ZmSTR1bTkzNXpoV1lCbDdPZGlmUkE?oc=5",
+   "publishedAt": "2026-09-24T18:45:22+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:일까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "일까"
+    ]
+   },
+   "firstSeenAt": "2026-09-24T23:17:27+09:00"
   }
  ]
 };
