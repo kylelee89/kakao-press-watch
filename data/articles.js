@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T23:17:27+09:00",
- "runCount": 2292,
+ "generatedAt": "2026-09-24T23:27:45+09:00",
+ "runCount": 2293,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T23:17:28+09:00"
+  "at": "2026-09-24T23:27:46+09:00"
  },
  "articles": [
   {
@@ -41235,6 +41235,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-24T23:17:27+09:00"
+  },
+  {
+   "id": "5d845ddcc8f5b4a7",
+   "title": "온라인 카지노 프리 스핀 투자 재테크로 보는 권위 있는 해석: 기초, 심화 및 마스터",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDdkNVg5OGFrSDB4OU42ZThLZnFiYnNWYTVDT0VEM0RHT0pDSWZhTFlqRVMzRjdkSGt6VFRmbml0RGJnd25jd1NpTTR1elJBR2dXLUJJSVBzZVU5U2NfR1Q3cnRYOWh5UmM4bVlyVjRkT0hFaWJtTFhfc3lsd3NEcll6eUQyR1l1Xy1LQnJPZ0tIQWpfZzROazFRTFd1Qy1YTmxvR2NoYllmR3VVcW40aTdYbDU?oc=5",
+   "publishedAt": "2026-09-24T14:22:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T23:27:45+09:00"
   }
  ]
 };
