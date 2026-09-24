@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T22:35:23+09:00",
- "runCount": 2288,
+ "generatedAt": "2026-09-24T22:45:40+09:00",
+ "runCount": 2289,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T22:35:23+09:00"
+  "at": "2026-09-24T22:45:41+09:00"
  },
  "articles": [
   {
@@ -41166,6 +41166,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T19:56:31+09:00"
+  },
+  {
+   "id": "e7b324bbeeb7d2b4",
+   "title": "작은 아이콘에도 설명이 필요한 버팔로 슬롯머신 규칙 인터페이스",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTk5tMm11OEtUa3l6dlUta0JsdmtzWVYydDVWaVhzZXVZRl9CQ0p2emNNejhnNzBqcUpHWFVtMjZ6ZjNiV0E4M2tUUEcxYmg4U2E5MHk0NkUtemd1aUE1ejlkaS0tQVpROXBURW5EZjVGUlZycDZKTXYxaWQwSlVQbnQ3NjdiNi1kUTRadGJUb3pxUE44cGNyTWNiVTkySFl3a0l4U2ZjWjBQWGgxY0k0?oc=5",
+   "publishedAt": "2026-09-24T18:07:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T22:45:40+09:00"
   }
  ]
 };
