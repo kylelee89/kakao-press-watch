@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T04:43:34+09:00",
- "runCount": 2323,
+ "generatedAt": "2026-09-25T04:53:49+09:00",
+ "runCount": 2324,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T04:43:34+09:00"
+  "at": "2026-09-25T04:53:50+09:00"
  },
  "articles": [
   {
@@ -41411,6 +41411,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T04:22:59+09:00"
+  },
+  {
+   "id": "d7ebacff99ec50b4",
+   "title": "화면에 보이는 금액의 의미부터 짚는 라스베가스 바카라 방법",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTl4TXNjZ2U1UDRRVzNKUnVZc2VqWDZUUjdfdjQxYUN1ejNLanFVejh3T2JtbUJwRXV5dnNlT19qbVdZSTVRMGdBcWFzcW5WVkFlR0M2MEJzbDE1R3BCUEhkS3J4Znc1aFZSLTNTWllCSTkxV0ZjdVZ3b2Z3SGo5RjRFc2I5Z2VPdG5zR29FejR4clFmdTV6TUx5X1VBQW9fdjVQR09idU4xRkk?oc=5",
+   "publishedAt": "2026-09-24T17:26:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T04:53:49+09:00"
+  },
+  {
+   "id": "0970beabc77e4365",
+   "title": "넷마블 블랙 잭 특수 심벌이 적용되지 않는 경우",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2JXazhhX1hhNTFubmpnMXZ2SndpTjZuWEpTTnBkWmFYR0d1ZUE3OFVnTjlNaGFsRkV4c0hQTlRqb09rU0ZiaXMzcUlLRlUzZHhzemllNDJLOG5GYWtQMnp5M2tTVUVYMkh5RHlqZ1BYTmZFdGF5WjVxekhGbk9OOTFCWTRhc3RZVDhiNjFON21sWFBQamp2ejZtNlVudw?oc=5",
+   "publishedAt": "2026-09-24T16:20:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T04:53:49+09:00"
   }
  ]
 };
