@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T19:24:45+09:00",
- "runCount": 2270,
+ "generatedAt": "2026-09-24T19:35:02+09:00",
+ "runCount": 2271,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T19:24:46+09:00"
+  "at": "2026-09-24T19:35:03+09:00"
  },
  "articles": [
   {
@@ -41124,6 +41124,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T18:53:53+09:00"
+  },
+  {
+   "id": "9a109622136c00f3",
+   "title": "토르 슬롯 보너스 기능의 시작과 끝",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUFczOEsyOWM0Wk5IejZrMnRLRlpPOVZJSFJlQjhiRE9JMmNvV08yQmwtLWdCcDNUd05zX1RDS2VmbUJEcnBVSjFFYUFmMmxpNjA5TmlRY09TbTNSMHR0ZE1SQ2pIZU5BU0p1WUhnNjRRLXR4ckRPTWxuWjBSNjVNUi1lMmhqSlVUSXA3VkxVb2x2YXdaN0lrWEhVckVnYWRqMVNmaXRSU2xBa1lSeDZELWZ0Wmg3cGxSc0pKMjBCdmlVU3NRT1F5OFRvVURnSDd6aGtBYl9pWQ?oc=5",
+   "publishedAt": "2026-09-24T16:39:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T19:35:02+09:00"
   }
  ]
 };
