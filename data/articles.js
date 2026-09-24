@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T05:24:37+09:00",
- "runCount": 2327,
+ "generatedAt": "2026-09-25T05:34:52+09:00",
+ "runCount": 2328,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T05:24:37+09:00"
+  "at": "2026-09-25T05:34:52+09:00"
  },
  "articles": [
   {
@@ -41453,6 +41453,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T04:53:49+09:00"
+  },
+  {
+   "id": "cf3576bc87284db9",
+   "title": "게임 흐름을 그림처럼 따라가는 토토 브라우저 업데이트",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OV3hWNnBTLWtXMkZDQXRvanBZYUJBZmZjaWNLNnBMcE5NMmlZbl9xVG5remJBZWVLbTFHaDVNa3AxSlYtZXBJU2NodWJwbDA2djBLWWdKN2dsWjd0eUJiM3o2b3phYUZvdjBhbmVEaw?oc=5",
+   "publishedAt": "2026-09-24T22:32:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T05:34:52+09:00"
   }
  ]
 };
