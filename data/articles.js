@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T06:37:25+09:00",
- "runCount": 2334,
+ "generatedAt": "2026-09-25T06:47:42+09:00",
+ "runCount": 2335,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T06:37:26+09:00"
+  "at": "2026-09-25T06:47:42+09:00"
  },
  "articles": [
   {
@@ -41522,6 +41522,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T06:37:25+09:00"
+  },
+  {
+   "id": "2e0aaa6907cb27fa",
+   "title": "\"카카오, 목표가 5.3만↓…인적분할 실행 관건\"-IBK",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vaV9VSDVVNmI2cEtTYmZOUVcwTWdwNlYxYzhmODVWNnlNX0tDcEsxckZlNGNWZlV4YXl5YjJBbmpWUy1iMkxaQ21nT0V5cHpRczYtR2RULXlteG9J?oc=5",
+   "publishedAt": "2026-09-21T08:21:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T06:47:42+09:00"
   }
  ]
 };
