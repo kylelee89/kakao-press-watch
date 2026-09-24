@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T11:00:17+09:00",
- "runCount": 2222,
+ "generatedAt": "2026-09-24T11:10:32+09:00",
+ "runCount": 2223,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T11:00:17+09:00"
+  "at": "2026-09-24T11:10:33+09:00"
  },
  "articles": [
   {
@@ -40834,6 +40834,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T09:14:50+09:00"
+  },
+  {
+   "id": "9a6256fe4ebc9ce6",
+   "title": "플레이 화면 한 장으로 이해하는 베트남 카지노 회사 구성",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUp1RExSbTVjV21pZzFWS0FzQkZFUlk3NF9XQ0YwRnoxeXZtb0pVT0Z4c08zR2ZzSGxNNW4zUzBPOTQyb2JUYU1NcGhPWGxhZlpUbEtWZFpCeE14VHE4RjJJd0lUZ2s0Y2piNUtRM0hmM3VTajJ2UkRNcER0RnRtbGZGcnI?oc=5",
+   "publishedAt": "2026-09-22T14:37:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T11:10:32+09:00"
   }
  ]
 };
