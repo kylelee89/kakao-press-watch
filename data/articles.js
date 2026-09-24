@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T09:04:34+09:00",
- "runCount": 2211,
+ "generatedAt": "2026-09-24T09:14:50+09:00",
+ "runCount": 2212,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T09:04:35+09:00"
+  "at": "2026-09-24T09:14:51+09:00"
  },
  "articles": [
   {
@@ -40771,6 +40771,69 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T06:56:49+09:00"
+  },
+  {
+   "id": "493330e8887eb5b5",
+   "title": "선택한 설정을 되돌리는 인증 토토 사이트 제로 옵션 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcXRnX3dZbi1yMWY5U0tEQjVjalZwd1lrN2NOZ2hTOTFDdlhhdjVOVmx5czM0VG95bEJNSDFiSFdFU2xsU2p3STRTbW5BekdmOFp2T3QweTVsZ05EeTB6LTFKdTJ1WFZ0RFE2eDFNY2xRZ1VwenNRemRtS2xObGlPZDF3aVM0Q2w1UWlTVGxwLTZ4OWFKbFo2Qmo3V3phQUlOOThLSlprOWVkYUxFSnBBbzlnLWx2akxpalkwaExraFJBNmNOd2VVYlF0WHJkYnJX?oc=5",
+   "publishedAt": "2026-09-22T10:45:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T09:14:50+09:00"
+  },
+  {
+   "id": "e5a97ee98f21125e",
+   "title": "포니 소개 이미지에서 확인할 요소",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWFMZWlFUmNpTThnNi16RzNIeFU4YUJyYzJuNWJTQkh5RTlrSTJrcnl3V25BT0VWeTBVU2Y3LWlNX1N0LTdiNFBEcUgzUkNUM1FYWi1NZWtzdW9aLWpHcnhabzZlNWttd0ZCTEN5UlMzQW5jNHA5VkhuT1hYNmtTeGgxTzJ3ZEQ2dGRXZ3YtVXhSUzdZRlBpMnJUY3FGRHY3dmwtZXJHQl84ektIdjd4MFRYQlJvc0Q0TWNOYm1CdVZqZjU1TDdRUkJvOE1NOFp1bFpOSVFB?oc=5",
+   "publishedAt": "2026-09-22T06:14:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T09:14:50+09:00"
+  },
+  {
+   "id": "2003f678b5e89e40",
+   "title": "악어룰렛 원리 재접속 후 확인해야 할 진행 상태",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3ZlZTBJWjMzU2JjeXZLTExmRThOSUxQb2hLU09GNHFaTnRkTzJjMURpYXh3bnVYSmxNNWxyNE9lTVBjOHM3Vmo2NlFUQ0lPazJKdmkxdGVnVkQ5d01qdXl6dTRjU0dFa3lVSHNWS3hxLTl6aWJlMkdBNWVJN3Q0aFBxbEU3RGZER1ppV3MzUm5YM241TGc?oc=5",
+   "publishedAt": "2026-09-24T01:39:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T09:14:50+09:00"
   }
  ]
 };
