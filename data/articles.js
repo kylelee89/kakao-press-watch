@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T00:40:39+09:00",
- "runCount": 2300,
+ "generatedAt": "2026-09-25T00:51:52+09:00",
+ "runCount": 2301,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T00:40:40+09:00"
+  "at": "2026-09-25T00:51:52+09:00"
  },
  "articles": [
   {
@@ -41302,6 +41302,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T00:08:52+09:00"
+  },
+  {
+   "id": "257b70dd69ee1181",
+   "title": "화면 중앙에 집중해서 보는 레드 카펫 토토 릴 영역",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlhQRDg0Sm5wX2lTN051ajlscnhXVGhIaUJIN3ZHT3h6d3NBUHFUbUtkQ0xXMl9WN3g4eGVBbEZXME1VY1N3Qlo1NG8yY0prMEJvRTBITmFmT2NrWV9kUmh6dEpDS2xad2d6ZDl3emYyY3o5RnljbFhKa0M4c2VhUm11NV83WFRub0d2V3oxWlBUd0JSWktoWF8tQjVMSzNGeF9XdE9ZN3dZVDNaR1lWOUNZbkZXU0d3QWdFenFtRWU3U2cxRzd6YWdZRGNmSXVUQzNPWEFCYmpfMHBCUWVHczFfUFBOMXlhVEg2aXFHZExmZnExRUZrNlJ6WTBRdVc0Z3U4UUVZWjc5STMybUww?oc=5",
+   "publishedAt": "2026-09-24T08:44:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T00:51:52+09:00"
   }
  ]
 };
