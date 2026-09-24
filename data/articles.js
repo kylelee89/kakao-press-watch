@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T22:45:40+09:00",
- "runCount": 2289,
+ "generatedAt": "2026-09-24T22:55:56+09:00",
+ "runCount": 2290,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T22:45:41+09:00"
+  "at": "2026-09-24T22:55:57+09:00"
  },
  "articles": [
   {
@@ -41189,6 +41189,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T22:45:40+09:00"
+  },
+  {
+   "id": "65ae72055cfa9e07",
+   "title": "어떤 심벌이 특별한지 찾는 일본 파칭코 룰렛 화면 단서",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWh5VWlfcFZweTJuMTYySGxtVmxPM0ZLY2UyUWRIWDRMV3paZ0RzemEzcWVjRmN2MjU4b25GWnRycmQxQzg2UGJNQzl6d24wekF3VmVHS1p5SW1KMUVoU01Sb2VRY0RyeDNZT3FRYkZmWWFKX19EZFd0MGxmcE9PMzlZVE5GU1lReTRXek5SMi1lYUpFS21VMTJqV2lTTF9CUmtBSEFPcHc?oc=5",
+   "publishedAt": "2026-09-24T14:28:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T22:55:56+09:00"
   }
  ]
 };
