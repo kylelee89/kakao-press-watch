@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T05:55:25+09:00",
- "runCount": 2330,
+ "generatedAt": "2026-09-25T06:05:40+09:00",
+ "runCount": 2331,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T05:55:25+09:00"
+  "at": "2026-09-25T06:05:41+09:00"
  },
  "articles": [
   {
@@ -41474,6 +41474,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T05:34:52+09:00"
+  },
+  {
+   "id": "712479beb8906236",
+   "title": "'81억 보상' 논란에 '인적분할'까지…카카오뱅크 노조 \"전면파업\" 예고 [지금이슈]",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kekh0VVZTR042OVdiNjlkbVpSTkc4RGxDZ1JuRlBDYk5RR0QyY3FqOVlQWVdEQzlOTFNnNjVRSzdxQjRkMEpsOEdNeTVuUQ?oc=5",
+   "publishedAt": "2026-08-26T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T06:05:40+09:00"
   }
  ]
 };
