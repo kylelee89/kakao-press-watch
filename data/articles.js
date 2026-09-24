@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T12:33:38+09:00",
- "runCount": 2231,
+ "generatedAt": "2026-09-24T12:43:53+09:00",
+ "runCount": 2232,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T12:33:39+09:00"
+  "at": "2026-09-24T12:43:54+09:00"
  },
  "articles": [
   {
@@ -40855,6 +40855,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T11:10:32+09:00"
+  },
+  {
+   "id": "1cd693cc80cb8bc8",
+   "title": "카카오, 소액주주에 인적분할 청사진 제시",
+   "outlet": "리얼뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pbE5IdGZWNnZtVXFabEp2US1sWGRUOEhhZ0tWN092eUhfNWl4R0FZWGJuMndFeUZ5TExUSmxXZEpTcUU3eUUwRjRhbDJrdDA1X2kxTndZSnJYQUw5ZmdiaDJWRm1zcXRGWHJkaw?oc=5",
+   "publishedAt": "2026-09-23T11:38:51+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-24T12:43:53+09:00"
+  },
+  {
+   "id": "46127c801137d30c",
+   "title": "처음 접하는 기능을 하나씩 읽는 메이드 토토 사이트 입문 해설",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPbXBvSFV5WkhCR3BReVcyOFBBdkctM2VHX0NQS09BWFZvR2U5emV1NTFCb0lUak5sTG1OLW9HNnRseTZONjk2dldWMm5aLWVmU2RscHNNTVViZklqMFVRMGl6b19Eak41QzQzUXdWQ3dRdFhVSDZob3k0T01rekFRTVV0a3RRMUFTSTVVaHdZT2dCMDdnYlpuVkdpLXVZdnE4RnYzMHRlWmppXy1kbktzWFktcDRNem9MY2U0b0kwbV9MTERZVC1hMGdMX0xzNG5ReXBoZUN2R1NQaFZaYkNsV29SNXg2ZDdQMG9oNjg1RVhKa1NFcTdnTUxqc3M2ZGlieWk4TTFGbXIyTjFwcGVWaXo2S2ZGRU9jR1RnZFo5dEkxX3FuRF9zV1dDaGFrZEJKdS1xNFZHcUVhRW8?oc=5",
+   "publishedAt": "2026-09-20T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T12:43:53+09:00"
   }
  ]
 };
