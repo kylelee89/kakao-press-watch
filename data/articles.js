@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T13:47:22+09:00",
- "runCount": 2238,
+ "generatedAt": "2026-09-24T13:57:38+09:00",
+ "runCount": 2239,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T13:47:23+09:00"
+  "at": "2026-09-24T13:57:38+09:00"
  },
  "articles": [
   {
@@ -40945,6 +40945,28 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T13:37:05+09:00"
+  },
+  {
+   "id": "ac211b9519ecf4b8",
+   "title": "[속보] 檢, ‘SM 주가조작 의혹’ 카카오 김범수에 2심서 징역 15년 구형 - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHd0M01GLVE5VGt0REcwenoxamY0d0hGZS1yYWZTWUkxd19rZU9abzlNOGIwdHg4X0NYekZsRWJNV1hsOG52ZFFaZHI4UTNYbkxWRnU5a0MyenRsMmgtV1dKSG4zNWpsR0pMZzBFeFhKUDBMQnFDQ0RkajA1TXRvN01PMNIBlwFBVV95cUxPN3lwblZCMVlwQXVpYkRqSlRncGtxLXRFUnlKMUlkVk5YRnV5T1JIMWpXTVlxVzlqV3BDVVpRQ19QbG5pUm1wX1l4bVUyV3p4dGtsVWZLTDh4dGJhdllqZXZaaU1PdkdXRlNpR2k2TWdlMUZRRHBCalBQN1doWmhZb2lTRFlHdUhCbGYzaDNNczZzaERfV2xV?oc=5",
+   "publishedAt": "2026-09-23T15:29:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T13:57:38+09:00"
   }
  ]
 };
