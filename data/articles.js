@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T23:58:35+09:00",
- "runCount": 2296,
+ "generatedAt": "2026-09-25T00:08:52+09:00",
+ "runCount": 2297,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T23:58:36+09:00"
+  "at": "2026-09-25T00:08:53+09:00"
  },
  "articles": [
   {
@@ -41256,6 +41256,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T23:27:45+09:00"
+  },
+  {
+   "id": "97d2a4ef98ee0fd0",
+   "title": "메뉴를 닫으면 진행이 이어지나요? 베트남 카지노 라이센스 도움말",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQmM1QmE0TUpXX2lodjJtM1dIaHRDRTZMMHNVMWRab2VhSnA4RXB3T1JhLXRXVEpBQnZtRmt4cmtDbE9OQ3VoWXpRdkptVDBtbkplRVJkZm1ydDQ4N0kzZTV3MTZrdjB4UDY4ZjNabXB5blJXSlhzcUstNU5MeF9lVG5KYUtFQ1hOaENTNVV1MkctNHluVWdfS0Eza2dUNkN5T2FnaEFiOVlxYjl0RGFkSjFJZHpSRmRReUVSRFBMT1pSUnJ6LUdDOVpmbUFwaEJENWpwRWQ0SWVENElUZEdmWEc4VEc1RHBaMnVsdQ?oc=5",
+   "publishedAt": "2026-09-24T19:34:06+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T00:08:52+09:00"
+  },
+  {
+   "id": "19cd94a9192a034c",
+   "title": "특수 기능의 이름보다 중요한 토토로의 숲 힐링카페 발동 조건",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQWc4SEk2NHhLQm4tVXVGNWh5MDJWQy1ZTFAycUQ2aFhCWkJrUWJ2bkdWSVFSR1BhbWh2OE9qYUo2VmZNWktfeXB6b2F2MVBHQ2Mwa3NfQWlSSGtYN3ZNQkx0eW5TR05rUGF2Z1NvTFRyLVFtUTZrR0RzMVdDellYcDFPRUpZQ3Zwc3ExLTdFZ3ZQWHFhaWdwS0dMYUFlUzlfVlVCemlpZHJPZDNPN0RpZXlkZ1Vha2NMTnFnaEZLZ3hWSml4dnkwcw?oc=5",
+   "publishedAt": "2026-09-24T20:27:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T00:08:52+09:00"
   }
  ]
 };
