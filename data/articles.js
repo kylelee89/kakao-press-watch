@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-24T14:40:36+09:00",
- "runCount": 2243,
+ "generatedAt": "2026-09-24T14:51:46+09:00",
+ "runCount": 2244,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-24T14:40:36+09:00"
+  "at": "2026-09-24T14:51:46+09:00"
  },
  "articles": [
   {
@@ -40967,6 +40967,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-24T13:57:38+09:00"
+  },
+  {
+   "id": "1110dd85df0480de",
+   "title": "용어보다 화면 예시가 편한 분을 위한 류두영경마",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXpnZDhpSU5RSEYzQ0lBRjBOQm5sdncxVnlsX3BGNldjaDJrMVBOVDN0WnU5UlFCWVFFOWd3a3BMZ3ZPeVRsQ1J5dkhUdWNtbkJPSEQ1WWF1LWgtYkU1M3RXRTRzaDFhSVk5c1N5QkFfUWx5TzNZaUlLX2p6SVZVZ2ZHakZ3NElpa213dkFqbDdVX2FRbkVBdlcxVzVtTGxUQm1ObkRqX0tSYmk0aS1JOV9fcDBINWd5eG1XRmk5eVBlRjEtTm82M3pR?oc=5",
+   "publishedAt": "2026-09-17T17:16:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-24T14:51:46+09:00"
+  },
+  {
+   "id": "5d71e4b3c33c1027",
+   "title": "\"인적 분할, 최대 주주 지배력 강화 목적 아냐\"…소액주주 달랜 카카오",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yUEdCYktMMThwZ1A5RXB3aGVlSFI4TlZabUVsNGtqeEh6QmFLc0E3b2JGUVRMZXVlckNweXUzUnpxLWdPbDRCM1BiZDBidHNpbUlNMVF0WDlPYkhs?oc=5",
+   "publishedAt": "2026-09-16T18:30:21+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-09-24T14:51:46+09:00"
   }
  ]
 };
