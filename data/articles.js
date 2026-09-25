@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T12:25:42+09:00",
- "runCount": 2367,
+ "generatedAt": "2026-09-25T12:35:58+09:00",
+ "runCount": 2368,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T12:25:42+09:00"
+  "at": "2026-09-25T12:35:59+09:00"
  },
  "articles": [
   {
@@ -41820,6 +41820,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T11:53:03+09:00"
+  },
+  {
+   "id": "9a21b5c33213d916",
+   "title": "화면에 표시된 단어부터 시작하는 캐릭터 슬롯 증가 쿠폰 연속",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYnowazNDT1F3a05naFRyb0lrM0dZck9NMmttb3Eyenk1N0hPX284T1IwOVlSN0dreXFXbDdOeDBMNzhpOVhYNEh4ZnRjN2ZXbjQ2dDVEbE44aUZmX3BlOFhQTy1YNGtZUGYybDA1QXVVNjdzTjNKNDkzZ1V3TzhkeVpIbzdOUVFDX3g1LTdUX3k1Ty0tWG04TXdaUWRqVndtRUtwY3gyZ21Ed3pHSmtqREpiU1hOV3N3VklvamhrOXhDeG1FNC1YRWZ5eDU4UXRpTG1NT19nNXItcGluUkVGcmVxRmxNaTBaWWJZ?oc=5",
+   "publishedAt": "2026-09-25T06:27:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T12:35:58+09:00"
   }
  ]
 };
