@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T17:30:35+09:00",
- "runCount": 2396,
+ "generatedAt": "2026-09-25T17:40:53+09:00",
+ "runCount": 2397,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T17:30:36+09:00"
+  "at": "2026-09-25T17:40:53+09:00"
  },
  "articles": [
   {
@@ -42200,6 +42200,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T17:09:59+09:00"
+  },
+  {
+   "id": "c8f87671894f0a46",
+   "title": "한글과 영문 용어를 함께 읽는 이웃집 토토로 배경화면 참고 자료",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeFhWU3RhdXUwblZWWEZMcmZ3M0NaYUw1RHFjSHF3TDB3Z1J3Qml1NWx4ZGs0VkpFZVZCNXQ1UVNkSjRmXzMxWGVWVnhJRkY0Sm8wTVJZYXNRN2pvbXNjWXVCZTl1aWgtdThydFowNkNsUWVGLW93S2Z6NDJyaU9ocFFjV1ZuS2JBdXhVWnF2MHR0bzUyRlY1QmhSSThxN0l0LXVxcEtzVFNiVzBpc29OVzlhZ1k2VnE1ZGFkTWdaN2JRYW91cHN3TDNHcktRQkdNNmc?oc=5",
+   "publishedAt": "2026-09-25T08:36:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T17:40:53+09:00"
   }
  ]
 };
