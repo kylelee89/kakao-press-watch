@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T16:27:51+09:00",
- "runCount": 2390,
+ "generatedAt": "2026-09-25T16:38:09+09:00",
+ "runCount": 2391,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T16:27:52+09:00"
+  "at": "2026-09-25T16:38:10+09:00"
  },
  "articles": [
   {
@@ -42024,6 +42024,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-25T15:46:46+09:00"
+  },
+  {
+   "id": "8d60cfef30111dc3",
+   "title": "게임 내 설명서를 읽는 미니 바카라 초보자 코스",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUnMtQW5ZTEs4NmhzekVBdjlsd0ZwOHBTdFE4UmxzZmstNlc4ZnFPOGZ5UmJ2SDBpRkJCbVJWaElLVjdZeTdOLWdLajVOV3ZiQ2Q3R3VNOWt6VXhFZjdCY29va3dUZUNXMWZhT0JldUlPU19tQWZRelBIR1B5aUtiNm4zQkR1NjZjTU03NUs5SlEzcTBYeHFGRWFCSFJZbTB2X0ktMHhLRTF3U0Rsc01n?oc=5",
+   "publishedAt": "2026-09-25T07:39:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T16:38:09+09:00"
   }
  ]
 };
