@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T20:44:17+09:00",
- "runCount": 2414,
+ "generatedAt": "2026-09-25T20:54:35+09:00",
+ "runCount": 2415,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T20:44:18+09:00"
+  "at": "2026-09-25T20:54:35+09:00"
  },
  "articles": [
   {
@@ -42489,6 +42489,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T20:44:17+09:00"
+  },
+  {
+   "id": "59b55ca6517e8060",
+   "title": "처음 마주치는 안내 화면을 설명하는 슬롯 게임 꽁 머니",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcDBtZ2huRTA4SzlvRHVlczN5V2djM0NER0laUTZ0bVlUS0lYdktDUllPZTFFM3ZRajNTOXY0TXRlVDVyMUFoRVlUUDdqNkd0WWRFWVhOMm15enNpZ2RENWN3S0Vxa0ZKZm9wYnJacldXVGNubE5fRnE5dmdfdjJRdTRucjc2Sk01d2c?oc=5",
+   "publishedAt": "2026-09-20T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T20:54:35+09:00"
   }
  ]
 };
