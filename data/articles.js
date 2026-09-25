@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T09:26:15+09:00",
- "runCount": 2350,
+ "generatedAt": "2026-09-25T09:36:30+09:00",
+ "runCount": 2351,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T09:26:16+09:00"
+  "at": "2026-09-25T09:36:31+09:00"
  },
  "articles": [
   {
@@ -41587,6 +41587,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T09:15:59+09:00"
+  },
+  {
+   "id": "4470d30145b5e232",
+   "title": "배당선 방식인지 확인하는 베스트 캡 토토 구조 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOT3YtX1QwbzhJeUtSQktSR25FalRYRWdmUnRBdU4xbkxQQ0ozRnBKeDRabnpoc053NW1vTVEwRzZSblVoVG9DVWxZb0JOWnFYeWVXWjFISGlvNHRBNzhjM09haTRGWHJYMGFMTXc2X0puLXBJRnJjd0VRdG16WDdnemFEZ0NRVGJTaU43bVJmcWZzNUFLTlBSd01peG4yY1YwZW1Cbi10OGhGT3ZZVlhHN0UzNUR2RHU1SmQ2cnhGUHVZMVluYnFCWTdRWndYOWY0WGQ4alhHcktQd2VMRG9maUJFQVc2bElvQ0ZYWGJxdmw1UXVFMUhrM3UtMXFhS1V6ZHYxZWpxckR1Q1R6SVh4NjMyTEhqNG02X0oza3NVOE5wc2NLYV9wcjJCWkVVcXZQd1YwUEN4RkdkTEN4NEdLMGhhak03aHNsQy05Q0M5RWlwTU9qV0hfdko4QVFJRTI1U2lNQjZMM3BEaUdvMThrWW0wYko?oc=5",
+   "publishedAt": "2026-09-25T04:03:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T09:36:30+09:00"
   }
  ]
 };
