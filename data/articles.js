@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T14:32:51+09:00",
- "runCount": 2379,
+ "generatedAt": "2026-09-25T14:43:07+09:00",
+ "runCount": 2380,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T14:32:51+09:00"
+  "at": "2026-09-25T14:43:07+09:00"
  },
  "articles": [
   {
@@ -41887,6 +41887,96 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-25T13:50:44+09:00"
+  },
+  {
+   "id": "de95f5c56aa7e038",
+   "title": "게임 설명에 나온 배수의 기준을 찾는 슬롯나라 사이트",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWxrWWlCZUxZajNRdjRicWVpTWRkWUJfS3BFYzRfZFBkR1dUWjdPN2MzczRCQ0wtZ29zUHV1Nk90UjhybThXSjNMLXhYbjRZanNjWm1ISDRRZzVNUjQ5TG1qc2x6ZEZwa3lnVFROQjJ0V0U3QjV0aUt3XzhVcjMwbWYwRF80TjB0bmtJM21sNW95aEo0NFlxU2tn?oc=5",
+   "publishedAt": "2026-09-25T06:33:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T14:43:07+09:00"
+  },
+  {
+   "id": "23e8e17c2b45d7da",
+   "title": "[특징주] 회사 또 쪼개는 카카오...거래정지 해제 후 -12%대로 추가 급락",
+   "outlet": "오피니언뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLZHNmS0dtdFNzLWotMm1WZF9QOGx1OUQ0R3E1cFFuNFJTaThfMXlzSEVMVU9VNExoVnNyTXhRa1c2bk5hUnMtenJSWElSc2ozUnQ1S0VOdFAyQjQtYmpKNUw4aW1XVUdLaE1BZy00dmg0UQ?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -5.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:급락",
+    "적대어:또 쪼개"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "급락",
+     "또 쪼개"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T14:43:07+09:00"
+  },
+  {
+   "id": "c0f96c302f028cff",
+   "title": "오즈윈 카지노 이용 시간 알림 기능 확인",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbEZnN2NPbnVJbjh4bmloYmRsUzB5cExTTWx3bC1xM0VOQnNBVy10MGJpSjRNSEw1WHpMSDlOVWFfRXBwMnliYy04X0VPcUxWMnRhRVRxdEtwQlVGeWJRS1F4d3czMlYxczJnSklMMDYzNTR4ZkdGcGZYSTBjZzdaV1FLbm1zWndMRHVUNHFibC1qTEQyUlRDY1gyQjlUOGdTY2NCemtvT1hKcXhLeUVTS1QzQkllUlRxSkIyeEMyZ1FOVTlXM2R0Mm5RQUxISFUzUWlmdkFsN0VDSTItT0RobnI5MUdFNDZfRDlSVUpBNk5VSkgzQXV1SHdyb1NqUTBYTFRZY3V3RkVKb2pRd0pQZDJjM2lTYXBHV2ZUallCWnpoMkFXQko5alVNQVhyVERQM1JtZGVZRURvOWlQSS13V1drcGNTNzBDRVV1U0p3SEE5eUpa?oc=5",
+   "publishedAt": "2026-09-23T23:01:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T14:43:07+09:00"
+  },
+  {
+   "id": "1d62632cd37c9256",
+   "title": "브롤러 룰렛 심벌 설명 페이지의 읽는 순서",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT05QMWhudXFwRnpreF8zXzNzTUJ0Q3JsbnJob21zaXdHMDRXeXNZbEc5VlB2SlBqakJQQy1CVzNVdV84SzBZeG1JMmhteC1lSFVZMEY5dGRodWt0R0FRMzVWZUVUWDZuUFNIZk14ZGw5d3ZuQzQ3VTZobnJEZDVsUUIzUmJPdHRwYnNGek11X1pFNnU5VnRMLUJtWVVaOVRRTjdsTmh0NlExZHkzOXR3YXpxT2ZjOWxjZ09LbUpTaWttV0ExbjIwbVhkWFdwVWtXRnhoY0p5UnFtUmlydEJrN1BCdVpxa3htb19pdFJ5bGJLYjJj?oc=5",
+   "publishedAt": "2026-09-23T08:11:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T14:43:07+09:00"
   }
  ]
 };
