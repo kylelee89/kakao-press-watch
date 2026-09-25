@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T13:40:27+09:00",
- "runCount": 2374,
+ "generatedAt": "2026-09-25T13:50:44+09:00",
+ "runCount": 2375,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T13:40:28+09:00"
+  "at": "2026-09-25T13:50:45+09:00"
  },
  "articles": [
   {
@@ -41862,6 +41862,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T13:30:08+09:00"
+  },
+  {
+   "id": "96292638bdafe206",
+   "title": "초보자가 이해하기 쉬운 몰디브 바둑이 먹튀 판정 예시",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNajNCRzhUYklDRTVLcWNIMzhlV1U1SC1veGN0X192Yzl6WkxrY1NScmpQRE1HZEp4VG5nclFoV0drZ0cxdUc1VkNsU0ZLdld1ZEdsVUNKUXBreV9GRlpjWEQtSWduOF8wV0JzSV9rZVpvcE1oaThqSWFRM3E5OEJTZVF6Y0ZLQTlaQVdvclBBenlwc3JlOXVuR2hMSDVKNHJxOWlOWnQ5bEhsa05oQjlmZWw0MFN3UWtSVXUtNXBvRHRUSGZETE5zcFRBSU9tM2NzcXVwWk5xRHBveGZyeGNCTDl2VTFOcnp4RTZGTzBtQWVGeTEtT3Q5dF9mbnc1bGlCbFhaaHhFbE5wMVk?oc=5",
+   "publishedAt": "2026-09-24T21:59:28+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:먹튀"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "먹튀"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T13:50:44+09:00"
   }
  ]
 };
