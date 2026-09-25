@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T23:42:54+09:00",
- "runCount": 2431,
+ "generatedAt": "2026-09-25T23:53:12+09:00",
+ "runCount": 2432,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T23:42:54+09:00"
+  "at": "2026-09-25T23:53:12+09:00"
  },
  "articles": [
   {
@@ -42636,6 +42636,69 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T23:22:20+09:00"
+  },
+  {
+   "id": "8bba13b2a951e324",
+   "title": "여러 창을 열었을 때 주의할 바카라 끊는 법 디시 이용 상태",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFBMbHZpamtWVlFrSmZGQTJBNmpjTkRhS1I4aFBzcTZGdXczVzBuMlNpMkNVNHlXZFg3R2pYZTZ3MDlHV2VLSFA4RDlvYmd2OGxVSWtYOU9rNG03RGJkRzcyZEJ1TXdRc0pWd0Y4OUJuVnY4aW5DYWdKNEZYMkQyOGVXRHVZeGk1S1FFT3N0R0tGSFU1czBYdXBEX3hNV0JhZlVFZ0xiTGpnTWJEZ3FaeWZaV3BHWW82dmFDQXdxSTVQZVV5MDhWdg?oc=5",
+   "publishedAt": "2026-09-25T19:11:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T23:53:12+09:00"
+  },
+  {
+   "id": "80dbb715b192ae1f",
+   "title": "게임에 익숙해지기 위한 토토 인증업체 메뉴 둘러보기",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFJuRHhWV1VwRnJOdU5NcHFNWkpwWjBQR0tud2tzVU8zeE9mb0JhOVBCcVlGeGQzaEtQeFdBLWVSem43RDBodTV1WEFZTFYtcGs4Uy1hQ3JGaFlYaGNvbEdMVkZpS3NIY0ZqYjlZcERXRHhCd2dISXRxaXVRcWp0ejlXX2RhSXJzLWhQZnRMeDZUVi1KTFRSbDRxNEt4MHI3UGJhdUVLS0RqU0dhSXNVM0g3WnhuaEVYOTJqY0lzRkNSRjhUWmc?oc=5",
+   "publishedAt": "2026-09-25T12:10:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T23:53:12+09:00"
+  },
+  {
+   "id": "2cef361c5a3c3d81",
+   "title": "같은 기능도 이름이 달라지는 토토사이트추천 디시 용어 비교",
+   "outlet": "histoire-pour-tous.fr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZTlSTXVqZFJyTURia01KWnBPRENVZ2MwZEk2ZVhYeFJzMHBVYk81VmdvTzdvVWs2ZWdiLThVcXdTMXJ1V3h2eFJoTFNyQUlodEFQWEM0OEl1RGdXZTJsTmRKbXJuOWpHT0czejdxV0otZUxFbVN6X1BoNzUzeEJIWHB1bFJPeHlmRDEwNVgyMEhFOWhXemJwNndwUWI2bDZpSHhKeWF2UTBaVTJQSk9MY0VLXy1hUQ?oc=5",
+   "publishedAt": "2026-09-25T19:43:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T23:53:12+09:00"
   }
  ]
 };
