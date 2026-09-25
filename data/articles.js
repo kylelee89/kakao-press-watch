@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T21:37:41+09:00",
- "runCount": 2419,
+ "generatedAt": "2026-09-25T21:47:57+09:00",
+ "runCount": 2420,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T21:37:41+09:00"
+  "at": "2026-09-25T21:47:58+09:00"
  },
  "articles": [
   {
@@ -42594,6 +42594,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T21:37:41+09:00"
+  },
+  {
+   "id": "b8169bcf1b079d87",
+   "title": "에볼루션 카지노 딜러 도움말에 없는 항목 확인하기",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUEtQMk1aRG9rRXZaSHFiX1NUMnlIdnNXbGYwdXowTzVXaElzWFFqUXJVNG0yWGZ6MEFSeWdYOEtNcll0Vzh6YTI0bEIzaWNlM19SVVZKa2R2TjE4NHVNTGU4eXp4NWR6YmdaRVVIclgxakFDSFZkcXB0QU5EZ25vbEhBRldIUTNSYzkxZXZtbEJRSllfaHFuckdEQUcwdTMySjFiZlZTWUd4VV9mVU1ZNHdiYnoxSWd6LWJyb3hCdlNYa2lFaGhERzV0U3lucEE5d25mQm1PcTFWcGgtUWU4WUdNRjljLXVYQzJDSjR0RV8wMU1UVVczb2RfT0g5NER6anZQbjJKWjZ0bUdwbDg4VWVHT3gxNkNQMTEtQ3JQMFlOdGFqZVRrMExZWVVtR25lVlBscGlnWGxKNlgxbGpOejhjbFM5dw?oc=5",
+   "publishedAt": "2026-09-24T09:34:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T21:47:57+09:00"
   }
  ]
 };
