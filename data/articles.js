@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T03:23:40+09:00",
- "runCount": 2452,
+ "generatedAt": "2026-09-26T03:33:56+09:00",
+ "runCount": 2453,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T03:23:41+09:00"
+  "at": "2026-09-26T03:33:57+09:00"
  },
  "articles": [
   {
@@ -42888,6 +42888,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T03:23:40+09:00"
+  },
+  {
+   "id": "e887c868ecefcdf8",
+   "title": "현재 설정을 확인하고 시작하는 라이벌 스타 경마 트레이너 이용 순서",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2xPZ2UwTnhEWk1fMXFoV09GTlZ2NUhVWHBOUmpDa0Rxb3hEYjJxZXBxY25nQ1ZrcElhc3NlOFBOTjJLTGJNMFhCSkZreDRLMXpkSTN4SVdndkZQSThlUXhSd0VTeFZBQ194SURiVnc4WkNiUkFIeXBFRFVtekxlRWI0TS1rRHJMOV9FNnhiYVhZWXUwUnR5ampJN0hZWC1RdF9aVkZ0SnV3Sm9RSVJnQm5HQQ?oc=5",
+   "publishedAt": "2026-09-25T15:46:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T03:33:56+09:00"
   }
  ]
 };
