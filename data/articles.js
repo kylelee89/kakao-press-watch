@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T18:34:14+09:00",
- "runCount": 2402,
+ "generatedAt": "2026-09-25T18:45:30+09:00",
+ "runCount": 2403,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T18:34:15+09:00"
+  "at": "2026-09-25T18:45:30+09:00"
  },
  "articles": [
   {
@@ -42422,6 +42422,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T18:34:14+09:00"
+  },
+  {
+   "id": "7730431270df3939",
+   "title": "게임 기록 메뉴가 제공되는지 확인하는 토토 결제",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jdUpfd19aZF8yQVJSZzZIc3g4WEdjTWZHNVFZWFAtTHVFVDZnem5ta21SMmo2SlNvTUgtR21xbTF3SVhGUTcwNlhNUjNha3o2SDl6d2tVNXktdllzY2tQcFZwOFZGUWNPcFZHY0Nn?oc=5",
+   "publishedAt": "2026-09-24T16:58:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T18:45:30+09:00"
   }
  ]
 };
