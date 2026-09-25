@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T11:00:36+09:00",
- "runCount": 2359,
+ "generatedAt": "2026-09-25T11:10:52+09:00",
+ "runCount": 2360,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T11:00:37+09:00"
+  "at": "2026-09-25T11:10:53+09:00"
  },
  "articles": [
   {
@@ -41694,6 +41694,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T11:00:36+09:00"
+  },
+  {
+   "id": "9d38c848b00fc448",
+   "title": "입문 전에 알아둘 토토 사이트 이사비 제로 조작 범위",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTZVRFVRaEZUMzlGX211Y1NFWWd0M3ZxeGIySXR1WDU0d2hLTGo0RzYyUnYxTzBtRVhKamdUUU94V1lTQVNfQUJPQ3dwb0hLeU50ODNqckdfMVNJdkFta19PQ1BBYVBBSHJ3d2VrRi1MMDNUSXlZdC14UnRHMG5XWEpsWmVVN3lVRXpDZE8xY0lKNnFPUGktMEJ4ajhicGFYN2dZTnp6ZEhaR2VxTUJaZ29JZTFiQ2JEcno3NlhjQXc1dXdNZ1FrcFNuMnRHVkRIZ2NKa3BR?oc=5",
+   "publishedAt": "2026-09-25T01:26:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:10:52+09:00"
   }
  ]
 };
