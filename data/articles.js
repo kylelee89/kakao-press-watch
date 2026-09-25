@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T01:50:11+09:00",
- "runCount": 2443,
+ "generatedAt": "2026-09-26T02:00:30+09:00",
+ "runCount": 2444,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T01:50:12+09:00"
+  "at": "2026-09-26T02:00:30+09:00"
  },
  "articles": [
   {
@@ -42783,6 +42783,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T01:28:43+09:00"
+  },
+  {
+   "id": "6b0419e41d20e352",
+   "title": "윌리엄 힐 위험 무료 베팅 한국어 자산 배분의 파악: 원리, 방법 및 기술",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41R3RYV1JmYUdzaVNGUHlTUUxoUENYQ2Z6a3dRVGZMeDZsdTZQOWtjblVwMTRZR0ViZTQ2REs1UzV6bEVwNnE0NmZ4OUx5Q2h4eVNlOGN1c1NKazB6Wjd0YzBiN1Vqd1NES2c?oc=5",
+   "publishedAt": "2026-09-25T21:59:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T02:00:30+09:00"
+  },
+  {
+   "id": "a95d47ac07bc027e",
+   "title": "설정값과 결과값을 구별하는 슬롯 사이트 추천 뉴헤븐카지노메이저 숫자 읽기",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNR2VObEkwUm5scXUtT01jMGc0RENZaTZjanMwVVZrQmFLN0VheGw0alc3ZGM1cXkyWm1ueWFsWVJ1aURRSWpUUjdiZ0lBVkJlZFdOZmpaZ2pVQzJ3bFJXQWFCZl81bEMxTVpadjBxLTJsZDZQc2lMTDV1eVFCMnY4ZHF0RmFydW9OYl9IWXFPbFBKajZrckhhamxoOW81b0xrc2dPQTQtWmtvVmJDcFh1enVodU1SU3NxS19SbjZ5ZDlxRWhDNzNGM3RBa0U1R3QzaDNfbXY4LVlyd1pfVmtqQWI4SWpvWEVtVmpLNXJQWGVIZEhlcDViRGlmZ2I3U1ZqUDFvWmsxS3VSVFE4LTBXWUJuNW16NTR6Wmc?oc=5",
+   "publishedAt": "2026-09-25T20:22:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T02:00:30+09:00"
   }
  ]
 };
