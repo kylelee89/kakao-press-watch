@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T16:49:24+09:00",
- "runCount": 2392,
+ "generatedAt": "2026-09-25T16:59:43+09:00",
+ "runCount": 2393,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T16:49:25+09:00"
+  "at": "2026-09-25T16:59:43+09:00"
  },
  "articles": [
   {
@@ -42089,6 +42089,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T16:49:24+09:00"
+  },
+  {
+   "id": "f962e59e4c0d0a86",
+   "title": "전체 화면에서 메뉴가 숨겨지나요? 블랙잭 창작비화 디시",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNTTJBMlBTQnhST2h4ZjBWLWlDX3lGeU5Nek5ud3hVckJTOTh2YXJpSkNqdDZlSlpMdFVVbWdXcXBkbDFqeXhYZ0N3SDZ5Wlo2QWNrTDNkeDA1T1ZacWNnUW01OXRUREo2LWNQZmtMUkhYT3lTWEJDUWZIM0FVUnk5Rl9pSlFtNkl6MjJTemd6bnFPSzNQTEt1SGZkaGVmZDNRN2l2MG0xWnE3MGRwbHVmbktqTHh3LWNtLXlQS3VoQVJPUVQzTG1LTVdkNy1mb0FmWkhtUkRkYkhZVnhJYmVZelRiQlpla18tSUwyUjV6ZlBnbktiOTV0ZjlQTnFXdi0wMzZoZHVyOTMzZzQ0WGg5MXVrZ0JVRkFMaTZCZHRUWlM0dUJLZjJnRw?oc=5",
+   "publishedAt": "2026-09-25T14:37:33+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T16:59:43+09:00"
+  },
+  {
+   "id": "cf5efe06c6a5bcb8",
+   "title": "게임 중 회전 잠금이 필요한지 보는 이태원 토토가 모바일 정보",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQk1nZlN6M0lCZGVDQVQ1bDRFQ3d6RG9HNENaMnpVVEdlcWNhb3dhLXJLVW1mZGdka21YczYwRlJvSm56dEdJNXNFOVVNZXpKUHFwSjBnSzRqdl9uN29xQWdhNzZpRnRlVzhYVFowNmZLdWNVTllUMC03THotTndjWG1Tc2RXaFFCMUw0Q2gxMkVCb19EM09pQTNtTkE3T3hTYUFBdC1BNHNTaGRmdnYwWU03RGludFlSTHRYVmlBR1c3dGhiT2FUZHA0NldUUDdsdDlaeXlmNkNyTjJJZWpmTkpMOE5qanhDZGlkWjE2Zzc1Mm5PT2N3MC1Yaw?oc=5",
+   "publishedAt": "2026-09-25T06:19:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T16:59:43+09:00"
+  },
+  {
+   "id": "d98a7c97ea326011",
+   "title": "마작 ai 프로그램 배당선 표시 켜기 기능 확인",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2pfOWUza0VHaUpxdWxHY0hOQ0FkSGhnbFhjeXZpRG1jYUpWa3dDQlFmRnRSZHdTQjFYUTI0Mkl4R0NSbFRnaTVPOV9XWGQxd3lSUXRSTVV6OHlYN1k1OHlOYW12QTc2MnhNMXZUNHJQR0pmNm1IVWJiTVFJRldRamZYdllkUURLSWJYbkVJdXNZUWVrMGl4MnIyU2E1NVZLWjl0dExzbTdONlAzRnZQN1RLUnREcGdEc0lJR21xaVRuWHNDZFBr?oc=5",
+   "publishedAt": "2026-09-25T13:00:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T16:59:43+09:00"
   }
  ]
 };
