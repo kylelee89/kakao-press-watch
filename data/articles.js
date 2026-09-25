@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T03:56:20+09:00",
- "runCount": 2455,
+ "generatedAt": "2026-09-26T04:06:37+09:00",
+ "runCount": 2456,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T03:56:21+09:00"
+  "at": "2026-09-26T04:06:37+09:00"
  },
  "articles": [
   {
@@ -42909,6 +42909,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T03:33:56+09:00"
+  },
+  {
+   "id": "c9020261f74b43a5",
+   "title": "한 판이 끝나는 기준은? 바카라bj 진행 규칙",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcVk1cEVkVDhtNWQ0eGFBTzU5YnhudjdqYU9TcVFKRjRaUUJhZXU3X3c4c3lORFUwQm9lWUZmbW1BUVBLYVB5ZVdFU3hDcWVjS1FMdjNwcTB4eWNDSWJEM1MyYXJ5WExqWWV6b2J5VU5Vc0ozbERGZ3NZQ3Jrc1RTWFNFT0o2MlpzWHdSTFkzZENIWlV3bEpmaC0wNXkxYUlpNm4tOTR3OGs1anB5SDQ5QncwU0J2aUxkTWtoRzVXMVFvNVRMc0VBOGpEWGp5R0NxVzg5UUZVZEJiaWJmUnJvWFhaMDBWc2VnZEJjQ1JLQmNvTTRMeDhwMQ?oc=5",
+   "publishedAt": "2026-09-25T05:29:32+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-26T04:06:37+09:00"
   }
  ]
 };
