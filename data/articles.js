@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T18:12:41+09:00",
- "runCount": 2400,
+ "generatedAt": "2026-09-25T18:23:54+09:00",
+ "runCount": 2401,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T18:12:42+09:00"
+  "at": "2026-09-25T18:23:54+09:00"
  },
  "articles": [
   {
@@ -42242,6 +42242,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T18:12:41+09:00"
+  },
+  {
+   "id": "c38a703690e8d341",
+   "title": "주주보호 위해 카카오모빌리티 ADR 막은 카카오…인적분할 주총 앞두고 설득 총력",
+   "outlet": "이코노미트리뷴",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BX1dZTGJuWTRiT1FFaG1WdlZILS1YMVBTa1pycW1DLVlqN1p5cXlTRmRjdjF6OWJyZzQyclJfaElrSzRNZmk3aG5md2Q5aF9vZlpNYXJiU0d3MTBycW5hdFFpYm5kMkxDSlBETWVPQ2otcVppdklz?oc=5",
+   "publishedAt": "2026-09-25T18:03:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T18:23:54+09:00"
+  },
+  {
+   "id": "84e4bbfb58fb9469",
+   "title": "클릭 한 번에 무엇이 바뀔까? 바카라 금액조절 프로그램 버튼별 역할",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWWd4dHExYTU1WHNCMDIwLWxQNERjcjZQZ1F5RjhleGx2SHdpRjNFTmhoWnhNbHVwWUNNZzVxbmhVSldaY2NWdzVQRGRLVlFJWlhXdGRGQXdHU3pDOWY0UjFSUUE5cHpqZkRfNWt1amdzZUlJWFpzVWtoaGQzUlNOaFJRWXpqeWEybG9mS293SHdwUy11ZjRhYjJiaTBqVmV2ZDNoN1FzWDM4cUZlQ1p4NlVIRC1ma0ZCRzZuT0x5MmFQd0oxMWhKRS1Kd1U0NmZDTHl1dHJtMl9Ed3dMYUIyU2JmanFEdjBWRUdWOENQLWR1NnliT0JDVjcxTVY5MTc3aGJrVi1Sd2JHbGVJUlFmT21wNk9lR3Z0?oc=5",
+   "publishedAt": "2026-09-25T12:07:09+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T18:23:54+09:00"
+  },
+  {
+   "id": "6daecdf7cccb8f7c",
+   "title": "윈도우 포커스 사라짐 와일드 심벌 관련 규칙 확인",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGJiVVp0REhVbWV0aXJuZElwbG56ZlFyQWxyMFptdnVJa3YwN29Za3k0eWRCSDd4ZTFUNTJrZWtYeUVmZlAyc09QYVJEMnZ2bG1Wa0JNdWt1Z0J1TVFlaWtXRFVEdlk4QTlCVjRsTzJDVWVHZWhER2pVQUhEZFdtTEdPQkc3RFBaY0pKb21EeV9DYXMxN0pCbUlmNVl4N0RabnJRNkxFWTBZMjhCeW5xektCTklnSnd4dWkzNF90VlJuTmlyNDB4WkF3?oc=5",
+   "publishedAt": "2026-09-24T19:55:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T18:23:54+09:00"
   }
  ]
 };
