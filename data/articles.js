@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T11:41:49+09:00",
- "runCount": 2363,
+ "generatedAt": "2026-09-25T11:53:03+09:00",
+ "runCount": 2364,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T11:41:50+09:00"
+  "at": "2026-09-25T11:53:03+09:00"
  },
  "articles": [
   {
@@ -41799,6 +41799,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T11:31:32+09:00"
+  },
+  {
+   "id": "a49e9ab89db6a7e6",
+   "title": "한 판을 따라가며 익히는 레벨12 포커 기초 규칙",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUkN1cks2bVJXNXoxUjhiUXVaUnl5Wmk2dUhSaWFzc1lJaFRSODNvczh3dHlPcG0xNGU2LVA4RFRDc19BSEdzbXdhazZhdWRMdFI3OE8wSUpSZjNQZUN2QUpWdmFFT0RSMXFGYkVRN3V3QXZXcTlhOUxmckhpVlpzQzVOeVpmZHl1OFp5S3MzbXk5bWV2Sk5VdjNySEU4cFNMN0lqZFQ4UmV6VG44TUlKaGJ6OVhwLU80VlFXVTR1WmNtdUZ0Y0k4?oc=5",
+   "publishedAt": "2026-09-24T03:51:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:53:03+09:00"
   }
  ]
 };
