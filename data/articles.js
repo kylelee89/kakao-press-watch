@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T16:38:09+09:00",
- "runCount": 2391,
+ "generatedAt": "2026-09-25T16:49:24+09:00",
+ "runCount": 2392,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T16:38:10+09:00"
+  "at": "2026-09-25T16:49:25+09:00"
  },
  "articles": [
   {
@@ -42045,6 +42045,50 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T16:38:09+09:00"
+  },
+  {
+   "id": "97775f6b03c3ba27",
+   "title": "체험 모드와 일반 모드의 조건을 비교하는 토토 쏘핫",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDRFMU9KcXpMY2xiaFZJUWxOUmtyQmZpSjVGall0NVMxUWFzWnhXY3VGajdxUWlBcUl6UlgtSEhsOVlNeVo2SGtrQmhEU2RKenlaU053U04xakZIX1B3ZU4zWXdJSVRMY2ZvSWVxUm1yNDVyQUpYSm1SaF9sRHhmQXRtUDYzSEQwTVdsRFY4M2lKX3g2VUZwVm9qSEpRXzJEN3UtaGZScGVvUWRmSXhmZW85ZzRJbjNXZUhURlg4TQ?oc=5",
+   "publishedAt": "2026-09-25T03:13:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T16:49:24+09:00"
+  },
+  {
+   "id": "2f9c39f3fe597a25",
+   "title": "여러 심벌을 묶어서 읽는 바카라 필승법 베스트 온라인 카지노 배당표 구성",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlpjS2RKSFcwQW5qcUJfYmdPWm1WcEN4NlViYjllbTBtZXBVb2NwOUpOM0w5ZlVCUU5ZNU0zZVdndG04Z3RFSEFhdTFlcGhnTW8zR2h6OFlSSmM3X0hoZ1ZBazdIQW8tZHFsNTQ0V0hkWnU1eWt5VUpuczVvREc4amZqbnlNZlVoZkl3alFnSDJ3MFpqNzhtQU81dENHbWdoRzA0UFVGV1N0YjFCVHp2U2xjVmZ4NHhZWHZtcElMcjF0clkwb2puTWR0QTg?oc=5",
+   "publishedAt": "2026-09-25T10:38:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T16:49:24+09:00"
   }
  ]
 };
