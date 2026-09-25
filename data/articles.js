@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T14:53:24+09:00",
- "runCount": 2381,
+ "generatedAt": "2026-09-25T15:04:35+09:00",
+ "runCount": 2382,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T14:53:24+09:00"
+  "at": "2026-09-25T15:04:36+09:00"
  },
  "articles": [
   {
@@ -41977,6 +41977,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T14:43:07+09:00"
+  },
+  {
+   "id": "1d0bcbb4ce129f0f",
+   "title": "첫 결제 조건이 붙는 슈가러쉬 슬롯 혜택 문구 해설",
+   "outlet": "intella.it",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEh3c21xQ0Vkc2hvd3paVmo5dWpsRklCZmpXVHhwd1RocDhLY0ltNDFNOWxEdVkxV0RBb054d3plVTEtXzVEX1Yzd280Zm5WMElzMFZydzZsbFJmdHgyNU14SFV0d2xjV1I4M2xvNzhwaVRtZVdlZnBDRVFfb1V0UnZKTVJSRDZoeGo5V0pUVUQ0d3BQNkVybFdIbko2aUttS1F1dFpXZGIwQQ?oc=5",
+   "publishedAt": "2026-09-19T06:03:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T15:04:35+09:00"
   }
  ]
 };
