@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T18:56:44+09:00",
- "runCount": 2404,
+ "generatedAt": "2026-09-25T19:07:01+09:00",
+ "runCount": 2405,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T18:56:45+09:00"
+  "at": "2026-09-25T19:07:01+09:00"
  },
  "articles": [
   {
@@ -42443,6 +42443,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T18:45:30+09:00"
+  },
+  {
+   "id": "936ab67636bb8115",
+   "title": "결과 표시가 여러 번 나오는 이유는? 드래곤 링크 슬롯 온라인 무료 진행 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0dtRnFmRFg2OWRfS00zNy1BRjhBRmZ1cnBTckh1b1NwUTJlYkd5a2dIMFVPcVk0TUV3U283cTJCYUNrS2l1WXg5U2hGQkJOUnpLMTVTSUpOa0lfQjBTQTlmSGl6cG1aS0l4ckdPUHVDTlVBQU81YkJmM3hzR3VxcDJSSmJ5NnMyaFFFV1AwMXJlR0lTZHBKQURWRS1vVk52YVE?oc=5",
+   "publishedAt": "2026-09-25T06:13:49+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T19:07:01+09:00"
   }
  ]
 };
