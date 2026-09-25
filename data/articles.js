@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T13:18:52+09:00",
- "runCount": 2372,
+ "generatedAt": "2026-09-25T13:30:08+09:00",
+ "runCount": 2373,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T13:18:52+09:00"
+  "at": "2026-09-25T13:30:09+09:00"
  },
  "articles": [
   {
@@ -41841,6 +41841,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T12:35:58+09:00"
+  },
+  {
+   "id": "04c0666cbf9801f0",
+   "title": "재미있는 무료 슬롯 게임 분류와 테마 분류",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmNucDRUa1dsU1pOb0pEX2xDR2E4R3FCVW11MC1kbzFsR0hUUWxZUlJERzdHSjY2RlFJRzBRVkw5eEVwWXVFVmVzMEpqb2hWMHBCS29mNHdPcG9feDVibkREVEd4ZEZyZkNVbEVKOUJaTzFnMkI5Z3BzUnF0Y2M3anM4VHI4QTAwMDVFN0pVeHo3SmRZSXlYNzRFdXFRZy1hSnByeWxMd05oUlgzNVdFdg?oc=5",
+   "publishedAt": "2026-09-25T08:08:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T13:30:08+09:00"
   }
  ]
 };
