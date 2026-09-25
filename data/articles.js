@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T03:13:24+09:00",
- "runCount": 2451,
+ "generatedAt": "2026-09-26T03:23:40+09:00",
+ "runCount": 2452,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T03:13:25+09:00"
+  "at": "2026-09-26T03:23:41+09:00"
  },
  "articles": [
   {
@@ -42867,6 +42867,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T03:13:24+09:00"
+  },
+  {
+   "id": "6eca9eac01760e28",
+   "title": "게임 아트북 추천 결과 확인 버튼 유무",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVTlreWNmOHF6T0k0LXdyclcxOEtBRjdoZnBjYVBtNjF6Q19tdmlRbUpDb1pMNzc5dU9seVYyQlhJYWFlOTV6cWp3Zk9UN0U1Vnp6d2xlcV95SklmVFFaMjRTR0RQal9TcE11Z3VFeHFhRzliaFB0ZXhvbnRLYy01R3NuaFVqOEJrVHM3djh4dC1IRExPSDlBMDZQTHpRT3VodXRpcEFSQXQ1NXpUN3B4eEM1V1k4WWx2S09HM1NBblFXVzlmcEJESjFKT0NwOXE5ckh3LUstQWZWSnZFZmJ3aUFNd0JLQmw3bEtzZTdMVQ?oc=5",
+   "publishedAt": "2026-09-25T20:39:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T03:23:40+09:00"
   }
  ]
 };
