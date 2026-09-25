@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T21:26:25+09:00",
- "runCount": 2418,
+ "generatedAt": "2026-09-25T21:37:41+09:00",
+ "runCount": 2419,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T21:26:25+09:00"
+  "at": "2026-09-25T21:37:41+09:00"
  },
  "articles": [
   {
@@ -42510,6 +42510,90 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T20:54:35+09:00"
+  },
+  {
+   "id": "b183dd3128d28028",
+   "title": "강원 랜드 인기 슬롯 머신 결과 내역과 현재 설정 구별",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSWw4aVJBWmdvQWNobVFPSTI4ZU1yREZiX1hFNVE5S1c2UjBtTmV1T1hhcnBNbmVVUGJJU0VXb3lhXzlWNnBqX0VzWVNCSHRFMFZ3T0NQVGQ5VEVoanlxc3dwNWdIZENOSHNwQXlxMUt5bUFSM1pVSk9jSHRFczZHLW5iM3ZueGtVY1pRbXlOMTJFOUk2d1pZaGFXSTZKMkpvYWdDYjFXRFhBMG1ncERuWkxRbw?oc=5",
+   "publishedAt": "2026-09-25T07:55:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T21:37:41+09:00"
+  },
+  {
+   "id": "fbc4b5dde5800dac",
+   "title": "게임 이름과 버전 이름을 구별하는 토토 파는 편의점",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSm9mSjg5V29EUHByWEZzUmJJMUlKRkdTSHVhb08zSXhCcUZCUkF0VDJzaGE5YnNUenc1ZzlQMjBYTUVuYVEyVEQyNmJvQjRyQUVkcmZvM25kemVLSWprMGQtZXBNempFNkU3VVE1MHhnUF95NnFlNEZmSXRJNFpaRWVUS0cxUTQ?oc=5",
+   "publishedAt": "2026-09-25T00:37:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T21:37:41+09:00"
+  },
+  {
+   "id": "2724a305e86a857c",
+   "title": "토토 검증 사이트 베스트 온라인 카지노추천 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOY1BpQmlJRlhQdVI4Nk9aZEFEeHA0ZWZ3dENFZDk5NXdiSTZwRU5IYVRPMWF4WmpBUFM2aW44d1hEN2RaMjhZMTVTYW1Sb3N6SHpydEF6b3RWQ3VzMVlIdi04d19XUUxVdkM2QmNxVjRqbWhmeW5tQUdjS0hVenBUR0JBdEk4MlpMTmlYeUMyZ3pRNVRsN0pCQTBlUE9oajhvbVpUcnlpOWtkdzRMUEV0ZmE0dU1sNDBrZGJTRk5zRVZsbGYxODA1S0I3bUlxaXk1STJweGlQRjdYSEFxQjhrczdMb05wbWl0eFc4d3lhdjZuek1EcFJDb1o2OA?oc=5",
+   "publishedAt": "2026-09-25T15:50:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T21:37:41+09:00"
+  },
+  {
+   "id": "8b158256d93e4f0b",
+   "title": "스튜디오 카지노 특수 심벌의 중복 적용 규칙",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdS1sb2dMRzI2SjZyU0d5Sk9od0hPcFJzOXZ2VXJJQWpUR1lubEN6QzZUWXRDM3A1MFQxV3Rnb1p4dGhBXzZwdnJCUUp6RnJIeW9obkpaeGw4S0gyWEFSdTM4YjRxVWFGTHBrNnhQcVE4RW0zTDVKRjgxaWYtR0VodjhpQVhhUndlbFQxcW1B?oc=5",
+   "publishedAt": "2026-09-25T01:26:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T21:37:41+09:00"
   }
  ]
 };
