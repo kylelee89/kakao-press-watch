@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T00:35:16+09:00",
- "runCount": 2436,
+ "generatedAt": "2026-09-26T00:45:32+09:00",
+ "runCount": 2437,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T00:35:16+09:00"
+  "at": "2026-09-26T00:45:32+09:00"
  },
  "articles": [
   {
@@ -42699,6 +42699,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T23:53:12+09:00"
+  },
+  {
+   "id": "69291a8ef1320ff8",
+   "title": "한국 도박만화 심벌 확대 표시의 의미",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOM184WHFIN2JrMGhDZ1dZRHN1a1hOYmd3SU10MzMxVWJMRmpLVVpZcC1XTWFrLUY0ZmV5YUtBUUYyWko1eFRMOFNZNERRZjJIajA3TW91MU1HQWVNLUU1S3N6RVMzMGZIM2JYUmR6ajY0QVlWQ29ZaktwbXhCcGFUTkZTWWc4b2xXS3VyeXhrUmktYlNibE01aGMxYWFOcUxjUXlwLXF6bHB6Ql9yZ2dpTWIyUk5LRkY0ZzBJY0ZHQlYta21vYUswb1dEWnlEOGJ1U1Y4U0pjZ0lmcE40NlZRNVhHYXRkdkQtMDdFWWI4dkxsendNOHd0UjhKTEp2N3lLLXZLcVVKTTJQXzJka3dfaGpR?oc=5",
+   "publishedAt": "2026-09-25T13:12:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T00:45:32+09:00"
   }
  ]
 };
