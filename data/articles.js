@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T01:18:17+09:00",
- "runCount": 2440,
+ "generatedAt": "2026-09-26T01:28:43+09:00",
+ "runCount": 2441,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T01:18:18+09:00"
+  "at": "2026-09-26T01:28:43+09:00"
  },
  "articles": [
   {
@@ -42762,6 +42762,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T01:18:17+09:00"
+  },
+  {
+   "id": "82cb02bb76650382",
+   "title": "게임의 전체 흐름이 궁금한 분을 위한 토토 오프라인 구매",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjY1X3NnV3JFTTVfTXpIbHpSM1NfblFKdGlMbnphdngxaURSbWJjMEx3ejNYS19OOUtJUXRPM1Mxbi12MUlBZi0wT2RUbDA2TWE0bUhjbmxidGRtdXN3M0M5VHEzR3ExNFF5a1ZaX1M0RDNlUGRuSkkzM21YOHc3Y0FoWWIyM0FiMUVQaU9aMElmRGxxeHFGbEN3?oc=5",
+   "publishedAt": "2026-09-25T12:57:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T01:28:43+09:00"
   }
  ]
 };
