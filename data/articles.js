@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T06:55:36+09:00",
- "runCount": 2472,
+ "generatedAt": "2026-09-26T07:05:51+09:00",
+ "runCount": 2473,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T06:55:36+09:00"
+  "at": "2026-09-26T07:05:52+09:00"
  },
  "articles": [
   {
@@ -43023,6 +43023,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T06:04:15+09:00"
+  },
+  {
+   "id": "59264a35cb8f6012",
+   "title": "벅샷 룰렛 이름 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOMHR1Q0RfaW0zNW03YUZpU2F5R1VYZVk2cGNnTGsxVTVjMXJqNTdTUGJETWlseDVVaTQ4dmF5R0tpRGNNX2RLUFJmdkkxRS1jMERIUFZSbDZrT2dGWlQ1UzRxRE1KSWM5OGxLU2J4RFltT2cxME1JYkhfQ0x0cWtlUVR1U2lmdmVxcDFKcUliZVFPUnFxcjc4SThGekxRWVh2aW5oYkFhZUFJUGNZWTBmdXY2V1pQbkpkaTFOTkk2V2pRSWktZnRHUzNDQ2NzTzJDbzJXdS1EN3JMcFNBTGk0RWJwalhkajNfUDNtV0twcGU0ZUpBSEx4NUllX3lUYVgzaHh0WlktdHN4U1NQbXFsZmtwbk1GN3BYRktvbm9tMnBGRVNTcC1Dd1JCU3pxTThqNTBVakg4ampLUE1rZG1TbFJMd3dxb1Q4Y3BCbXlXNGpwMDA?oc=5",
+   "publishedAt": "2026-09-25T20:57:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T07:05:51+09:00"
   }
  ]
 };
