@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T23:12:04+09:00",
- "runCount": 2428,
+ "generatedAt": "2026-09-25T23:22:20+09:00",
+ "runCount": 2429,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T23:12:04+09:00"
+  "at": "2026-09-25T23:22:21+09:00"
  },
  "articles": [
   {
@@ -42615,6 +42615,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T21:47:57+09:00"
+  },
+  {
+   "id": "860801b785c944f4",
+   "title": "규칙을 확인할 때 도움이 되는 바카라 스 트리머 화면 예시",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcnpmaDg3RTVBRURTck4xbFpzdVVhQ25IMHFGdlNHcFZRTEpvRkF4RU1nc3VFWG1LbjFvWXRUbkRUdVNfX0kza21xVjZ1ZkRfeGhoZXVOZ1UwRDJmQnZ6Qm50aWtaa3RIMXBuZmNWMnlHZ2tfZlpLd1dHWE1TU29pN19KSHB0QWNPdTg3blBLbXJ1UmxoZ29vYkJ1dzg5WnZ1OFhETEFoY25vb0dKdXBYWmZQa1JiUTNLeWVpV1A5MXpMSnFoaGJ1VVpxRVRGTXdaVFFFT1EwcW5jajlGX2t4LXQyQTI3MTRXOEFReE9NaVNKaGc?oc=5",
+   "publishedAt": "2026-09-25T16:29:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T23:22:20+09:00"
   }
  ]
 };
