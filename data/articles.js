@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T09:36:30+09:00",
- "runCount": 2351,
+ "generatedAt": "2026-09-25T09:47:42+09:00",
+ "runCount": 2352,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T09:36:31+09:00"
+  "at": "2026-09-25T09:47:43+09:00"
  },
  "articles": [
   {
@@ -41610,6 +41610,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T09:36:30+09:00"
+  },
+  {
+   "id": "e80cafc1a6493b8d",
+   "title": "부가 설명이 필요한 심벌을 모은 카지노 내국인 입장 허용 참고 페이지",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZG5iX2Q2MGtBY1JFZ3EwV3o2MUQ0UDJ4WkVaX0VzYVFoZUkxYzEyYmZTdjM1N3BvTEprX1BGdHByTVRsQkZrd2h5UjNsZkJacFBKNkh4RU5zdDJ2VnVUWVp1VElYME0tQ3g1akFPNGF1ZUFIM3Bia1lBb2taS2ZQdzRCelFyaGMtZW9kaFgyNmg4VHRMVEpwdnE4WV9QMlNiNkNYdTZ1NEZMdmVTaU1MT3JJYTdGTUNYN3dZUGFMS1JrbExzcVVxMUpCS1RBaXNYNHNPTGt5Unc5Vm9UWS1EeHRzc0s4SDcyZG5PQmh3?oc=5",
+   "publishedAt": "2026-09-24T23:56:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T09:47:42+09:00"
   }
  ]
 };
