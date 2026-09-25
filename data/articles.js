@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T01:07:03+09:00",
- "runCount": 2439,
+ "generatedAt": "2026-09-26T01:18:17+09:00",
+ "runCount": 2440,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T01:07:04+09:00"
+  "at": "2026-09-26T01:18:18+09:00"
  },
  "articles": [
   {
@@ -42720,6 +42720,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T00:45:32+09:00"
+  },
+  {
+   "id": "9638b1b73a38be52",
+   "title": "연속 진행 기능의 중단 조건, 프라그마틱 슬롯 체험 랭크카지노 설정 해설",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXc3d0RocF84cXZqZzd2blBkcURpTFJremszeDNNNXN3QkhtelpfOUFtSmg0LWM5VF9DVDhGS0lPYWdhQ256RlpleWEzaHpld1c0eUlyT2pOVjREZWl6MktheVhPQjVtNmxqdUJ1bTF4XzRMQktyM0FacThhT2ZXNlROUlcta1RiUmJjUC12QjF6cmZLVDZOS1ZkQk5rS1JYRDJFQW93TGpsa09VTVRFQk52My1PWUlacGdMYW5hZ085Zw?oc=5",
+   "publishedAt": "2026-09-25T12:16:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T01:18:17+09:00"
+  },
+  {
+   "id": "826f00a8cea97692",
+   "title": "제트슬롯바 라인 디퓨져 : 최신 방법론 - 스텝 바이 스텝 가이드",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ0I5eDV2SFlzOFVOeXM2THRmd3NsUmhISno5aW5mMk5qdzJMeEdFUkVoQl9yM0tiZzRXdDRwa1RVdDFDLVVsak9IcC1GWXVIX1h1NjFYSVRGeWZ1S0NEaHpGb1h1OXcyWlR0OUQ3NFg1ZzJ6TzY1MVNVajNtX0pXc2xWZFRvOWRuOEpUakFPSjJUamtkc1VqelduSGs1S20xQnYxMU5ZX3c4OVFTWHRpNS1XdlhJUkYtQmM1SUVKM1QtOUUxcW9QTHVPWHdpRFFVc0ZxckU0eE9VY2VzWV9kWEpPdVlZa0FFZkZPT25kUXJ4X3AyQmc?oc=5",
+   "publishedAt": "2026-09-25T12:27:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T01:18:17+09:00"
   }
  ]
 };
