@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T05:42:48+09:00",
- "runCount": 2465,
+ "generatedAt": "2026-09-26T05:54:00+09:00",
+ "runCount": 2466,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T05:42:48+09:00"
+  "at": "2026-09-26T05:54:00+09:00"
  },
  "articles": [
   {
@@ -42934,6 +42934,32 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-26T04:06:37+09:00"
+  },
+  {
+   "id": "d40653a758479616",
+   "title": "보너스 중에도 같은 규칙이 적용되나요? 토토사이트 슬롯",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVzhqRko0aXE1OG0ycDRJcTVZQnVQbVphcXFYSUZPeUQxemptbTJha21EdzNubWNjZ0Z5RkZIQy1lOTUycDhGZWVVTjZiQlNoLUdiY0FxYjR3cVVpVFdYWUdOMFREeDRCWldUVy0tcEtPYS1QS2M3OWlnQkpqTmFoWDZFVUJhZmRIQlJFbWV3VVBScW9xR2Jpd0xsOTljMkdjeFVqVUtQZ0hTVW9ueHdxSEVER3dEWVBOWExqQnprZ2JKNjV0MFlHMDl4LUlCV1ZlUzRoS0dHMG1oX09PeV9EVnA2Ulp4VEpVVUpQZEdrNA?oc=5",
+   "publishedAt": "2026-09-25T18:31:41+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-26T05:54:00+09:00"
   }
  ]
 };
