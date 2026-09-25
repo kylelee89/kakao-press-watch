@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T18:23:54+09:00",
- "runCount": 2401,
+ "generatedAt": "2026-09-25T18:34:14+09:00",
+ "runCount": 2402,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T18:23:54+09:00"
+  "at": "2026-09-25T18:34:15+09:00"
  },
  "articles": [
   {
@@ -42311,6 +42311,117 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T18:23:54+09:00"
+  },
+  {
+   "id": "844c488a17626f41",
+   "title": "오늘 점심 룰렛 보너스 화면 진입 전 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVllbmdDOHdCYkdhOVlhOWNScnpKcmc2bUdiYUdabnNKM2VRaWswV0RhNlp3bTRvUHk5YlZLS2pnWVpzMkVwX3BjbFZ0RmFLRElRU0tFWVhNTkJFQ3dzWFJjV3BpLUg5TV8tdFBlaGktQzYxdE9hcWhvdmhtUDdLWVV0MUpPVXB4b3hOUG9qRWZDSzlLNm8yRVJOcTcweVJSVThuRkdZaFU5bFdCQ05vbUVVSG0xa19ZT0lMZXZSSHB2N2pZNmx2RDl3?oc=5",
+   "publishedAt": "2026-09-25T09:52:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T18:34:14+09:00"
+  },
+  {
+   "id": "465208b4b2058417",
+   "title": "캐시워크 5분게임 : 위험 피하기와 최적화 - 실용적인 접근법",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXJRTWdPRDF4MGZ5R2dtT0RETm02dGZiTWFmZDlvRzlDQzJRNkxIeVYwNk1wbml6X01IWjBxdWpma0RGYk1abU12OUFLbXhBQVBOdEJfZkVCang5cFpqWDRqV3pGeHpNaGh5RXFPX2hiWjE1a1U3YUM4U0RNM0x2TkM2SjFwT1Z6Z2MtMkxnd2dhc21VdGFDMEdVb3pvYUFDa08wM2RFN1hXbWJyTkZNcHRxZUxmVmd0OWgzMWdTRXNUWUdtcFNmM1NFaVJWSjVqdTFUT0xHSnNDQjl4VzFwSWtkaUhkVjBzZEw0?oc=5",
+   "publishedAt": "2026-09-25T14:39:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T18:34:14+09:00"
+  },
+  {
+   "id": "596b6886dba97bb2",
+   "title": "기능 소개와 사용 조건을 함께 보는 마카오 카지노 롤링",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQlBkaEVOZEhhbDlGcURWc3RncU44YzU2RWVuYTRmN3ZkTjFaQUh0VkY5M3NwTHdRRWpIalhvZzNGYzRkNTdXc2psLU4wODI2YnJUSW5NeEVKUV9yQy1XUVpZSVpNdE9keEEtOHNNOXdYN2htUjZIZFBxdUdpNDNabVI5QlkyWHE1MVcxY25ZeUNTaWdmZzMzTHBKRnNoLVUwak1qYVNCSFJHN1Y2?oc=5",
+   "publishedAt": "2026-09-24T22:26:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T18:34:14+09:00"
+  },
+  {
+   "id": "735d10a3d49d4c1e",
+   "title": "같은 심벌이 연속으로 나와야 하나요? 스포츠 토토 최고 배당률",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORi1QelExcGNFeHpNR29yc1lMVVBsSFF3OEdtQkdhZHdlZ1RoNjAzVllFa2VmZzhFME5fLWdoVzBsbUNhVzlQa28xQzNDR1dZTFUwVEczM3VpbWhoWk92Sm0xSUZUVmpBdkR5ZVZ2V3k4STJGc3lYOVd5MFNMMThuRzRvM1NfXzBVZ0UweWM1bDFrUEd2X1hubVZPazJBWmYwTVhWVVFFRDdFc29IWko1U0V5RW5QMy1XV1UxaDlGSENQeFUwLW9oWFpBc0VuTS0xTy05X2FOeVhDUQ?oc=5",
+   "publishedAt": "2026-09-24T20:35:25+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-25T18:34:14+09:00"
+  },
+  {
+   "id": "4bc3c5c30987fad1",
+   "title": "다른 게임과 비교하기 위한 무료슬롯 얌얌 기본 사양",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVdrSUVrUmZfSElpWUNrU0VpWU16UUFGRVFVeDVrdU5PRFBxcTY1enEtNTFWOTFjZmFrVkpucnNTVlJiMXhKeFRzY0pjY3hxZGlCdG96OHh3eUNmdjY3d0VNdjVYc1NjSVZnXy1NMkxmNmYzSjQ5N0hYZFlzZmpBWGN0SkhMTm5teGk4Y0E1QV9tTUdlTDBzeVMtclM5THhaZzZyS2lNalJScGJIYWVmc1Rn?oc=5",
+   "publishedAt": "2026-09-22T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T18:34:14+09:00"
   }
  ]
 };
