@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T05:54:00+09:00",
- "runCount": 2466,
+ "generatedAt": "2026-09-26T06:04:15+09:00",
+ "runCount": 2467,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T05:54:00+09:00"
+  "at": "2026-09-26T06:04:16+09:00"
  },
  "articles": [
   {
@@ -42960,6 +42960,69 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-26T05:54:00+09:00"
+  },
+  {
+   "id": "158bb853413696b8",
+   "title": "가로 화면과 세로 화면, 한국 에이아이 블록 체인 융합 원 이용 환경",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUDM5V3NrRlB5Ylowa1RSZjFIMDdaeDQya2EwVlYzNGpKQ2l5OTVvMTloLWsycnUzZ25McnFCZlhtWFRrRlhlN2tZcFBnTGNzYjhJVzhZQXRTd25kSFJEcXdVNWE5Vzd4NWV2Z2xTTXRuRlc2bzBBdTBCMmVDVXA1b0FXMXJZMkw3Tlp3YjRQRWRLTjFoRE04LVlJQ0RVZG9DUm9OYmxDM3dORWFLOHd5ZlFidWp4RUhxd1l6ZmZ3QTRSdjdnbnBXd3FGc0d1dVRZdjFSUmtYUTNJY1hNOGQxVmNR?oc=5",
+   "publishedAt": "2026-09-25T12:18:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T06:04:15+09:00"
+  },
+  {
+   "id": "43090355ecdf4289",
+   "title": "이름이 비슷한 옵션을 구분하는 코코토토 물티슈 설정 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRE4tb2stTkI3dlRuTEVleHU1d1RQOHVpelZOdG1DbWZsY1JOa1RMQmpDYmdwMmt6Mkk3R3UxWHhRUklWUWdBOGFHa2RWODRsVG9MYno0VEs2MThnRFBPRmx1aUZGbmdGaUExOE04b3p2OWFjN0hBVEVBTE9KZmFQTE55bmdJc3JKVk1takU0U3VybW1iSWRDNDExb1JrRkxNOU1LRU4wZDlCOUJGMlYwNGpVUlM2MnZwbFo3UWNoeUpGZDQ4WXltV1BLMmRtR1V6dFNfSElsM1RSeHFpY25kNl92VGVJYzFIcG9mRzY4TV9Gd1dWZlVCbmRmNGt6TVk?oc=5",
+   "publishedAt": "2026-09-26T04:11:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T06:04:15+09:00"
+  },
+  {
+   "id": "0fd477c15b4b0730",
+   "title": "도움말 문장이 어렵게 느껴질 때 읽는 마이 코나미 슬롯",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMENvWkZTNU92bzZ3MkMwZURyby1zR3hrX2kzWUx3VzFsWFEzdThQUUdZZ0xWdy0tN0tyME1vRzZFM2lhRjdMR0JkUU8xSThvWk5HcmNfVFkzQThQLWZXNkt3UHVTbEJSVVhsd1gzOTRDTjF6SzJQeGZGbFc3NzltbVh4RUhZdmQ4d0VOQS14VnhXSjZP?oc=5",
+   "publishedAt": "2026-09-26T00:09:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T06:04:15+09:00"
   }
  ]
 };
