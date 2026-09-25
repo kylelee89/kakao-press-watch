@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T09:04:47+09:00",
- "runCount": 2348,
+ "generatedAt": "2026-09-25T09:15:59+09:00",
+ "runCount": 2349,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T09:04:48+09:00"
+  "at": "2026-09-25T09:16:00+09:00"
  },
  "articles": [
   {
@@ -41545,6 +41545,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T06:47:42+09:00"
+  },
+  {
+   "id": "e97f9cd42ded178a",
+   "title": "[기업 이모저모] 카톡 AI로 한결 다정해질 추석",
+   "outlet": "KB Think",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40Vk9PLWhhOFRHVjlIMm1obHBXWnl4UHRhTkQ4Y2h6d3lmS2xBZjdHZFlnYURFNVZ0ZWd2a1FBME5jRFdJcUdvSDRrQzB5OEMwcmNUR3ZMWGh5R0lZV0ZxV3FQa2YzSm5vcHUxbkxuM1d0QQ?oc=5",
+   "publishedAt": "2026-09-25T09:00:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T09:15:59+09:00"
+  },
+  {
+   "id": "3030973d0dc50955",
+   "title": "소개 문구에서 놓치기 쉬운 조건, 일본 비키니 게임",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV1dwMEV6dFB1UHNtLW5hQWgtcTdVSEtGNDF6aGJIZEJNVXNha0xaZ2xQazVCNFdMczZaX0NyS3lCRVFSUzFvaVY2TVd4Q0dVZERDX1FNdnhhdTNPQUxyaXQ2LWtKTklXeGxpSHF0SEczdXVBak5DaTQ5NlhvRWhsR1NSUmFaNTdEOHpQbi1sSTRIM2d4bXBfNkNaV0EzVDhfRnRlYkxJUFBqbmQ3S3EwX3g0RGRWcF9IVnNrVlotODBGdGFxQmZZcVZGQTZPMWRMYl9ZNnlNN0VvbEk3cEpUVGVuTVd3dVAxVVFLN0lzWlhzSVlQa241cHNVdVdTLUlSelE?oc=5",
+   "publishedAt": "2026-09-24T17:49:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T09:15:59+09:00"
   }
  ]
 };
