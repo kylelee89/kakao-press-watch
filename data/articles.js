@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T20:33:05+09:00",
- "runCount": 2413,
+ "generatedAt": "2026-09-25T20:44:17+09:00",
+ "runCount": 2414,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T20:33:06+09:00"
+  "at": "2026-09-25T20:44:18+09:00"
  },
  "articles": [
   {
@@ -42468,6 +42468,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-25T19:07:01+09:00"
+  },
+  {
+   "id": "3bc86c98f070504f",
+   "title": "보너스 진입 조건을 읽는 사이트 도메인 등록 규칙 페이지",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxObWVPRDVteF9QM1VXRG5HRkh1eHIzRWg3WnZ6ZWhFdjdpWlZxR1RkVGhPYkpLMDZfUU5DUEVmZmdObnJKTXNuekJoSDk1cXRjZ1B3YmFrSnVYdWxrM3E3dWxZNWJlTE5Db3hUdncwT1dpZUdieHFBTy1DMm9wdHkzdzZkaHFjXzNaN2IxVzB6WlVjU2hIS0xMSHZXdndLX0ppWk9ncWR0QmRGNUIzM1ZmYWl6RjJveWl6ekRwTUJpcVpBZks2OV9lbTZsNG9XR2hzb3hHMFdRVDAxSzZpb09CeWhjcDk4ZEh1VmpWemJUTmR6ZmRvRFVfdXZQeG1qTDRhLU5pdGkyTnJYalRLZDJabm9GQ3dmUVNNaHlJ?oc=5",
+   "publishedAt": "2026-09-25T14:21:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T20:44:17+09:00"
   }
  ]
 };
