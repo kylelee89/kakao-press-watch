@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T11:21:14+09:00",
- "runCount": 2361,
+ "generatedAt": "2026-09-25T11:31:32+09:00",
+ "runCount": 2362,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T11:21:15+09:00"
+  "at": "2026-09-25T11:31:32+09:00"
  },
  "articles": [
   {
@@ -41715,6 +41715,90 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T11:10:52+09:00"
+  },
+  {
+   "id": "a6d0d750f18d3965",
+   "title": "기능 발동 전후를 비교하는 마작테이블 화면 변화",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOXk3Tjc0QnBxdG0za1pOb0RtdEdiNlAyby1nV2RlbTdUMGlCU1NiaVJ3MUpjX3NONEZUZVZqWU5hU2c3a2NJQUNnMHVyTjZONjdYdnFOaDVDaTJPNU13UW9OcEh2a1VpOERfVTJ6YUo3VFdMTlE1WG9pd3FTMGNXdmZn?oc=5",
+   "publishedAt": "2026-09-25T07:52:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:31:32+09:00"
+  },
+  {
+   "id": "387caed95d6e4831",
+   "title": "스캐터와 일반 심벌을 구별하는 바르셀로나 카지노 심벌 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTkRPQm1PUlVyenFMdjlMNUJmMlZNaWlkc2hsWkpuM0NfX1A4dHZ6ZUQtMU90bnItZjFiZzRQZGthOWd0cThFbHVnOC1TclQxRE9HZXlMekx1QXBWb3BuSXRyc05CdjB4c0RzNUprV2FPNnRuODRieG1KcWlEV3o5MVJiQ21uUFgzVnhMYmJGRmZFdzZQWG16ZWE2TkV4S0pqcGpkdV9sNW41Qm5IeTVlR1lXRUNEd01vdXQ1TXN6TUtvcWJoZ2tTdzU2V25QU0g2Q3czUm1Ba1F3eVRBZnZfWExWQQ?oc=5",
+   "publishedAt": "2026-09-25T07:02:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:31:32+09:00"
+  },
+  {
+   "id": "fa1c8456ededeb3b",
+   "title": "아이콘 중심 화면에 익숙해지는 스타 바카라 이용 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcUdaZXNBNGdIeTNrU1hlS191QzBDRzdkcnZLcURnUlN4WXo0SzFJQlhfMzVsRlFVUEdoeVpaamlST2Z4MVFnYkpvcUhoNVRPLTg0WjMyMXY4SDY3b0U4YVFnM0tfSlRKRmE0eHdNbzFveldnVFlFS2k5MTkzRkpHeWp0SExQQzZNaVh0VnJQSE95RGpuREd2LXppNGFWTEdwdmhDY2taaHJCYk9lUXBHOUdR?oc=5",
+   "publishedAt": "2026-09-25T04:38:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:31:32+09:00"
+  },
+  {
+   "id": "b24d69b26e43e57a",
+   "title": "테마부터 조작까지 이어지는 네이버 앱 먹통 상세 탐색",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNcmhTbjhvNm94S3djMnBrcmxSYUZQYnhpNzU0YkRpSkpSSmJtM1haNlhSUjlURjRiZ21sb25scGJqNWhtb1B6VlIwTzlVM0tiM0N4RnRfQlRVTlpzTUsxSkhCRHBndXNVSWN6cE5aU2ZnWGpZSjgwZG5tVkNLQ0k2UnQxRWdYNkg0ZDN0WkZxSU94SXJXMUxnaC0zNkV2Z3lELVl4a2ktNERmUGxTOVNSZmR4RlVsNHpkQ0VabUozZWczQ1JLV0NxRWRPY2JLTkZnZE10QnVCVXRwR3VraURnVVFpVWlOUWowRHlkM0pDdFlDTDUtNHZ3WWJpQ3NfSDB1TGp3N0tHSFp1QUdfU2FDYU1TOUNZY1pndl94R0JTSXBqVGwwdVZIUWN0ZU9oZXVHVWxaejA1SEdfckxFLXdWS1owTQ?oc=5",
+   "publishedAt": "2026-09-25T08:56:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:31:32+09:00"
   }
  ]
 };
