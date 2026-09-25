@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T10:49:20+09:00",
- "runCount": 2358,
+ "generatedAt": "2026-09-25T11:00:36+09:00",
+ "runCount": 2359,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T10:49:21+09:00"
+  "at": "2026-09-25T11:00:37+09:00"
  },
  "articles": [
   {
@@ -41631,6 +41631,69 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T09:47:42+09:00"
+  },
+  {
+   "id": "a8a94d5552a674d3",
+   "title": "블랙 잭 스플릿 추천 결과 표시와 이용 기록의 차이",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcTlyWElQcTZIVXR5T1hiRl93WUUtODFMVG5BRURkckczMVZzTkE5ZzhEOWl2YzZ0RWFmUC0xZDE0ZlJsUmRRUDZ3ZWZHMGxaZ3E0OFpGeEplNDZSTzdrOGZsN1JrR2UtYm80eTQzbFlzcWRlMV9iVWFsNWlOME5Wb2VaQ1FnY1owa2QtQXZMS1locVAwa24tWHV5ZS1DMmtfYmptd0NkVFRGT01QSUNtYlV4MmRNcmJ3X2VoRFRia3FJNGRiMmVUc1l1Nk1VSHgxdVFqa3lrbmNkUTAzT2FkRmVwSmZqSGlNNXdIRXVhRjI5MU5kbnUwaE9qTDV4NnhuY3FMcWhoWm80YWhRUXc?oc=5",
+   "publishedAt": "2026-09-25T05:20:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:00:36+09:00"
+  },
+  {
+   "id": "fb682d3b0fc7bc36",
+   "title": "에볼루션 바카라 플레이어 보너스 해독하기 소셜 미디어 독특한 통찰",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUHMwZnBhdWZLSW4wbkhobjRvYzRWbkVrS2RObDZrMXllRzhGTDJHLVFvQWtONGFmbEVWMi1KZVYyWWQwZUNqbl9PR01RSjcwWjVWcGNKQU55X2dLN1UwbjBtbXdiM3haekN3QXlnZnFRemZraWZtcDlSUXo3R2VfemNOdldFaEpnV2JjTVpETEtJMEVBM0gwYjFvUklXM01UNkRVdFExS3ZwYjRNWERfWmpDZ3J6ZzdudjVlYzV6TjZDbmNZUTlRbHhSdjBXLWJRVXRRZURENTlUQlIxc3BoM1pCTQ?oc=5",
+   "publishedAt": "2026-09-25T02:08:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:00:36+09:00"
+  },
+  {
+   "id": "2bfbabc6b202cc8c",
+   "title": "화면의 안내 순서대로 익히는 슬롯 커뮤 뚫는법 첫 조작",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTRZWnJLcW9KdTdRbHpad05LSFB0dnRfWnVJaTVXUVhneUk5RnVlcnI3QUFnd1JCRUFIM1dxSHBIYm9acmpmTWJrbHpSU21oZ1k0aU5oU2lkaXQ1QmRxVFR1Y1h5VEZYOUs4OVdMakFFZGxqMVg4cG80Y09DYXY5QlNlUFhNc0hEVTBmM0trZVVCa09ZRlFHZGFvbnpnWnZKLTQwVWFER0g2b2tHYlBfM0pvSk5xUmNuaDRwdXNpbVUzSE43LTFGdGFldlVCZ0VTUEI2aGVyVmlzOEYyTm1neE9tdGdnbXllRkNEUTZB?oc=5",
+   "publishedAt": "2026-09-25T03:45:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T11:00:36+09:00"
   }
  ]
 };
