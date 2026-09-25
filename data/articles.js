@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T03:03:09+09:00",
- "runCount": 2450,
+ "generatedAt": "2026-09-26T03:13:24+09:00",
+ "runCount": 2451,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T03:03:09+09:00"
+  "at": "2026-09-26T03:13:25+09:00"
  },
  "articles": [
   {
@@ -42825,6 +42825,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T02:00:30+09:00"
+  },
+  {
+   "id": "c3acf8397d2d302d",
+   "title": "선택형 보너스가 있다면 살펴볼 위스키 토토 주소 조작 규칙",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3hOeDM5OVZYUmtHbnExb2wtZkg1b3RuNTVLNTlXSTBWVGFCSEdlcnh4SjlQdy15bDdsYU5uQVgtSFRXNENhZmlaSXZDbjBvajdNYlVKVTdVeGFWTmxXZzhOSXg5X2pSR2hRdFlOYTFPNzVHSHMwUVVveEdDYkpFNzNDUnVrdHVYMXVoYmd6cHJ3YjdqWHRORmVNbFBkem1hRTJpTi1UT2NXUmJBbkNlVDN4cGhEYzBVemNQaHI4WGo3WDZaMkd2dUlMYUJFTkc4aU5aVFNiSDU1MFB2U2pr?oc=5",
+   "publishedAt": "2026-09-25T12:29:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T03:13:24+09:00"
+  },
+  {
+   "id": "f43d0d29c099c8fe",
+   "title": "바카라 카지노 사이트 에 대한 진실: 흥미로운 사실과 통찰력 있는 분석",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdlh0QzNkOXNNdmNDbjNhMkp1QjRORWxGQTJkS214cXM3a3VzMGZGcnBKS1JSMUY0eF9ONF9aQ1M3TmlIUTg2al8wUEluUnYyY2RqN0M0c1piVVIzNEcxNnVzRVd5UHFXQVBXNTcycjdfdmIzQ0g2Wl9CR1ZhRVJZSjFSSktFVDY0bjZhTVUyMWcxbTlSWlpNNklkRHNobmQtWVR0MENnaTJENlJPT29kY3Y1SVlWYnNhZVRYS3NBOXhhQzlHNzlIUGM1eHJXM1ZkUDBPdEYwVk1leG8tNGRhUGRUaXpHVGNISXVlWmVPRWROb0I1eTBkdnM4UXE3b00?oc=5",
+   "publishedAt": "2026-09-25T14:23:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T03:13:24+09:00"
   }
  ]
 };
