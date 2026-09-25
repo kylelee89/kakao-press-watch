@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T18:02:23+09:00",
- "runCount": 2399,
+ "generatedAt": "2026-09-25T18:12:41+09:00",
+ "runCount": 2400,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T18:02:23+09:00"
+  "at": "2026-09-25T18:12:42+09:00"
  },
  "articles": [
   {
@@ -42221,6 +42221,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T17:40:53+09:00"
+  },
+  {
+   "id": "1676411c57daa4e0",
+   "title": "입문자가 질문하는 워터프론트 에어포트 호텔 앤 카지노 막탄 심벌과 릴의 차이",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdzEwTU9RM2tmWEVGZTcwMkZtTTBPQTVDbVJ4VkVZa2xzVU81Zndpd1ZLLXhzSkxSZk9DcHR5ZWNZRzFsR0hEMzR3RE5SVm0zUU55Z25iMzhKUlhpTGxodnRNbElNMERpbEZSbDJLRGhSZkZqZVdUVUlucldjbW8xZG5TWFVSSTFfWC1nSUNSeXB3RnlJWGFmTHZmYU9kOWdhY29abFpKZE9La1p5dFQ2enlrVDkyWU5PakFoZ25CU2Rjblp0TFE?oc=5",
+   "publishedAt": "2026-09-25T06:27:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T18:12:41+09:00"
   }
  ]
 };
