@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-25T16:59:43+09:00",
- "runCount": 2393,
+ "generatedAt": "2026-09-25T17:09:59+09:00",
+ "runCount": 2394,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-25T16:59:43+09:00"
+  "at": "2026-09-25T17:10:00+09:00"
  },
  "articles": [
   {
@@ -42158,6 +42158,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-25T16:59:43+09:00"
+  },
+  {
+   "id": "af62188f5e0970e7",
+   "title": "페이지마다 다른 용어를 맞춰 읽는 선택 슬롯 8칸 확장권",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTZLZzJvWTdyakNENE1zckEwNno4WEJCUjluU1pnTk9oaEpXQXhzMWdMTDRKaldfNVBVbk5zdjd1V0Z2OFlwU21ycmVobE5IMjgyajc5Y3c4aHR5YVAzODdEcmI5NEUtQTVucU9VTjN2Zk9UMjVMLTdsRlZRc2JfVFZ0WkFQRkVaNzBNRmh5X0JwRHd2c2toZGYtTEJQSUwtV2trYU80cUM4Um44N3JB?oc=5",
+   "publishedAt": "2026-09-24T09:46:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T17:09:59+09:00"
+  },
+  {
+   "id": "c3b50d2364f2fabb",
+   "title": "기본 화면으로 돌아가는 경로를 찾는 5000 원 카지노",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPaUFQRm1xWmNtX3RPSUgtREdOOGhJZGI2bnNtdHZQRl8wRXpnNzBBQ0JEa2k0bm1hdjYtemQtQUxmVXNqLU8ydVZhTmpaMUNydmo1aHNRdWFOTXpBMUpFOU9jS3R2UU1DWVFJR01QcWtxd3ZWazVWZVQ2Y2JUSTJEeTZhUGFUTS0wUVFzdURVaDlJYkpFaHdiOFhaYjBCMmhJSUg5RlFibjM2amxSWUNsS1duTFBRZGdnWXotcWhmRFVrbWY2UVc3NVR5YjA3aFhQN0RvQ3duLWxQVWxZWnBaTHJraTM5U2RUcEl2eHRybUFNdGFWYmtqTWphTVJmQUlnM0FDSHJaVWZqQ0hXOGpUdGI2MHBrbkFGQ3E3dnRZS21VOVlmTjh3bTh4NS1VeEtpYXFHVk1tQkJuWjVyLWZVNXhwZlNPNTZ6bFNwLXZYdw?oc=5",
+   "publishedAt": "2026-09-25T12:22:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-25T17:09:59+09:00"
   }
  ]
 };
