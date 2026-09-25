@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T07:57:11+09:00",
- "runCount": 2478,
+ "generatedAt": "2026-09-26T08:08:23+09:00",
+ "runCount": 2479,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T07:57:12+09:00"
+  "at": "2026-09-26T08:08:24+09:00"
  },
  "articles": [
   {
@@ -43044,6 +43044,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T07:05:51+09:00"
+  },
+  {
+   "id": "3c2f4a75912010ef",
+   "title": "게임 흐름을 그림처럼 따라가는 세븐카지노",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zVjdfdXFIY1JpVW1idElFRGZod3djOXBOY1QyVVNJbkVUUmZEazBhaV9XWGFDTGRXbW9hYXhLRnRDaXFIcVFESkkweW16YzVOUnJGSVRzUGlRY3pHWjlkSE5uNmtyMDcx?oc=5",
+   "publishedAt": "2026-09-25T21:57:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T08:08:23+09:00"
+  },
+  {
+   "id": "86074ec0d8fafe31",
+   "title": "방어구 슬롯 - 업계 전문가들의 조언",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1Q5ZE4tTWJjOTFsb2gxVGNJajVsWk4xZ2l6amd1WGZqMzdrdE1ORDA2dzg5NFNielNiN0tNdU9qWk5tTk1sWWxZckdqVDBtTE9jUE9UeVBQSFdXU1hEbjRzaTMzUm1XeGRwN1BCVmJ4RnRnWml0eGYyY1gzVjVsM2VmU2dRd2x6QjdEMGZFaWxYTV9fMG1EZ1JNUkxqUDE4Q1VBSEI5ZGtaU1FFVjJpZQ?oc=5",
+   "publishedAt": "2026-09-24T20:26:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T08:08:23+09:00"
   }
  ]
 };
