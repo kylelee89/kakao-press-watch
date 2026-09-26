@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T09:44:26+09:00",
- "runCount": 2488,
+ "generatedAt": "2026-09-26T09:54:42+09:00",
+ "runCount": 2489,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T09:44:27+09:00"
+  "at": "2026-09-26T09:54:42+09:00"
  },
  "articles": [
   {
@@ -43107,6 +43107,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T09:01:33+09:00"
+  },
+  {
+   "id": "cb897d28c095fd91",
+   "title": "어디가 조작 영역인지부터 알아두는 슬롯 이미지",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNGR3WjRoblc0Uk5EWEFxWlNiV2tDRXRBWkJEekx1Z0kwaUZKbVNoRTlPMmNFX2MyaFRKcEx5TmsxWlVQQ2JNWkJha2p4LXgtdEN4bVd3Q085ZGlkVGxYaU9BYTBoZ3lJUWdaQkpGbEY5Z1NuSEtRNjBfbDdHNUZrb1dIUHlUZFJFU2IxRENwN3lGY0FsU3ZOTk5ob0lTUFQ2RDJfdUE0bG1QazhfUm90cWRHU0dhTWhub21RSzcwR0dPU1VSWlhmZXJOc1FTWWRZQmhuNXhuYnl2LUo5X2tDa2dEQWlIaTBJTVhDYVlJMmNIZ09YVThuQmFiZW9URzQxOWc4QzV1cUlvczQ0MDFyTnVVSUVSMHRpNkxyRDBnNkdCbjR3VldUWEpWQjUxNHF3NHg1LTdScXc?oc=5",
+   "publishedAt": "2026-09-25T09:58:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T09:54:42+09:00"
   }
  ]
 };
