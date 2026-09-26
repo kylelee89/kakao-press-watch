@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-27T07:57:24+09:00",
- "runCount": 2615,
+ "generatedAt": "2026-09-27T08:08:40+09:00",
+ "runCount": 2616,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-27T07:57:24+09:00"
+  "at": "2026-09-27T08:08:41+09:00"
  },
  "articles": [
   {
@@ -43454,6 +43454,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-27T00:55:24+09:00"
+  },
+  {
+   "id": "764cc5eaaa6a96f4",
+   "title": "카카오, ′카나나′ 10월 종료…카카오톡 중심 AI 사업 재편",
+   "outlet": "토요경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZT2RwaWJDbzJveWZNU0kzN1NLRXZQaVdVZnBCSjZjYVVYYXZUMk02bm5WWFVBVkNBRUFqcFpSWTRHUC0teHB0S2twR2RHNFBnT1RqemV3ZzRDN0dDa2R6TTRnNlVNT21LXzhFU0VnSdIBb0FVX3lxTE5ZT2RwaWJDbzJveWZNU0kzN1NLRXZQaVdVZnBCSjZjYVVYYXZUMk02bm5WWFVBVkNBRUFqcFpSWTRHUC0teHB0S2twR2RHNFBnT1RqemV3ZzRDN0dDa2R6TTRnNlVNT21LXzhFU0VnSQ?oc=5",
+   "publishedAt": "2026-09-22T09:56:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-27T08:08:40+09:00"
+  },
+  {
+   "id": "7f66d61a8ee85fbf",
+   "title": "자극적인 연출과 별개로 읽는 금요 경마 출발시간 결과 수치",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxON1dTSVdNa0xBMlpjVzJnblRNeEktWnhGYm8wSXhWVXBTTk04YmhSV2RLNW5xUHlFcmlHNFFFTGc5eFlkZ1FmbENqb21RSXI0NmpFS0VHM2tUeFJsTHdYRWpTTWdiaGVoVzBCU3lmVTVaTUpmeFRKMlV1UEFOSHlNTllLNDk1XzNIcTk4ZnJSWGJjZ2lSV0JGTTNpYV9hQWVlVFpSbXZCRUxnaVYycVdoUUh5dmFrMEUyV2E3WEcwVHNKc3FXTlpfVkM2Tjd5eEdFX3ZLa3RENVpQTUtCbmk4VTd3cVgtRS10aDdnNnowbTZldkVrTGRfSnNCVWpScGRaOXJCNmtyS2R1WTYwUkZ2MQ?oc=5",
+   "publishedAt": "2026-09-25T11:49:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-27T08:08:40+09:00"
   }
  ]
 };
