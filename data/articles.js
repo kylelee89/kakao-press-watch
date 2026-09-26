@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-27T00:45:07+09:00",
- "runCount": 2574,
+ "generatedAt": "2026-09-27T00:55:24+09:00",
+ "runCount": 2575,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-27T00:45:07+09:00"
+  "at": "2026-09-27T00:55:24+09:00"
  },
  "articles": [
   {
@@ -43387,6 +43387,73 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-27T00:24:32+09:00"
+  },
+  {
+   "id": "5ed39413c20b2539",
+   "title": "프리스핀 횟수 표시가 있다면? 무료 버팔로 슬롯 다운로드 화면 해설",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTWFJNFl5QUh1T1lOV0RuYk9HZTQyVmNuQXpSQmd3dTJYWGJKTmNyZTdWTVltY3l1aTdEbG1rSFBYZ3dCYk5XTlpPZnJnVUdrQWQ2RXhZb1Z6YnprT1RyRU5CMWJMNGNCLWRoaFVHejRzVFRIYmZVeV8zWHpqREFhTFVqazJMeUlqekhVS05PSHVrdw?oc=5",
+   "publishedAt": "2026-09-14T05:27:28+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-27T00:55:24+09:00"
+  },
+  {
+   "id": "9d778046698c28a4",
+   "title": "설명 화면에서 찾는 홀덤게임 제작 게임 정보",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUQ2V0ZTS0dDZ1lOWS1UcllNU2JQejdBcHhzQnlJRWQ3N1hGQUtPQ1ZhVE1HS0lLVkI4LW1EYmxyaVc3NjRvbWpUSGVzR0Y5UkhrVnE3TmFyX01raHg1VzBoRkZ2dFk4MTR4VGFkTmpzNEIza09KY2FPQ1F4cGhGenpSWUVxQUFsRFZFdjd5NVdJTjhvaVZhZUx0WEVjak0yMnplQVI2V0ZGNjNPNENWRWxFZjZYdm1xZEZfRGxQbG5aWkZCdjBpWWlBRjh2RmxoUFhfYmVsaFZ0MXVBeGk2YXNSTUtseUNTVEYtSG9aUEFXVkRENlAwTTdpQ2gyS0ktaXRnd29LQQ?oc=5",
+   "publishedAt": "2026-09-24T19:36:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-27T00:55:24+09:00"
+  },
+  {
+   "id": "726f4ba767d61f96",
+   "title": "휴대용 마작세트 시작 버튼의 상태별 의미",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdzZuc2hJM1pYTjgtNFRlVm9BRTNiNW5kanAxQW5HeVhvT2dXRjRXdWN0U20zbnEwLVI3WE1ZcWotNnhPMnF0YTJJQUJSclFseVU1SEQ1bmdhXzlkNm5xa0pIM0g1em1FMk1ldzJ0V0VjMVBLZ1UxSXk5NW9QQzlHZXYxUkZiR0g1bTk4RzNiNXc3bGpwV3dSWWJkejNLcGRtUm5HOXI1QzNmOXFScGdvRTFyM0VlUV9uV0lVd2FmbGRJa190X1docURKX09YYUdKd0VxU0hTcG5wNWxZeDQ3ZA?oc=5",
+   "publishedAt": "2026-09-23T15:30:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-27T00:55:24+09:00"
   }
  ]
 };
