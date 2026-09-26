@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T13:21:07+09:00",
- "runCount": 2509,
+ "generatedAt": "2026-09-26T13:32:20+09:00",
+ "runCount": 2510,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T13:21:08+09:00"
+  "at": "2026-09-26T13:32:20+09:00"
  },
  "articles": [
   {
@@ -43149,6 +43149,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T11:48:34+09:00"
+  },
+  {
+   "id": "f4d3730972a6104f",
+   "title": "기본 정보와 주의 사항을 함께 읽는 토토 적중특례",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFN1b2JEeklpMXR5U0VBMWJXbXBCdkVaN3VseDRINFRzVGpzU3FhWXhXUVRqT2d3b3RFeDk4bDdKQTRoOGFuUmFzVWozMWE3ZVRjLVlfMjlsTFpJR2xjYkxjZ1dMeWd1Y3NWSU9NRnhGWnZHRkppb1FqNTFyN043WW5nX1VsdmdNeW5vNVhaa0FFdjRYcjE0MzBTb3k?oc=5",
+   "publishedAt": "2026-09-25T14:55:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T13:32:20+09:00"
   }
  ]
 };
