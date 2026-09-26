@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T15:59:53+09:00",
- "runCount": 2524,
+ "generatedAt": "2026-09-26T16:10:10+09:00",
+ "runCount": 2525,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T15:59:54+09:00"
+  "at": "2026-09-26T16:10:10+09:00"
  },
  "articles": [
   {
@@ -43212,6 +43212,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T15:59:53+09:00"
+  },
+  {
+   "id": "0ca32656d5fe6199",
+   "title": "카카오 8월 인적분할 의결…AI 핵심사업과 미래투자 분리한다",
+   "outlet": "핀포인트뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzSVJ6bEl0dDNha0RfS2kzM0ZfVG96ZkMwQk1lNzBRWEpTblROS3FWUkx2R18waUsyd1ZESmVzVWV1U3RYdm5qQVk0MjdYclotR2p6RFpwME5tWFdqRlI4MXMtUGhEMzRVeGJHNE5Xc2laWW_SAXdBVV95cUxQRzUzMTVTX2t0bXVqV1BWVDlBVEIwOWE0MWVLWU9lLUF4S3BZTDllQUd0ZHl0VWpzYmxVSHRiQzBUVUp3dXV6cmJYa2dsR0tNNjlYNGkyNGdyckk3ckhERUx1R1pzRl9fY2pNMXBkNHZaMWN5eFFpaw?oc=5",
+   "publishedAt": "2026-09-26T15:45:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T16:10:10+09:00"
   }
  ]
 };
