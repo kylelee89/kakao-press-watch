@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T14:13:24+09:00",
- "runCount": 2514,
+ "generatedAt": "2026-09-26T14:23:40+09:00",
+ "runCount": 2515,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T14:13:24+09:00"
+  "at": "2026-09-26T14:23:41+09:00"
  },
  "articles": [
   {
@@ -43170,6 +43170,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T13:32:20+09:00"
+  },
+  {
+   "id": "63d174a8a7d9bb1c",
+   "title": "피망 맞고 머니 게임 소개에 쓰이는 대표 용어",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZWhOY25UTVEwZnN5RnZpZEpzUEVuTVJfd1BMVHFuX0wxY0xvZ21NOGtoa0ROVlR6ZkFxRHEzdEpBUEREWGZDVmlsbHE3RkVrZUVEM3lSdllVOXNmTnp1MUNPRy1MdWh5aXdhMlloSGxRY2lrT2U1VEcwbmxtYjFJeGRpMWxvM3ZIeHZRSU1lYVVadUNEU1ZLb01XQW5qVmFWenNKSUxFdmwwb1FJSWk5WmpyZEtyQ1l2MjRqUU5CNE1fdnRMd0hhMjQzRENRdy12QjZFSXZ5VTdKb0NXNENpQ2p6Z0NhX0drTnZIQW0wRDMtLWpRc3dz?oc=5",
+   "publishedAt": "2026-09-23T10:25:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T14:23:40+09:00"
   }
  ]
 };
