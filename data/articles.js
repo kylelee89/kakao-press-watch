@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T17:44:33+09:00",
- "runCount": 2534,
+ "generatedAt": "2026-09-26T17:54:50+09:00",
+ "runCount": 2535,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T17:44:34+09:00"
+  "at": "2026-09-26T17:54:51+09:00"
  },
  "articles": [
   {
@@ -43278,6 +43278,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T17:23:02+09:00"
+  },
+  {
+   "id": "f5d2bb8fbd5cbd9f",
+   "title": "동일 심벌 판정을 이해하는 천봉 마작 예시 설명",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOenZWM21rQ29MV3YyaHU2NkpiLVRBTVRPV3UzTWhBTXJfRjRvc2xKaVAzV1V2Vkwxc1BFdG9jdGMwQTJBQy1aMWRIS3VSWGJGRjh6OE1rSGVvbTRZdE40NHNHSExZM0pPZUczYjJ6OE85TlhRNldzLXNzM0VPbXpDVE8zek9UTV8xMW51NVZLN1BmdEgwSTMwMl84d0pfZVBGWmh0Z091dmJKbGtOZHhhbmN5dHM3dGVtUEpoeFZPS1htSHZCaHdxUXctd1FfQzZmRmNBc3hqbkNrN2NsMkptYWdGS0QzTDZITmlF?oc=5",
+   "publishedAt": "2026-09-25T23:43:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T17:54:50+09:00"
   }
  ]
 };
