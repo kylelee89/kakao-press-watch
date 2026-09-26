@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T19:08:40+09:00",
- "runCount": 2542,
+ "generatedAt": "2026-09-26T19:18:57+09:00",
+ "runCount": 2543,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T19:08:41+09:00"
+  "at": "2026-09-26T19:18:57+09:00"
  },
  "articles": [
   {
@@ -43299,6 +43299,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T17:54:50+09:00"
+  },
+  {
+   "id": "8a30e04a4aa6982d",
+   "title": "게임 설명의 별표까지 읽어야 하는 이유, 우리 카지노 회원 가입",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM0dNb3RKUUFDZTlPVHQ0dHBoeE85cV92NWpjMzFyVUY1aTJVcndsVVdhdGlnOTVoT08xYkFYVWgyZWl2RjQ5T1RMbERLVHVjeUllbFkyaGNiSG43YlZoTXdUZXBCelFsMi1Bb3JqMzNkckpUN09vWHE2b3lIbE1LeEJSSHNXMHlrd0RBX1VBWEh3SUpUQm9uMTZLc2dlbzdLbERjUnp2VXZBOG4xZVlxd2NINGNZbURwZXpKUlI2Q3VITDRsOE5YNExFNzNwdEcxeGlTajRVRnJhMlk?oc=5",
+   "publishedAt": "2026-09-25T22:18:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T19:18:57+09:00"
   }
  ]
 };
