@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T17:11:50+09:00",
- "runCount": 2531,
+ "generatedAt": "2026-09-26T17:23:02+09:00",
+ "runCount": 2532,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T17:11:51+09:00"
+  "at": "2026-09-26T17:23:02+09:00"
  },
  "articles": [
   {
@@ -43257,6 +43257,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T16:41:00+09:00"
+  },
+  {
+   "id": "6e30b5c4b986e8b5",
+   "title": "움직이는 배경과 릴 영역을 나눠 보는 슬롯계약",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcVd2RFpKYlNVOHhZdjUwZnZfd2lVSWVWVjk2dFZ1OXVCMWRoNlgyMmRKbnpsNkk1aWVWSGs1QThWSGxWVW9jVUNkOGNhVFBkUV9EQ2U1RnNkOGdxcTk0QW5yY2thaEppb2tnY181SFBFdWtYbU1FQ0NBcTBUQlBIV2hqYXRfWGpoaEk3Wkp1ZXlKOXFfMGlxM3pkZUNBR2hMdnJlZncxQ2l3b1k0Q1AzWTVXSzlJTmpXMmZ1cmxfdEpzMTNTQW1WMEtiaXUyUkF2YVY3TnJ6YW9WeV9ERG9MenZYR2ZmUQ?oc=5",
+   "publishedAt": "2026-09-25T20:26:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T17:23:02+09:00"
   }
  ]
 };
