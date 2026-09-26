@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T16:30:43+09:00",
- "runCount": 2527,
+ "generatedAt": "2026-09-26T16:41:00+09:00",
+ "runCount": 2528,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T16:30:43+09:00"
+  "at": "2026-09-26T16:41:00+09:00"
  },
  "articles": [
   {
@@ -43236,6 +43236,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T16:10:10+09:00"
+  },
+  {
+   "id": "715bbb99b8d26eba",
+   "title": "테마와 시스템을 함께 이해하는 꽁 나라슬롯보증",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfb2hJUmZnMmZQWkFxbDBhUzFNR083V1pZRFBLem1HUFhkRi0xQ1Jza3NmN0xjSkRHdFpGN0RGVjNmU2VSTWxqWkRPTHJUVDZhYWZhdV9HU3Bmand2V2RDdlpLMHpEWUxLeEhvTW9VSmlSVGVscjZFQTQzR0VQZw?oc=5",
+   "publishedAt": "2026-09-25T04:36:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T16:41:00+09:00"
   }
  ]
 };
