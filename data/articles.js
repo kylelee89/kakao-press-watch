@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T11:38:19+09:00",
- "runCount": 2499,
+ "generatedAt": "2026-09-26T11:48:34+09:00",
+ "runCount": 2500,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T11:38:19+09:00"
+  "at": "2026-09-26T11:48:35+09:00"
  },
  "articles": [
   {
@@ -43128,6 +43128,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T09:54:42+09:00"
+  },
+  {
+   "id": "87595ac09ad0b714",
+   "title": "기능 설명의 순서가 중요한 디즈니 플러스 카지노 규칙 항목",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNFpQVDR5aURHbUZqb1lfWkNIX2gwbnprZmpKNUJCMWZpVHpfTHpUbkhZWDRPOTJGZldOWG0wdkoxNzhxMEdLanE3a09MT0hrV0pkLVRYZnl1bWtTTktWd3RmRkwzemphNnFWelMwa2RkbU42OUNPbW9QZjFPbFNWSVNhQXpoWXZDdXlZNXRmcHVzeXZaXzdYRXUzNU93eXJQMjlUcWNBV24wdlg5cUxnTnVGNTlWa0JodGJQRDZuX3p2YXhrWUVwNWFxWGU4VVF0?oc=5",
+   "publishedAt": "2026-09-24T20:36:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T11:48:34+09:00"
   }
  ]
 };
