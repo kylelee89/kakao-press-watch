@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-27T00:13:18+09:00",
- "runCount": 2571,
+ "generatedAt": "2026-09-27T00:24:32+09:00",
+ "runCount": 2572,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-27T00:13:19+09:00"
+  "at": "2026-09-27T00:24:32+09:00"
  },
  "articles": [
   {
@@ -43366,6 +43366,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T23:20:02+09:00"
+  },
+  {
+   "id": "235eb12a6a0f064b",
+   "title": "한 판을 따라가며 익히는 토토핫 텐카지노 기초 규칙",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQanRSdUJMUmpoZm55NTU2N25mNnVCcjFIUnZ5dnRfaEVna0FEWjZIRUdCQUgzWUhrV19HRE1jaV95STJadEpPc3F5ZzNEMVRzMW1KZnZ2X0ljLW90QVZwbVd3dFFoLXZoeG03SVcxTmZ2S3dpX0FUOFNfX042OG5RTTlRZEwwSEtzRjdCUWVZcjZRcVMzdk50c2VzUENQT2swYVhHbjVfdG1zM2R6WFhrZjNQamJwZzZGOV84RktBVjdfRUZBSEJyVGYzY3VVdGFiSlpyWnNPLXhlV0hIcVVnM21Zcw?oc=5",
+   "publishedAt": "2026-09-26T17:47:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-27T00:24:32+09:00"
   }
  ]
 };
