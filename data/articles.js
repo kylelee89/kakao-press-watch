@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T23:09:46+09:00",
- "runCount": 2565,
+ "generatedAt": "2026-09-26T23:20:02+09:00",
+ "runCount": 2566,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T23:09:46+09:00"
+  "at": "2026-09-26T23:20:02+09:00"
  },
  "articles": [
   {
@@ -43345,6 +43345,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-26T20:42:04+09:00"
+  },
+  {
+   "id": "f98828c5bada9601",
+   "title": "규칙을 한 항목씩 찾아 읽는 디즈니 카지노 제작비 도움말 활용",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWkwMUxvaW5FZGRqUWVXRTFTR2l1VEFxS2ppcnFSNGZSeENGdERacWZvUlZnamhfUEYzWkszZ2lKU2ZDYjQ4d1JlaktUa3I4MkNGMDVRVkRxRV9MNnRWdDdJNU9TX0RiMjJLaGJJR0NaMWt6ajhHNnN4NklDdTk1Rm1NTkFiZkpJS2xGc0lWYzgyUC1KbnEtWjFCM2I4eWgzRzFXUk9DbjVzZHBOUmVTSUFDRTRmaFpSMGRZTnpzSnVpQy1zVTdZR185Q0ZqLXZBTXEtNERsNGp6QVd3M2U4?oc=5",
+   "publishedAt": "2026-09-25T00:10:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T23:20:02+09:00"
   }
  ]
 };
