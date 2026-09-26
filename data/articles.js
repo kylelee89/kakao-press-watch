@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T08:51:17+09:00",
- "runCount": 2483,
+ "generatedAt": "2026-09-26T09:01:33+09:00",
+ "runCount": 2484,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T08:51:17+09:00"
+  "at": "2026-09-26T09:01:33+09:00"
  },
  "articles": [
   {
@@ -43086,6 +43086,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T08:08:23+09:00"
+  },
+  {
+   "id": "e8b2d8570d88ef9d",
+   "title": "토토 가족방 이벤트 의 비밀을 풀다: 전문가들이 공유하는 핵심 팁",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQc2JfUjhfSlRkbHJBOG5rajZqZjI4X0YwNGxCZmE4MVpvSU5WYWd0ODkxWVFRVG1Pd2xmejJIcTFQc0laZzNzZjd3aVBWaDk3SVBJbGk0V193VkRrX21FMVBGakZ1OURNQ3VDeWNmNkVnMmM1Q0VVZmFIWEZMR0EtSUF6U1FNOHYtbHh5Wnp1RVhxd0RRRjg2bjNGV3hKamRBTkRubGE2eC1zRS1FeUp2UFVEVTdmSmg2VHhSZWRTRVR2bG1VdUNfek5nT2F5dkNOZEVhWlhwVW1OLUNyMzJ0ZDNiMlQ5RHZ1N2tEd1pINlU5MC1TdF84LUwySmRRN3NPQ0tqblpSWUJDMTdic0E?oc=5",
+   "publishedAt": "2026-09-24T22:09:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T09:01:33+09:00"
   }
  ]
 };
