@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-26T15:48:41+09:00",
- "runCount": 2523,
+ "generatedAt": "2026-09-26T15:59:53+09:00",
+ "runCount": 2524,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-26T15:48:41+09:00"
+  "at": "2026-09-26T15:59:54+09:00"
  },
  "articles": [
   {
@@ -43191,6 +43191,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-26T14:23:40+09:00"
+  },
+  {
+   "id": "8a67d39f29e6bc75",
+   "title": "밴드 토토 의 모든 측면: 장점, 단점 및 활용 방법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQazhZXzJ0R2d3VFc1cGw4QVM2azlGT0o3bWNWSGNqbHJVX1FycnRZY2hlVzR3YVpuNkdHVUtOLVVObUpMcTYyYS0xUGRfQjdIb2Zrdm1aX3o5LUMycW9wTlNGMWxxZW5mbG5yQW9UT0JxRUs4cjZzVG1jRERLUmkzOTVTSEVGVy1RRlV4aW9JVjBhLV9URkNCQl9HN1dUNFAyN01SX0M0NVdZUHhtUk5abVJmU2pmTkVtRWR2MGFlRWQ3M3V1UG5IM0JBTnNEeWNlMFl3YUF2Q0sxX0ZBMHR0STRzVklqVE9fdHdzYXkxOUVYem1rRUFEaUlCUXRDNFJaOHlidzlkVVJvZnVHR0k2OWw0R2FnRHhB?oc=5",
+   "publishedAt": "2026-09-26T03:15:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-26T15:59:53+09:00"
   }
  ]
 };
