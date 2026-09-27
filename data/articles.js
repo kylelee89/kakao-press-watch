@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-27T13:12:27+09:00",
- "runCount": 2645,
+ "generatedAt": "2026-09-27T13:22:45+09:00",
+ "runCount": 2646,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-27T13:12:27+09:00"
+  "at": "2026-09-27T13:22:45+09:00"
  },
  "articles": [
   {
@@ -43543,6 +43543,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-27T12:41:36+09:00"
+  },
+  {
+   "id": "24585de461e9471a",
+   "title": "AI로 승부수 띄운 카카오···핵심 기반인 카톡 이용률은 '뚝'↓",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ScEx5WUVjRWRmQzRPU1d3S3BRUGNubFlaRC1hT2hDWDBMZF85VnhpNW9VdjRiUHlZekNNdFZ1S0xDbW9HMUNRVURfZkFnMmlUV183MzY4QlY4azN1SWh1RkJSSUZLWm1vQjRIU0xSVWhYUdIBdkFVX3lxTE44NnJPOGZWcXdvUTFzcW9obzlVc29mYldwN2djLTVWdnZKTlVibXM0U19Oc0tFekktY3E1ZmZKcUllaXpTR0ROMTlLV0dYaUljS1BidFduRlJxUVdUUkNaVXNfNXlQdmNRV0FvQUVQMVlPZ1Fmc0E?oc=5",
+   "publishedAt": "2026-09-27T09:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "등락:뚝"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝"
+    ]
+   },
+   "firstSeenAt": "2026-09-27T13:22:45+09:00"
   }
  ]
 };
