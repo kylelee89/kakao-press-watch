@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-27T12:31:19+09:00",
- "runCount": 2641,
+ "generatedAt": "2026-09-27T12:41:36+09:00",
+ "runCount": 2642,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-27T12:31:19+09:00"
+  "at": "2026-09-27T12:41:36+09:00"
  },
  "articles": [
   {
@@ -43517,6 +43517,32 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-27T10:02:49+09:00"
+  },
+  {
+   "id": "146e049f854944f7",
+   "title": "연휴 이후 증권가 목표주가 상향 종목 꼽아보니…",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hMlNVdGdCM0tqQmFmNG1mNHVkdHVnRVNOVFpMUTMzNy1HeHFJYnlsaE1hOVoyb3l0X3Q3NXpxbnBUNVNuTVlmbHdYZzBSakNRS3d1b2xwTHNzYzlOSVpUakVwclh1REdjaWVHTUVxd1LSAXRBVV95cUxQSlpUaE9DOGZaT0ZrVk93cFZ3UENvUGYwRUNwNzJ1cXZreDJrWGVfUWVvUXhENmtMeG9DUkRZR1BVV3RUOGpFSVdIcXBNU29zZS1FQm1BTW85cllDR0R1LWtJVVJnYzhMRlJTYkVlbl90VVdfcA?oc=5",
+   "publishedAt": "2026-09-27T11:00:00+09:00",
+   "tone": "긍정",
+   "toneScore": 2.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:목표주가 상향"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [
+     "목표주가 상향"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-27T12:41:36+09:00"
   }
  ]
 };
