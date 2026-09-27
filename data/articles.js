@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-27T20:31:42+09:00",
- "runCount": 2687,
+ "generatedAt": "2026-09-27T20:41:58+09:00",
+ "runCount": 2688,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-27T20:31:42+09:00"
+  "at": "2026-09-27T20:41:59+09:00"
  },
  "articles": [
   {
@@ -43589,6 +43589,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-27T20:11:08+09:00"
+  },
+  {
+   "id": "8adc77d4bac627e9",
+   "title": "멈춤 버튼이 있다면 어디까지 멈출까? 카지노 미공개 분 보기",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZjgxNkMzREptZ2d3Nlh5dnBYd0IxYVB0M0ExX3NwUlo1a3NlLVM0QkpkWDNhQldOWWxfREF6ZXJVWTVGQ1VQODdzR1JMQjFYeFZzeHVtSU42QWxINzh1ZFZwTUtWMEZLM2RjVW9SSUFqQzJaUXVXdkVLdlY5QUxJU2xBckRFQjc4VHVUMnpsVEw4MHpaeUwwOE1xZlVNNlJiS0pYOVY2cm1fakZxR1NjdnNMTTlVUTFTOFpMQi1tTTlURHNMRFh5cEVhQ28yZTdJVGI2M19CNmstV0FrLXhrMHBzNEhzS3FXaGJaQjZMSjNqNVdwblp3X2hUdkhYTUlKSUJPbWp4dUVmMWhsR2VBcA?oc=5",
+   "publishedAt": "2026-09-25T01:03:41+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-27T20:41:58+09:00"
   }
  ]
 };
