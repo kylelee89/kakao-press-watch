@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-27T20:00:51+09:00",
- "runCount": 2684,
+ "generatedAt": "2026-09-27T20:11:08+09:00",
+ "runCount": 2685,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-27T20:00:51+09:00"
+  "at": "2026-09-27T20:11:09+09:00"
  },
  "articles": [
   {
@@ -43568,6 +43568,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-27T13:22:45+09:00"
+  },
+  {
+   "id": "1dc15689f7ab8842",
+   "title": "카지노 양방 배팅이란 일반 진행과 추가 라운드 구분",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQb2NUVGtDUWEzYjVMZV9IaktNRTZsWGtqNmZIeW9kNXFBOEZJZVpOeHozbnF3c1VLb0xVT1o0UGVVTXBHeWxuWU1rWWdRenpkUjN5ZzliMi1vdlIzRkxrTC1LMGUwVjNtRXNEbEpLM0NJMExNQnFoazJWU0drekNwOGIzSGg2aF9VSlVaRUlRWDNFOFlNQ1J6MmFIZEdRY1dUWEUxZWNvcXNYenJhVlhrenV1bTBubDQ3N1ZBVkFjZklzamZVdWdnbHlkNXIwaW53ZjBvOU0zNDJCLXI1LVJqRU1jdG0yYWJuenBTTVRGYy1Tc1hnMHd2SDFrNHNJQlBzSUVCVUloQ3pBNFl0?oc=5",
+   "publishedAt": "2026-09-24T22:03:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-27T20:11:08+09:00"
   }
  ]
 };
