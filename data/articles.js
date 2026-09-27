@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-27T09:52:33+09:00",
- "runCount": 2626,
+ "generatedAt": "2026-09-27T10:02:49+09:00",
+ "runCount": 2627,
  "price": {
   "price": "33,800",
   "pct": "-1.02",
-  "at": "2026-09-27T09:52:33+09:00"
+  "at": "2026-09-27T10:02:49+09:00"
  },
  "articles": [
   {
@@ -43496,6 +43496,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-27T08:08:40+09:00"
+  },
+  {
+   "id": "0318f38d0e507759",
+   "title": "작은 기기에서 메뉴를 찾는 40 슈퍼 슬롯 무료 조작 팁",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQd3VodVhXdkMtQW03d1A2bEd4eVpPeElBMTg1ajQxTmdKRFdHd2pEdHBDWTBsYl84TmVnenlrLW9rRWFtXzdOaG5lZmJWQU0yMGdQS0tiOUNLUGpvajJJY1FtZlJ2WUxiOWtlemFqYUtzWkJmQlBWZEtDT2ZPNEFqVWluNk0xUnlPSklWUWVqZzRGaFh3VUpiMGtyd2xzWDVvVDFGVGVVOWt4V2ktcnZtSDYtUkVRdVUxc2lnNkhvbjA5a040Q3FlNjVSVTRIUU5VZDYtZ2NPT24tWlREVmlrYW14aWlXUzBDOU9QZGc5czYzalNhTER6Q1ljMFlBUVNGYUFfUkcyOA?oc=5",
+   "publishedAt": "2026-09-27T06:35:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-27T10:02:49+09:00"
   }
  ]
 };
