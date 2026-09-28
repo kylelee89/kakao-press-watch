@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T13:30:44+09:00",
- "runCount": 2784,
+ "generatedAt": "2026-09-28T13:42:08+09:00",
+ "runCount": 2785,
  "price": {
   "price": "34,300",
   "pct": "+2.54",
-  "at": "2026-09-28T13:30:46+09:00"
+  "at": "2026-09-28T13:42:10+09:00"
  },
  "articles": [
   {
@@ -44627,6 +44627,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T13:30:44+09:00"
+  },
+  {
+   "id": "38b0d0d4607119d2",
+   "title": "카카오, CA협의체 공동의장에 김도영…인적분할 전환 체제 강화",
+   "outlet": "아시아투데이",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15R1FwS191V2hOLWNqaGRsT1RKajNfVERhUHNXT2dCdDJERlZTZW1UVUlyXzhURkVpYlJveVhCT2JWMzA4SEszRFEyZ21nbVRfQ0ltTWFsUENlaTMwbjNMelF5T1BPOVktRF8tdlpR?oc=5",
+   "publishedAt": "2026-09-28T13:31:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T13:42:08+09:00"
   }
  ]
 };
