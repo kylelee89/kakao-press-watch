@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T11:13:05+09:00",
- "runCount": 2771,
+ "generatedAt": "2026-09-28T11:23:29+09:00",
+ "runCount": 2772,
  "price": {
-  "price": "34,350",
-  "pct": "+2.69",
-  "at": "2026-09-28T11:13:06+09:00"
+  "price": "34,300",
+  "pct": "+2.54",
+  "at": "2026-09-28T11:23:31+09:00"
  },
  "articles": [
   {
@@ -44013,6 +44013,170 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T11:13:05+09:00"
+  },
+  {
+   "id": "d9dc0d02921738ff",
+   "title": "카카오, CA협의체 공동의장에 김도영 카카오X 대표 내정자…인적분할 본격화",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ck5XejZmZ3ZFOU9CT0VSUHktUGtxdVVlek1LcFRtYzR5MldGdjl3REdUbXhIaXB3M1JhLS1TcUJpTUcwREhtRDhJTndoU1k?oc=5",
+   "publishedAt": "2026-09-28T11:13:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:23:29+09:00"
+  },
+  {
+   "id": "9ee9548ac8dff9d0",
+   "title": "인적분할 앞둔 카카오, 의사결정 체계 손본다···CA협의체 공동의장에 김도영",
+   "outlet": "이뉴스투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Qa21mUjlGaTZYSlliQjBIM2NSdzNyV2RBaW9HOTRkTnVuVnVHYjJNQlctc2pVdG5BOGoxV3llWGJDQ1VwaVZzdm9aODY4aHpoM0R5d1RjdFZ5ZDI4czRQbFlMaG1NTGNYWDBEbjRYanXSAXRBVV95cUxNTHo4TGdXVE5pVkJEYU5HN004Wm42V2tDeHB0MktJOFB3Y3c4SlM2UWp6Zm9KY2NSS1YwRER0enFGc1VCV2RwU2JwdU5qZkNpcnVjYmxMZ0s0YWh0SFY4ZF90Tl8yZEw1MjlzMFNpRXIzd3FFTw?oc=5",
+   "publishedAt": "2026-09-28T11:08:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:23:29+09:00"
+  },
+  {
+   "id": "8450f074505e266a",
+   "title": "카카오, CA협의체 공동의장에 삼성증권 출신 김도영",
+   "outlet": "데일리브리프",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NX2puanJQSFVzYXJTbWp2NmcwYlpHZ05QalE3Wk9COXhPUnNKbDl1cDlvMUNZRjQyVmFzaDRlRnMzTlhVU3Q2eGJGZkZBS1FSNGRDTDRqSzgxbzlkN0JDbmg5cUp3R3E0X3BzdmFn?oc=5",
+   "publishedAt": "2026-09-28T11:07:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:23:29+09:00"
+  },
+  {
+   "id": "293bb1a6ff32593f",
+   "title": "김도영 카카오X 대표 내정자, CA협의체 공동의장도 맡는다 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zSy1reE5STk5jZnZ5WW0yZDVXRkxMZ3lpbVNDYThWZjhkMm1TUmRfQkVNRUd2OXhNMlo1eE8zLVBuU2syTk94MTFUNElyYkxpajdSUC1fSTNyTlNBLTg0ZGI4OEpZeXfSAWxBVV95cUxQZ1Bick1CYVhqbllKRVJ1WVR3dlRaNEZub1JGUGx5N3pXMzE3Rkp6S0ROeXVtVkpWVTFnTWtCd201UHlfdEJzUGNGUzdaTlhVR2swbERpMHd1S1FmUDVnNFhoWllSeFJ6TXV5ZFE?oc=5",
+   "publishedAt": "2026-09-28T11:14:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:23:29+09:00"
+  },
+  {
+   "id": "89d2e3af2a2f27ba",
+   "title": "김도영 카카오X 대표 내정자, CA협의체 공동의장 겸임",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hNDFuZVpwaTc1Nm81bFZCRjJSR2wtSUlVWUZSeDU3OXhMNFBUeWx2Q2VWLXhndTU0ejlkX3EweUlYQThQRVhrUi1HXzdVMnNfR3ZuMXNvN1JRSS1JUFB1LXNpVkRyVDhC0gFuQVVfeXFMTjZ1eGR5ZmhKZHFjT19kbjNEV2xHV0wxNFR2NWxBMnVydjZfN2M4TlYtMjdVd3RUZDJDRGY2S0hmaHJaTmRWZUtVY09OTE9Canp1OFR3OXY1ZmNfS2lyNUJIOFJUUHFJU2hiWUxGWUE?oc=5",
+   "publishedAt": "2026-09-28T11:11:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:23:29+09:00"
+  },
+  {
+   "id": "54b0b346a98eb613",
+   "title": "인적분할 앞 '투톱' 세운 카카오…공동의장에 김도영 내정자",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sVjNia0ZLODhkN056VUlUZTF0TGstRnpxUnZmeXRuak5Ocm9iRFFWQkVuVU1acUF1aksxUWNPd0RUcHBjMnpoSi1CcVpCbUcxRWVWMnhOQWg0dXhv?oc=5",
+   "publishedAt": "2026-09-28T10:58:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:23:29+09:00"
+  },
+  {
+   "id": "f66c1281751dc859",
+   "title": "카카오, CA협의체 공동의장으로 김도영 카카오X 대표 내정",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rUjBEQzl0TS14ZFZuRTRud3Ata0ZUd2JsLXRfQVpIR05nWURwZ2c5RC1fUlhjZ0dBQk1qYTR2UDBLWFdOaUdjaHQ1WXNPQm04OUhfdUpXeVBBY0c0aEdwODhibW5nYWJpM3pLeEtRQ08?oc=5",
+   "publishedAt": "2026-09-28T11:10:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:23:29+09:00"
   }
  ]
 };
