@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T15:29:28+09:00",
- "runCount": 2795,
+ "generatedAt": "2026-09-28T15:40:52+09:00",
+ "runCount": 2796,
  "price": {
   "price": "34,150",
   "pct": "+2.09",
-  "at": "2026-09-28T15:29:30+09:00"
+  "at": "2026-09-28T15:40:54+09:00"
  },
  "articles": [
   {
@@ -44863,6 +44863,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T14:46:39+09:00"
+  },
+  {
+   "id": "4d636dabb2c7a764",
+   "title": "카카오, 분할 앞두고 '투톱' 조기 가동…AI·투자 독립경영 시험대",
+   "outlet": "위키리크스한국",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1udEVuZWd4UE5zNkdrUkpuRG00TzI4U2cyOTBpRjkwRmVCenl6bWxhOGdCenNfM2QxQWxnaHlHWVdFTjlranhFeldDbV8zVE9UYld5TXQ3OFo4MDFLV3NNX1hIZ0Y1a3lPcnR6eGVSTVk?oc=5",
+   "publishedAt": "2026-09-28T15:24:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T15:40:52+09:00"
   }
  ]
 };
