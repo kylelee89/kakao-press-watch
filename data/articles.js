@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T13:53:33+09:00",
- "runCount": 2786,
+ "generatedAt": "2026-09-28T14:04:01+09:00",
+ "runCount": 2787,
  "price": {
-  "price": "34,200",
-  "pct": "+2.24",
-  "at": "2026-09-28T13:53:35+09:00"
+  "price": "34,150",
+  "pct": "+2.09",
+  "at": "2026-09-28T14:04:04+09:00"
  },
  "articles": [
   {
@@ -44651,6 +44651,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T13:42:08+09:00"
+  },
+  {
+   "id": "b21fb0f8be8d4415",
+   "title": "카카오, 인적분할 앞두고 김도영 CA협의체 공동의장 선임",
+   "outlet": "빅데이터뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TZzk0djVVMXZfRmlYYzdpRGswc0kwS3dTTGhyZG9ZdmhBNXdsblVYTjdDSXMyVjlJV2E2OFBXR05URGtIVC05ZXhHcURHN2s1d1ZZV2R5Z0dINE9ndEVFZVBHaXhyRnpHaWxYN29GdVZwcEs2Qi1kcTkwdWs?oc=5",
+   "publishedAt": "2026-09-28T13:58:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T14:04:01+09:00"
   }
  ]
 };
