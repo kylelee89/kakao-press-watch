@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T14:14:28+09:00",
- "runCount": 2788,
+ "generatedAt": "2026-09-28T14:25:50+09:00",
+ "runCount": 2789,
  "price": {
   "price": "34,150",
   "pct": "+2.09",
-  "at": "2026-09-28T14:14:29+09:00"
+  "at": "2026-09-28T14:25:52+09:00"
  },
  "articles": [
   {
@@ -44745,6 +44745,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T14:14:28+09:00"
+  },
+  {
+   "id": "328eb81c3cc3c03e",
+   "title": "인적분할 앞둔 카카오…CA협의체 공동의장 체제로",
+   "outlet": "IT비즈뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVDRuOGtYeGtqRTJ4VVcycllubmZSdHNuRGNhdmMtemRlLVZ5R0xIMU02Slg5enhlX2tpTmppQUozSDlvZHowNDM4QTZ3MFNtZXB0dzF1bnhaRkhLT2hpc3d4VnJXVjJ3REw1Mg?oc=5",
+   "publishedAt": "2026-09-28T14:14:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T14:25:50+09:00"
   }
  ]
 };
