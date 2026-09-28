@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T12:37:07+09:00",
- "runCount": 2779,
+ "generatedAt": "2026-09-28T12:48:22+09:00",
+ "runCount": 2780,
  "price": {
   "price": "34,250",
   "pct": "+2.39",
-  "at": "2026-09-28T12:37:07+09:00"
+  "at": "2026-09-28T12:48:22+09:00"
  },
  "articles": [
   {
@@ -44415,6 +44415,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T12:26:48+09:00"
+  },
+  {
+   "id": "678954238cd8c0cb",
+   "title": "카카오, 인적분할 앞두고 공동 의장 체제 전환",
+   "outlet": "BBS불교방송",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yUF90WjluNDY2YTVyMVcyWHM0M0dDOFRmSVotQ1J3QmRPeWVmNWdxTG9GUm1QVy1wbkdYLVJ0bXVNNUhoTktnX0Nvd0VEVG9IbHFPbHpaOVF4OXBLWVpBWDVSY3VvSXZPMHlZ?oc=5",
+   "publishedAt": "2026-09-28T12:39:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T12:48:22+09:00"
   }
  ]
 };
