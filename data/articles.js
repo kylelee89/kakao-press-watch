@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T17:38:45+09:00",
- "runCount": 2807,
+ "generatedAt": "2026-09-28T17:49:16+09:00",
+ "runCount": 2808,
  "price": {
-  "price": "33,950",
-  "pct": "+1.49",
-  "at": "2026-09-28T17:38:47+09:00"
+  "price": "34,000",
+  "pct": "+1.64",
+  "at": "2026-09-28T17:49:18+09:00"
  },
  "articles": [
   {
@@ -45187,6 +45187,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T17:38:45+09:00"
+  },
+  {
+   "id": "60a112130d44a1ee",
+   "title": "슬롯머신 코인 시작 버튼의 상태별 의미",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1neHc5V21UNXRPcjdyaThXOVR3YXJscERnbmg5U0tsOVE3X0d4dXJkSk5EajhJNkFKVzE2T1BiMDkybVRBSEx4RFQ2NVVaaVlYR2doajZBTkk1VUhUWVNNZWRPVHdMRzhTN1lFQkYtOHhsT0l6Q3IwR05OYVF1dw?oc=5",
+   "publishedAt": "2026-09-25T22:02:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T17:49:16+09:00"
   }
  ]
 };
