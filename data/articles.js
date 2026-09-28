@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T15:51:24+09:00",
- "runCount": 2797,
+ "generatedAt": "2026-09-28T16:02:01+09:00",
+ "runCount": 2798,
  "price": {
-  "price": "34,150",
-  "pct": "+2.09",
-  "at": "2026-09-28T15:51:26+09:00"
+  "price": "33,700",
+  "pct": "+0.75",
+  "at": "2026-09-28T16:02:04+09:00"
  },
  "articles": [
   {
@@ -44884,6 +44884,77 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T15:40:52+09:00"
+  },
+  {
+   "id": "0fe3d0eceff1514b",
+   "title": "카카오, CA협의체 공동의장에 김도영… 인적분할 준비",
+   "outlet": "chosun.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMERrZ2UzUlMwZjAzclBlYlFyYmpHdW14cjNPQko5cTlEQk4xSFlVN3V5c2dDMVRxcF83WnZkWUlyRDlZd19TVDdFQnFWTEl4R3ppQWJ1dmMyRmxpUEJTd1BHSE5hRFRtVGxnLWFjcktOU2dtUWtScHBHeTgtd1IwMFdfRQ?oc=5",
+   "publishedAt": "2026-09-28T15:50:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T16:02:01+09:00"
+  },
+  {
+   "id": "ce4b0bd92db51ca6",
+   "title": "카카오 CA협의체도 분할 따라 개편... 김도영 카카오X 대표 내정자 공동의장에",
+   "outlet": "한국일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDSXdkZnd6cUtQRGlOUUNjbExhclREa0lYdEFQTkpTcVlLT3FUdGtLZmxEN2NvSGxrc0Q5d3ZLMnR2SDJVM1I4NHNQMXpiekpqNk1qYTZkMUhZSFJKU1pFLU0yNlh2dlNGQVkwY3Jn0gFzQVVfeXFMUHo5d2FPQmlHSmZFVlM5YmlLdFZBYlhrSVN3elk1TWZsd2VsbEtQNk92MGRNbVhaMHR0YjBXUl9kRXZqaHZGdUxHQnBsT1FkaHI3NlFRTTFmOTdZQUxsaWo4UmphT0ExMGQyc3FCdFNCWkpLcw?oc=5",
+   "publishedAt": "2026-09-28T15:36:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T16:02:01+09:00"
+  },
+  {
+   "id": "d2550028c3689cff",
+   "title": "카카오 ‘CA협의체’, 인적분할 전까지 정신아·김도영 공동의장 체제 도입",
+   "outlet": "동아일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Oel9iWlNBTGI3UWdzUGNkcHFsVGNnVVA1Tm1LU19tR0NmRmdRQWNSZnZRRVJVNGlvU3NGN1BxZnBFcWJFejQ0dlBMM2JpN2NCaloySzNSUEoySEk0VlZCMUhWd3RqbDVKZmdOYmdvYkJoVUhVR0HSAWZBVV95cUxNOVdYUG1rS3g5d2E4a2tLaDBhcmhlZkpDTWk1VTliVWFVS0p3clF2b0x2N0xPdlVHRGw4b0NTTEg5M2tvTTJ2VGthTWZubmM2eU9Zc3NCZTV0MWwyejl3emJ1Sll4WUE?oc=5",
+   "publishedAt": "2026-09-28T15:31:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T16:02:01+09:00"
   }
  ]
 };
