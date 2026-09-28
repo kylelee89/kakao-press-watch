@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T16:23:59+09:00",
- "runCount": 2800,
+ "generatedAt": "2026-09-28T16:34:26+09:00",
+ "runCount": 2801,
  "price": {
   "price": "33,950",
   "pct": "+1.49",
-  "at": "2026-09-28T16:24:01+09:00"
+  "at": "2026-09-28T16:34:28+09:00"
  },
  "articles": [
   {
@@ -45001,6 +45001,74 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T16:23:59+09:00"
+  },
+  {
+   "id": "285cd9682e9f9815",
+   "title": "카카오, 인적분할 앞두고 CA협의체 공동의장 체제…김도영 합류",
+   "outlet": "메트로신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56N2NHczFLYkdYY3kyaXJKNms1R2dfUkhGYlBVa1NrTW9idnlVaTFOUVpwamlKR3p4VmhkOXdJamFUZnp2UkxQRHk3UnB3R2lTUXNKM3o0N1A4S1NnUmo3bQ?oc=5",
+   "publishedAt": "2026-09-28T15:48:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T16:34:26+09:00"
+  },
+  {
+   "id": "9873d55494b93216",
+   "title": "김도영 카카오X 대표 내정자, CA협의체 공동의장 임명",
+   "outlet": "mk.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15X0tJQ3dlb3RIalM5MDU1T3R1azJnZkZnX2xPR2NYcGI5ZVBNZTRRRDNxWURrZ1BiVWxUWUQyU0VlcUZISkNBR3BXYlItUQ?oc=5",
+   "publishedAt": "2026-09-28T14:17:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T16:34:26+09:00"
+  },
+  {
+   "id": "95fe0a36cf00e5f4",
+   "title": "카카오 노조, 국민연금에 면담 공식 요청…분할 반대 요구",
+   "outlet": "한국경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wQTkzM3VnbjZvUHhGZmRma2FlS3NpaTV3Zl9zMUxYbTVPRngyTTlpeXY4Q3E1UDJtWVJodi1JaXNyWkYzdkdTaVhTc3RtMWx4X3EtUlY0TDdWcUg3aEJRdXByT1lCcXp0Wk5NaE5LbzZ6SmM?oc=5",
+   "publishedAt": "2026-09-28T15:11:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T16:34:26+09:00"
   }
  ]
 };
