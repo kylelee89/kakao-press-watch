@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T12:48:22+09:00",
- "runCount": 2780,
+ "generatedAt": "2026-09-28T12:58:40+09:00",
+ "runCount": 2781,
  "price": {
   "price": "34,250",
   "pct": "+2.39",
-  "at": "2026-09-28T12:48:22+09:00"
+  "at": "2026-09-28T12:58:41+09:00"
  },
  "articles": [
   {
@@ -44438,6 +44438,100 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T12:48:22+09:00"
+  },
+  {
+   "id": "ab3f3a2a82c16a0b",
+   "title": "카카오, 인적분할 앞두고 '투톱' 체제로…김도영 카카오X 대표 내정자 CA협의체 공동의장 선임",
+   "outlet": "생생비즈플러스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBLVlGS2ZUeGlKSi1CdloyU25hTENSXzdSWVRHdXoweUFhdVBRUC1rUHhwMlliNzFwekdGaklyYy0wYUhnczZyLVV0M0JhekdFYk01YTRHUmZ1RWVsbndSNklHXzZsQ1hJRGRFeg?oc=5",
+   "publishedAt": "2026-09-28T12:41:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T12:58:40+09:00"
+  },
+  {
+   "id": "d802381ae34d1fb0",
+   "title": "카카오, 인적분할 앞두고 김도영 카카오X 대표 내정자 CA협의체 공동의장 선임",
+   "outlet": "직썰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LSUljM0N1a1pLbDRIVDRDX1NpUTZQSDdhYS1MSlhWWHJkTXlBNG9ZSWxwQlB1TUFWaHQwV281SjIxMjFkYUhoZUE0Mm5Ba3ZJTkZZVWl0YjhDTENVcnVCOGVBNHA5a0xhd0dxWNIBbEFVX3lxTE9LSUljM0N1a1pLbDRIVDRDX1NpUTZQSDdhYS1MSlhWWHJkTXlBNG9ZSWxwQlB1TUFWaHQwV281SjIxMjFkYUhoZUE0Mm5Ba3ZJTkZZVWl0YjhDTENVcnVCOGVBNHA5a0xhd0dxWA?oc=5",
+   "publishedAt": "2026-09-28T11:15:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T12:58:40+09:00"
+  },
+  {
+   "id": "46df4708460a5382",
+   "title": "카카오, 컨트롤타워 투톱으로…정신아·김도영 공동의장 체제",
+   "outlet": "더팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TUlN2dGdLbjYxOGpxTExIWmRfTjdyYzN3NjdNSE16UFJjdEJWcGF4eHpCaDY0Z0pDb0hIazhlX1FlRjNiNnFrYlVKb0FzQWc2YXBmbNIBVEFVX3lxTE9TUlN2dGdLbjYxOGpxTExIWmRfTjdyYzN3NjdNSE16UFJjdEJWcGF4eHpCaDY0Z0pDb0hIazhlX1FlRjNiNnFrYlVKb0FzQWc2YXBmbA?oc=5",
+   "publishedAt": "2026-09-28T11:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T12:58:40+09:00"
+  },
+  {
+   "id": "f763de3249f145fb",
+   "title": "김도영 카카오X 대표 내정자, CA협의체 공동의장도 맡는다",
+   "outlet": "스포탈코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYy1pMFUtT2lZWEFyQ09yRjliWXRPUjhUc3RmU1lwZ2JNVjB4YnQyMHlTakNYZmd1S252NlNTaHh0RHNPSkx5bjN4SURRXzgtcTJzTm9xN3RBdzVnX2dSQk5YNXZha0h6cS1IQjZOOElTUlRQSnVjcnhSRUZ3b2phTDVn?oc=5",
+   "publishedAt": "2026-09-28T11:14:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T12:58:40+09:00"
   }
  ]
 };
