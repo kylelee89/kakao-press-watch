@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T11:23:29+09:00",
- "runCount": 2772,
+ "generatedAt": "2026-09-28T11:33:54+09:00",
+ "runCount": 2773,
  "price": {
   "price": "34,300",
   "pct": "+2.54",
-  "at": "2026-09-28T11:23:31+09:00"
+  "at": "2026-09-28T11:33:56+09:00"
  },
  "articles": [
   {
@@ -44177,6 +44177,77 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T11:23:29+09:00"
+  },
+  {
+   "id": "2fab80e5811b5abb",
+   "title": "김도영 카카오X 대표 내정자, CA협의체 공동의장 선임",
+   "outlet": "스마트비즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hVlBTeUVGNE1PdGM2dTJwREJfOVNoRk40d1pzSG1BTjQ1Q3ZvS25PcXBzVFZHVW5CTGp6QXduclU3MTB0aXVzSEtJdzZsV21HSk5hTlAyX0JsbjYzandGUkFHVUxvSWNGbGx4NA?oc=5",
+   "publishedAt": "2026-09-28T11:22:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:33:54+09:00"
+  },
+  {
+   "id": "4de2695422bb5853",
+   "title": "인적분할 앞둔 카카오, CA협의체 정신아·김도영 공동의장 체제로",
+   "outlet": "컨슈머타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XNExCQVNKYlVDSE42M084REhPSnVxN2I3b245cTF5eDJVbmU2dW9LU2poX0tLTk9uRlJscEdnMm9vcDdRR1d4ZU55NjNQa2JOVU9RMTcyZVRvNVFHZVBVTmk5Y3hLNW9xbUE?oc=5",
+   "publishedAt": "2026-09-28T10:58:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:33:54+09:00"
+  },
+  {
+   "id": "c000b342c8b25924",
+   "title": "김도영 카카오X 대표 내정자, CA협의체 공동의장…정신아와 '투톱 체제'",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSWWNDOEdGNkJMaHhUbFNueFNPRTgtVXdXSkhUaDhqT2hVcW1FVVhlSnkteTJqcmQ5YS01XzNZX3dpNWVWRXZuOXhwWDFfVEJWQ3hsZWpUbEhMemhobk8tekEwa2JfczdTUHBSOVc5NDVYM3gw?oc=5",
+   "publishedAt": "2026-09-28T11:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:33:54+09:00"
   }
  ]
 };
