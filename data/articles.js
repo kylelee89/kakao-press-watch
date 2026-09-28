@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T11:33:54+09:00",
- "runCount": 2773,
+ "generatedAt": "2026-09-28T11:44:20+09:00",
+ "runCount": 2774,
  "price": {
   "price": "34,300",
   "pct": "+2.54",
-  "at": "2026-09-28T11:33:56+09:00"
+  "at": "2026-09-28T11:44:22+09:00"
  },
  "articles": [
   {
@@ -44248,6 +44248,53 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T11:33:54+09:00"
+  },
+  {
+   "id": "f2b4471dcf69e900",
+   "title": "'분할' 카카오 이끌 정신아·김도영, CA협의체 함께 주도",
+   "outlet": "비즈워치",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zbE5QTVFHY01MaTh6QWkyQ1N1Zy10YnZmQU1XWkdwdFRXdEx3RThRNElKMTNJTm9SaDQwWTFRLTVaMjZuQkFlOVNlWS1tSkF5dkcyUWlDbVBsRzFCUG1iNEt0VzUtenJ0cHc?oc=5",
+   "publishedAt": "2026-09-28T11:34:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:44:20+09:00"
+  },
+  {
+   "id": "316a127ed799c85d",
+   "title": "인적분할 앞둔 카카오, CA협의체 공동의장에 김도영 확정",
+   "outlet": "한국정경신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tdU90NGVMb1FXejBFRl95akIzTTY1b0hqekU3anBPQkRDcUlacXA1aFN3aXkyNlZLT3p6SUhDOXk5R2NJek5PaVd6NDk4elY0QUE?oc=5",
+   "publishedAt": "2026-09-28T11:39:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:44:20+09:00"
   }
  ]
 };
