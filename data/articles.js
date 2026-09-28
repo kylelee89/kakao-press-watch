@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T13:19:20+09:00",
- "runCount": 2783,
+ "generatedAt": "2026-09-28T13:30:44+09:00",
+ "runCount": 2784,
  "price": {
-  "price": "34,250",
-  "pct": "+2.39",
-  "at": "2026-09-28T13:19:22+09:00"
+  "price": "34,300",
+  "pct": "+2.54",
+  "at": "2026-09-28T13:30:46+09:00"
  },
  "articles": [
   {
@@ -44555,6 +44555,78 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T13:19:20+09:00"
+  },
+  {
+   "id": "649e9369d10faa36",
+   "title": "김도영 카카오X 내정자, CA 협의체 공동의장 선임...인적분할 앞두고 '투톱' 체계 전환",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkX1lsWloxUHBQc3JvY3NiWVEzOWtPTDdSczg0ZFQ3eGJoNmJpVTJ3clo3RDBRb3BkVXd0b3NqLWZnMVdXWG1kNjJ5V25YbXdNT1NqZTN3RDlWN0xGX0Q5OGtrMEw4Z9IBakFVX3lxTE0tdUd5VXVtbmZVU2c1cXJid3psV3lFTFgtQ0pRZDlJME1UbEM3RFIwUHN0QnBfV2NTT3dPc0tMcVpUT25NLXM4NEdNUUd3cTZDT18tblhTaEo4QkxRQXlKSmRUQlNZZjVHT2c?oc=5",
+   "publishedAt": "2026-09-28T11:37:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T13:30:44+09:00"
+  },
+  {
+   "id": "2ecae61a87b1a495",
+   "title": "\"인적분할 대비\"…카카오, 김도영 대표 공동의장 내정",
+   "outlet": "newskr.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BRlp3LTNvbUp0VUVmOXQxRzhBNnRhX3NlbEtZU0JFeGFNdWs1czFuU2RoUWVnTk1wNnZTbFhSZEczaUJjU2syY3ZqMHdDSDNkQVZvTWVPM1pudlk3aGljMlVNRV90Zw?oc=5",
+   "publishedAt": "2026-09-28T11:54:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T13:30:44+09:00"
+  },
+  {
+   "id": "768f6005fcab1119",
+   "title": "카카오, 인적분할 앞두고 '투톱' 체제로…정신아·김도영 CA협의체 공동의장",
+   "outlet": "중앙이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NWGV1MFhwTzdQU0FaTkJjQkJLeXg0dF81aGdNZXpmOGE4RjNxVGZvczVqM2g0S0VDZ3dKZFVBX21DR055cnp5ZkxtX1pETFV3VkZxNU5Ib0cwQllmSHVHclVHZDhzelN1MkZCYUh4Uzd1QQ?oc=5",
+   "publishedAt": "2026-09-28T10:40:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T13:30:44+09:00"
   }
  ]
 };
