@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T10:52:22+09:00",
- "runCount": 2769,
+ "generatedAt": "2026-09-28T11:02:43+09:00",
+ "runCount": 2770,
  "price": {
-  "price": "34,250",
-  "pct": "+2.39",
-  "at": "2026-09-28T10:52:24+09:00"
+  "price": "34,300",
+  "pct": "+2.54",
+  "at": "2026-09-28T11:02:44+09:00"
  },
  "articles": [
   {
@@ -43707,6 +43707,123 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T10:52:22+09:00"
+  },
+  {
+   "id": "ad04aec127a63e6e",
+   "title": "카카오, CA협의체 공동의장에 김도영…인적분할 준비 본격화",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkam54UG82cEJZaDJzcWhPMUlHZjl0eEFyNThLQUdOSEdLdU5YY3RTR0ZtWmhSZ0tzRUx5cW1qUWNoMlV3eWJNZ0ZOVXp5M2NTMGJ2d2E0UmZVZw?oc=5",
+   "publishedAt": "2026-09-28T10:52:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:02:43+09:00"
+  },
+  {
+   "id": "287f3c13b259049b",
+   "title": "카카오, 인적분할 앞두고 CA협의체 공동의장 체제 전환",
+   "outlet": "핀포인트뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xNTVWYkpwWG04dVZRQXRSMnBJOExHZEljLXJiY196dE9zMldDakdZRU8zanBIRUFYWnp4cWJ5ODRYc0J3a1hXQ1FCbnJOel9zd1kza3Y3QzlSWmpwcWtpeGp4Qi1TQUUzT19Xb1A4R09Ud1HSAXdBVV95cUxPbkkxT2VScnNxUWFyNkd1eFFya1VRRlZHWmVMc3pwLXRtblJXY0hIa3lnamhJdFlTdEdxU0lNNkhOd0F5dUhEeTI4YXZQWHlfWnE3NkZaYjEyTVJ4c25Scl9EYTUxSktYekNuOWhpa2oxMlBnZjdxdw?oc=5",
+   "publishedAt": "2026-09-28T10:38:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:02:43+09:00"
+  },
+  {
+   "id": "a37da1612ee25501",
+   "title": "'카카오X' 김도영 내정자, CA협의체 합류…정신아와 '투톱' 체제(종합)",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03aUJJZ0VtLWtKQ3BqZ21IbjdwUnMzdjRGd3VDM1J0cEQzdERuZjRDZHZDWlRfNlA5Qm1CVFM3MlhsVEk4NUl0M1RMTnk4VkZQZWwxaEhNWVdkejdQTHhBTdIBeEFVX3lxTE1wQ0Y1RzZBZnBwdUx6ZEtQcGlwMC1oQXZCN09HdG01ZzktMWhIVUZ1cmhuWGJ0cVUyNjQ2VEtIbXRqR2JMOTdWNGJPTFFwMmJ5MzZKSW9JNzFfTWNaRzkwb3RhMjZ4RmZwbkk3S3hoUXBtQURlLUYxOA?oc=5",
+   "publishedAt": "2026-09-28T10:57:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:02:43+09:00"
+  },
+  {
+   "id": "70586dc3e1c7978f",
+   "title": "김도영 카카오X 대표 내정자, CA협의체 공동의장으로",
+   "outlet": "시사포커스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaWktmNjBVUzl0QkFfVjRCMEs2Zkt0YnpJcWJqSkNlNTNWVTNBVl8xdUczSW1ZU0Y1d2ZJaG1fSC13eWVWTjdnTzM5NFpwaTR4VWx3UGZNUE9pMWlxcHMzSkNTZ2xvMzVsX1R6c2dWUQ?oc=5",
+   "publishedAt": "2026-09-28T10:51:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:02:43+09:00"
+  },
+  {
+   "id": "1a95477153bb0bae",
+   "title": "카카오, 김도영 CA협의체 공동의장 선임…정신아와 ‘투톱’ 체제",
+   "outlet": "헤럴드경제 미주판",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVcUFUOERMNm93ZnI4QWJkT0FENXhJSnJmc0hVM2Q4Y1o0VC1RbEpVektIZWRDa0pHdDlwOEt1OHYtQnRSZ1VZZ1U3RG1xMnoxamhwSGQyVmhDOE1ZSWdUaw?oc=5",
+   "publishedAt": "2026-09-27T18:54:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T11:02:43+09:00"
   }
  ]
 };
