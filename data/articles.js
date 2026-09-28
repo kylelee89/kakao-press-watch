@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T13:08:58+09:00",
- "runCount": 2782,
+ "generatedAt": "2026-09-28T13:19:20+09:00",
+ "runCount": 2783,
  "price": {
-  "price": "34,200",
-  "pct": "+2.24",
-  "at": "2026-09-28T13:08:58+09:00"
+  "price": "34,250",
+  "pct": "+2.39",
+  "at": "2026-09-28T13:19:22+09:00"
  },
  "articles": [
   {
@@ -44532,6 +44532,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T12:58:40+09:00"
+  },
+  {
+   "id": "a3ba8f64c7bd1f5b",
+   "title": "카카오 인적분할 순풍, 카카오인베스트먼트 흡수합병 반대 지분 약 2%",
+   "outlet": "supple.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ENUpqQm1MazJjMmFVZFRvZlF2TzFvaTgwTXZMaTgxd1Y5ZUltOFBjaUJ3YU5JSlU4YllrVUFfVW42Qm5SNTdudE55WWFLQVptbGd5bFhhcHdwemVm?oc=5",
+   "publishedAt": "2026-09-22T16:24:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-28T13:19:20+09:00"
   }
  ]
 };
