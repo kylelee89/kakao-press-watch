@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T11:25:09+09:00",
- "runCount": 2820,
+ "generatedAt": "2026-09-29T11:35:31+09:00",
+ "runCount": 2821,
  "price": {
-  "price": "33,750",
-  "pct": "-1.17",
-  "at": "2026-09-29T11:25:10+09:00"
+  "price": "33,600",
+  "pct": "-1.61",
+  "at": "2026-09-29T11:35:33+09:00"
  },
  "articles": [
   {
@@ -45673,6 +45673,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T11:14:50+09:00"
+  },
+  {
+   "id": "087994e18d343bb9",
+   "title": "카카오, AI 안전성 평가체계 구축…모델서 에이전트까지 확대",
+   "outlet": "디일렉",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XN0w2OVZlZkFSLXoyZGcyMEczR0t6cG9DT2NvTXAzUlREWl8wLUpyTlBxQ0p1SmFEc0ljUGNYSUJfcWhKalhwbVFTWE5iLThJcFNpbHpyWFN6SXRZZzZHNWIxX2lEZw?oc=5",
+   "publishedAt": "2026-09-29T10:30:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T11:35:31+09:00"
   }
  ]
 };
