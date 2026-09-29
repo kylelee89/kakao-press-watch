@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T06:52:19+09:00",
- "runCount": 2930,
+ "generatedAt": "2026-09-30T07:02:38+09:00",
+ "runCount": 2931,
  "price": {
   "price": "33,750",
   "pct": "-1.17",
-  "at": "2026-09-30T06:52:20+09:00"
+  "at": "2026-09-30T07:02:39+09:00"
  },
  "articles": [
   {
@@ -46126,6 +46126,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T04:35:44+09:00"
+  },
+  {
+   "id": "1f8bc2a4d7eee7be",
+   "title": "새 화면이 나타났을 때 참고하는 블랙 잭 카드 카운팅 슬롯보증 이용 문답",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcl9HVXBMaHlwdXlTWjl2SFBwYkhWeDhXeG1BZERKV2dUMnNHaGZYeUR3ank3VFJQUHZYM254SmxPejg5UDhaUk9VTm9xZFFvU0Q0REtvWXFJbVNYRGJWVXZfZlNUeFVtSWFCcmxsckFxdHE3RDExY3FaZktSWFNxeDBoUmp4ZmkxVkRuMFhIWnZMT2pSQkhicThyWjB1c2V6Vmc?oc=5",
+   "publishedAt": "2026-09-30T04:32:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T07:02:38+09:00"
   }
  ]
 };
