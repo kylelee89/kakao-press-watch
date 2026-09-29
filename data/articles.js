@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T17:05:52+09:00",
- "runCount": 2852,
+ "generatedAt": "2026-09-29T17:16:11+09:00",
+ "runCount": 2853,
  "price": {
-  "price": "33,650",
-  "pct": "-1.46",
-  "at": "2026-09-29T17:05:53+09:00"
+  "price": "33,700",
+  "pct": "-1.32",
+  "at": "2026-09-29T17:16:11+09:00"
  },
  "articles": [
   {
@@ -45943,6 +45943,34 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-29T17:05:52+09:00"
+  },
+  {
+   "id": "d7ec89d4a4c5426c",
+   "title": "[오늘Who] 김범수 사법리스크 속 '뉴 페이스' 김도영 전면 배치, 카카오 6조 자금 들고 사업 재편 '속도'",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwNE5pNEU5X2N0M2NPdHl4VmtOa2pfVXJXeDNrVVpnTzVnQ2tXSnZUM3VNcm5KSWJCRnVDZ3d3MkVzYUVOWjQtX2Z4TmVWWEVhRjJCd1ltdzFjV3NuU1RSV1gzM1RzaDJYSU4wbjZBVG1NYmM?oc=5",
+   "publishedAt": "2026-09-29T16:43:17+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오AI 2030 매출 6조",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-09-29T17:16:11+09:00"
   }
  ]
 };
