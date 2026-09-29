@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T13:31:36+09:00",
- "runCount": 2832,
+ "generatedAt": "2026-09-29T13:41:53+09:00",
+ "runCount": 2833,
  "price": {
   "price": "33,500",
   "pct": "-1.90",
-  "at": "2026-09-29T13:31:37+09:00"
+  "at": "2026-09-29T13:41:54+09:00"
  },
  "articles": [
   {
@@ -45803,6 +45803,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T12:59:39+09:00"
+  },
+  {
+   "id": "ff677cba9e6f8bed",
+   "title": "단어는 익숙한데 뜻은 다른 카지노 꽁돈 게임 용어",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzdYVndDSjc0ZU9iRDFwR0l5azluLV9KYmljeGViTG80U2NmV2pEQjE5OG1fVi1CRmVBLWwwSEhibUVJM0JUTUFfc1dVbGVwVGxMUklsYWhpVldjOFFXeVZJZUlsNnZjRmRVbG83YjZ2WFpad216VmxIMFhwLVlQM3UwMmxadVhNU09tTTlsSEU5RFdxU3M2NFBSTzFZVjJXX21CMG03dWYyYkJNQXdqYzFkdTZXWFRlVzQ3MA?oc=5",
+   "publishedAt": "2026-09-28T18:50:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T13:41:53+09:00"
   }
  ]
 };
