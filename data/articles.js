@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T07:12:56+09:00",
- "runCount": 2932,
+ "generatedAt": "2026-09-30T07:23:16+09:00",
+ "runCount": 2933,
  "price": {
   "price": "33,750",
   "pct": "-1.17",
-  "at": "2026-09-30T07:12:57+09:00"
+  "at": "2026-09-30T07:23:17+09:00"
  },
  "articles": [
   {
@@ -46147,6 +46147,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T07:02:38+09:00"
+  },
+  {
+   "id": "af27fa3e9e94d1ce",
+   "title": "토토 드림 랜드 천명 메뉴가 접힌 상태에서 찾는 기능",
+   "outlet": "calgaryroughnecks.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUlV4Y2JtNkJXS1FGZHhxb2FYWWRpaE80YjlFMnBObW4wN0hUNHpnWG5LamNQODhBVWlSd3RscWU2ZnhaUGVId0VMTTUzTTZBaUtkTVNmZVVHYkFJS3lFNmdNSXZ5YVlnajdUTUNmcC1LQ1NKdGJOTzZSdGdFRlBNYmpxU3Nzd2JLNkhiQ2ZZZkM2WjhSNGVBazlrbmxVZ2pfRTBhbVo0MDJZbDVISGxyRWJsa19tOGotal8tbEw0dHc3RV9IcHg2VHgtWU05OE96QlJxQkpLSlJRVll0?oc=5",
+   "publishedAt": "2026-09-29T16:35:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T07:23:16+09:00"
+  },
+  {
+   "id": "1c2ee2be5bbe6279",
+   "title": "한 화면씩 넘기며 읽는 게임 설명, 카지노 경영 게임",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc1d4VDdXS3B1RkQzVTU2Z1FBTXZsWFhUYXNtTnNZTUZSQ0kwaFlzbzhaUVV3STRZZlVFbHpUSkpYR3QxZGxSQjVWTENjS3ZoUmtCUW5uQVVPcmdYY0tnVzlUeFg1dGwxTkNna0duRWY1dXRIaF9aNVVRRTdOMURNb0NOcFVjMGxUOVVnRU1renBKR20ySGRsYXdFdHFMbkJTdmY0cElTNW9QTDRGZ282NQ?oc=5",
+   "publishedAt": "2026-09-29T14:52:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T07:23:16+09:00"
   }
  ]
 };
