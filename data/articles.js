@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T18:10:07+09:00",
- "runCount": 2858,
+ "generatedAt": "2026-09-29T18:21:29+09:00",
+ "runCount": 2859,
  "price": {
-  "price": "33,650",
-  "pct": "-1.46",
-  "at": "2026-09-29T18:10:08+09:00"
+  "price": "33,600",
+  "pct": "-1.61",
+  "at": "2026-09-29T18:21:31+09:00"
  },
  "articles": [
   {
@@ -46013,6 +46013,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T17:58:45+09:00"
+  },
+  {
+   "id": "0ca64a106e5f38cc",
+   "title": "인적분할 앞둔 카카오, CA협의체 공동의장에 김도영 카카오X 대표 내정자",
+   "outlet": "한국면세뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iTGlzVll4VGt2dXVqNHdpb1JUOGl1UFZiSlduYnhuOVAwMUsybjBndy1JTGtYMzU0Z3hFU25PV0FsdmJGQXBBTmZHNnZIcENKMzhnRUxxSU5zVjhWRWhQdUNDWHE?oc=5",
+   "publishedAt": "2026-09-28T15:34:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T18:21:29+09:00"
   }
  ]
 };
