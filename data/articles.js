@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T17:16:11+09:00",
- "runCount": 2853,
+ "generatedAt": "2026-09-29T17:26:32+09:00",
+ "runCount": 2854,
  "price": {
-  "price": "33,700",
-  "pct": "-1.32",
-  "at": "2026-09-29T17:16:11+09:00"
+  "price": "33,600",
+  "pct": "-1.61",
+  "at": "2026-09-29T17:26:34+09:00"
  },
  "articles": [
   {
@@ -45971,6 +45971,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-29T17:16:11+09:00"
+  },
+  {
+   "id": "70d99e9d1950766e",
+   "title": "잔액과 이번 결과를 나눠 보는 로토와이어 nhl 화면 정보",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWU8xV216WEw4cURaM3QwaUZKUl9vRUFLX2R5a0ZoN05wdzhGZ0UzdVBfRXc0SkpOclFNMkJpQXc2LWxqZjU0X2lMWTFMSks2b3VWWlMwUFVQQUZtM1BEX1BoMGZBR0NuY1VTLW9kVnA2M0pHZlp6WFcyaFhmaFlvOGVGbHc3cEhqeXpmV0FQQVhPbVZiakxFRDNrRVZfTUVBUWQzb3hVRjJHT05KbVdYdXg0MHVaZnVJenhUbFZPNmNXUUdWVUlzcldxRDROc2RkQWRfd21penV6LU14YzlrQQ?oc=5",
+   "publishedAt": "2026-09-29T08:14:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T17:26:32+09:00"
   }
  ]
 };
