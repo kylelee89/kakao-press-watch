@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T23:56:57+09:00",
- "runCount": 2891,
+ "generatedAt": "2026-09-30T00:08:10+09:00",
+ "runCount": 2892,
  "price": {
   "price": "33,750",
   "pct": "-1.17",
-  "at": "2026-09-29T23:56:58+09:00"
+  "at": "2026-09-30T00:08:10+09:00"
  },
  "articles": [
   {
@@ -46060,6 +46060,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T22:54:14+09:00"
+  },
+  {
+   "id": "1795ca677deda40f",
+   "title": "메인보드 그래픽카드 슬롯 고정 핀 게임 버전에 따른 정보 확인",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPd1JLUGJDWDh0RHZzYnRpYkxwNVN3elZiaF9LOHBPZkJtZ0ZzQjdEdDMwcEVaWkp6MTdhbmJZTGVzaHpxcl9Udkx1N3lLT0VoWkd5VGhob2lxUTdwZXdCSThQdjVvRVJqcm9ib1cyNHlMLVVvWjdXMUlUampCaDBIdmhSQWMxREc3MFdSNVh3MGpRRGtRTExlNmFwUzcybXpLbWZHUEYzNkNfT1pxRjB4X1NtcVNTVXp0aGVkYmxITlZQWGJWVUF6VWVvZ1BaMTE3Y0c0emx0SlppLURENXFiMEI3YWR6YnVfUUpQWWpHSkFHY1ZpdkZ5T1drak5ENEN4eVdZWE9JZl9uWlludW5HVHEtMlp5S25MZWREcQ?oc=5",
+   "publishedAt": "2026-09-29T18:28:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T00:08:10+09:00"
   }
  ]
 };
