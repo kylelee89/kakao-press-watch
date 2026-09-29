@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-28T17:59:40+09:00",
- "runCount": 2809,
+ "generatedAt": "2026-09-29T09:38:57+09:00",
+ "runCount": 2810,
  "price": {
-  "price": "34,050",
-  "pct": "+1.79",
-  "at": "2026-09-28T17:59:41+09:00"
+  "price": "33,800",
+  "pct": "-1.02",
+  "at": "2026-09-29T09:39:08+09:00"
  },
  "articles": [
   {
@@ -45208,6 +45208,427 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-28T17:49:16+09:00"
+  },
+  {
+   "id": "7d0572620281164b",
+   "title": "카카오, 인적분할 앞두고 CA협의체 공동의장 체제로…김도영 합류",
+   "outlet": "아이티데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04VzBZaHZPanhrbEJuLXBWWXNKRkNkSTVQQTVGUE9TZndxUFhnbUJGR3p5cENLZW5QRFFqMEtxTl9aRW1oajNRUUxYVHBVclhGOVNsYVhpTlB3YWdpU0NHN1J4a1lsalJx?oc=5",
+   "publishedAt": "2026-09-28T16:03:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "aa84c13f12cdac1a",
+   "title": "카카오, 인적분할 앞두고 공동의장 체제···김도영 합류",
+   "outlet": "finomy.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vUVFXSHpmLTN4aWtBdVZ2dnJ6QkpKU3lvaWVtbjZ4Y0p2WGFCRnBGSHkxTUtoQ3d3MkJhYm11clVVWjR2eGhVN21yMW9GeU96cEVmNHpqM1FZQWxxVVk3XzZTUGQ3UWlV0gFrQVVfeXFMT1V4emt0S0dEeGRuY2YxSlNmbzc0X1VDN1NDLWd3cEtKSmdEaTB3SEYwUWZjVHpPODBTQ1JpSlRMTkc1NlJlaUd4VE90VW9oSzI3QVJjeUN3bzcwRzV3R1VWTi1NVnVIbU9EcGs?oc=5",
+   "publishedAt": "2026-09-28T17:42:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "0682a95a3aab7f25",
+   "title": "카카오, 인적분할 앞두고 ‘정신아·김도영’ 공동체제…CA협의체 함께 이끈다",
+   "outlet": "더퍼스트미디어",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwa05CcGcwRDVUYVFqYjU2N3gtQlRfVGlxenoxMW8td1k1WS1yUW0tUTRwX2trQXFyYTc4VldXZHdYOXNBeGl3SHdSMks3NEJ5X1ZlUERCVjRZdk9YbXZEakZSV1pKMWFJTTFfaGVVT240bFdF0gF0QVVfeXFMUHBrTkJwZzBENVRhUWpiNTY3eC1CVF9UaXF6ejExby13WTVZLXJRbS1RNHBfa2tBcXJhNzhWV1dkd1g5c0F4aXdId1IySzc0QnlfVmVQREJWNFl2T1htdkRqRlJXWkoxYUlNMV9oZVVPbjRsV0U?oc=5",
+   "publishedAt": "2026-09-28T19:09:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "5428e82340fac182",
+   "title": "인적분할 앞둔 카카오, ‘김범수 2심 판결’이 변수 될까",
+   "outlet": "비즈한국",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2c4VVhPZGVOQmpSNUhtM09XYVA2TE1FTzNTV0hYN0FMUHU4OFpCLXA0Q3lueHhpa25IZ2JuUnhfdkRNclBvQ2ZSTjcydGh5ajVrNzF1MHg2bXhScDI3eDRmLUY0ZUZVZmtIT1p5RDBkV3BUeUt1dUJzdVFNRmQ4R1JjSQ?oc=5",
+   "publishedAt": "2026-09-28T16:49:14+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "4c846a7aa782b137",
+   "title": "카카오, 김도영 CA협의체 공동의장 선임···투톱 체제 전환",
+   "outlet": "글로벌E",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RTjlxQkFiR1VIQmpGS3l0M1BZel96eVhUazk0RmV5aFNhdWhtWGFNVms5SldtODZ6MlNObnNMT0p1TU5BM2pQQlVmcER3bVhXTUNJVmhHQ0VZQ3ppb3BscDdIeEdiUVhYVVhj0gFvQVVfeXFMTkNxUUQzdGU1U3dHdGplcVRIRWNFVTVNX0VIZURBMEVwNk1sdW5HdWFnSXV0SHk1YTlxTE5aVWl5elBIR2FhQlRQOENUQlBkbU1MYjV3NUxHd3NZWnZNMGMzRmQ5OXVnYjg2a0NWVTJr?oc=5",
+   "publishedAt": "2026-09-29T07:17:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "c6d8aae8fc0061b3",
+   "title": "카카오, CA협의체 정신아·김도영 공동의장 체제로...인적분할 대비 강화",
+   "outlet": "ftoday.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04ZUNPdHdERWRZUXRDSVFqNUYzOTJJR2NXUHFwS3NxcWxtN2g1VkJBd0N5bWhWaVlHUHZFSUcwTE1JcklaWVI0c25sZnlRUGczdFZjaFpQTnBZWHNVcTBwcmEzOFFUNzhwU2fSAW5BVV95cUxQTFZOdFVjbHNCLVNQMzEyYU9nUm4wUVk0aW5VVDBfaXZqdEM5TXFPbEhGeTBVQWh5bThnQ1R2YVdSN3p5WmYwMVB0VXR5MTRaYTRWUkNFR3lvcHA3Vjdad0NNNTFYUHA4WXkyaW1OQQ?oc=5",
+   "publishedAt": "2026-09-28T16:05:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "33ca2dd152439aa7",
+   "title": "카카오, 인적분할 앞두고 ‘투톱 체제’…김도영 CA협의체 공동 의장 확정",
+   "outlet": "쿠키뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCZ1ExY3JuYXBTY2szb21vWkZ0cDBmcGlvZUVWeGEwSVhlMGhrNXdvUmZtMzdRTFEwWkdITl9sYXdHcXQ3X1JMdFA0bndyWi1BVy1OeHBabWVvbUVEd0czb0hQYw?oc=5",
+   "publishedAt": "2026-09-28T14:07:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "ef2bfa4970a183fb",
+   "title": "'IB·재무통' 김도영, 카카오 CA협의체 공동의장 선임…인적 분할 속도",
+   "outlet": "financialpost.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsOHVDRFllaWpCc2FxNHBLSUN5YUN3bUYycnJ5M0hBXzUtX0IwTVNubE4yOHppNllyc2Yxa0NXeHk5UlhHZlJrcHBLWUgzNnBVdm14UFNGUFhOVko0ZmJhSVJDSVpna0dFQkg4eGhoaGRKUTZV?oc=5",
+   "publishedAt": "2026-09-28T15:43:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "c1687b48b884274e",
+   "title": "김도영, 카카오 CA협의체 공동의장 맡는다…인적분할 준비 총력",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EbHpISUs3WGlrTXNfSG1wWWxlMEJuWkkxU2FFUWhscWJyckJiaEJpRC1DMVdrbzVFaXVNQnJqM1FFVUx1SjdseG9iX19leUJWQWtF0gFTQVVfeXFMTURsekhJSzdYaWtNc19IbXBZbGUwQm5aSTFTYUVRaGxxYnJyQmJoQmlELUMxV2tvNUVpdU1CcmozUUVVTHVKN2x4b2JfX2V5QlZBa0U?oc=5",
+   "publishedAt": "2026-09-28T16:58:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "eadc1de29bfdbcdf",
+   "title": "시그널 슬롯 이벤트 의 미래: 새로운 트렌드와 발전 방향 - 스텝 바이 스텝 가이드",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXFxcWJvWG5ILUdQQl9BajJfcVFLOUlicXh0YjRqS3hGbnU5YVJDbHJ2LVkzY0Z6R3NzRmtmd1V1ZGhPbGN4SGFsdmJlaVowRExrVktTRmpWcUY1NnlTNkVJQzJhbUlxWEZuT2xFZnM5LXZGYTBKbjVGOVI3Y3FZZ1hGNUxIZTdfTEtqUllKNHpEQW5vOEE?oc=5",
+   "publishedAt": "2026-09-29T00:49:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "5b68cb99f76f69c0",
+   "title": "카카오 CA협의체, 김도영·정신아 투톱 체제로",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORnlMajJCektHS2RWUm9XS3JPdGFwUmJfamxMLWZTQ3hyZmQ4NElxUXdSSC1rSGZ1YUhNanFkdEc0YlVMUlFMZ0ZXMzA5djlPZnlfaEppR0gyVXFuOFRLbllhakM?oc=5",
+   "publishedAt": "2026-09-28T15:22:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "2b840eb82680c3b7",
+   "title": "카카오 CA협의체 공동의장에 김도영 카카오X 대표 내정",
+   "outlet": "newscj.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tbjR3YzFPaFNRdGJObmEtVkR3SldvRlB1emd5TWd1dXBYSGxhb1h1bzN0QUFoRUp5MkpLSDAyellvamg1M1NZckJjTnhFc0tpVGNxRnVTTGNtM3BvUmRjMElUY3hzWkJGb0E?oc=5",
+   "publishedAt": "2026-09-28T13:34:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "f4da7b58feb37e3f",
+   "title": "현재 버전을 어디서 찾나요? 킨 토토 리뷰 정보 확인",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDeDFZVWVhNjg5REN0YmJMSDg3a0VXNkpHQ1BacUxtWGUxYUxrRm9vSVN0dnZWM2Y5OVNPQXBNNTlLY2w5RlZyQ19kWUlIeUxwMjY5enpQUExDTFhpbE5SOFF3eksyVnFiLWpseDd4VWY1UHFKUFl3?oc=5",
+   "publishedAt": "2026-09-28T17:38:58+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "80e22b4d96057809",
+   "title": "위 믹스 업 비트 재상장 자동 진행 기능의 종료 설정",
+   "outlet": "falauniversidades.com.br",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFdVN0c0Rfczc1R1VOMm5NWElaempDdVhVMFJKOWVKVUt2cnBSSXRXNi1PaWxCdTE5d2NKSDkwUExUVUs3XzRFVEJkRENLSURMclBxUDZqQi1STVNTcm1YTXVzYmFpajlXd01NUC12aURHYldwN1haM3JvMA?oc=5",
+   "publishedAt": "2026-09-28T17:04:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "일정(12/17 주총, 27/1/27 재상장)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "b1af5335209003df",
+   "title": "축구 실시간 토토 업데이트 공지의 기능 변경 항목",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQN2Z1d3Bhdm01dXR2eF94RXFuUldxMzJFMkJLUHFLX21DQ0xuODA4MmZ4aGJaS19MTGRIVWNOSHI4N053YzZUVlB2RHhjZ3BVdFR6cXlJcG1mYUpxVlZVTXI5YjNHdUtoOFhyYnFMdDZJV3p1ZnBUekUxSjRESlRhQ2E2d2Y1SmxQSjl0Q28tYndnRVRqTGJqalJFX1V0WWxjcjBkWVlZbG5IamJBbTh3Sjc1UjFKb2VfT2I2U3kydk1jZUF6S3pXdkM5SF9Md01NZzRGR3VVNHI5all0ZHNKZjkzMmhXR0NPMHF4c2drci1MeUlHY3huMDNjVkZ4LWdKNnFQWE1VbzREa2tYendjaDVoOTRzcEJxYVE?oc=5",
+   "publishedAt": "2026-09-28T18:45:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "f42bab1b7e20e8b8",
+   "title": "무료 동전 비바 슬롯 라스베가스 과학 탐구을 통한 요약: 원리, 방법 및 기술",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaEViVTlFVGk5WkRTNk1WamQtWjRoeFoxam9xeEVwYkh1LVZrTW9lV2V5a280QnE4VEJzT1VCaHFfWkpjWWVKQnJSQnZHMFhLQU9iT3FYYjZaT01MWXJDYWk4REY3YW51WTNzSkFsbldsbDhXc3dLTElOTHFNVzBRb3ZQWkUxT1hvY2diTU1STEhzZHhNdjV6M3Iyd3NOY3FCU3Z6dG11b1hwX19xd2hKa0NnTUQxR3c?oc=5",
+   "publishedAt": "2026-09-28T17:01:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "824b84dc96d05208",
+   "title": "스캐터는 위치와 상관없이 세나요? 영 블랙잭 규칙 문답",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONi1VS0dvNFZfNWh4ai1HbXU4V0phZEN6SmU4THNrR0VmTTM5TUppMEhQcjNJa0JDYm4zZmdxZW9UTWEzbEt2Q3FnVGR4a01uWG1Fa1lOX2Y0YWxPbmhWYlUzYkZNSjY5ak85aHc2MURTbExrNmRJMWxBdURwUFl3c1dual9lUkh2RFg0NFd2RTFoN29QQjhwUXNuX1Q0NnBhWVRwZm01OFFZZExSY2w5c1RiODV0T0hRc21CWmUwYlB0M2hVeWZWZDg0OC1kVXNTcGQ5STd6b3Z4alllUmJET3JGMFhmeU8zaEwxSE0wZTRtZ250MHBydlB0cHhrc2c?oc=5",
+   "publishedAt": "2026-09-28T19:37:52+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
+  },
+  {
+   "id": "ced1be70a46e7bce",
+   "title": "보너스 전후에 유지되는 설정, may b 카지노 기능 질문",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQeFJtaWpYb0MyM2R2UXAtMTVsdGRqR3BiRk1jbmJSekpjdVpjQmNBNThVZENUSGJZa0JfYTdSSlFpN25EYlNzSlZyUnJLU0tRTzI5bU9Fd1c4dklHMERJRzFXNkY0SnBDMHBuMndZRE1CRlZ5a2Jnc3lSd3NTX3VYUkpvZkIzZlF0a3FRZmExVHRUSXJOQ1c2bjd3NHNpWGhJTjJxMGRfQmFzeHVjWExpTktaRExFOVFmcDQ5OG5qNFVqZ280OGMwS2xtLVFDYm04cG5fNmsxVWpVbjlyc3hpTmNESEJCRDNJcVRmakUwVjBMc2RWR0VCNFJ3U2ppTmxYYUY2S1JTQ09ac25YZ1BtRWxyb0U1QkdQR0UydDdjOVhjVnM1NFRF?oc=5",
+   "publishedAt": "2026-09-25T11:34:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T09:38:57+09:00"
   }
  ]
 };
