@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T12:49:09+09:00",
- "runCount": 2828,
+ "generatedAt": "2026-09-29T12:59:39+09:00",
+ "runCount": 2829,
  "price": {
-  "price": "33,650",
-  "pct": "-1.46",
-  "at": "2026-09-29T12:49:12+09:00"
+  "price": "33,550",
+  "pct": "-1.76",
+  "at": "2026-09-29T12:59:39+09:00"
  },
  "articles": [
   {
@@ -45782,6 +45782,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T12:49:09+09:00"
+  },
+  {
+   "id": "a4d5aa770a3c752b",
+   "title": "일반 심벌과 특수 심벌의 차이, 토토 걸리는 금액 비교 포인트",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemFFT2hiZXJNSVpVSmFEN0dHNkxnaW42NEVsbzVkRzdEM2lQdnZfY3lZREVkR0N0Ti1JZ0V2dHpXTlBvX2pZMVVRVU5MeG9ZRk9nWWEzUTFvWFZtVS1kQUxxY19RQm9RaklCelJoQW5GbmkxV1JqUnRpTVg3WlhhQzBnUjlSb3NSOEdXUHIwanRDbXNDcEtUeWVBX3BEZWtleWtCNkg3R2FqX0lyNFpQbFpwQzhxdw?oc=5",
+   "publishedAt": "2026-09-28T23:59:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T12:59:39+09:00"
   }
  ]
 };
