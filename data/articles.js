@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T16:01:40+09:00",
- "runCount": 2846,
+ "generatedAt": "2026-09-29T16:12:09+09:00",
+ "runCount": 2847,
  "price": {
-  "price": "33,700",
-  "pct": "-1.32",
-  "at": "2026-09-29T16:01:43+09:00"
+  "price": "33,600",
+  "pct": "-1.61",
+  "at": "2026-09-29T16:12:12+09:00"
  },
  "articles": [
   {
@@ -45870,6 +45870,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T14:45:08+09:00"
+  },
+  {
+   "id": "f91c123c88d6ead0",
+   "title": "카카오, AI안전연구소와 AI 안전성 평가 도구 개발",
+   "outlet": "AI타임스",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zS3FsaVlYeWFPT3hXQ3BySmZLN0xSd1Y3b00wT3VHdi1VeUcydjFmNUd6NWI5X29TdnFRSGhfcEloVFlZM0N5dmswMGpKLVdSVFJkRDFpdW5NcnRGYkZyQmlEZkVaQWpNYmc?oc=5",
+   "publishedAt": "2026-09-29T14:56:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T16:12:09+09:00"
+  },
+  {
+   "id": "a400d353c43445d6",
+   "title": "지원 브라우저 안내는 어디에 있나요? 강원랜드 카지노 딜러 인턴",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVy0wczlTaWZVcXRoMnJYNjJEeDBDTmJVdW0yRTJkYTFmNWhWbUFRMnhMVkNtc1lHM0k4U3EtZUowOElabzk4LTZoeW1uLTc0dUh1a3kzV09TMVF2Y0hzRkF6U3FtTl9MQm5jWHhTQ2hTX1Q5bW1RRno4YWNuWThjdGFwZGt3eHJLTTlzYmw4N0lsSm5VcDNJR0xhcWpnT2N1TTRrX09qYzA5dGVYa2tqOTBXOWxCOHo2RkFsYjlCSDRsc1VfcVFSTUNEWHBZRnF0R3pqZEZQQkc4NjJycmNxU2M5N1pnem40Ml9jSjdaTXc?oc=5",
+   "publishedAt": "2026-09-29T11:23:21+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-09-29T16:12:09+09:00"
   }
  ]
 };
