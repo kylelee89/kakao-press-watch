@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T13:41:53+09:00",
- "runCount": 2833,
+ "generatedAt": "2026-09-29T13:52:14+09:00",
+ "runCount": 2834,
  "price": {
-  "price": "33,500",
-  "pct": "-1.90",
-  "at": "2026-09-29T13:41:54+09:00"
+  "price": "33,475",
+  "pct": "-1.98",
+  "at": "2026-09-29T13:52:14+09:00"
  },
  "articles": [
   {
@@ -45824,6 +45824,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T13:41:53+09:00"
+  },
+  {
+   "id": "42fe154ff293dc7f",
+   "title": "배당표 예시와 실제 조합을 구분하는 웹게임 순위 2023",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2syLWYtYTFnWG8ydjgzYzRZX1VlLWQ3cnJ5eFhYSXMxNk04dWlYNmtLeGh4OTNxQ3lhVjZxTWtwXzFqWWJSTU9RWUd2WVVkaHNxbXZCUHp5Q0ViS3VyRXNzZEpvZjRMRFV0Q3JFbEdyN0d4c0xYRV83TlJxVWpock1zaG1jQ19PV2VkaGQ0N29vSXlQLXFkZGIyaFBtUnpHYjJiUDBR?oc=5",
+   "publishedAt": "2026-09-29T07:32:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T13:52:14+09:00"
   }
  ]
 };
