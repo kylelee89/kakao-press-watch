@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T17:47:21+09:00",
- "runCount": 2856,
+ "generatedAt": "2026-09-29T17:58:45+09:00",
+ "runCount": 2857,
  "price": {
-  "price": "33,650",
-  "pct": "-1.46",
-  "at": "2026-09-29T17:47:23+09:00"
+  "price": "33,700",
+  "pct": "-1.32",
+  "at": "2026-09-29T17:58:46+09:00"
  },
  "articles": [
   {
@@ -45992,6 +45992,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T17:26:32+09:00"
+  },
+  {
+   "id": "d050e23f997d718d",
+   "title": "모바일 도움말의 스크롤 영역, 메이저바카라사이트 화면 사용법",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVnRfTHhIWnlYOGRHX01hM1Uta05jZlVrLUJ6TEhTMnNHTFV4MDh6dmRkQmhKUURtWnBOeTF3dEE5am9ScmFUODFUZW5VZnp1RXFvYUlvRl9WU0NEZEhGam5aV2VoRVJmeXZpbHgxVDN3TjV6YVJoTEJVcHhwaUY1dUZKOUpjWlg0cF90WUF3T2tSLUxXWGw2UGFRdzRISmxueTdrcURSZ2RyTmJjZmtWMWVQamp4TjBKMjlNTF9ERzNoTE9XQnpBT0VQZ245dHc0QkpXcEY1ek56MVdTRkMwemozOXllZURpS0VOY0RjQk56UDNYalJLRldfR1hnNVctV0g0MFFxazc3R0I2UlVCamppdzNsck1HcTBJTDYzRmhoYTVHSXZWWHZSa2lNMHlLaGJ0Ylc4ZnlaQUpuaFZXRUJpdXU4QWpYaHRZY2xmNmhTN1M0WEE?oc=5",
+   "publishedAt": "2026-09-22T16:01:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T17:58:45+09:00"
   }
  ]
 };
