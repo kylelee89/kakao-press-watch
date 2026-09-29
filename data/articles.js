@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T16:54:37+09:00",
- "runCount": 2851,
+ "generatedAt": "2026-09-29T17:05:52+09:00",
+ "runCount": 2852,
  "price": {
   "price": "33,650",
   "pct": "-1.46",
-  "at": "2026-09-29T16:54:37+09:00"
+  "at": "2026-09-29T17:05:53+09:00"
  },
  "articles": [
   {
@@ -45916,6 +45916,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-29T16:12:09+09:00"
+  },
+  {
+   "id": "9ac3f4fc63037fc5",
+   "title": "주가 80% 폭락·성장 멈춘 카카오의 극약처방, 문어발 계열사 덜어내고 ‘AI 카톡’ 올인",
+   "outlet": "뉴스퀘스트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91Vm1lTVZyUnUwU055UU1VckdqSkdBQnlYc3k2YUdUQnUySjVRUTdKR3ZybldTRDB3NU9xOWE2TlgyWFpQakg4S2lNSk80MlJNUWFlVkx1bVh3bWVZNzgwa1B6T0RZZUxaR25iRzlXaw?oc=5",
+   "publishedAt": "2026-09-29T17:00:49+09:00",
+   "tone": "우려",
+   "toneScore": -3.8,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:80% 폭락",
+    "대형하락:80"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "80% 폭락"
+    ]
+   },
+   "firstSeenAt": "2026-09-29T17:05:52+09:00"
   }
  ]
 };
