@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T12:38:42+09:00",
- "runCount": 2827,
+ "generatedAt": "2026-09-29T12:49:09+09:00",
+ "runCount": 2828,
  "price": {
-  "price": "33,550",
-  "pct": "-1.76",
-  "at": "2026-09-29T12:38:44+09:00"
+  "price": "33,650",
+  "pct": "-1.46",
+  "at": "2026-09-29T12:49:12+09:00"
  },
  "articles": [
   {
@@ -45738,6 +45738,50 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T12:38:42+09:00"
+  },
+  {
+   "id": "ea5d9faf46eb868f",
+   "title": "월드 카지노 영양 해결책",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE40UEh3aWs4ZHVodHdXd2FUb1JDVVVyb000QmJYNkVqUVpQc1JBUGF5OUNlbkFVbnM2OVo2a0Z2R0RHZVBPV2dTUUh3MVp3d0ltRUROcktyaXlfT29INXAxck1VNDBtaHhmckdrTzBxMjJQMVBMcHdfMExPeFoxQ1RKUEhqZm51MkIxWUsxYmdZZFR6cXJES3pIT2xPd1h1blQ0eUp4WHhrNG1iT21TTU1mQnVnYlA4aFctdVdRZlVYUQ?oc=5",
+   "publishedAt": "2026-09-29T07:42:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T12:49:09+09:00"
+  },
+  {
+   "id": "665719384e0257ee",
+   "title": "배당표를 어디부터 읽을지 고민된다면, 바퀴벌레 포커 종류",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQkREamlienk1T2JsZGt5MUlkOE11R0YzQWtqRGNkaHYyU3YxaW1Wd3JxY0szRXBuMFBPUzdkSzVRWDU5dkwwVGUxLVN2Qk9BLXRRaUN4REM4OWd2enNWSlhVMG5ac1BOd1R4NmF5U2JIMEwwenNscVYtQ1J3WnhWR0VrSkE5WmtHWHpGd2JycWwxd0duUHJwcEwxRTFBVk9Md01rVk0wWDVDSnBxV0ZoWWxBd3ZwQmtxeldGaFNWdDBrVzRwTHlLOTNmcXRjMklMMGRkdENhRDRTeGo0?oc=5",
+   "publishedAt": "2026-09-29T06:49:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T12:49:09+09:00"
   }
  ]
 };
