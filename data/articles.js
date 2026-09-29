@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T22:43:57+09:00",
- "runCount": 2884,
+ "generatedAt": "2026-09-29T22:54:14+09:00",
+ "runCount": 2885,
  "price": {
   "price": "33,750",
   "pct": "-1.17",
-  "at": "2026-09-29T22:43:57+09:00"
+  "at": "2026-09-29T22:54:15+09:00"
  },
  "articles": [
   {
@@ -46037,6 +46037,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T18:21:29+09:00"
+  },
+  {
+   "id": "5ab3d7f27609184b",
+   "title": "카카오, CA협의체 공동 의장에 카카오X 대표 내정자 선임",
+   "outlet": "대한경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3R4Z3pTdTdxREhCYVdiaWJzMVFMeUJSQjhmOUdCZklBNUdoMjZRZzBSZW16a3BLY0tWNkRfSWVlRWpjbEFpR2VsdklnNDgyTWw4OXVBVHAtRFIxV0Qxb1ZUdFp6VEdnTmFuNlN2Y3hhMHp2UG1WRzRxNU5ZQlBXWVhWYmlkSEE?oc=5",
+   "publishedAt": "2026-09-28T14:54:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T22:54:14+09:00"
   }
  ]
 };
