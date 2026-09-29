@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T11:46:52+09:00",
- "runCount": 2822,
+ "generatedAt": "2026-09-29T11:57:16+09:00",
+ "runCount": 2823,
  "price": {
   "price": "33,550",
   "pct": "-1.76",
-  "at": "2026-09-29T11:46:52+09:00"
+  "at": "2026-09-29T11:57:17+09:00"
  },
  "articles": [
   {
@@ -45694,6 +45694,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T11:35:31+09:00"
+  },
+  {
+   "id": "e058d803c327d51f",
+   "title": "카카오, 인공지능안전연구소와 AI 안전성 평가 체계 구축",
+   "outlet": "디지털투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TSWxUZEh0dlJRQVQxVEV2MmhfeGRKZkdqeVBza0NmUmtCak8xNFVxY3c4bzE1YURZYlR0aURRZ0FWV2REcG4tTkozWEFabVVyTWZSdVFEUkM4ZU9FNTJzdlU3YTdSNFlNUFFQSUxXVmRxN0U?oc=5",
+   "publishedAt": "2026-09-29T09:46:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T11:57:16+09:00"
   }
  ]
 };
