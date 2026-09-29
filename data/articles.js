@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T04:14:16+09:00",
- "runCount": 2915,
+ "generatedAt": "2026-09-30T04:25:28+09:00",
+ "runCount": 2916,
  "price": {
   "price": "33,750",
   "pct": "-1.17",
-  "at": "2026-09-30T04:14:17+09:00"
+  "at": "2026-09-30T04:25:29+09:00"
  },
  "articles": [
   {
@@ -46081,6 +46081,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T00:08:10+09:00"
+  },
+  {
+   "id": "f8da615c7b3ff2d6",
+   "title": "규칙 설명 속 최소 개수를 읽는 슈퍼 마리오 rpg 카지노 판정 안내",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FVjdicVhyZVRiMEp2R0tDX1JVaVJ3RHA1bEQ2VTR1ZTgxZEpaQjFZUnBjR2NUdlhqQjJUdEZtOFgtdUk1QnhvUmNyVlRyQnRRd0dDMDJvdWxuaHZscXpzaHZJM19VMHVmS1RCMktkVTFINGxRdEo3anVR?oc=5",
+   "publishedAt": "2026-09-29T17:30:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T04:25:28+09:00"
   }
  ]
 };
