@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T14:34:39+09:00",
- "runCount": 2838,
+ "generatedAt": "2026-09-29T14:45:08+09:00",
+ "runCount": 2839,
  "price": {
-  "price": "33,400",
-  "pct": "-2.20",
-  "at": "2026-09-29T14:34:42+09:00"
+  "price": "33,500",
+  "pct": "-1.90",
+  "at": "2026-09-29T14:45:10+09:00"
  },
  "articles": [
   {
@@ -45847,6 +45847,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T13:52:14+09:00"
+  },
+  {
+   "id": "9b72f6ce443676a4",
+   "title": "카카오, CA협의체 공동 의장에 김도영 선임",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UY1lMT0lRN0ZOOExoSXFfWXQ5SndYVkRVLUJXTlhuRThuNVRrX2hkbnA2UVFNNEROOWU1clBqM0syNlh1UHZoWFh4Tmp5Q3M?oc=5",
+   "publishedAt": "2026-09-28T11:09:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T14:45:08+09:00"
   }
  ]
 };
