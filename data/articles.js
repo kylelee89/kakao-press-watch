@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T04:25:28+09:00",
- "runCount": 2916,
+ "generatedAt": "2026-09-30T04:35:44+09:00",
+ "runCount": 2917,
  "price": {
   "price": "33,750",
   "pct": "-1.17",
-  "at": "2026-09-30T04:25:29+09:00"
+  "at": "2026-09-30T04:35:45+09:00"
  },
  "articles": [
   {
@@ -46102,6 +46102,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T04:25:28+09:00"
+  },
+  {
+   "id": "be5169a4390b6ef9",
+   "title": "카카오, CA협의체 공동 의장에 김도영 카카오X 대표 내정자 확정…정신아와 투톱 체제",
+   "outlet": "와우테일",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOHRoT2dqXzQ0TDQ1Vm5uUFF2MF9IaU1VS3NkVzJZMU1ZQi1ZRzZmNEhySERUS0x3NHpEOEUtcnBaeTdwZ1MyTEJGRi1QcjQ?oc=5",
+   "publishedAt": "2026-09-28T10:52:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T04:35:44+09:00"
   }
  ]
 };
