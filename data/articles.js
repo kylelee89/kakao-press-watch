@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-29T11:04:31+09:00",
- "runCount": 2818,
+ "generatedAt": "2026-09-29T11:14:50+09:00",
+ "runCount": 2819,
  "price": {
-  "price": "33,650",
-  "pct": "-1.46",
-  "at": "2026-09-29T11:04:32+09:00"
+  "price": "33,700",
+  "pct": "-1.32",
+  "at": "2026-09-29T11:14:51+09:00"
  },
  "articles": [
   {
@@ -45650,6 +45650,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-29T10:00:31+09:00"
+  },
+  {
+   "id": "b30b988b034d58c4",
+   "title": "카카오, CA협의체 공동 의장에 김도영 선임 : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelk4YkpqU2tuUmZIcjlIanVGVjBBb3FwZ1BucEpGanFvbVI0ZTQ4M192c25KNnJPSVE3MTBTR3dyNzdIcXItR0I3REp4TGdoWlpJdG1DWEFBV3ludmpkZzdmY0RWYWZLMkpzelRjSGg2MjgtSGxkbkFOZTJRS2dBOVp4T1l4dENjX3BRY1hqaw?oc=5",
+   "publishedAt": "2026-09-29T11:00:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-29T11:14:50+09:00"
   }
  ]
 };
