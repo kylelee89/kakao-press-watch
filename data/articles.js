@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T09:39:08+09:00",
- "runCount": 2946,
+ "generatedAt": "2026-09-30T09:50:24+09:00",
+ "runCount": 2947,
  "price": {
-  "price": "33,750",
-  "pct": "+0.15",
-  "at": "2026-09-30T09:39:08+09:00"
+  "price": "33,800",
+  "pct": "+0.30",
+  "at": "2026-09-30T09:50:25+09:00"
  },
  "articles": [
   {
@@ -46231,6 +46231,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T09:27:54+09:00"
+  },
+  {
+   "id": "6fb8f8a94c807768",
+   "title": "카카오, '카나나 상담매니저' 업데이트…AI가 맥락 맞춰 답변",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nNmQ2VEZ1Q0NZVDFreVNDcUktVFozb1JFT3BieGJpbUsyaEJkazRiZTFTaVBGcUNRd2IybVptOWd1Mk1NM1JtdGVzeDN1MVloc1FEQ3AyZnBUOXY5ZHBVVmVnYlE?oc=5",
+   "publishedAt": "2026-09-29T16:14:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T09:50:24+09:00"
   }
  ]
 };
