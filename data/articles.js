@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T17:34:25+09:00",
- "runCount": 2991,
+ "generatedAt": "2026-09-30T17:44:48+09:00",
+ "runCount": 2992,
  "price": {
   "price": "33,650",
   "pct": "-0.15",
-  "at": "2026-09-30T17:34:26+09:00"
+  "at": "2026-09-30T17:44:49+09:00"
  },
  "articles": [
   {
@@ -37057,6 +37057,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-09-30T17:02:10+09:00"
+  },
+  {
+   "id": "bb84d1e99c587c23",
+   "title": "“카카오 분할 후 금융부문 기여에 주목”···그룹 성장 역할 맡은 카카오페이證",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43cjRfODFNRVdfT2MzTExodWFCNDMzWnRYVE9yU3lNTl9TZ3lSckpQLUYtczdzOWNNWm4xcG9TdjJ2c1ZwQS1ZRVpUODc4SURBeHl5d3pLR29DWXVDa096dmt1eUwyWmctN2cyd3FGRGdwQlJIdnfSAXZBVV95cUxON3I0XzgxTUVXX09jM0xMaHVhQjQzM1p0WFRPclN5TU5fU2d5UnJKUC1GLXM3czljTVpuMXBvU3YydnNWcEEtWUVaVDg3OElEQXh5eXd6S0dvQ1l1Q2tPenZrdXlMMlpnLTdnMndxRkRncEJSSHZ3?oc=5",
+   "publishedAt": "2026-09-30T16:15:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T17:44:48+09:00"
   }
  ]
 };
