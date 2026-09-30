@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T09:17:36+09:00",
- "runCount": 2944,
+ "generatedAt": "2026-09-30T09:27:54+09:00",
+ "runCount": 2945,
  "price": {
-  "price": "33,950",
-  "pct": "+0.74",
-  "at": "2026-09-30T09:17:36+09:00"
+  "price": "33,725",
+  "pct": "+0.07",
+  "at": "2026-09-30T09:27:55+09:00"
  },
  "articles": [
   {
@@ -46189,6 +46189,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T07:23:16+09:00"
+  },
+  {
+   "id": "cfd1a51f7487388a",
+   "title": "화면 변화의 이유를 묻는 블록 체인 결제 시스템 질문 모음",
+   "outlet": "Calgary Roughnecks",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNclI0UlBSLW9fcWFfMFNpRW5SRmhSZHZRY1dCRV9qY0ZHaXd2ZEVXRU9ReUw1U3NhUnhyLTJ3MTZILVpfd3ZlaVl0Z0RqZk9YMWxQQTFOVEY0SlpRdmthb1FQQktDS01fT05SNHZMM1pZTmtRejZ6ZjEwTTdubG9lS0hQaDdoWndQTE95MkJtYmUybXNSTThoZzA4TFdyTkNMNl9PSDRxTW9WLUp4T3dtc1NQU1I5YkRYSFRmbVB0TWh2T2stQnYxSk5CcmpMdzV2OEdXUHhzb1NUWERuU3lwb2NWN1BlR1hYTnlZRzZQNFpkVDYxTWkzZmhvNzNGblZpcFExa0pZa3p5aHY2UE1aeDJmbnJHRzZvcHp5WnRaYnZpVEQxQllEa2VleFJnZHVVQ0Vaby0wN041NHVrejJaVWRYNFJZX2RzY0VvOVFiN1VwOFhSaXUtOG9aTUZ4c3Zjc1ctNg?oc=5",
+   "publishedAt": "2026-09-29T08:01:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T09:27:54+09:00"
+  },
+  {
+   "id": "ab754df218db0c37",
+   "title": "카카오 CA협의체, 투톱 앞세운 배경 내막은",
+   "outlet": "네이버 프리미엄콘텐츠",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV250dmZiMUFLaTFXclJLcEYyRUh3Zm5wVFE4RVBQUXVIVnp3R05fSjJkUzBFWnFnMXozYmpPaUxYcjRKb05ubmlOWl9NOWFuWFJsWVc2ZjBQMEFjeDZBRXhEWE9TRW1JbU1lQkJFR0N2U0c4VkhkYW1tekQtaml6cA?oc=5",
+   "publishedAt": "2026-09-30T06:50:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T09:27:54+09:00"
   }
  ]
 };
