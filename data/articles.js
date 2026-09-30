@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T17:44:48+09:00",
- "runCount": 2992,
+ "generatedAt": "2026-09-30T17:55:09+09:00",
+ "runCount": 2993,
  "price": {
   "price": "33,650",
   "pct": "-0.15",
-  "at": "2026-09-30T17:44:49+09:00"
+  "at": "2026-09-30T17:55:09+09:00"
  },
  "articles": [
   {
@@ -37078,6 +37078,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T17:44:48+09:00"
+  },
+  {
+   "id": "f65133e24fe31c3f",
+   "title": "[8월 상장예비심사②]카카오, 이나인페이, 마더스제약 등",
+   "outlet": "중기이코노미",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lcnFURDBzdzVVUl9IQU5iNFE3V1g4M1lPZ1RYUl9mMjVIbjlkd0RYZEoza0xkLUdtdnZUeVkxQ1d6MG5SWkxldnpVWmFvRXc1UENvVEVqWHVNcTZrU29Idk1XRWdPaExhcUE?oc=5",
+   "publishedAt": "2026-09-30T09:45:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T17:55:09+09:00"
   }
  ]
 };
