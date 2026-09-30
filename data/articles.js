@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T13:45:58+09:00",
- "runCount": 2969,
+ "generatedAt": "2026-09-30T13:56:19+09:00",
+ "runCount": 2970,
  "price": {
   "price": "33,550",
   "pct": "-0.45",
-  "at": "2026-09-30T13:45:59+09:00"
+  "at": "2026-09-30T13:56:20+09:00"
  },
  "articles": [
   {
@@ -46318,6 +46318,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T12:10:44+09:00"
+  },
+  {
+   "id": "553e5dab5da65d0e",
+   "title": "휴대폰 화면 밝기와 함께 점검할 카지노 광주 가독성",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNanJHRl9lZEpCNHpMUTJ4Zk10RFVUREpmbjg4bjBhaXprNnR5SWZab2hvREdKZ3g5aWdPZTlyMGpWUjFfbktzSUZRT1BfRmNJS1FwY01tMGE0NDR1SVNVOHFsMjJGRnBzWksxb21BWmZPMzhBWlZucGhEVTJpejRwS3F2Z0ozcmdjU3JNc09kVzAyN012dHEzc3l3MEsyRV9jMkNaMVZxeUc1N2RzTnhndXJGcDdaczFHUmptVUttWGh3WkduOE9rUktHSUJsNDZOcE5nSHNsRzB0UHRfS3JnTUpGbG9LVGtQc05qTjdySkFPWktWU2t3bDdyM0RWQ0NDa1JJ?oc=5",
+   "publishedAt": "2026-09-30T07:56:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T13:56:19+09:00"
   }
  ]
 };
