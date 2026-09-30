@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T16:40:17+09:00",
- "runCount": 2985,
+ "generatedAt": "2026-09-30T16:51:42+09:00",
+ "runCount": 2986,
  "price": {
-  "price": "33,600",
-  "pct": "-0.30",
-  "at": "2026-09-30T16:40:19+09:00"
+  "price": "33,550",
+  "pct": "-0.45",
+  "at": "2026-09-30T16:51:45+09:00"
  },
  "articles": [
   {
@@ -46339,6 +46339,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T13:56:19+09:00"
+  },
+  {
+   "id": "e0c81d1559424886",
+   "title": "[질의서] 카카오 인적분할 따른 '국민노후자금' 영향은…면밀히 따져야",
+   "outlet": "논객닷컴",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90eXFZOThwMWdySzZrXzJJdkZ4RW9vU1g5M3NNbWVuYnVVTjBzNXY0ZWZ2Wk9WelF2WDZYN0pFZnZZdmR0UHAtcGgxQzFNSzhrUjUzcDBXS3J3cDZ6ek9scDFXU25qdEpF0gFrQVVfeXFMTjFpbmo0a2h2Mm83N2ZPOGgteHR4ay1RajhJbUpwbXhVZDU4SUwxRlEwaFlPajZtSl8xRjBfdjFidzlmY3BjT1R2LUxZZ2dkaUlxUDIxY3NwajJqMU9Fa0JIUjA2azROYWhTOEU?oc=5",
+   "publishedAt": "2026-09-30T16:42:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T16:51:42+09:00"
   }
  ]
 };
