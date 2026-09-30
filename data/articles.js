@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T10:23:11+09:00",
- "runCount": 2950,
+ "generatedAt": "2026-09-30T10:33:32+09:00",
+ "runCount": 2951,
  "price": {
-  "price": "33,900",
-  "pct": "+0.59",
-  "at": "2026-09-30T10:23:11+09:00"
+  "price": "33,850",
+  "pct": "+0.45",
+  "at": "2026-09-30T10:33:33+09:00"
  },
  "articles": [
   {
@@ -46252,6 +46252,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T09:50:24+09:00"
+  },
+  {
+   "id": "f905e6e1bdc0955b",
+   "title": "작은 글씨로 적힌 일간 스포츠 경마 규칙 주석 해설",
+   "outlet": "Histoire pour tous",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcEFzZWI1VUJYUFJvQk1Ib3hqTWNFTVRPS3kzVEdwTGJNcmJ0MXBjamtrNjItemluN1JLNzRNZEpIQzZXWENtQTQ4WU5YbmxFNkpDMEtTQnhaRllFZzBJc2VQX2VZSWdvOEhDVVZLVmNiTTJWemp0c3ZLeTRGRVd1VVdNMXE2MUd5Mzk2aF9vODYwR3l1Q0YtYVNRSVpMVzVDQ05PaEYtemNMWDRYMW1CYjJZNTFKa3F2dk9qWEppTXRNUnNKdnl4d2paQlhScEcyN0xNa0pwb01yQUZSWGd1QWo0V0ZJWU5WTHBIYzk0WXpvNG9pZWVBY3FneWRqd1ZzWDhXTloza2xDZ3JIYy16QnA3UXpoMDZ2MGltSjdYYVpJZw?oc=5",
+   "publishedAt": "2026-09-30T02:38:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T10:33:32+09:00"
   }
  ]
 };
