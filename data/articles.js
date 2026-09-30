@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T16:52:17+09:00",
- "runCount": 2987,
+ "generatedAt": "2026-09-30T17:02:10+09:00",
+ "runCount": 2988,
  "price": {
   "price": "33,550",
   "pct": "-0.45",
-  "at": "2026-09-30T16:52:17+09:00"
+  "at": "2026-09-30T17:02:11+09:00"
  },
  "articles": [
   {
@@ -37006,6 +37006,57 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T16:51:42+09:00"
+  },
+  {
+   "id": "aec6603cb3d26aff",
+   "title": "카카오 컨트롤타워 'CA협의체' 마지막 임무는 '분할'…김범수표 쇄신 전환점",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42V29oeUVYcUZXUFExUVlJZnBzV3hsVmdpSHBBM0ZzY2hBeG1wbllpOVpCMFBpYmMxNXV5QWpqdHkzZm1mOTMxU3dPVFhNWEE?oc=5",
+   "publishedAt": "2026-09-30T16:50:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T17:02:10+09:00"
+  },
+  {
+   "id": "3b15e224a80148d9",
+   "title": "[개미 손실 경보] 급락: 카카오 인적분할 발표 직후 장중 12% 폭락",
+   "outlet": "주달",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNE1pdG13a1FUbnFETy1WQlRPS1V4ZDhnOWI3UjVZWkdPei1Ubnd3bUxka3V2VGVVUnJMR1RxRWdoZkVSSF9BZmJpR2RTYkFYY0ZNb2k3cEx4emxSMVhMcDhfYlM2VWdHeHJWSTVDS2JEbk1iREJtWEdBYVlyY2tlNkdPcVhINUtJejNoc1MwYzJzVTQ?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:급락",
+    "적대어:개미"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "급락",
+     "개미"
+    ]
+   },
+   "firstSeenAt": "2026-09-30T17:02:10+09:00"
   }
  ]
 };
