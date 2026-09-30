@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T11:59:22+09:00",
- "runCount": 2959,
+ "generatedAt": "2026-09-30T12:10:44+09:00",
+ "runCount": 2960,
  "price": {
-  "price": "33,600",
-  "pct": "-0.30",
-  "at": "2026-09-30T11:59:24+09:00"
+  "price": "33,650",
+  "pct": "-0.15",
+  "at": "2026-09-30T12:10:46+09:00"
  },
  "articles": [
   {
@@ -46297,6 +46297,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T11:38:33+09:00"
+  },
+  {
+   "id": "55f455dff1bbde79",
+   "title": "카카오 ‘AI 국민비서’, 국민연금 조회·임의가입 신청 지원",
+   "outlet": "디일렉",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3Y2VfUUpsalV1b1RobUtXTFNFTWdYUFg3U0p1QnlWQXMyQ3Z0TjUyRmRmdWo2SzRRbnI1RllqY29yblE4R3RvWHpjS1NlcjNnM1J5a0Z2YWpMdkVLNmZIQ2JvM1dTdw?oc=5",
+   "publishedAt": "2026-09-30T11:58:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-09-30T12:10:44+09:00"
   }
  ]
 };
