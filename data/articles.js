@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-09-30T17:55:09+09:00",
- "runCount": 2993,
+ "generatedAt": "2026-10-01T09:57:45+09:00",
+ "runCount": 2994,
  "price": {
-  "price": "33,650",
-  "pct": "-0.15",
-  "at": "2026-09-30T17:55:09+09:00"
+  "price": "33,450",
+  "pct": "-0.30",
+  "at": "2026-10-01T09:57:46+09:00"
  },
  "articles": [
   {
@@ -37099,6 +37099,74 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-09-30T17:55:09+09:00"
+  },
+  {
+   "id": "4bce9530d59c4bcc",
+   "title": "인적분할 앞두고 카카오 CA협의체 정신아·김도영 공동의장 체제 전환",
+   "outlet": "글로벌경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HaFYxdFVaYWF6dEEtRzNzekw5bWxLNF9xTzg3cWYzRHg5eWE1U3FXREJKZGJ0RU1sOXRhRFJxQW1RQW5sSk5zeU02NWoybVBKLWg0NVYzN0h4aXlseUNUR2txRmVoLV9MUUFVbtIBcEFVX3lxTFBiRVBhUGNhTk8zMGxidFEtcmJHNHJFS3VwbGJiMEV6WDA3Zmh0OGhhRmxNTU5Mekh4WjdQaHJQM3NldE95SDJ2ZUpDVTVpNUFyVEpPbkdkZlFxQVNHLTdSVEstNU56SVpBVWE3cExnVmE?oc=5",
+   "publishedAt": "2026-09-28T11:17:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-01T09:57:45+09:00"
+  },
+  {
+   "id": "f250c3132bb23e49",
+   "title": "카카오, CA협의체 공동의장에 김도영",
+   "outlet": "세계일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5cy1CbHpBclRMTXM4STJnclg3VV9Yd1VFaThaUHhkalJxRHM2SVVsRDVxSTcwWGFZWlVsbGo0TkYycjlrVXA5WXVkRXZENkdiRFVJUzRPdVnSAVRBVV95cUxQR3FNU1BaZ2Zwd3dXWVRGQWxVZ2VKWC1wR2Q0c2lpT1FObF9UMzhuQmd4RWdqLWJQaFliaWwydFZoY3FHYURPQlk2ZUJJZTZzT0p6ZDg?oc=5",
+   "publishedAt": "2026-09-28T22:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-01T09:57:45+09:00"
+  },
+  {
+   "id": "f6acafc603a7c18e",
+   "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대",
+   "outlet": "AI타임스",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTN0YzeThwR3ZKM0hwek1YZXVXamNXbkQ4UHNfcldnd0Jnd082MjlFN08waUJfUS1Nb1NEX2V2LU0yS2s3M2tPdzhyaFptem41dEI1QzN6VFpvTzMxYnhsbmVtNE54RGdMTnc?oc=5",
+   "publishedAt": "2026-09-30T15:06:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-01T09:57:45+09:00"
   }
  ]
 };
