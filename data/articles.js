@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-01T10:29:55+09:00",
- "runCount": 2997,
+ "generatedAt": "2026-10-01T10:40:23+09:00",
+ "runCount": 2998,
  "price": {
-  "price": "33,550",
-  "pct": "+0.00",
-  "at": "2026-10-01T10:29:57+09:00"
+  "price": "33,700",
+  "pct": "+0.45",
+  "at": "2026-10-01T10:40:25+09:00"
  },
  "articles": [
   {
@@ -37167,6 +37167,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-01T09:57:45+09:00"
+  },
+  {
+   "id": "2815bb10113b9011",
+   "title": "“카톡 쓰는데 이런 것까지 준다고?”…4900원 카카오 멤버십 혜택 보니",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhVUl0d2dKQktzLWR5WGtXMjdsZl9MNGVCT1hXQktjRjltcDBLSVo0TWhXVks1b215X3ZabTlsTS1qSGtwYUNkMERtOG9RVkRyejF5N2JIS0dfdw?oc=5",
+   "publishedAt": "2026-10-01T09:53:02+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-01T10:40:23+09:00"
   }
  ]
 };
