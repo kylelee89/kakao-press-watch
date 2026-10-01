@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-01T14:33:11+09:00",
- "runCount": 3020,
+ "generatedAt": "2026-10-01T14:43:38+09:00",
+ "runCount": 3021,
  "price": {
   "price": "33,450",
   "pct": "-0.30",
-  "at": "2026-10-01T14:33:13+09:00"
+  "at": "2026-10-01T14:43:39+09:00"
  },
  "articles": [
   {
@@ -37215,6 +37215,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-01T11:11:44+09:00"
+  },
+  {
+   "id": "e7f06fe9aa99933f",
+   "title": "카카오게임은 시작…'인적분할' 카카오, 계열사 매각 판 커지나",
+   "outlet": "v.daum.net",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQcGt3TUJtNWVqRjZUZXZ6c05JMTROQ3pNU2s5ODJMcmNtN0tfcndBbThpNVpFeDQ4MXRDQWRGQzFBaWFhS1NZamhoc1Vfb0k?oc=5",
+   "publishedAt": "2026-10-01T14:30:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-01T14:43:38+09:00"
   }
  ]
 };
