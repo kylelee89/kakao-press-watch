@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-01T17:37:16+09:00",
- "runCount": 3038,
+ "generatedAt": "2026-10-02T10:19:49+09:00",
+ "runCount": 3039,
  "price": {
-  "price": "33,450",
-  "pct": "-0.30",
-  "at": "2026-10-01T17:37:18+09:00"
+  "price": "33,300",
+  "pct": "-0.75",
+  "at": "2026-10-02T10:19:56+09:00"
  },
  "articles": [
   {
@@ -37238,6 +37238,98 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-01T14:43:38+09:00"
+  },
+  {
+   "id": "a89bdc02f29c1cc8",
+   "title": "서승욱 카카오지회장 \"카카오인베 합병 반대 2%···기간 짧고 본격 활동 못해\" |",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1peFR5d0JEbkJPQmhfdV9YY3ZrWm5pRmg0U3lXVWhlMzhVZlFJSllsV05CRHdGdENqSmdvZ2c3QWlncnE3WE1HbzBtSDY2YWhTRmJSeE1WYm83YmNreEZIU2lMbVk5MDJhdmxWN0hrdzdOd3NSN1E?oc=5",
+   "publishedAt": "2026-10-01T17:28:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-02T10:19:49+09:00"
+  },
+  {
+   "id": "9bb4964deb9ef9cd",
+   "title": "[카카오 인사 전망]① 정신아는 카카오AI, 김도영은 카카오X… 둘로 나뉘는 카카오",
+   "outlet": "뉴스클레임",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyMV9nUDZfS3RCdkZVVXFFLWxHVzBSZVBzZ2NteXhjTEhKcTlpUXdORGdFNUdqZTJuekdhOGhoYS1meWZaRGx5WUY5c2llNjl6dDNmZkNTdUJ4MXlMbnJpb0Y0RDhJc3RqcEFTeUVjZGLSAXRBVV95cUxPMjc4Q0JMaFJ3WHlkcjh4NWZObFRFVkxLMjdsTFM3RjdUVDdYU1k0aENRc0VLdG10Q0pNUW5NZzJWN1g1VmJ1cnZKUVN2T2x1c1pFS0d0NHFXTDN6N3Uzc0l0MzV5QW1NQXRveTliNWwtMlBmMw?oc=5",
+   "publishedAt": "2026-10-01T15:42:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-02T10:19:49+09:00"
+  },
+  {
+   "id": "69856aefadd98b5c",
+   "title": "‘주주보호’ 강화한 상법 개정…카카오 이사회가 보여준 변화",
+   "outlet": "대한경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHcUhabFN6MXFNZWlZbTYzbENoRjl3Uko1eklsSHZ3QVlIWkFEXzFUUG5DRXFZY21ETUxPSmVfVFNsZVBzSEJwTHk1V3ctcU5xRHF0X2J2cTRRQnRuYWpTbXp0ZmpEYzd3ejdkbHpobTA5c2M?oc=5",
+   "publishedAt": "2026-10-02T05:00:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-02T10:19:49+09:00"
+  },
+  {
+   "id": "7ef1c8e131e6aefd",
+   "title": "[카카오, 일상을 묶다] 회사는 둘로 나뉘는데 멤버십은 하나로...카카오멤버십, '연결고리' 될까",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tdGFlVEViUGRrRXI3Zm10ZUwtZGFxaW85NFU3Q2w3WTVQcWdlSEpJQXJHQ0JDZThnbWhHMFkwbHdPcnNlU3R2UkxJc2RlR3M4OTdrRFVzLWlvS3lTa3czNDgyMVFid9IBakFVX3lxTE1hWUJBN1ZuZTZzcGIwM2Jld3JVUXlMUWRDTDZEVXFFdXAxOHEtMXpxUDVFQ2xVUkI4M2pYSVVSMm5aU3J5cmtqS1FmdmNHb0Z4aUxlX3g2R241cHJoTzc2bUlRcmxQZGRRZFE?oc=5",
+   "publishedAt": "2026-10-01T16:26:29+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-10-02T10:19:49+09:00"
   }
  ]
 };
