@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-03T04:30:40+09:00",
- "runCount": 3143,
+ "generatedAt": "2026-10-03T04:41:47+09:00",
+ "runCount": 3144,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-03T04:30:40+09:00"
+  "at": "2026-10-03T04:41:48+09:00"
  },
  "articles": [
   {
@@ -37432,6 +37432,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-03T04:20:26+09:00"
+  },
+  {
+   "id": "6b02c60497d88603",
+   "title": "카카오 CA협의체 변천사…`자율경영` 거두고 다시 `독립경영`으로",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFNnBZdk9tQ213R0UydnkwUkxjMDdIV0hWbHRmSUV5WGpWZDQ5TjVpZHg2MU5tZkFiTXhVX201cGdNRmZDcjNIc2I4eHNRX1FTNE04RnhEUzZLczFwNGJvMFRfb3I?oc=5",
+   "publishedAt": "2026-09-29T10:29:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-03T04:41:47+09:00"
   }
  ]
 };
