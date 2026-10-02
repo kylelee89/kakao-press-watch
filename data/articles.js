@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-02T10:40:51+09:00",
- "runCount": 3041,
+ "generatedAt": "2026-10-02T10:51:09+09:00",
+ "runCount": 3042,
  "price": {
-  "price": "33,200",
-  "pct": "-1.04",
-  "at": "2026-10-02T10:40:51+09:00"
+  "price": "33,100",
+  "pct": "-1.34",
+  "at": "2026-10-02T10:51:09+09:00"
  },
  "articles": [
   {
@@ -37330,6 +37330,34 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-02T10:19:49+09:00"
+  },
+  {
+   "id": "1cd3a48db0491b39",
+   "title": "카카오 노조 반대주주 결집하고 주가는 하락…인적분할 잡음 커져",
+   "outlet": "chosun.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU2YzX2VOR1VxMktfSHI2UjhXcG9TZUJ6Z3JDZ2hQUjZFdVBDdi0yZUE1RXdrY1c1RldQQWFkOU1TUmtWMkNMZ1E0LS1kRTZ4NEtCRzItSUR2ODc0RURLcFM2bXljcVk3SW5SU2RrQUQ4eGd3Zk1iZjdwU2xydFBqLUVFWQ?oc=5",
+   "publishedAt": "2026-10-02T10:36:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:하락"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "하락"
+    ]
+   },
+   "firstSeenAt": "2026-10-02T10:51:09+09:00"
   }
  ]
 };
