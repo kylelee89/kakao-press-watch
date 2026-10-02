@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-03T04:10:13+09:00",
- "runCount": 3141,
+ "generatedAt": "2026-10-03T04:20:26+09:00",
+ "runCount": 3142,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-03T04:10:14+09:00"
+  "at": "2026-10-03T04:20:26+09:00"
  },
  "articles": [
   {
@@ -37409,6 +37409,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-02T23:06:33+09:00"
+  },
+  {
+   "id": "071012dde07a61c0",
+   "title": "카카오, CA협의체에 김도영 카카오X 대표 내정자 배치",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTLVR2ZURYbzI5Y2k1M0FqT1l6UmljSnR2SV9RbmwxVHhnbjByTENTamhOdXJSa3lzZVE0d2JHeDZDa1B4NlVSUlNuZkZDcXZQSDJpdXFGSUY1d2xrYkFGb0hRTzk?oc=5",
+   "publishedAt": "2026-09-28T16:35:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-03T04:20:26+09:00"
   }
  ]
 };
