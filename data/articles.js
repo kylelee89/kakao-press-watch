@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-03T07:36:58+09:00",
- "runCount": 3161,
+ "generatedAt": "2026-10-03T07:47:10+09:00",
+ "runCount": 3162,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-03T07:36:59+09:00"
+  "at": "2026-10-03T07:47:10+09:00"
  },
  "articles": [
   {
@@ -37475,6 +37475,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-03T06:13:33+09:00"
+  },
+  {
+   "id": "6072f9db2a1fad3b",
+   "title": "[카카오, 둘로 다시 뛴다] 인적분할로 카카오뱅크 안고 간다…'금융 혁신' 승부수",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzZUdoZGd0cFRLQ1E0V3JvblN0VDlvZjlPX3VYQjBnWERIbnJXa2lBTTh0QllYZEFkZUtNeGtvN1hKT09sWkpqZERLUjE2ZzlZWU92czNlUXZQakZLOVBOWjdaMzc1UdIBakFVX3lxTFBVMjgtUzRlSzZBYlNzT2JfWDBEM2pKWllIT0czUk5kQ0dEMmZTN196dnN2MUZNV2FUTS0xOVlpYy1heDRMLUxTeUw3b05LLTNUWmJIOFdERk5XUUxEbnotTGxLUExCVDNKcUE?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-03T07:47:10+09:00"
   }
  ]
 };
