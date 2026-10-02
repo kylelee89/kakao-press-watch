@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-02T16:39:10+09:00",
- "runCount": 3075,
+ "generatedAt": "2026-10-02T16:49:30+09:00",
+ "runCount": 3076,
  "price": {
-  "price": "33,350",
-  "pct": "-0.60",
-  "at": "2026-10-02T16:39:12+09:00"
+  "price": "33,400",
+  "pct": "-0.45",
+  "at": "2026-10-02T16:49:31+09:00"
  },
  "articles": [
   {
@@ -37358,6 +37358,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-02T10:51:09+09:00"
+  },
+  {
+   "id": "dd3e0a61fb66b62d",
+   "title": "TPG, 카카오모빌리티 美 ADR 상장 주도…증권가 \"5.5조 몸값 증명할 무기는 '피지컬 AI'\"",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LRm9XR2tUamRWY1EwQzlHTVU2WV82dnd4ZFp2dlNSM3daUUJMSVRZdW9DeWROOEdmN0lBbDNqVURBMENnZHExTTdDajlTd3pjUkIxaA?oc=5",
+   "publishedAt": "2026-08-25T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -0.4,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:증명",
+    "전언감쇠:증권가"
+   ],
+   "frames": [
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "증명"
+    ]
+   },
+   "firstSeenAt": "2026-10-02T16:49:30+09:00"
   }
  ]
 };
