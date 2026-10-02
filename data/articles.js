@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-03T06:03:20+09:00",
- "runCount": 3152,
+ "generatedAt": "2026-10-03T06:13:33+09:00",
+ "runCount": 3153,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-03T06:03:20+09:00"
+  "at": "2026-10-03T06:13:33+09:00"
  },
  "articles": [
   {
@@ -37453,6 +37453,28 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-03T04:41:47+09:00"
+  },
+  {
+   "id": "c28872d898f37939",
+   "title": "껑충 뛴 카카오뱅크 공매도 비중… 주가 더 빠지나",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HOHBIM1hDb082ZWJmd0RCTUJIRzQyWXVHcFdGT2dqSVZDcThXUmREVXNheDI5enRscThoeVktOGxQTGdCNDFISTRLdV9KdkFGb3Q4d0tvVThrMl9lUHg2U05rUlU5T2dmTE0tUExFc3PSAXRBVV95cUxQOUYxSjZPVmdadHloa1hYSnVWQmg0eHhaRFo4NWxMWm5FZ1RUUHJSbW1WTnJXcFd0M0xaNDZ6MDFoVU1tOFcyVWtkcGJMOHJjMk1YMFVuODh6RzNhR1p6SjZDeFVVbmcyQVJUZWNvaGprS24tUA?oc=5",
+   "publishedAt": "2026-10-01T06:20:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-03T06:13:33+09:00"
   }
  ]
 };
