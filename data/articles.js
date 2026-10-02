@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-02T22:56:20+09:00",
- "runCount": 3111,
+ "generatedAt": "2026-10-02T23:06:33+09:00",
+ "runCount": 3112,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-02T22:56:20+09:00"
+  "at": "2026-10-02T23:06:33+09:00"
  },
  "articles": [
   {
@@ -37385,6 +37385,30 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-02T16:49:30+09:00"
+  },
+  {
+   "id": "7e20bd936a57d4e5",
+   "title": "카카오X 이끌 김도영, CA협의체 공동의장 맡는다…인적분할 준비 전면에",
+   "outlet": "sateconomy.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3TElqNU5zbVBVUW9ETUpiSFZ3N3JaUVR0SFI5Z2ptSGFuc05tOXQ3cEdRZFlCbVNEQk9NOTl1YkJZT0EtLVB6cE9iTW05LW5xaU9LOHhDWEFHQzk2Nl9OVdIBb0FVX3lxTE5wUnpJb2FnZlZRaUVUbWpCSjJ6YVM3S20tSXJfRWFBeTVEb0JqZWlaWkk5REtHUHJST09hUFY5a09LUUVvQmtLLXRYempMZU5iRERuS1dqX2pJczRDSUJKSnhWbmduM1R4Z3VoOVQ1cw?oc=5",
+   "publishedAt": "2026-09-28T11:30:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-02T23:06:33+09:00"
   }
  ]
 };
