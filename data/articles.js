@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-04T03:20:56+09:00",
- "runCount": 3274,
+ "generatedAt": "2026-10-04T03:31:07+09:00",
+ "runCount": 3275,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-04T03:20:56+09:00"
+  "at": "2026-10-04T03:31:07+09:00"
  },
  "articles": [
   {
@@ -37498,6 +37498,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-03T07:47:10+09:00"
+  },
+  {
+   "id": "402c7168ec11f9af",
+   "title": "카카오모빌 중복상장 논란 커지자…국내 대신 美증시로",
+   "outlet": "biz.sbs.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6VWdmQkwzWUpaV2hxb1Z1cExVRUNRbjhZTWs4MjVVal9ieUhEdXR5dUZobktYdElnYmRtS1NfQnFuU053R0oxcEh6bDV6MTVsUVVr0gFYQVVfeXFMTnhSWHJ2XzJtTlBrLWx2UV9HdU5tckhNeUVoYkQtNFowN1llQk9URkV5SllLaTVHRjBZYjNwRzg0WTF5dDBZaDBlak5pTDBEZXBEcm9lQlB5OA?oc=5",
+   "publishedAt": "2026-08-21T11:18:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:중복상장",
+    "적대어:논란"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "중복상장",
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-10-04T03:31:07+09:00"
   }
  ]
 };
