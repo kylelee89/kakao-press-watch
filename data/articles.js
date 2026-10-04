@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-04T12:24:33+09:00",
- "runCount": 3326,
+ "generatedAt": "2026-10-04T12:34:45+09:00",
+ "runCount": 3327,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-04T12:24:33+09:00"
+  "at": "2026-10-04T12:34:45+09:00"
  },
  "articles": [
   {
@@ -37525,6 +37525,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-04T03:31:07+09:00"
+  },
+  {
+   "id": "007cb26184a36c50",
+   "title": "카카오게임즈 경영진 5억 자사주 매입···임시 주총서 1.5조 재원 확보",
+   "outlet": "글로벌E",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LUU1UdzBOODR5c2tDdlExdnNqV3ZUal93MlRGbTJmQlJrVV80d2I4dlZLbWVnLXBzVWp5N1dydkNTN19ZWVkzZ1dSVFY5RU1BSnpXd3VMcXZ4VEloZXBhQ3Y4VHYzckFDWDBj0gFvQVVfeXFMT1JseG91WEw1UWppcDIxVTVaV1hDUF85RExrVGVWel9OVkhCcUROTlRtN09ZNXFtbXpOS0tBZkJ5NWdNTXJlZUFiUlpCc2l2eThiZHpCeUNBcko3V1QwRHZPY29jTnNhR3pEZFNJZ1I0?oc=5",
+   "publishedAt": "2026-08-24T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-04T12:34:45+09:00"
   }
  ]
 };
