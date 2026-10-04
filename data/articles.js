@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-05T02:06:21+09:00",
- "runCount": 3405,
+ "generatedAt": "2026-10-05T02:17:30+09:00",
+ "runCount": 3406,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-05T02:06:21+09:00"
+  "at": "2026-10-05T02:17:30+09:00"
  },
  "articles": [
   {
@@ -37600,6 +37600,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-04T20:22:44+09:00"
+  },
+  {
+   "id": "1c0dc21015d5426f",
+   "title": "[지배구조] 카카오AI, 본사 매출 93% 가져간다… 분할비율은 36.5%",
+   "outlet": "뉴스로드",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzTmpYd2RSZ01MNDJEdU41dzFYd2RPdWtDUWRKWUhMN29ZRGZNOFR1TTRxM09xa3BabF8xMDZPWWpRU2RBemI3bUZXbmpRaGg4blRud1ZBYjB2OERKbnZUQjVCdjJmdTJUNWRZ0gFvQVVfeXFMTWo5dC1LMzBqQzBtOWhxRkxLYjBBa1NDZU1JRjNrcDJKLUxEbTNReWZhN00xb0RUODFydXh3NjkyWGZvOXFZLW1SZ05vVzBQT21QRUFiQmdhNlk5a0Rlb1lDTk1GMmhycG14Z0dfV3Q0?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "분할비율 0.36 / 0.64"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-05T02:17:30+09:00"
   }
  ]
 };
