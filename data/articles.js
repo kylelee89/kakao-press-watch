@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-04T18:18:18+09:00",
- "runCount": 3360,
+ "generatedAt": "2026-10-04T18:28:30+09:00",
+ "runCount": 3361,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-04T18:18:18+09:00"
+  "at": "2026-10-04T18:28:30+09:00"
  },
  "articles": [
   {
@@ -37548,6 +37548,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-04T12:34:45+09:00"
+  },
+  {
+   "id": "b9e22407e9dd8bb0",
+   "title": "[헬로티 HelloT] [헬로스톡] 8/24 주목할 종목 : 한화에어로스페이스·카카오·로보티즈·한진",
+   "outlet": "hellot.net",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vdWZMR2liLS1ERDdMdm9pSG1fWVhmMHBFbmtGX3JJcTZkcG1RTFdZTGs5QVZMVW1xakZzTGEwUjNab2lVZ0JTU1Z6NER5el9oMXFCc3pPNWVYMDczV1NB?oc=5",
+   "publishedAt": "2026-08-24T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:주목할"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "주목할"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-04T18:28:30+09:00"
   }
  ]
 };
