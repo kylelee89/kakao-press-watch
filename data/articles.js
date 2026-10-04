@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-04T20:12:30+09:00",
- "runCount": 3371,
+ "generatedAt": "2026-10-04T20:22:44+09:00",
+ "runCount": 3372,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-04T20:12:30+09:00"
+  "at": "2026-10-04T20:22:44+09:00"
  },
  "articles": [
   {
@@ -37573,6 +37573,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-04T18:28:30+09:00"
+  },
+  {
+   "id": "7f90ca7c290019e5",
+   "title": "인적분할 나선 카카오… 기업가치 재평가될까",
+   "outlet": "이코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HUXNfdzdLQmdGY1loYnNBcEE4OFI3REY4R1BJZXdBTVd5MXB1UG1WVE5jWmVlemdZemwtUFpmYkM5Z1RiTWNObnFqRjRWWjRUU2ZEREFieVFRSFlXTEhSb3Q0R3lVRTJUZWliRnBKRQ?oc=5",
+   "publishedAt": "2026-08-25T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-10-04T20:22:44+09:00"
   }
  ]
 };
