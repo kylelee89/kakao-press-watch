@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-05T04:11:40+09:00",
- "runCount": 3417,
+ "generatedAt": "2026-10-05T04:22:49+09:00",
+ "runCount": 3418,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-05T04:11:40+09:00"
+  "at": "2026-10-05T04:22:49+09:00"
  },
  "articles": [
   {
@@ -37625,6 +37625,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-05T02:17:30+09:00"
+  },
+  {
+   "id": "5286f3b4a310a99a",
+   "title": "[투데이리포트]카카오게임즈, \"올해까지는 영업적자…\" HOLD-유진투자증권",
+   "outlet": "ThinkPool",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kV3N5dndjM3YzMlZKUVc0Wm15Mi1BRHpldWxlcVp0MjlpRFlqLWZ3bzE5blFqMUs4a1FvUXdwWmxUNzVKMVNIMTlWVnJLVXpJVlFfT293TmI0RWNrVE85aEo0Qnp2ckxh?oc=5",
+   "publishedAt": "2026-08-21T04:24:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-05T04:22:49+09:00"
   }
  ]
 };
