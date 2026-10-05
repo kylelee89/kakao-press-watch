@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-05T17:59:19+09:00",
- "runCount": 3496,
+ "generatedAt": "2026-10-05T18:09:33+09:00",
+ "runCount": 3497,
  "price": {
   "price": "33,400",
   "pct": "-0.45",
-  "at": "2026-10-05T17:59:19+09:00"
+  "at": "2026-10-05T18:09:34+09:00"
  },
  "articles": [
   {
@@ -37646,6 +37646,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-05T04:22:49+09:00"
+  },
+  {
+   "id": "774bd155c3c3fbef",
+   "title": "[특징주] 카카오, 인적분할에 7.49% 급락…“AI 승부수냐 가치 훼손이냐”",
+   "outlet": "moneystorm.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFR3h6OVRsOWdIa3l5NEFKekdCUDFXX2YtelBKRkYtRUV4RWJQUkpPS2lueVBjVzFYTzFBNk1xYUI3SXRXRkt6Y0JLNFZSU0w2NEpMcHFHMl83alI2N2x6QlRlSGlGck5SV3c?oc=5",
+   "publishedAt": "2026-08-21T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:7.49% 급락"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "7.49% 급락"
+    ]
+   },
+   "firstSeenAt": "2026-10-05T18:09:33+09:00"
   }
  ]
 };
