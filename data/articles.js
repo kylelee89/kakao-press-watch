@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-06T12:19:21+09:00",
- "runCount": 3601,
+ "generatedAt": "2026-10-06T12:29:35+09:00",
+ "runCount": 3602,
  "price": {
   "price": "33,500",
   "pct": "+0.15",
-  "at": "2026-10-06T12:19:21+09:00"
+  "at": "2026-10-06T12:29:36+09:00"
  },
  "articles": [
   {
@@ -37674,6 +37674,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-05T18:09:33+09:00"
+  },
+  {
+   "id": "f703bbbf7584e8c7",
+   "title": "카카오, 소액주주와 온라인 소통 … 인적분할 배경 상세히 설명하고 비전 공유 | 프린트 | BIZ 뉴데일리",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zTzFqelRTNjhiTUFNTllLY2FvMEVLbVpNQ3NCTl9VdHNjd1hMVW8xSThpSVBIamhWN0hRSTVqMS1LYjVHQkRNMlBTS0lrc29qSFhEMm8wcWlRbmlFR1F0TlFRbl8zdDVEdjZ5dWpqZ2xtekQw?oc=5",
+   "publishedAt": "2026-09-17T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-06T12:29:35+09:00"
   }
  ]
 };
