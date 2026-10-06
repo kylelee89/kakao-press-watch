@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-06T15:59:30+09:00",
- "runCount": 3622,
+ "generatedAt": "2026-10-06T16:09:46+09:00",
+ "runCount": 3623,
  "price": {
-  "price": "33,500",
-  "pct": "+0.15",
-  "at": "2026-10-06T15:59:30+09:00"
+  "price": "33,450",
+  "pct": "+0.00",
+  "at": "2026-10-06T16:09:46+09:00"
  },
  "articles": [
   {
@@ -37701,6 +37701,28 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-06T12:29:35+09:00"
+  },
+  {
+   "id": "5f5d224c4efe7db1",
+   "title": "[이사회 진단] 독립이사 체제 구축한 카카오뱅크…카카오X 이관 변수",
+   "outlet": "s-econ.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Sa240TnhjSE5abGd2akd3enp1VktQNF9wR2t0dHBDVEJaTnIzZENoQkhoaUJPaXFZT05xV1VYLXFOb2M4Q0M5OUYybklabllSV0JNTkxaaEQxWVktOWoyUGdzaVFIY3VL?oc=5",
+   "publishedAt": "2026-10-06T13:26:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "규제/거래소",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-06T16:09:46+09:00"
   }
  ]
 };
