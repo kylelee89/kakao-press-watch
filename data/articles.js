@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-07T07:02:00+09:00",
- "runCount": 3708,
+ "generatedAt": "2026-10-07T07:12:14+09:00",
+ "runCount": 3709,
  "price": {
   "price": "33,550",
   "pct": "+0.30",
-  "at": "2026-10-07T07:02:00+09:00"
+  "at": "2026-10-07T07:12:14+09:00"
  },
  "articles": [
   {
@@ -37815,6 +37815,32 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-06T23:42:22+09:00"
+  },
+  {
+   "id": "cdb04d3cd5cfcb29",
+   "title": "카카오, 멤버십·AI 꺼냈지만…정신아표 카카오톡 혁신 성과는 아직",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zZUJOMkMzV1c2UUNWWC1kMVhiZ1EwbzZSaDlCMlh0V1J4R3g1cjMxQUlUQUdFX0ZWdTh5QUFjdEpZVzBDTjVoOS1YZnZEQ3FtVkFxUHZFNUXSAVhBVV95cUxOc2VCTjJDM1dXNlFDVlgtZDFYYmdRMG82Umg5QjJYdFdSeEd4NXIzMUFJVEFHRV9GVnU4eUFBY3RKWVcwQ041aDktWGZ2RENxbVZBcVB2RTVF?oc=5",
+   "publishedAt": "2026-10-06T17:45:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "역접:지만"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-07T07:12:14+09:00"
   }
  ]
 };
