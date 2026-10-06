@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-06T23:32:08+09:00",
- "runCount": 3665,
+ "generatedAt": "2026-10-06T23:42:22+09:00",
+ "runCount": 3666,
  "price": {
   "price": "33,550",
   "pct": "+0.30",
-  "at": "2026-10-06T23:32:08+09:00"
+  "at": "2026-10-06T23:42:23+09:00"
  },
  "articles": [
   {
@@ -37765,6 +37765,56 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-06T20:52:34+09:00"
+  },
+  {
+   "id": "d2a811db32572974",
+   "title": "카카오 인적분할, 뭐가 달라졌나…카카오AI·카카오X 구조 분석",
+   "outlet": "coxnews.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vYUJjNU92Z21MUjVKdGE0R1huckd4d21ITHRZRjhzVnVma1BINFk0VnM1MmQ3bW5oeDd1QmdDRl9pUVpuZkFXTmZJellibjNyejlkeDVKekk4LTJ1MmhHTEVlTmtlNHlpamc?oc=5",
+   "publishedAt": "2026-10-06T23:16:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-06T23:42:22+09:00"
+  },
+  {
+   "id": "18c6171a6d4a18ff",
+   "title": "[조타수] '쪼개기' 꼬리표 떼는 카카오…이번 분할이 다른 점",
+   "outlet": "coxnews.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4SWZpWWR6eGI4bktUVjlNeFFReXRvUktzaTNrRnhXNXkwQkQ4aHVpOG9LVExybHRKZ1VPMW1BdTF3Nl96NmlBeEpZRUU4ZWxRS05EZkRiVm1KSjhGRFBqblB5QmR2NWxqVUE?oc=5",
+   "publishedAt": "2026-10-06T23:16:16+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-10-06T23:42:22+09:00"
   }
  ]
 };
