@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-06T18:57:38+09:00",
- "runCount": 3639,
+ "generatedAt": "2026-10-06T19:07:52+09:00",
+ "runCount": 3640,
  "price": {
-  "price": "33,450",
-  "pct": "+0.00",
-  "at": "2026-10-06T18:57:38+09:00"
+  "price": "33,400",
+  "pct": "-0.15",
+  "at": "2026-10-06T19:07:53+09:00"
  },
  "articles": [
   {
@@ -37723,6 +37723,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-06T16:09:46+09:00"
+  },
+  {
+   "id": "8a875031d798b6e1",
+   "title": "[리포트 브리핑]카카오, '미래 전략 가시화 필요' 목표가 54,000원 - 한화투자증권",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80bmZqcWVOcVRiQ0kweU01RnNxUWZHUzNqM2FILTFKTW56QjVMX3d3RzRHT2ItN3djNzNJT3dYYVBOejdHTklSdS1OUWZ0cDV4SjV3M1pvOHlwVmxK?oc=5",
+   "publishedAt": "2026-10-06T12:37:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-06T19:07:52+09:00"
   }
  ]
 };
