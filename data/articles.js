@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-06T20:41:20+09:00",
- "runCount": 3649,
+ "generatedAt": "2026-10-06T20:52:34+09:00",
+ "runCount": 3650,
  "price": {
   "price": "33,550",
   "pct": "+0.30",
-  "at": "2026-10-06T20:41:20+09:00"
+  "at": "2026-10-06T20:52:34+09:00"
  },
  "articles": [
   {
@@ -37744,6 +37744,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-06T19:07:52+09:00"
+  },
+  {
+   "id": "0589297ec893682a",
+   "title": "네이버·카카오·구글·메타 한자리에... 한국디지털광고협회X디지털마케팅연구회, \"2026 AI 광고마케팅 패스트트랙 세미나\" 개최",
+   "outlet": "매드타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lZHVBRlhKQXR6UGpCcnoxTDlBSnlUWnN4VmxKZ1AtZVRjZTJZbndId2xKaGwwcEdzS2loeHpjNjVPMl9GMXlvT1pKVzA5b0xlTWlRZ0ZJdVZ0d2J0VU5PV04xNFVpMmdqX2FkVQ?oc=5",
+   "publishedAt": "2026-10-06T17:00:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-06T20:52:34+09:00"
   }
  ]
 };
