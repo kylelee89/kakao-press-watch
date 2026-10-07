@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-10-07T09:06:45+09:00",
+ "asOf": "2026-10-07T09:16:58+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -214,6 +214,19 @@ window.KMW_ANALYSTS = {
    "title": "X/AI로 나뉘는 카카오, 우선은 지켜보자",
    "point": "인적분할 발표. 카카오X, 카카오AI의 현재와 미래. 투자의견 Buy, 목표주가 50,000원으로 하향",
    "extra": "목표주가 하향"
+  },
+  {
+   "date": "10/07",
+   "region": "국내",
+   "house": "흥국",
+   "analyst": "송지원",
+   "rating": "BUY",
+   "ratingPrev": null,
+   "target": 48500,
+   "targetPrev": null,
+   "title": "5천만 트래픽의 Next Step",
+   "point": "메신저 락인 수요, 실행형 AI 플랫폼의 기반. AI와 투자, 두 개의 성장축으로 재편",
+   "extra": "신규 투자의견 / 신규 목표주가"
   },
   {
    "date": "08/23",
