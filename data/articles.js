@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-07T11:04:04+09:00",
- "runCount": 3731,
+ "generatedAt": "2026-10-07T11:14:28+09:00",
+ "runCount": 3732,
  "price": {
-  "price": "33,350",
-  "pct": "-0.45",
-  "at": "2026-10-07T11:04:06+09:00"
+  "price": "33,250",
+  "pct": "-0.75",
+  "at": "2026-10-07T11:14:30+09:00"
  },
  "articles": [
   {
@@ -37841,6 +37841,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-07T07:12:14+09:00"
+  },
+  {
+   "id": "169b915f71c18b10",
+   "title": "[쇼츠] 둘로 쪼개지는 카카오…주주에게 무슨 일이?",
+   "outlet": "콕스뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TUUF2ZjBGMmJibWswdXJ1UnVxVkpMZ0swc2p6elZRMUpYUlN1SVoyQWJaUmNYb1NQMXVud0JQU3dTNENWaGxYbzdJVl9McWRZZGxMOG9oa19jTnE4WXRueFhETVM5d0lnbFE?oc=5",
+   "publishedAt": "2026-10-07T11:00:26+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-07T11:14:28+09:00"
   }
  ]
 };
