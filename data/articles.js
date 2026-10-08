@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-08T17:11:21+09:00",
- "runCount": 3810,
+ "generatedAt": "2026-10-08T17:22:39+09:00",
+ "runCount": 3811,
  "price": {
   "price": "32,450",
   "pct": "-1.82",
-  "at": "2026-10-08T17:11:21+09:00"
+  "at": "2026-10-08T17:22:40+09:00"
  },
  "articles": [
   {
@@ -38032,6 +38032,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-08T17:00:58+09:00"
+  },
+  {
+   "id": "42e8c8e7ed25ac36",
+   "title": "\"카카오게임즈, 신작 확대·내년 흑자전환 기대..목표가 18.2% 상향\"",
+   "outlet": "포쓰저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CckFyRHZFNWlzbUctSXA4UXN0OEE5cWtLV3prY3MyZ2d3M3l6WUVneHNRS2laa193TEZ6R0Z0M216Ym9IUTlXcEhYUGNWWF9tOUN0blpfZ3RTZzBGc2tiTXJQNm0?oc=5",
+   "publishedAt": "2026-10-08T11:14:13+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-08T17:22:39+09:00"
   }
  ]
 };
