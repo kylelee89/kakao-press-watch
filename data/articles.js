@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-08T14:42:56+09:00",
- "runCount": 3796,
+ "generatedAt": "2026-10-08T14:53:22+09:00",
+ "runCount": 3797,
  "price": {
   "price": "32,450",
   "pct": "-1.82",
-  "at": "2026-10-08T14:42:57+09:00"
+  "at": "2026-10-08T14:53:23+09:00"
  },
  "articles": [
   {
@@ -37984,6 +37984,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-08T13:27:07+09:00"
+  },
+  {
+   "id": "4bceb26fc2c74731",
+   "title": "\"카카오 '무늬만 제주 본사'… 지역사회에 책임 다해야\"",
+   "outlet": "한라일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wbHpYSmt4WDlMcGl5NHgzYmQyOEMxaHM2bmQtc3p4b0doOTRkTThBY2lKeTVQaDAzTWhYX255SHpZYVUzOHlCcWRUNEV3bUhYMjlqTjhKaFgzRDltUm1ETFJJTzRVVzVsamc?oc=5",
+   "publishedAt": "2026-10-08T14:34:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-08T14:53:22+09:00"
   }
  ]
 };
