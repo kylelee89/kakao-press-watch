@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-08T17:43:31+09:00",
- "runCount": 3813,
+ "generatedAt": "2026-10-08T17:54:45+09:00",
+ "runCount": 3814,
  "price": {
   "price": "32,400",
   "pct": "-1.97",
-  "at": "2026-10-08T17:43:31+09:00"
+  "at": "2026-10-08T17:54:45+09:00"
  },
  "articles": [
   {
@@ -38057,6 +38057,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-08T17:22:39+09:00"
+  },
+  {
+   "id": "d69a327f847ec87c",
+   "title": "인적분할 주주총회 앞둔 카카오⋯20일 소액주주 대상 추가 간담회",
+   "outlet": "아이뉴스24",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PQUZPRmpBUHQwM2JWLUh1S2ZmTVNWTFBsV3pXYzFReEI5RnY4c1lQM3h2TUpCSUx1SXMxYUdTZl9mUlkxYW5aNlJFcw?oc=5",
+   "publishedAt": "2026-10-08T17:47:42+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-08T17:54:45+09:00"
   }
  ]
 };
