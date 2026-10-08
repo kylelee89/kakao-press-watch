@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-08T16:50:38+09:00",
- "runCount": 3808,
+ "generatedAt": "2026-10-08T17:00:58+09:00",
+ "runCount": 3809,
  "price": {
   "price": "32,400",
   "pct": "-1.97",
-  "at": "2026-10-08T16:50:38+09:00"
+  "at": "2026-10-08T17:00:59+09:00"
  },
  "articles": [
   {
@@ -38005,6 +38005,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-08T14:53:22+09:00"
+  },
+  {
+   "id": "b21cc35644014364",
+   "title": "인적분할 주총 앞둔 카카오, 소액주주 직접 만난다…설득전 강화",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUw3anBFUGhHejJYbVBNUjVRZWZZZ3J3MzFkRmZHZl85U3cybnVxc3hCWnRlV0dvQkxCQUUydGhia0VnY09GM0hIcUhvYjRQR214Mjh2bXBnOV9aTGZrUmRsaXhKYjg3c0Rva01HcUtIMERMRmdEeWRNZHBwY2VoeQ?oc=5",
+   "publishedAt": "2026-10-08T16:52:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-08T17:00:58+09:00"
   }
  ]
 };
