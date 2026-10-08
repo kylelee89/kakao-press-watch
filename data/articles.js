@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-08T11:29:38+09:00",
- "runCount": 3778,
+ "generatedAt": "2026-10-08T11:40:51+09:00",
+ "runCount": 3779,
  "price": {
-  "price": "32,500",
-  "pct": "-1.66",
-  "at": "2026-10-08T11:29:51+09:00"
+  "price": "32,550",
+  "pct": "-1.51",
+  "at": "2026-10-08T11:40:52+09:00"
  },
  "articles": [
   {
@@ -37908,6 +37908,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-08T11:29:38+09:00"
+  },
+  {
+   "id": "18f767514e38b4dd",
+   "title": "“무늬만 제주 본사 카카오”...제주 노동자들 인적분할 중단 촉구",
+   "outlet": "제주의소리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zc2xrY0NiQmpBelBBNGczYThXOW1va2pCaDNGendQWS1OQW54N0l0VFd2UWdsY3NYN3o4NVEyUEwzWWI0V3BFR2J1clU5d3pqM016UmF1cWNjRUF5bVBLR1lKXzk2SG93cnQ0?oc=5",
+   "publishedAt": "2026-10-08T11:35:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-08T11:40:51+09:00"
   }
  ]
 };
