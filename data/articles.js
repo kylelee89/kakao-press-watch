@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-08T11:40:51+09:00",
- "runCount": 3779,
+ "generatedAt": "2026-10-08T11:52:07+09:00",
+ "runCount": 3780,
  "price": {
   "price": "32,550",
   "pct": "-1.51",
-  "at": "2026-10-08T11:40:52+09:00"
+  "at": "2026-10-08T11:52:07+09:00"
  },
  "articles": [
   {
@@ -37931,6 +37931,36 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-08T11:40:51+09:00"
+  },
+  {
+   "id": "a3347065d471172e",
+   "title": "카카오 인적분할에 제주 노동계 반발…“제주 본사 내세웠지만 일자리·임금은 외면”",
+   "outlet": "채널제주",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSDJ4MkExa0ZYcURlVGRuVGExeVliYUdXeXlVWTM3Qi1FWmU4dDZQeTFZV3BxTEdEREhDY1BabUNRT1d4am9ZQjJNVWdqUUFERm4xQ1RYaktVQkxxWnl6Vk1ETzN3U0w5VGw2aEEzdw?oc=5",
+   "publishedAt": "2026-10-08T11:21:10+09:00",
+   "tone": "우려",
+   "toneScore": -4.6,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:지만",
+    "적대어:반발",
+    "적대어:외면"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발",
+     "외면"
+    ]
+   },
+   "firstSeenAt": "2026-10-08T11:52:07+09:00"
   }
  ]
 };
