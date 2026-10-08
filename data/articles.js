@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-07T19:08:12+09:00",
- "runCount": 3777,
+ "generatedAt": "2026-10-08T11:29:38+09:00",
+ "runCount": 3778,
  "price": {
-  "price": "32,950",
-  "pct": "-1.64",
-  "at": "2026-10-07T19:08:12+09:00"
+  "price": "32,500",
+  "pct": "-1.66",
+  "at": "2026-10-08T11:29:51+09:00"
  },
  "articles": [
   {
@@ -37866,6 +37866,48 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-07T11:14:28+09:00"
+  },
+  {
+   "id": "002cf63b1f80caac",
+   "title": "[경제일보] 쪼개는 카카오, 서비스는 더 묶는다…4900원 멤버십의 계산법",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uQTVHYjJwMDJUQWd6b0FpZE81VjN1bGx2ZzhrSVp4VlUwMGwwVXdfVXRIbDNvWEZ5eEN6U0VtS0UwTWxScW9ZNlFGVThMMk1oZE51SThpTnLSAVhBVV95cUxPbkE1R2IycDAyVEFnem9BaWRPNVYzdWxsdmc4a0laeFZVMDBsMFV3X1V0SGwzb1hGeXhDelNFbUtFME1sUnFvWTZRRlU4TDJNaGROdUk4aU5y?oc=5",
+   "publishedAt": "2026-10-06T08:47:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-08T11:29:38+09:00"
+  },
+  {
+   "id": "c65d36600b6454d0",
+   "title": "\"이제는 보여줘야 할 때\"…카카오, 'AI 성과'에 쏠리는 눈",
+   "outlet": "굿모닝경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9waUREZ3VFQ0ZwODBPb3JxdG1Cai0wNmp5emxWUV9YYXN2WTV3bzNneGVxblo0RGpZSnEwRHpzZTlVdXpPS3VxUVNYbk5kYVE0Zlp1VG1DYnJHTzlrMlpyUG10aGN6TkhfVi1UZg?oc=5",
+   "publishedAt": "2026-10-08T06:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-08T11:29:38+09:00"
   }
  ]
 };
