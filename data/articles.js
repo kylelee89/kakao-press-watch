@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-08T13:16:40+09:00",
- "runCount": 3788,
+ "generatedAt": "2026-10-08T13:27:07+09:00",
+ "runCount": 3789,
  "price": {
   "price": "32,450",
   "pct": "-1.82",
-  "at": "2026-10-08T13:16:42+09:00"
+  "at": "2026-10-08T13:27:08+09:00"
  },
  "articles": [
   {
@@ -37961,6 +37961,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-08T11:52:07+09:00"
+  },
+  {
+   "id": "6417ec948a4749ac",
+   "title": "\"무늬만 제주 본사, 혜택만 받고 고용은 불안\"… 카카오 자회사 고용 실태 비판",
+   "outlet": "제주팟닷컴",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZV3RuYkZGQVJ1amRBVGVMUDhXN2tqWXVicUxpZFBfUWhYeGltRElQbFBIMnladmpuSUhHU0tDQVE2bml0RzlyNGwwT1BkTXJJQjgyMHRwZw?oc=5",
+   "publishedAt": "2026-10-08T13:15:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-08T13:27:07+09:00"
   }
  ]
 };
