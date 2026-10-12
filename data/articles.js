@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-12T11:22:43+09:00",
- "runCount": 3825,
+ "generatedAt": "2026-10-12T11:33:09+09:00",
+ "runCount": 3826,
  "price": {
-  "price": "31,850",
-  "pct": "-1.39",
-  "at": "2026-10-12T11:22:45+09:00"
+  "price": "31,900",
+  "pct": "-1.24",
+  "at": "2026-10-12T11:33:11+09:00"
  },
  "articles": [
   {
@@ -38377,6 +38377,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-12T11:12:15+09:00"
+  },
+  {
+   "id": "3bc36788187b05f7",
+   "title": "카카오, 인적분할 결의…‘카카오 AI’",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53Rm5mdmlQejFZdUMtZjFfV1B1TzNMMTRKYTJZRHZIYzU3dU4yUkI1NkpSUENpWDdCT2lacmJZd1hfLWh3V056a1pxTy1aYTM3b2lLT3Q5ME1WYmZNVXlBbUR0OTdidVRr?oc=5",
+   "publishedAt": "2026-10-12T02:10:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T11:33:09+09:00"
   }
  ]
 };
