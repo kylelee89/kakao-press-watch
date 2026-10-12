@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-12T11:00:57+09:00",
- "runCount": 3823,
+ "generatedAt": "2026-10-12T11:12:15+09:00",
+ "runCount": 3824,
  "price": {
-  "price": "31,950",
-  "pct": "-1.08",
-  "at": "2026-10-12T11:00:58+09:00"
+  "price": "31,800",
+  "pct": "-1.55",
+  "at": "2026-10-12T11:12:17+09:00"
  },
  "articles": [
   {
@@ -38351,6 +38351,32 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-12T10:29:52+09:00"
+  },
+  {
+   "id": "3d00a006f2b9f985",
+   "title": "카카오 주가 역대 최저가 경신… AI 지연·스팸 논란까지 ‘설상가상’",
+   "outlet": "조선일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUJ2UHNueFNYTHVsWmtQRmFxSzcxbUM4MFU5eUVCYUs0TkJmSWROYVFvYU5yazVmU05MTV9qRjhrUVdHdFhicDZLcFB1UGd3YU1UYmhjWTdzNmhCRmgyN2hUZkRmbFpoakJWR1g5R1NPTFBDTFBjY3VVQUdsUW9fNXVjTQ?oc=5",
+   "publishedAt": "2026-10-12T11:06:30+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-10-12T11:12:15+09:00"
   }
  ]
 };
