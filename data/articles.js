@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-12T10:18:41+09:00",
- "runCount": 3819,
+ "generatedAt": "2026-10-12T10:29:52+09:00",
+ "runCount": 3820,
  "price": {
-  "price": "31,900",
-  "pct": "-1.24",
-  "at": "2026-10-12T10:18:42+09:00"
+  "price": "31,850",
+  "pct": "-1.39",
+  "at": "2026-10-12T10:29:53+09:00"
  },
  "articles": [
   {
@@ -38320,6 +38320,37 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "bb29542fd3ed8292",
+   "title": "카카오 인적분할 '계열사 리스크 격리'…주주 부담 논란",
+   "outlet": "리드경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5clZRMGh4MkVnbkl5XzVuemI1ZDRaYV9UUFY5aExza2RPMnRORTRjWVRKVV9yV1JweW9XemRvenNEbF85WmxIWDJ5OTVkcUhyOTg2ZzViUEFoVjlUUUJqQWI5QnZuTkJmQ3lYNE9LX2Y?oc=5",
+   "publishedAt": "2026-10-12T10:04:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:리스크",
+    "적대어:논란",
+    "적대어:부담"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크",
+     "논란",
+     "부담"
+    ]
+   },
+   "firstSeenAt": "2026-10-12T10:29:52+09:00"
   }
  ]
 };
