@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-12T14:32:18+09:00",
- "runCount": 3843,
+ "generatedAt": "2026-10-12T14:42:45+09:00",
+ "runCount": 3844,
  "price": {
-  "price": "32,100",
-  "pct": "-0.62",
-  "at": "2026-10-12T14:32:19+09:00"
+  "price": "32,000",
+  "pct": "-0.93",
+  "at": "2026-10-12T14:42:46+09:00"
  },
  "articles": [
   {
@@ -38454,6 +38454,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-12T13:38:27+09:00"
+  },
+  {
+   "id": "a602dfa50e7e5415",
+   "title": "카카오페이 투자분석 2026. 10. 10",
+   "outlet": "주달",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5raTZEZTFybGYwTUEwbUZ1dmMtSjVOZ2FZVW5WMjNkb25aOVVIV240d3NqN1dGNkowMVJHancwRjhtVVM3MGx3WnRRNFVXYkx4UmhIVGRZNHBlc19LSXM3U2YzVERZcGNVMEUyME5NdkRlazQ?oc=5",
+   "publishedAt": "2026-10-10T16:30:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T14:42:45+09:00"
   }
  ]
 };
