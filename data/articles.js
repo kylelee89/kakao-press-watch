@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-12T13:28:00+09:00",
- "runCount": 3837,
+ "generatedAt": "2026-10-12T13:38:27+09:00",
+ "runCount": 3838,
  "price": {
-  "price": "32,000",
-  "pct": "-0.93",
-  "at": "2026-10-12T13:28:02+09:00"
+  "price": "32,225",
+  "pct": "-0.23",
+  "at": "2026-10-12T13:38:28+09:00"
  },
  "articles": [
   {
@@ -38431,6 +38431,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-12T13:17:34+09:00"
+  },
+  {
+   "id": "c4826d4a454ddbd0",
+   "title": "카카오, 분할 앞두고 또 주주 설득…계열 지원과 주주환원 사이",
+   "outlet": "IB토마토",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMk5xbGFuRXBpQ0hfNFltSkZVYy0wRVNxTkRLUnQ4akNTVXpJNy1ud19yX3UzampfTG9aZ21nakZkYVVKazdrVHVyN2VmX2ZvOUNrbDhNNS1IZHVHTktNYy00NzZQUGtvSVE?oc=5",
+   "publishedAt": "2026-10-12T07:40:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T13:38:27+09:00"
   }
  ]
 };
