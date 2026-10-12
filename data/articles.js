@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-08T18:15:30+09:00",
- "runCount": 3816,
+ "generatedAt": "2026-10-12T09:56:14+09:00",
+ "runCount": 3817,
  "price": {
-  "price": "32,400",
-  "pct": "-1.97",
-  "at": "2026-10-08T18:15:30+09:00"
+  "price": "32,000",
+  "pct": "-0.93",
+  "at": "2026-10-12T09:56:25+09:00"
  },
  "articles": [
   {
@@ -38084,6 +38084,242 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-08T17:54:45+09:00"
+  },
+  {
+   "id": "26b5aa7bb023170a",
+   "title": "카카오, 13일 애널리스트 간담회서 AI·분할 계획 논의",
+   "outlet": "비건뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKWTIwZUtVMDBjdzlQSkFPb3V4MHBBX1ZPdnZrc3gwVlQyc1RjSzZxUTdjRms0N1pMTnZCZDBxLVFmaDE4QXM5R1oxQ0ZfZ1ZlVFFZQWhSX0F0cWpySVJJbmdiU2xBdw?oc=5",
+   "publishedAt": "2026-10-12T03:34:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "47e4f582fed52315",
+   "title": "카카오, 인적분할 자회사 성장계획 공개…주주 설명도 재개",
+   "outlet": "디지털투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tOWhlMlZOWTNxVWZIQUdMOXVRSWEtRXJZeUY1OHJnRDlicDk5VzJZcWpyM0VjOE50Mm9qc05ZMU9OYXgxemVRWkM4YlVPQ1hBUXVHVU5Iby1VRTlBbm1jRkdncnJ4WEktZVA2dGplSE5hU0k?oc=5",
+   "publishedAt": "2026-10-08T18:11:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "3f5a8e8d832f7508",
+   "title": "카카오 20일 소액주주 간담회 다시 열기로, 인적분할 주총 앞서 표심 다지기",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwdDN1Wm1UTmRHM2RoUkN1X3BuOEU3QWNpcXJKa3p3WnpWc2V2RzhiaTdiX2Q2LTQ0RDVaeUcyVjBzWXQyeC1DVUpqVFRySkpWdXJwV1R2UzQ0LUEzVmctY0NaZkE5cmVRcjh1aGNObGp2a2M?oc=5",
+   "publishedAt": "2026-10-08T17:06:37+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "cfb8901942ffe5d8",
+   "title": "“간판만 제주 본사”···카카오 노조, 인적분할 반기",
+   "outlet": "제주매일",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5U1oyWUpOZEFnRnlMSHhrRkdJSExTVVRja2owOFNIa3BLQ1NZa0w1WHhhWWp5OTVuVXNna19DXzN6Z09nclNsZHdlcHVGaU1mUDR3THNjZlpVdWtrV1plYXZXbEFwOU1fUTVVYg?oc=5",
+   "publishedAt": "2026-10-08T18:08:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "66e56a1c7fe23eb4",
+   "title": "'디스카운트' 논란 속 분할 추진…기업가치 제고 시험대",
+   "outlet": "DealSite경제TV",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oZXJsbWkzOW9FTXcxcjRvSllkSEc3ZG14eHdlZ3V2ZmVsdl9RMHhEYTBLelJHNWZQSm03Ql9PU04zbGl5OG5say1zOF9HOVE2M25sTjRn?oc=5",
+   "publishedAt": "2026-10-07T08:00:26+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:디스카운트",
+    "적대어:논란"
+   ],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "디스카운트",
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "9734cc882bb80b51",
+   "title": "\"카카오, AI 사업 확장 지연…연말까지 주가 상승 제한적\"",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWUDZRVktkdC1yZXc1SUFCNTEwZ09ZQjV6cmJHWkxKQm95UHM3aGU3U3M3OWZ6RWs0ZERNN2t6S01vOGVNWDlDei1pTHRZSldpWjJTTVJtUXhBdw?oc=5",
+   "publishedAt": "2026-10-12T08:59:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "f9dd66d1b874460f",
+   "title": "같은 K열풍인데 주가는 딴판…K뷰티 웃고, K콘텐츠 울고",
+   "outlet": "매일경제 마켓",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NQktPazJWNG94bTY0UXAtYmRMMjJBYUp2RjB4VzJMYzg2cXNfQ3pCZUl2VmhmOTQzT0ZTMk9UWWxtNjViaFIzaEJ1eVRXS1dxQnc?oc=5",
+   "publishedAt": "2026-10-09T08:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:인데"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "8bc7eb07d08d6f01",
+   "title": "카모 ADR 막은 카카오 이사회…중복상장 넘을 ‘주주보호책’ 없었다",
+   "outlet": "인베스트조선",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnE0cV81aFNKRV9kcUVMaVVMUkZDLWdVZFJxT2loeF9MR3puMXJaN1pleVhhUmhYWkdEZGkxSkRoc0ZYZl9Wc2wwci1YRE5aYnhoTktiS21iTVVMVjlaTGlVV3lSV0VlV3pXRUFBellqb0RmX2NzbzM5LWp1ckxybHZWTQ?oc=5",
+   "publishedAt": "2026-09-23T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:중복상장"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "중복상장"
+    ]
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "60a9c6ed35007750",
+   "title": "[IB토마토]카카오, 분할 앞두고 또 주주 설득…계열 지원과 주주환원 사이",
+   "outlet": "뉴스토마토",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wcU83RTlHSjFkZmZCQTRmSmNQcXdRMVJqNjdWSFZBeTFTTEtvblJlSnN4eVhqUldKeC1RQzlaMFFDMmVPSDBsSEcxQ2xPOEhtZjFKY2w2TzBiYXFNTmJRdQ?oc=5",
+   "publishedAt": "2026-10-12T07:40:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
+  },
+  {
+   "id": "992542f9d8b02159",
+   "title": "[주간브리핑] 영업익 107조 삼성｜12월17일 카카오 분할 표결｜엔비디아 이어 앤트로픽 보안에서도 한국 빠져",
+   "outlet": "콕스뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KNXFfQ3AxT1ZSNnJsTl9JT19tSGFXdXlRT0lHX3ZjZmNoRnpMeTRROHc0TmtuSTVsdTYxRTRXNU93ZzMxS0loX3Q1UEFpcUZDRWpmN00wWXc0X3JhMGpiY3hJaG45Zzh3Nnc?oc=5",
+   "publishedAt": "2026-10-10T08:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-12T09:56:14+09:00"
   }
  ]
 };
