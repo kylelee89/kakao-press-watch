@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-12T13:07:15+09:00",
- "runCount": 3835,
+ "generatedAt": "2026-10-12T13:17:34+09:00",
+ "runCount": 3836,
  "price": {
-  "price": "31,950",
-  "pct": "-1.08",
-  "at": "2026-10-12T13:07:15+09:00"
+  "price": "32,000",
+  "pct": "-0.93",
+  "at": "2026-10-12T13:17:35+09:00"
  },
  "articles": [
   {
@@ -38400,6 +38400,37 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-12T11:33:09+09:00"
+  },
+  {
+   "id": "4e0ad9b665247648",
+   "title": "오늘 카카오 주가가 하락한 이유는? 예정된 분할 지연과 주주총회 불확실성이 부담으로 작용",
+   "outlet": "Traders Union",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0RUdmMwejQ0aEtpM2I1eEdxa0JRWEVidlJLNnpDd2h5bEJUc3FxWXItOHJpQXZ6cnlOTDFjOG1rb2Q4amE3aDZONXpJVGkxM1c1MXpIZHo4YkZEbzFEcE01YUwzS1dSQjBUODJFRWM5Sjk4RXRsNEUzVzlRQ3p6RHB4bUNhN3EzNkJIMDhXcw?oc=5",
+   "publishedAt": "2026-10-08T12:26:34+09:00",
+   "tone": "우려",
+   "toneScore": -6.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:하락",
+    "물음표:?",
+    "적대어:불확실",
+    "적대어:부담"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "하락",
+     "?",
+     "불확실",
+     "부담"
+    ]
+   },
+   "firstSeenAt": "2026-10-12T13:17:34+09:00"
   }
  ]
 };
