@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T11:38:53+09:00",
- "runCount": 3876,
+ "generatedAt": "2026-10-13T11:49:12+09:00",
+ "runCount": 3877,
  "price": {
-  "price": "30,350",
-  "pct": "-5.16",
-  "at": "2026-10-13T11:38:53+09:00"
+  "price": "30,300",
+  "pct": "-5.31",
+  "at": "2026-10-13T11:49:12+09:00"
  },
  "articles": [
   {
@@ -38623,6 +38623,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-13T10:56:39+09:00"
+  },
+  {
+   "id": "4d8ec76349f58e67",
+   "title": "인적분할 앞둔 카카오, 메신저 사업 일원화한다",
+   "outlet": "헤럴드경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HOVY1MmVfanU0YWF5d28xS2YyZjlzX2RVQy1kVGVON09Uck5aLU11WkxYY08xemFMVGd6dUpza1FkVHJ5NnFjQW5WVkNUTXZOcWxyc0p3?oc=5",
+   "publishedAt": "2026-10-13T11:37:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T11:49:12+09:00"
   }
  ]
 };
