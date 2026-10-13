@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T16:32:28+09:00",
- "runCount": 3904,
+ "generatedAt": "2026-10-13T16:42:57+09:00",
+ "runCount": 3905,
  "price": {
-  "price": "31,050",
-  "pct": "-2.97",
-  "at": "2026-10-13T16:32:29+09:00"
+  "price": "31,150",
+  "pct": "-2.66",
+  "at": "2026-10-13T16:42:59+09:00"
  },
  "articles": [
   {
@@ -38838,6 +38838,34 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-13T16:32:28+09:00"
+  },
+  {
+   "id": "8dcae082f305320b",
+   "title": "카카오 노조, 자회사 인적분할에 반발… “투자자만 챙기고 고용대책 없어”",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Helg0UGY2enJXemllMjRqeGc4dmhtTTRkNWx6VmVpQkp0MEJrWTRwVTZ4R19xbTJZN2pubzZtcW1nU3VEUEZ5eDhpMHY4Sk1SM3ZJTXV5NWtNQXZnblJ1YTlabld5dFR4T1docE5GSHDSAXRBVV95cUxNckliT1FLSk53Q0tUdWVaTEFrX2hwSWdxZFFOaTEzMVp3RHNjbzgyR1R6QlVsVlF4ZHFWbUlwLUEzMEY4Ylo3MWxzaGFraTVjV0lRUlJvOXk0aHlCbThUUld4a3l0R3RlWFJYR2RLNEZybEpIZg?oc=5",
+   "publishedAt": "2026-10-13T16:12:56+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T16:42:57+09:00"
   }
  ]
 };
