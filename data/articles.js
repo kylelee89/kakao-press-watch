@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T19:01:49+09:00",
- "runCount": 3918,
+ "generatedAt": "2026-10-13T19:12:08+09:00",
+ "runCount": 3919,
  "price": {
   "price": "31,100",
   "pct": "-2.81",
-  "at": "2026-10-13T19:01:50+09:00"
+  "at": "2026-10-13T19:12:09+09:00"
  },
  "articles": [
   {
@@ -38935,6 +38935,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-13T18:08:54+09:00"
+  },
+  {
+   "id": "d34bcc2ae649a496",
+   "title": "“투자자에겐 설명, 직원에겐 침묵”…카카오 인적분할에 노조 반발",
+   "outlet": "쿠키뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nckNVY0RxUUI3eXlTWEwzS2diWVB3NnJUUVhoN1JIcXl0U3dQZEVJcmZZTkRRTVhZelR1cWh6QUFCOU01dHotRjVOSlZtdVJZZERKbnU1bUVpV3hnTFRzdTVMUQ?oc=5",
+   "publishedAt": "2026-10-13T17:58:10+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T19:12:08+09:00"
   }
  ]
 };
