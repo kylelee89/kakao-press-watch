@@ -1,6 +1,6 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T14:41:37+09:00",
- "runCount": 3893,
+ "generatedAt": "2026-10-13T14:51:50+09:00",
+ "runCount": 3894,
  "price": {
   "price": "30,950",
   "pct": "-3.28",
