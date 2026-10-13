@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-12T18:36:04+09:00",
- "runCount": 3866,
+ "generatedAt": "2026-10-13T10:04:04+09:00",
+ "runCount": 3867,
  "price": {
-  "price": "31,800",
-  "pct": "-1.55",
-  "at": "2026-10-12T18:36:04+09:00"
+  "price": "30,800",
+  "pct": "-3.75",
+  "at": "2026-10-13T10:04:09+09:00"
  },
  "articles": [
   {
@@ -38499,6 +38499,102 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-12T15:04:43+09:00"
+  },
+  {
+   "id": "44828c1644f32157",
+   "title": "'바닥 뚫린 주가, 만회할까' 카카오, 오늘 새 AI 청사진 밝힌다",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xaDc4QUl6YnR2R2Y4V3hHRGFXYUlTS3gtZUU2OEI2aDdSMV9vTmJfd1EtYVFHdzVSZlZacEZiQU81WVcyS0FObHp5TEFaRkdqM1daRXJtbXVjT3Y3c1BBdUZQcXRkTEU2d1BwbXVlTmtScll3blhNYtIBeEFVX3lxTE9xaDc4QUl6YnR2R2Y4V3hHRGFXYUlTS3gtZUU2OEI2aDdSMV9vTmJfd1EtYVFHdzVSZlZacEZiQU81WVcyS0FObHp5TEFaRkdqM1daRXJtbXVjT3Y3c1BBdUZQcXRkTEU2d1BwbXVlTmtScll3blhNYg?oc=5",
+   "publishedAt": "2026-10-13T06:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:할까"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T10:04:04+09:00"
+  },
+  {
+   "id": "479a607b88cbe266",
+   "title": "[단독] 인적분할 앞둔 카카오, 메신저 사업 일원화…‘카카오워크’ 본사로 이관",
+   "outlet": "헤럴드경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FUUZNYzVCT1BaUnZGeXJWbXVNS1haTTlhQkhlOENzaUs4Q2dsOVdQeGpqRVZMb3FhOC11bVc2UDhEZl9TZEZkR01WdWd0eEtmSDFlNnhB?oc=5",
+   "publishedAt": "2026-10-12T18:40:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T10:04:04+09:00"
+  },
+  {
+   "id": "4b38415e09b5f344",
+   "title": "ADR 막힌 카모·기약 없는 카엔터…카카오X가 떠안은 ‘엑시트 숙제’",
+   "outlet": "인베스트조선",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEtHOFV0R01USjEzdU1TZTFSSG1rRnJ6Y2Q3LUNHaGN3bkhscTdMZE1rUml5dGE3WlJoTDVucnJWVk9LcUhPY1NQNFRoRjlDS1pRY0RDc2ttaFFKa2lGRGhiOUxuYjBUYml0eEg0SF9LbklkM0s5VlJOUXFqSTBpdm5Bcw?oc=5",
+   "publishedAt": "2026-10-13T07:01:34+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:숙제"
+   ],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "숙제"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T10:04:04+09:00"
+  },
+  {
+   "id": "32b08db34fe198c1",
+   "title": "LS증권 \"카카오페이 목표주가 하향, 증권 수수료 감소에 매출 추정치 낮춰\"",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqMWNJaEtDNDhPa3NBN3F2clIzSU5rc1h4UUtjSTJSdUtrMThFTWhfcEdyeXU3UWRGV05jQzVpYXRnX1NHNXdwQ292TWRyYVNfQlJxdl9WZG4tdENsbEpCXzR0TVlyTnpuWHR0aHVfQ2xfZ1k?oc=5",
+   "publishedAt": "2026-10-13T08:39:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T10:04:04+09:00"
   }
  ]
 };
