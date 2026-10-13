@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T10:46:16+09:00",
- "runCount": 3871,
+ "generatedAt": "2026-10-13T10:56:39+09:00",
+ "runCount": 3872,
  "price": {
-  "price": "30,500",
-  "pct": "-4.69",
-  "at": "2026-10-13T10:46:18+09:00"
+  "price": "30,550",
+  "pct": "-4.53",
+  "at": "2026-10-13T10:56:40+09:00"
  },
  "articles": [
   {
@@ -38595,6 +38595,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-13T10:04:04+09:00"
+  },
+  {
+   "id": "c7a6824dd4342f32",
+   "title": "카카오페이, 장중 신저가 추락…LS증권 목표주가 하향에 실적 우려까지",
+   "outlet": "더팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUEVjekZQVENzM2tyWlhkcTVxa1dfRklSdmk0bm52clZGUjliVFRkWXIwLVpzYXU2WGIwandBZ0xaU0hKN18yWHlTOWhrUnZxaFh6ajBHTnMtQdIBVEFVX3lxTE04dG9QNl9jUFljTzNSY0xhWXd5Qlg0VmpJaVRUX0NqLU5LWFBDcXprREN5QlFGNll3VVdDRkNDVk5Xa1pNazd6WlA5T0VxNkp6WTZaNQ?oc=5",
+   "publishedAt": "2026-10-13T10:46:41+09:00",
+   "tone": "우려",
+   "toneScore": -4.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:신저가",
+    "적대어:우려"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "신저가",
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T10:56:39+09:00"
   }
  ]
 };
