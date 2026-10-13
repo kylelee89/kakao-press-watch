@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T17:58:32+09:00",
- "runCount": 3912,
+ "generatedAt": "2026-10-13T18:08:54+09:00",
+ "runCount": 3913,
  "price": {
-  "price": "31,250",
-  "pct": "-2.34",
-  "at": "2026-10-13T17:58:32+09:00"
+  "price": "31,200",
+  "pct": "-2.50",
+  "at": "2026-10-13T18:08:56+09:00"
  },
  "articles": [
   {
@@ -38914,6 +38914,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-13T17:58:32+09:00"
+  },
+  {
+   "id": "061019f4c324ed60",
+   "title": "카카오 노조, 애널리스트 설명회서 시위…일방적 분할 반대",
+   "outlet": "SBS Biz",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5VS04bEZYc1JPTjJnMjBoT1F6Q2NVYzc1Tk9nYnVyUkxIYVF1bXpzcVdwSXVDS1BoZ0d2bUR2aTk3T3p5WFlTZ0lGZXhXeG0wVUtNa1dFcnTSAVhBVV95cUxQOVUtOGxGWHNST04yZzIwaE9RekNjVWM3NU5PZ2J1clJMSGFRdW16c3FXcEl1Q0tQaGdHdm1Edmk5N096eVhZU2dJRmV4V3htMFVLTWtXRXJ0?oc=5",
+   "publishedAt": "2026-10-13T16:09:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T18:08:54+09:00"
   }
  ]
 };
