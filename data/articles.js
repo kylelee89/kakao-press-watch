@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T21:52:38+09:00",
- "runCount": 3934,
+ "generatedAt": "2026-10-13T22:02:57+09:00",
+ "runCount": 3935,
  "price": {
   "price": "31,300",
   "pct": "-2.19",
-  "at": "2026-10-13T21:52:38+09:00"
+  "at": "2026-10-13T22:02:58+09:00"
  },
  "articles": [
   {
@@ -38985,6 +38985,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-13T19:22:28+09:00"
+  },
+  {
+   "id": "3784c075a17b5148",
+   "title": "인적분할 앞둔 카카오, 메신저 사업 일원화...디케이테크인으로부터 카카오워크 양수",
+   "outlet": "생생비즈플러스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zOF93NmlTS1JEaG8xYjlsdDRrRHExNWFndFU2SG03WlczeWVrN3JhT3JiakdEN1FyTnd2R2hqa081NWM1VnpvYzJOUmtSanpxeHRPYWc4bHFtYlNsdC1VeUNYSlhNenN2Wm56Vg?oc=5",
+   "publishedAt": "2026-10-13T15:00:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T22:02:57+09:00"
   }
  ]
 };
