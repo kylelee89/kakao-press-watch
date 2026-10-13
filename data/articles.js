@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T04:12:07+09:00",
- "runCount": 3970,
+ "generatedAt": "2026-10-14T04:23:19+09:00",
+ "runCount": 3971,
  "price": {
   "price": "31,300",
   "pct": "-2.19",
-  "at": "2026-10-14T04:12:08+09:00"
+  "at": "2026-10-14T04:23:19+09:00"
  },
  "articles": [
   {
@@ -39008,6 +39008,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-13T22:02:57+09:00"
+  },
+  {
+   "id": "36c12b9c0945cf55",
+   "title": "[취재수첩] 카카오가 신뢰를 얻으려면",
+   "outlet": "대한경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaHhsQ1ZnUnkzMER5S05GYklhenpuRzl1eEtGY196RlkydVhLUDRibUNac3hYZlpBZEpIc1BZVjJuV0J0a0FGbktMeHhXNDd5YnVGTTZiN0g1LU5uMEhvRjZTZmhuQ2c2bHRTUS0zaGhSM2Q0NkRwODJzQW1nYldMWXNMUWdLZw?oc=5",
+   "publishedAt": "2026-10-12T05:40:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T04:23:19+09:00"
   }
  ]
 };
