@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T16:22:09+09:00",
- "runCount": 3903,
+ "generatedAt": "2026-10-13T16:32:28+09:00",
+ "runCount": 3904,
  "price": {
-  "price": "30,950",
-  "pct": "-3.28",
-  "at": "2026-10-13T14:41:39+09:00"
+  "price": "31,050",
+  "pct": "-2.97",
+  "at": "2026-10-13T16:32:29+09:00"
  },
  "articles": [
   {
@@ -38690,6 +38690,154 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-13T13:48:40+09:00"
+  },
+  {
+   "id": "0efb20b2fb7a3b9e",
+   "title": "\"투자자엔 설명, 직원엔 침묵\"…카카오 인적분할에 노조 반발",
+   "outlet": "연합뉴스 한민족센터",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ec3Z3LV96bnFCVHpkQ0Q4VHF2RUJFTjAxbFRFWnNWaS1wckhwaGM4SUhINHVGR3dodmsta092X1ZQNmFQN2RSY1VyR25pdDNGa3lVTnFHcWpTM0JxRDcwVUppYTJhcHdnU1BYdGdFRDR6VTVI?oc=5",
+   "publishedAt": "2026-10-13T15:38:26+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T16:32:28+09:00"
+  },
+  {
+   "id": "30a22a4b78097665",
+   "title": "인적분할 앞둔 카카오…AI 청사진 제시",
+   "outlet": "뉴스토마토",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pTHJXX2kyOEh5cmJ1SlVYOHJNWWpZd19mQ29oLXZvdV9nSURtNkFybERlMUthYWIwUTlCem9LbVdjSF8yLVA2NFBSVHdfN056Rm1zRnViQy02TDVEQmlIdA?oc=5",
+   "publishedAt": "2026-10-13T15:49:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T16:32:28+09:00"
+  },
+  {
+   "id": "81133ea70ae7f49a",
+   "title": "\"누구를 위한 분할인가\"…카카오 노조, '일방적 인적분할' 반대 피켓시위",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zQmJsTEZva3V4aUtaZlNLdmRIMXY0ak5XZzk4UTJlSjJTUmFRTF9DVXpZWUR1SkdSZlRFM3FMOGpDUEVKUE1TOWNrX3htd3RFSlYtcktUNnRZcS1vQXd3Zl9HOXdiMXJtWFlmNnlR?oc=5",
+   "publishedAt": "2026-10-13T15:30:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T16:32:28+09:00"
+  },
+  {
+   "id": "35d3118037fbb8e2",
+   "title": "카카오노조, 인적분할 반발…“투자자엔 성장계획, 구성원엔 침묵”",
+   "outlet": "팝콘뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBleTIyUFNSWERUenJFa2NTRDl5ZzVOZXBGVFFpVVBnX2V1VUE5SU5hRFFhLThBTUlMTFozU1RfaEhDVURJZnJRajJTYkZuV0hyZ01xcnVyTkprMTMtNl9IcWpZeGo2RlZzdWR4MHdBWWU3UdIBckFVX3lxTFBleTIyUFNSWERUenJFa2NTRDl5ZzVOZXBGVFFpVVBnX2V1VUE5SU5hRFFhLThBTUlMTFozU1RfaEhDVURJZnJRajJTYkZuV0hyZ01xcnVyTkprMTMtNl9IcWpZeGo2RlZzdWR4MHdBWWU3UQ?oc=5",
+   "publishedAt": "2026-10-13T15:11:46+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T16:32:28+09:00"
+  },
+  {
+   "id": "003430b7b51fbcf4",
+   "title": "카카오, 카카오톡 이어 카카오워크도 직접 운영…메신저 사업 일원화",
+   "outlet": "뉴스저널리즘",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IRXNGaGtJMXk4R29TMm5XOTdMTmd1ZDBUR2hFVDFNYjhRVWY2a1pHaV9YOWloYTNvUWtJUHFod05IazgxQm5qT0pyVFh5WXNLMWtJWDlheHZsZC1PbDlXR2xobFBuamFsejFJ?oc=5",
+   "publishedAt": "2026-10-13T15:50:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T16:32:28+09:00"
+  },
+  {
+   "id": "ed6668b749faea54",
+   "title": "카카오노조 \"투자자엔 청사진, 구성원엔 침묵\"…인적분할 반발 시위",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPLTRWdFVfNVh1ejdFX3lYSkk4empEZm9mNTlWLVQ5UzI5WjFPMzJXcjNIYWk3OTVPNzMwcmxHSXB5dmJIc21xR3JlWjBXdG5sc3UzNUxrTDVtVjRUNVl2MHk1aGlpQWRRZ05GOUU3UlBMcm1HS1J4aVR2eGNVSWhhcnVDVDJPMVhaQnlBcmpLUXNpQ1JTbjdvcFNpTzA0a25IbUxDNm90dHJETmVXWnhLQ1lZd1czV3dERzdRamZzLU1Qb0VQX1VKOFNFNVk2Z1BRT29XR2pfanc3V08yajlDdGtDWFhKWjdtUzczQlRmNVpmbEgwTUd6V2FxaE9zdWFzU3VhWWtTb00yd3RaZlFCcHNBZU5zUk1Dc25VMm1NTThYZw?oc=5",
+   "publishedAt": "2026-10-13T16:07:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T16:32:28+09:00"
   }
  ]
 };
