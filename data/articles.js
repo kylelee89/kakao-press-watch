@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T16:54:21+09:00",
- "runCount": 3906,
+ "generatedAt": "2026-10-13T17:04:50+09:00",
+ "runCount": 3907,
  "price": {
-  "price": "31,100",
-  "pct": "-2.81",
-  "at": "2026-10-13T16:54:23+09:00"
+  "price": "31,050",
+  "pct": "-2.97",
+  "at": "2026-10-13T17:04:52+09:00"
  },
  "articles": [
   {
@@ -38866,6 +38866,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-13T16:42:57+09:00"
+  },
+  {
+   "id": "66200984e07bd7ba",
+   "title": "카카오 노조, 인적분할에 반발…“투자자엔 성장계획, 직원엔 침묵”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kOTY0d0M2ZzREZnBWYzZhbU1pVFZKbk9KRnZCMXUtZENmNnVDcTRjMDFiTTd3QlBLc1NtQThKaHlFblBYb2FtYkl0VXJ1bHdmTko4MlE2WjJDSmZnS25yYV9OVDE4Q295?oc=5",
+   "publishedAt": "2026-10-13T16:40:03+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-13T17:04:50+09:00"
   }
  ]
 };
