@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T19:12:08+09:00",
- "runCount": 3919,
+ "generatedAt": "2026-10-13T19:22:28+09:00",
+ "runCount": 3920,
  "price": {
-  "price": "31,100",
-  "pct": "-2.81",
-  "at": "2026-10-13T19:12:09+09:00"
+  "price": "31,200",
+  "pct": "-2.50",
+  "at": "2026-10-13T19:22:28+09:00"
  },
  "articles": [
   {
@@ -38962,6 +38962,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-13T19:12:08+09:00"
+  },
+  {
+   "id": "daed2fc4ecd222eb",
+   "title": "'인적분할' 카카오, 메신저 사업 일원화...카카오워크 직접 맡는다",
+   "outlet": "블로터",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fSW1MV25kb0hULWpZVnJ2MjVjRWZLQW5tZ2ZxaEJEbVJ2ZnI4cHM0V3JRTlVYM01na1RmcmYzQmswOGstRm15OGRIZDF1Z1VRWHdZdHFKb3ZhcENHZW84LWFIeFVTeU9lX1J1QtIBbEFVX3lxTE1fSW1MV25kb0hULWpZVnJ2MjVjRWZLQW5tZ2ZxaEJEbVJ2ZnI4cHM0V3JRTlVYM01na1RmcmYzQmswOGstRm15OGRIZDF1Z1VRWHdZdHFKb3ZhcENHZW84LWFIeFVTeU9lX1J1Qg?oc=5",
+   "publishedAt": "2026-10-13T17:44:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T19:22:28+09:00"
   }
  ]
 };
