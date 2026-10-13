@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T13:38:16+09:00",
- "runCount": 3887,
+ "generatedAt": "2026-10-13T13:48:40+09:00",
+ "runCount": 3888,
  "price": {
   "price": "30,700",
   "pct": "-4.06",
-  "at": "2026-10-13T13:38:18+09:00"
+  "at": "2026-10-13T13:48:40+09:00"
  },
  "articles": [
   {
@@ -38667,6 +38667,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-13T13:38:16+09:00"
+  },
+  {
+   "id": "ac5008cfec88a5d9",
+   "title": "카카오, 인적분할 앞두고 메신저 운영 일원화…카카오워크 본사 이관",
+   "outlet": "컨슈머타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TMVZPblhTalRHNXJkZzlOazdNYktwUFJPUjhpcjZOQUdrMElvVmMxZFJCQ3hRNG9mdkg5UDBtLVc1NEx2SGozOThETFJXQ29yd2JPaDNXdHd0Rkt1NXpKX0VlYlo4TGptdmc?oc=5",
+   "publishedAt": "2026-10-13T13:35:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T13:48:40+09:00"
   }
  ]
 };
