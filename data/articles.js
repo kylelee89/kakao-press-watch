@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T13:26:55+09:00",
- "runCount": 3886,
+ "generatedAt": "2026-10-13T13:38:16+09:00",
+ "runCount": 3887,
  "price": {
-  "price": "30,750",
-  "pct": "-3.91",
-  "at": "2026-10-13T13:26:57+09:00"
+  "price": "30,700",
+  "pct": "-4.06",
+  "at": "2026-10-13T13:38:18+09:00"
  },
  "articles": [
   {
@@ -38646,6 +38646,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-13T11:49:12+09:00"
+  },
+  {
+   "id": "e2dca93607cccae2",
+   "title": "카카오톡 이어 카카오워크도 본사로…메신저 사업 일원화",
+   "outlet": "연합뉴스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WUFjSEpDa1laMU9iT2xiWFRkS2U1dVB6MGo1XzlyQjZZa09ab1ZZdTMzbS1QMFhqdy0tWUhjUHNTN0ZiT2NiRXlRdmd0bjFiNl9DakFRY245SFHSAWBBVV95cUxORUs4cC1RWmt0MUZhWTByNmhxbGJ4X3JQWVRDOWgzUVEyRkp1cXFJWjdHWE5FY1ZFVUJCUEtPMWlQeTE4anVOYm04MjBLNTdpOWRkQjczUVI2MWpPZHUwM1E?oc=5",
+   "publishedAt": "2026-10-13T13:24:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T13:38:16+09:00"
   }
  ]
 };
