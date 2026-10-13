@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-13T17:47:16+09:00",
- "runCount": 3911,
+ "generatedAt": "2026-10-13T17:58:32+09:00",
+ "runCount": 3912,
  "price": {
-  "price": "31,200",
-  "pct": "-2.50",
-  "at": "2026-10-13T17:47:16+09:00"
+  "price": "31,250",
+  "pct": "-2.34",
+  "at": "2026-10-13T17:58:32+09:00"
  },
  "articles": [
   {
@@ -38893,6 +38893,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-13T17:04:50+09:00"
+  },
+  {
+   "id": "efb16e5f21d0a1f7",
+   "title": "카카오톡 이어 카카오워크도 본사 품으로…메신저 사업 재편 속도",
+   "outlet": "CWN",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16azN3a3h0bDdVU3piREIzMWtaU2VTNW5ZNGprVk9uc2lKVGZJUExGY2ZwVUdTR290dVEwWGFaWEVQOUc4OE43OWUxZ1gxclFVYkgyaHpWYkFTbVAwcGp2dlVn?oc=5",
+   "publishedAt": "2026-10-13T14:51:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-13T17:58:32+09:00"
   }
  ]
 };
