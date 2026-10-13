@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T05:57:34+09:00",
- "runCount": 3980,
+ "generatedAt": "2026-10-14T06:08:46+09:00",
+ "runCount": 3981,
  "price": {
   "price": "31,300",
   "pct": "-2.19",
-  "at": "2026-10-14T05:57:35+09:00"
+  "at": "2026-10-14T06:08:47+09:00"
  },
  "articles": [
   {
@@ -39029,6 +39029,69 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T04:23:19+09:00"
+  },
+  {
+   "id": "ca558bb318957179",
+   "title": "[단독] 카카오, 웹툰·음원·카카오T에 스테이블코인 결제 연동…소설 원작 AI 애니 제작도",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iLTNtamhiMk54R29YamVpcW8xeDBHOVZpLW5DMWNiNUEyMFRZRVAtUG1MeXVNQ3M1XzhaY3RqZ05wVFQ3bmY1b2xGUGd6dw?oc=5",
+   "publishedAt": "2026-10-14T06:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T06:08:46+09:00"
+  },
+  {
+   "id": "2ada06e563f83e4e",
+   "title": "\"카톡에서 AI비서팀 부른다\"…카카오, 메신저 판을 바꾼다",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qSV9qOFhsdmNUM3FuRTFvN3J3aWxNandBbFpOS2lLaGI2OUNieHhDODNMX2NhN2hWTjkzRXRJcnhxLXRXZWpIQzR2NnUzUEVmbTViYzZZb0dINjBJblJnYtIBeEFVX3lxTE1LbnBmZ2FJc2hDaVBxaGJsZkszTlM1Tk1hYm1PM2FoM1B0eW84bjRHTlgwbzVMQ0p0RFAxYWFPYXhpTk1ZaUJmNGRreUhPSTRSVXE2dWVKUjBveXFaNFdDN0MxUkdNck1GUGVDMElMenlaeDY3X1hiRA?oc=5",
+   "publishedAt": "2026-10-14T06:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T06:08:46+09:00"
+  },
+  {
+   "id": "5c8ef5f3e2ac9006",
+   "title": "처음 지원하는 분을 위한 ㅌㅌ 사이트 서류 안내",
+   "outlet": "belpostel.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEZ4U05Ub0JLUDNKZklNX1FIcHZCOEFjYU1KQ1lxbDg0c1U2RDU4Vmg4ODRfUWFMZ2plNjVva0NkRjlHM3J5WXhwR2JtWDVia0RQQjVlWVhTYmQyZC1vWHlmM09lUVZtVXhESTZIcjk0aGUzMHZTVnhMSkZmLW1sSXBaSkpEWHNJU1NvSWl1ZFBRQnB3eUVzamRtZ0l6Q1BfSFZFYy1R?oc=5",
+   "publishedAt": "2026-10-09T06:03:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T06:08:46+09:00"
   }
  ]
 };
