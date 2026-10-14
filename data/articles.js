@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T23:16:06+09:00",
- "runCount": 4077,
+ "generatedAt": "2026-10-14T23:26:30+09:00",
+ "runCount": 4078,
  "price": {
   "price": "31,650",
   "pct": "+1.12",
-  "at": "2026-10-14T23:16:07+09:00"
+  "at": "2026-10-14T23:26:30+09:00"
  },
  "articles": [
   {
@@ -40966,6 +40966,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T22:11:40+09:00"
+  },
+  {
+   "id": "4aec5aa926cd4541",
+   "title": "카카오그룹, 인적분할 앞두고 첫 공동 IR…카카오AI·카카오X 성장전략 공개",
+   "outlet": "웹이코노미",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LVlNTNzBVTnlyTG9fQ2ZGZ1gxTTBnaC1lTVUybkRaT1JxWXR0VFlHMV9vaW5wYnExM1daVlJlVFpVd1IxU3RzWElwX215bXNBOXZjUEJjSzdtNUNSczNBREN4cUlQRlpTemEzR3BleWdKdw?oc=5",
+   "publishedAt": "2026-10-14T23:11:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T23:26:30+09:00"
   }
  ]
 };
