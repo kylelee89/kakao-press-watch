@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T20:04:03+09:00",
- "runCount": 4059,
+ "generatedAt": "2026-10-14T20:14:39+09:00",
+ "runCount": 4060,
  "price": {
   "price": "31,650",
   "pct": "+1.12",
-  "at": "2026-10-14T20:04:05+09:00"
+  "at": "2026-10-14T20:14:39+09:00"
  },
  "articles": [
   {
@@ -40878,6 +40878,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T19:21:12+09:00"
+  },
+  {
+   "id": "f0ffd23593b8fbe3",
+   "title": "웹툰·웹소설을 AI 애니로…카카오픽코마 '탈웹툰' 승부수",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1INlRlaWxYVkJBUEFnRE9SdHVNQXpMNFRlODA0cUI5SG9XNUloam42aW5KUEs1MUFIdnVnTGE0blFvQ244WFF3ak5lWVdUeVpETW1udWU5VHVEbXpVc0pPZGRreS1VckNo?oc=5",
+   "publishedAt": "2026-10-14T17:01:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T20:14:39+09:00"
   }
  ]
 };
