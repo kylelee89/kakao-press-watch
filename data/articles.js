@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T10:53:00+09:00",
- "runCount": 4008,
+ "generatedAt": "2026-10-14T11:03:23+09:00",
+ "runCount": 4009,
  "price": {
-  "price": "31,850",
-  "pct": "+1.76",
-  "at": "2026-10-14T10:53:01+09:00"
+  "price": "31,900",
+  "pct": "+1.92",
+  "at": "2026-10-14T11:03:25+09:00"
  },
  "articles": [
   {
@@ -39741,6 +39741,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T10:53:00+09:00"
+  },
+  {
+   "id": "d40f9f42f7f67b40",
+   "title": "카카오, 인적분할 앞두고 첫 공동 IR…계열사 성장전략 공개",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSFNQalFhSFRuYWlqeDY2SVpzaEdkbjhlTE5GMzgwMy1ZcFZqVE1qQlJiNE0tV25WMU9JVzZSSE1rMm1VLWJuczBOM1pOVjh1cmxjRy1jd19PMDRGNGdwUGd0Y1BlWk5yeV83S1lYZW1VN2xxR3UwRFdnVXpsaXcwSHFLZUFRR3Bvb0ZmR201ZEt4dEpZcmtSZDhWWXZXU2lEWGtPM2NLSjZkVkZMMkVsRUg4VTZMODhzX3cxYW9uNlA3cVZJOXc0eGUxbks3WFh1TDNkQ2RQS2Y1OC1JV09DdXNzcDZqMDNEOEE5LXM3dG16TDU4QXpuWm1ZTnVtWm9SaVU0?oc=5",
+   "publishedAt": "2026-10-14T10:58:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T11:03:23+09:00"
+  },
+  {
+   "id": "4fec5d549643c702",
+   "title": "카카오, 인적분할 앞두고 계열사 CEO 한자리에…첫 공동 IR 개최",
+   "outlet": "뉴스투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTExyZ2x0M0lqd2dmQndEYkdJYVNOZzN5VE5lQ2U5cldkcXRST083TzF3SjR3ZS1LSEtiT0Y3dEszSWJsRzFBQnNXNmtrWlJRNmdsREd0WGtVYkVXMVE?oc=5",
+   "publishedAt": "2026-10-14T10:55:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T11:03:23+09:00"
+  },
+  {
+   "id": "18bd91e4871469d7",
+   "title": "\"카카오T·웹툰에 가상자산 결제 넣는다\"…인적분할 카카오, 비전 구체화",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuME8xOHFmdER5NzFCT1dsakdRLXFxYjRveU9VY05WTGRkRy1idFR6MFRuVnItZHVHTU9kcFNlN3BDNGpGa1lDRTV0cGQtb0tvdHdrMG9zMWtIRnZJNXkxdDUzM20?oc=5",
+   "publishedAt": "2026-10-14T10:53:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T11:03:23+09:00"
   }
  ]
 };

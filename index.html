@@ -1717,15 +1717,16 @@
           }
         ];
 
+        // 발간순(최신 발간이 위). 같은 날이면 목표주가 높은 순으로 묶는다.
         const sortedReports = reports.slice().sort((a, b) => {
+          const aDate = String(a.date || '');
+          const bDate = String(b.date || '');
+          if (bDate !== aDate) return bDate.localeCompare(aDate);
           const aTarget = toAnalystNumber(a.target);
           const bTarget = toAnalystNumber(b.target);
           const aSort = aTarget == null ? -Infinity : aTarget;
           const bSort = bTarget == null ? -Infinity : bTarget;
           if (bSort !== aSort) return bSort - aSort;
-          const aDate = String(a.date || '');
-          const bDate = String(b.date || '');
-          if (bDate !== aDate) return bDate.localeCompare(aDate);
           return String(a.house || '').localeCompare(String(b.house || ''));
         });
 
