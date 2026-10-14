@@ -601,6 +601,33 @@
       min-width: 0;
     }
 
+    /* ---- 상단 메뉴 (섹션을 페이지로 나눔) ---- */
+    .nav-bar { position: sticky; top: 0; z-index: 20; background: rgba(247,248,250,.92); backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--line); margin: 0 0 16px; padding: 6px 0; display: flex; gap: 4px;
+      overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    .nav-bar::-webkit-scrollbar { display: none; }
+    .nav-item { appearance: none; border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 14px;
+      font-weight: 600; padding: 9px 14px; border-radius: 8px; cursor: pointer; white-space: nowrap;
+      display: inline-flex; align-items: center; gap: 6px; }
+    .nav-item:hover { background: rgba(17,24,39,.05); color: var(--text); }
+    .nav-item.active { background: var(--text); color: #fff; }
+    .nav-item .nav-count { font-size: 11px; font-weight: 600; opacity: .7; font-variant-numeric: tabular-nums; }
+    .nav-sep { flex: 1 1 auto; min-width: 8px; }
+    .nav-item.ext { color: var(--blue); }
+    .nav-item.ext:hover { background: rgba(37,99,235,.08); }
+    /* 홈 서머리 */
+    .home-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+    .home-more { appearance: none; border: 0; background: transparent; color: var(--blue); font: inherit; font-size: 13px;
+      font-weight: 600; cursor: pointer; padding: 6px 0; }
+    .home-mini { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+    .home-mini li { padding: 9px 0; border-top: 1px solid #eef0f3; font-size: 13px; display: grid; gap: 3px; }
+    .home-mini li:first-child { border-top: 0; }
+    .home-mini a { color: var(--text); text-decoration: none; font-weight: 500; }
+    .home-mini a:hover { text-decoration: underline; }
+    .home-mini .mini-meta { color: var(--muted-2); font-size: 12px; font-variant-numeric: tabular-nums; }
+    .home-kv { display: flex; justify-content: space-between; gap: 10px; padding: 8px 0; border-top: 1px solid #eef0f3; font-size: 13px; }
+    .home-kv:first-child { border-top: 0; }
+    .home-kv strong { font-variant-numeric: tabular-nums; }
     .table-toolbar, .filter-bar {
       display: flex;
       flex-wrap: wrap;
@@ -1248,6 +1275,7 @@
       const MESSAGE_INDEX = new Map(MESSAGE_ORDER.map((message, index) => [message, index]));
 
       const state = {
+        view: 'home',
         tone: '전체',
         group: '전체',
         frame: '전체',
@@ -1992,6 +2020,35 @@
         `;
       }
 
+      // 섹션이 계속 늘어나 한 페이지가 너무 길어져서 메뉴로 나눴다. 해시로 현재 페이지를 유지한다.
+      const VIEWS = [
+        { id: 'home', label: '홈' },
+        { id: 'price', label: '주가' },
+        { id: 'analysts', label: '증권가' },
+        { id: 'tone', label: '논조' },
+        { id: 'articles', label: '기사' }
+      ];
+      const EGM_BOARD_URL = 'https://script.google.com/a/macros/kakaocorp.com/s/AKfycbxgxE3JloewyhRnrYZ1gEnJrggmKEceQbDHp7FMKYUROWCj01EcZk3udH5gWACA5egaTw/exec';
+
+      function viewFromHash() {
+        const raw = String(location.hash || '').replace('#', '');
+        return VIEWS.some((v) => v.id === raw) ? raw : 'home';
+      }
+
+      function renderNav(data) {
+        const count = data && data.articles ? data.articles.length : 0;
+        return `
+          <nav class="nav-bar" aria-label="섹션 메뉴">
+            ${VIEWS.map((v) => `
+              <button class="nav-item ${state.view === v.id ? 'active' : ''}" data-view="${v.id}" type="button">
+                ${v.label}${v.id === 'articles' ? `<span class="nav-count">${count}</span>` : ''}
+              </button>`).join('')}
+            <span class="nav-sep"></span>
+            <a class="nav-item ext" href="${EGM_BOARD_URL}" target="_blank" rel="noopener noreferrer">주총 현황판 ↗</a>
+          </nav>
+        `;
+      }
+
       function renderHeader(data) {
         const price = data.price || {};
         const pctValue = Number(price.pct || 0);
@@ -2022,54 +2079,137 @@
         `;
       }
 
+      // 홈은 각 페이지의 핵심만 추려 보여주고, 더 보기로 해당 페이지로 보낸다.
+      function renderHomeSummary(data) {
+        const total = data.articles.length;
+        const prices = (window.KMW_PRICES && Array.isArray(window.KMW_PRICES.series)) ? window.KMW_PRICES.series : [];
+        const findSeries = (id) => prices.find((x) => x.id === id) || null;
+        const kakao = findSeries('kakao');
+        const kospi = findSeries('KOSPI');
+        const signed = (v, unit) => (v == null ? '-' : `${v > 0 ? '+' : ''}${v.toFixed(unit === 'pp' ? 1 : 2)}${unit === 'pp' ? '%p' : '%'}`);
+        const colorOf = (v) => (v == null ? 'mid-text' : v < 0 ? 'blue-text' : v > 0 ? 'red-text' : 'mid-text');
+
+        const analysts = (window.KMW_ANALYSTS && Array.isArray(window.KMW_ANALYSTS.reports)) ? window.KMW_ANALYSTS.reports : [];
+        const recentReports = analysts.slice().sort((a, b) => String(b.date || '').localeCompare(String(a.date || ''))).slice(0, 3);
+        const targets = analysts.map((r) => toAnalystNumber(r.target)).filter((v) => v != null);
+        const avgTarget = targets.length ? Math.round(targets.reduce((a, b) => a + b, 0) / targets.length) : null;
+
+        const recentArticles = data.articles.slice().sort((a, b) => String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''))).slice(0, 5);
+
+        return `
+          <section class="section panel">
+            <div class="panel-head"><div>
+              <h2 class="panel-title">논조 요약</h2>
+              <div class="panel-sub">전체 ${total}건 기준</div>
+            </div><button class="home-more" data-view="tone" type="button">논조 자세히 →</button></div>
+            ${renderToneSummary(data)}
+          </section>
+
+          <div class="home-grid">
+            <section class="section panel">
+              <div class="panel-head"><div>
+                <h2 class="panel-title">주가</h2>
+                <div class="panel-sub">8/20 종가 대비 누적</div>
+              </div><button class="home-more" data-view="price" type="button">주가 자세히 →</button></div>
+              ${kakao ? `
+                <div class="home-kv"><span>카카오 누적</span><strong class="${colorOf(kakao.cumPct)}">${signed(kakao.cumPct)}</strong></div>
+                <div class="home-kv"><span>발표일 등락</span><strong class="${colorOf(kakao.annPct)}">${signed(kakao.annPct)}</strong></div>
+                ${kospi ? `<div class="home-kv"><span>KOSPI 대비</span><strong class="${colorOf(kakao.cumPct - kospi.cumPct)}">${signed(kakao.cumPct - kospi.cumPct, 'pp')}</strong></div>` : ''}
+                <div class="home-kv"><span>종가</span><strong>${escapeHtml(String(kakao.base || '-'))} → ${escapeHtml(String(kakao.last || '-'))}원</strong></div>
+              ` : '<div class="empty">주가 데이터가 없습니다.</div>'}
+            </section>
+
+            <section class="section panel">
+              <div class="panel-head"><div>
+                <h2 class="panel-title">증권가</h2>
+                <div class="panel-sub">리포트 ${analysts.length}건${avgTarget ? `, 평균 목표가 ${avgTarget.toLocaleString('ko-KR')}원` : ''}</div>
+              </div><button class="home-more" data-view="analysts" type="button">증권가 자세히 →</button></div>
+              <ul class="home-mini">
+                ${recentReports.length ? recentReports.map((r) => `
+                  <li>
+                    <span>${escapeHtml(r.house || '')} ${escapeHtml(r.rating || '')} ${escapeHtml(formatAnalystWon(r.target))}</span>
+                    <span class="mini-meta">${escapeHtml(String(r.date || ''))} · ${escapeHtml(String(r.title || '').slice(0, 40))}</span>
+                  </li>`).join('') : '<li>리포트가 없습니다.</li>'}
+              </ul>
+            </section>
+          </div>
+
+          <section class="section panel">
+            <div class="panel-head"><div>
+              <h2 class="panel-title">최신 기사</h2>
+              <div class="panel-sub">가장 최근 5건</div>
+            </div><button class="home-more" data-view="articles" type="button">기사 전체 →</button></div>
+            <ul class="home-mini">
+              ${recentArticles.map((a) => `
+                <li>
+                  <a href="${escapeHtml(a.url || '#')}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title || '')}</a>
+                  <span class="mini-meta">${escapeHtml(a.outlet || '')} · ${escapeHtml(formatKstClock(a.publishedAt) || String(a.publishedAt || '').slice(0, 16))} · ${escapeHtml(a.tone || '')}</span>
+                </li>`).join('')}
+            </ul>
+          </section>
+        `;
+      }
+
       function renderApp(data) {
         const analytics = buildAnalytics(data);
         state.data = analytics;
+        const pages = {
+          home: () => renderHomeSummary(analytics),
+
+          price: () => `<section class="section panel" id="priceTracker"></section>`,
+
+          analysts: () => renderAnalystReactionSection(),
+
+          tone: () => `
+            <section class="section panel">
+              <div class="panel-head">
+                <div>
+                  <h2 class="panel-title">논조 요약</h2>
+                  <div class="panel-sub">긍정 / 중립 / 우려 비율과 전체 스택바</div>
+                </div>
+              </div>
+              ${renderToneSummary(analytics)}
+            </section>
+
+            <section class="section panel">
+              <div class="panel-head">
+                <div>
+                  <h2 class="panel-title">프레임 (누구의 프레임으로 썼는가)</h2>
+                  <div class="panel-sub">회사 보도자료 프레임을 실었는지, 비판 프레임을 세웠는지</div>
+                </div>
+              </div>
+              ${renderFrameAxisSection(analytics)}
+            </section>
+
+            <section class="section panel">
+              <div class="panel-head">
+                <div>
+                  <h2 class="panel-title">프레임 분포</h2>
+                  <div class="panel-sub">클릭하면 기사 목록으로 이동해 해당 프레임으로 필터링됩니다</div>
+                </div>
+              </div>
+              ${renderFrameDistribution(analytics)}
+            </section>
+          `,
+
+          articles: () => `
+            <section class="section panel">
+              <div class="panel-head">
+                <div>
+                  <h2 class="panel-title">기사 목록</h2>
+                  <div class="panel-sub">기본 100건 표시, 더 보기로 100건씩 확장</div>
+                </div>
+              </div>
+              ${renderArticles(analytics)}
+            </section>
+          `
+        };
+
+        const body = (pages[state.view] || pages.home)();
         const html = `
           ${renderHeader(analytics)}
-
-          <section class="section panel">
-            <div class="panel-head">
-              <div>
-                <h2 class="panel-title">논조 요약</h2>
-                <div class="panel-sub">긍정 / 중립 / 우려 비율과 전체 스택바</div>
-              </div>
-            </div>
-            ${renderToneSummary(analytics)}
-          </section>
-
-          <section class="section panel">
-            <div class="panel-head">
-              <div>
-                <h2 class="panel-title">프레임 (누구의 프레임으로 썼는가)</h2>
-                <div class="panel-sub">회사 보도자료 프레임을 실었는지, 비판 프레임을 세웠는지</div>
-              </div>
-            </div>
-            ${renderFrameAxisSection(analytics)}
-          </section>
-
-          <section class="section panel" id="priceTracker"></section>
-          ${renderAnalystReactionSection()}
-
-          <section class="section panel">
-            <div class="panel-head">
-              <div>
-                <h2 class="panel-title">프레임 분포</h2>
-                <div class="panel-sub">클릭하면 기사 목록이 해당 프레임으로 필터링됩니다</div>
-              </div>
-            </div>
-            ${renderFrameDistribution(analytics)}
-          </section>
-
-          <section class="section panel">
-            <div class="panel-head">
-              <div>
-                <h2 class="panel-title">기사 목록</h2>
-                <div class="panel-sub">기본 100건 표시, 더 보기로 100건씩 확장</div>
-              </div>
-            </div>
-            ${renderArticles(analytics)}
-          </section>
+          ${renderNav(analytics)}
+          ${body}
         `;
         els.app.innerHTML = html;
         bindEvents();
@@ -2078,7 +2218,22 @@
         if (window.KMW_PriceTracker) window.KMW_PriceTracker.mount();
       }
 
+      function goView(id, opts) {
+        if (!VIEWS.some((v) => v.id === id)) id = 'home';
+        if (state.view === id && !(opts && opts.force)) return;
+        state.view = id;
+        if (location.hash.replace('#', '') !== id) {
+          history.replaceState(null, '', '#' + id);
+        }
+        renderFromCurrent(false);
+        window.scrollTo({ top: 0 });
+      }
+
       function bindEvents() {
+        document.querySelectorAll('.nav-item[data-view], .home-more[data-view]').forEach((btn) => {
+          btn.addEventListener('click', () => goView(btn.getAttribute('data-view')));
+        });
+
         document.querySelectorAll('[data-tone]').forEach((btn) => {
           btn.addEventListener('click', () => {
             state.tone = btn.getAttribute('data-tone');
@@ -2096,6 +2251,8 @@
         document.querySelectorAll('[data-frame]').forEach((el) => {
           el.addEventListener('click', () => {
             const value = el.getAttribute('data-frame');
+            state.view = 'articles';
+            if (location.hash.replace('#', '') !== 'articles') history.replaceState(null, '', '#articles');
             state.frame = state.frame === value ? '전체' : value;
             renderFromCurrent();
           });
@@ -2104,6 +2261,8 @@
         document.querySelectorAll('[data-frame-axis]').forEach((el) => {
           el.addEventListener('click', () => {
             const value = el.getAttribute('data-frame-axis');
+            state.view = 'articles';
+            if (location.hash.replace('#', '') !== 'articles') history.replaceState(null, '', '#articles');
             state.frameAxis = state.frameAxis === value ? '전체' : value;
             renderFromCurrent();
           });
@@ -2112,6 +2271,8 @@
         document.querySelectorAll('[data-message]').forEach((el) => {
           el.addEventListener('click', () => {
             const value = el.getAttribute('data-message');
+            state.view = 'articles';
+            if (location.hash.replace('#', '') !== 'articles') history.replaceState(null, '', '#articles');
             state.message = state.message === value ? '전체' : value;
             renderFromCurrent();
           });
@@ -2261,7 +2422,18 @@
         state.newUntil = new Map();
         state.lastRefreshAt = Date.now();
         state.nextRefreshAt = state.lastRefreshAt + REFRESH_MS;
+        state.view = viewFromHash();
         renderApp(data);
+
+        // 뒤로가기나 주소창의 해시 변경으로도 페이지가 바뀌게 한다.
+        window.addEventListener('hashchange', () => {
+          const next = viewFromHash();
+          if (next !== state.view) {
+            state.view = next;
+            renderFromCurrent(false);
+            window.scrollTo({ top: 0 });
+          }
+        });
       }
 
       function heartbeat() {
