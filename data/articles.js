@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T11:57:55+09:00",
- "runCount": 4014,
+ "generatedAt": "2026-10-14T12:09:16+09:00",
+ "runCount": 4015,
  "price": {
   "price": "32,000",
   "pct": "+2.24",
-  "at": "2026-10-14T11:57:55+09:00"
+  "at": "2026-10-14T12:09:16+09:00"
  },
  "articles": [
   {
@@ -39903,6 +39903,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T11:57:55+09:00"
+  },
+  {
+   "id": "fe7a86fd798b67f7",
+   "title": "네이버·카카오 사업 재편에 고용보장 논란 … 노사 갈등 새 국면",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JSEJCM29hcGlqNnRKR0JhRXVoejFPaUc1RjF5eHp3TnJWak9yLURSVnZjWUhELUZLdDk2a3RqRS1ER1Vja3pqZE1kQkxXemNxM0syUl8zSThuSHdLRTBUcE9QbTlXNzZxTW9yZzJ1eWs5TjBWcVRmV3dJY9IBgAFBVV95cUxOb19oeVhvTEN2R2FyQWVPQk9DeHFLZGp0UVZIbHk5MUJxYWNDRV83N0lRMEVwM1dyLTdsUFQ1RHVDUUZjMm5hT0pBdXp2TXAtYVp2QzFwaENCQ3N1RDhMaHVkcGdWN0E3QU9YaHE2RWYxN1lhZDhnRnlHbmFKMnJnRg?oc=5",
+   "publishedAt": "2026-10-14T11:28:19+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-10-14T12:09:16+09:00"
   }
  ]
 };
