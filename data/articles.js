@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T17:56:02+09:00",
- "runCount": 4047,
+ "generatedAt": "2026-10-14T18:06:36+09:00",
+ "runCount": 4048,
  "price": {
-  "price": "31,750",
-  "pct": "+1.44",
-  "at": "2026-10-14T17:56:04+09:00"
+  "price": "31,700",
+  "pct": "+1.28",
+  "at": "2026-10-14T18:06:37+09:00"
  },
  "articles": [
   {
@@ -40655,6 +40655,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T17:45:35+09:00"
+  },
+  {
+   "id": "7d055a0389024f38",
+   "title": "카카오, 인적분할 앞두고 첫 그룹 공동 IR 개최",
+   "outlet": "FETV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1d3V5UUkya1RGOG5RT3p5M05jZ3gwUkN2UWpYRklzczhnYXlvczRlaXQwQkxnbXpDYUFNRGROVkZsRlNmV0NmU093cTd1SjNhQzY0OUFPNHRYeC1oSTVVV0gydTRuQkFW?oc=5",
+   "publishedAt": "2026-10-14T17:54:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T18:06:36+09:00"
   }
  ]
 };
