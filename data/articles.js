@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T11:36:53+09:00",
- "runCount": 4012,
+ "generatedAt": "2026-10-14T11:47:29+09:00",
+ "runCount": 4013,
  "price": {
-  "price": "31,900",
-  "pct": "+1.92",
-  "at": "2026-10-14T11:36:55+09:00"
+  "price": "32,000",
+  "pct": "+2.24",
+  "at": "2026-10-14T11:47:30+09:00"
  },
  "articles": [
   {
@@ -39810,6 +39810,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T11:03:23+09:00"
+  },
+  {
+   "id": "1534db603d2bf230",
+   "title": "정신아 카카오 대표, 인적분할 앞두고 주주 설득 ‘총력’",
+   "outlet": "헤럴드경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwcnlTOXZUbmNVZDFOYWpTZXVlLTl6UmtMVGY0N2ZLU0hIY1p2R2JBRlYweXE1emp3OGZUMGowR2Zaa3NWR1NpdzJuampPZGdrUUlxU1RvWQ?oc=5",
+   "publishedAt": "2026-10-14T11:32:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T11:47:29+09:00"
   }
  ]
 };
