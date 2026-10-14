@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T15:45:57+09:00",
- "runCount": 4035,
+ "generatedAt": "2026-10-14T15:57:35+09:00",
+ "runCount": 4036,
  "price": {
   "price": "31,700",
   "pct": "+1.28",
-  "at": "2026-10-14T15:45:59+09:00"
+  "at": "2026-10-14T15:57:37+09:00"
  },
  "articles": [
   {
@@ -40317,6 +40317,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T15:45:57+09:00"
+  },
+  {
+   "id": "8b4a30338659c0fb",
+   "title": "내년 1월 인적분할 앞둔 카카오그룹 CEO 총출동...첫 공동 IR서 미래 전략 공유",
+   "outlet": "AI타임스",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGOEJ0YTV6Y0Zta0wwWVhPcnhfR1o0dHBJc2tKLTdCSUJ4SlR6NUpkMnRHbzk5dDJmeU50dG9hc3ZLa3plMUJtRnlKQUFKQmZBd0xxejdBa3h5bk5VYnEyM2w4b3c4WWtWNWc?oc=5",
+   "publishedAt": "2026-10-14T15:36:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T15:57:35+09:00"
   }
  ]
 };
