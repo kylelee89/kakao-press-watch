@@ -1210,6 +1210,8 @@
 
   <script src="data/articles.js"></script>
   <script src="data/analysts.js"></script>
+  <script src="data/prices.js"></script>
+  <script src="price-tracker.js"></script>
   <script>
     (function () {
       const REFRESH_MS = 60000;
@@ -2046,6 +2048,7 @@
             ${renderFrameAxisSection(analytics)}
           </section>
 
+          <section class="section panel" id="priceTracker"></section>
           ${renderAnalystReactionSection()}
 
           <section class="section panel">
@@ -2072,6 +2075,7 @@
         bindEvents();
         updateDynamicLabels();
         updateNewBadges();
+        if (window.KMW_PriceTracker) window.KMW_PriceTracker.mount();
       }
 
       function bindEvents() {

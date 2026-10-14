@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-10-14T11:03:27+09:00",
+ "asOf": "2026-10-14T11:14:49+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -275,7 +275,7 @@ window.KMW_ANALYSTS = {
    "rating": "BUY",
    "ratingPrev": "BUY",
    "target": 45000,
-   "targetPrev": 60000,
+   "targetPrev": 45000,
    "title": "인고의 시간",
    "point": "3Q26E 연결 매출액은 2조 15억원(-4.1%% YoY, -4.6% QoQ), 영업이익은 2,412억원(+16.0% YoY, -12.9% QoQ) 예상. 10월부터 월 4,900원 멤버십 서비스 개시. 인적분할 승인 임시주주총회가 12/17(목)로 예정되어 있어 불확실성이 잔존",
    "extra": ""
@@ -314,7 +314,7 @@ window.KMW_ANALYSTS = {
    "rating": "BUY",
    "ratingPrev": "BUY",
    "target": 44000,
-   "targetPrev": 110000,
+   "targetPrev": 70000,
    "title": "밸류에이션 저감",
    "point": "AI가 분절된 세그먼트가 아니라 프런티어 백본 기반의 종합 자율형 에이전트로 진화할 것으로 보는데, 법인을 쪼개 시너지를 내겠다는 전략이 현실에서 작동하지 않을 개연성을 리스크로 제시했다. 오픈AI 등 프런티어 업체와의 강결합 기조가 희석되는 점도 반영했다.",
    "extra": "SOTP 합산 기준 본사 7.5조, AI 내재가치 3.2조, 커머스 6.8조. 목표가 최대 하향(-36%)"
@@ -364,9 +364,9 @@ window.KMW_ANALYSTS = {
    "house": "현대차",
    "analyst": "최승호",
    "rating": "BUY",
-   "ratingPrev": null,
+   "ratingPrev": "BUY",
    "target": 42000,
-   "targetPrev": null,
+   "targetPrev": 45000,
    "title": "3Q26 Preview + IF KAKAO 애널리스트 간담회 후기",
    "point": "3Q26 Preview: 컨센서스 부합, 카카오 본업은 양호하나 기타사업은 부진. IF KAKAO 26: 낙관하긴 어려우나 더 나빠질 것도 없다. 주가전망 및 Valuation",
    "extra": "목표주가 하향"
