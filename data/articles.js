@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T17:03:36+09:00",
- "runCount": 4042,
+ "generatedAt": "2026-10-14T17:14:10+09:00",
+ "runCount": 4043,
  "price": {
   "price": "31,600",
   "pct": "+0.96",
-  "at": "2026-10-14T17:03:38+09:00"
+  "at": "2026-10-14T17:14:11+09:00"
  },
  "articles": [
   {
@@ -40588,6 +40588,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T17:03:36+09:00"
+  },
+  {
+   "id": "d747bdcbfdc4d0a7",
+   "title": "[IT 투데이] 카카오그룹, 인적분할 앞두고 첫 공동 IR 개최 外",
+   "outlet": "DealSite경제TV",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOMUIyR0xWUktoWkZsSE5rSjA3NldMN3plVG5jT1FKMU02TFZkbHBQaGhiVEhUTFJBcHFoQmdRX215bmhnTjhqNDNqZHhnTzlyWlIxd0JB?oc=5",
+   "publishedAt": "2026-10-14T16:57:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T17:14:10+09:00"
   }
  ]
 };
