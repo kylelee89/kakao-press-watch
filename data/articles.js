@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T09:17:53+09:00",
- "runCount": 3999,
+ "generatedAt": "2026-10-14T09:28:11+09:00",
+ "runCount": 4000,
  "price": {
-  "price": "31,950",
-  "pct": "+2.08",
-  "at": "2026-10-14T09:17:54+09:00"
+  "price": "32,000",
+  "pct": "+2.24",
+  "at": "2026-10-14T09:28:12+09:00"
  },
  "articles": [
   {
@@ -39187,6 +39187,56 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T09:17:53+09:00"
+  },
+  {
+   "id": "8a1f9138c6e85da3",
+   "title": "카카오, 인적분할 앞두고 CEO 총출동…첫 공동 IR 개최",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kOUl5RzAzQkJ3NEJLcVVfWjliQnFKcHNUUU4yVFlHMm1LSVBRRU1UeEdONmswSVcyeFNtbzJjUnRyZkR3QlNtMFVNRmdRY2FTYVdTWDcyS1RfSUhuenlUby1KaWRSS1EyS3BNbVYxcGRjcG1E?oc=5",
+   "publishedAt": "2026-10-14T09:15:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:28:11+09:00"
+  },
+  {
+   "id": "089c2e358fa99074",
+   "title": "[모닝 리포트] \"카카오, AI 수익성 의문...목표가 하향\"",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJRldjdEpDb0JKUU1NdGxKRklpb1ZjR1ZTTUhLbWFFbzctSDZzOU4tWjRKNmxOMzZqcWRHS0NQY0pfYkRwcTJScEhtZllEajhid0NGMEFtRzJ4Tm50?oc=5",
+   "publishedAt": "2026-10-14T09:20:00+09:00",
+   "tone": "중립",
+   "toneScore": -0.7,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:의문",
+    "전언감쇠:리포트"
+   ],
+   "frames": [
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "의문"
+    ]
+   },
+   "firstSeenAt": "2026-10-14T09:28:11+09:00"
   }
  ]
 };
