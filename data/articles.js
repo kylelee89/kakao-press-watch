@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T09:48:47+09:00",
- "runCount": 4002,
+ "generatedAt": "2026-10-14T09:59:04+09:00",
+ "runCount": 4003,
  "price": {
-  "price": "32,000",
-  "pct": "+2.24",
-  "at": "2026-10-14T09:48:47+09:00"
+  "price": "31,900",
+  "pct": "+1.92",
+  "at": "2026-10-14T09:59:05+09:00"
  },
  "articles": [
   {
@@ -39446,6 +39446,73 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T09:48:47+09:00"
+  },
+  {
+   "id": "aa9d0f10bacddfdc",
+   "title": "카카오, 인적분할 후 성장전략 공개…스테이블코인·AI 콘텐츠 확대",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxUThHaDBpb2k3SFlsOHhYTHRVLU0zVGsxdHNqOExoTW5ha1BucmlMNFFEYkt5OENSX01Fem5QcmpXZFFHa3lQMm5zamhGZw?oc=5",
+   "publishedAt": "2026-10-14T09:55:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:59:04+09:00"
+  },
+  {
+   "id": "150c3a6e06c54a63",
+   "title": "카카오, 인적분할 앞두고 CEO 총출동…새 성장전략 공개",
+   "outlet": "연합뉴스 한민족센터",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94VXBYTEZoQWRqZVRsanA5cUg0TU44aWhkWEdkcjIyYlJqWkRPOWVFRmhVQWZqUWFTUFFTMmVYcWhoakVsZ3dsVlFYMVd6Z3Q3TjFVdDg5eURuVmtsUWNUSGtqQmZ4d20zcmdmZzh1TVVtbGlM?oc=5",
+   "publishedAt": "2026-10-14T09:54:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:59:04+09:00"
+  },
+  {
+   "id": "9bffb70ccc0ed81d",
+   "title": "카카오그룹, 첫 그룹 공동 IR 개최…분할 후 계열사별 성장·협력 방안 공개",
+   "outlet": "테크월드",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpaVNqYjF3UmRNbXQ0eWRycE9TbVJDdGliUWRzY0c3VEJPX0tyNDh5YXBDOTRBbVpLcHVza3Italh5NDFtSnVNTmdHR3NLSEFBQ1F6YzdGZV94elF4UG91Z19pUkZRUGJa?oc=5",
+   "publishedAt": "2026-10-14T09:39:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:59:04+09:00"
   }
  ]
 };
