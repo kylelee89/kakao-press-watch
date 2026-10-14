@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T16:30:56+09:00",
- "runCount": 4039,
+ "generatedAt": "2026-10-14T16:41:22+09:00",
+ "runCount": 4040,
  "price": {
   "price": "31,600",
   "pct": "+0.96",
-  "at": "2026-10-14T16:30:56+09:00"
+  "at": "2026-10-14T16:41:24+09:00"
  },
  "articles": [
   {
@@ -40431,6 +40431,121 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T16:30:56+09:00"
+  },
+  {
+   "id": "8b769d82c84b413b",
+   "title": "카카오, 인적분할 앞두고 주요 계열사 CEO 총출동…향후 전략 및 비전 공개",
+   "outlet": "문화일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5QjdCNlREdHkxN2s4ZzVEV0pLTEhFajBEelBQQWptZ2hLNUNKcENwcEVYb2lXS2VEbzlWOXk0M1dUVjF0dV9INGpwUGhUbWcw?oc=5",
+   "publishedAt": "2026-10-14T16:32:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T16:41:22+09:00"
+  },
+  {
+   "id": "20a5762d9889b010",
+   "title": "인적분할 앞둔 카카오, 계열사 CEO 총출동한 첫 공동 IR",
+   "outlet": "플래텀(Platum)",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uRkZseDFqLVF5emVfMWQzQkFCUWRIeUNRQ0M1MXVocVBNUmhnZWhGR1NWRXQ5ZjVCYnlNWExJX3BwWFhCcW40YQ?oc=5",
+   "publishedAt": "2026-10-14T16:29:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T16:41:22+09:00"
+  },
+  {
+   "id": "1faf415881072f5c",
+   "title": "카카오, 인적분할 앞두고 첫 공동 IR 실시…AI·금융·콘텐츠 성장 전략 공개",
+   "outlet": "핀포인트뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Wdk9qankycnlWVFlkQ1doVkl5RW1GN0JCd2NFcGdsVy1kVDllRHo1LWdkVHR2NHJLbHJTMDMtNURucjhxTzE3eHM5RjNtZEc4WHFTZnhfNWdNdDFQamExbnE0QUVZSkI3c3J0QlFrc01VWk3SAXdBVV95cUxOWjFRTG8wZ1NpaE5QUzBQWUMxTnhVdzJNbzBBZFc5alZlMF9tSl9leDV1RXJRaUR2NHotTkNoVU8xT1FPazl2a3lyUGVTYnNJSEF0N2VGcHZTSXJDOVJsTnBnTkZOZVBwVGtmcWw3ZEpyMGROQzhkNA?oc=5",
+   "publishedAt": "2026-10-14T16:21:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T16:41:22+09:00"
+  },
+  {
+   "id": "08ff2b4dca78156f",
+   "title": "카카오 첫 그룹 IR…카카오X 2030년 매출 10조 겨냥",
+   "outlet": "자본시장뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WdnRRMnhOVGJDb0NRWnNvSTB5blpNOFJGMENIdjE5bEJNcW50NnhOODFtUFhiUW5FS0o1NGNoUXhqbE1HYnNsYTJpMWhOZm9ibDN2VGNuMTRiLVRrMEtTNWJmODR1VUU?oc=5",
+   "publishedAt": "2026-10-14T16:20:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T16:41:22+09:00"
+  },
+  {
+   "id": "18f954facd64d0e5",
+   "title": "카카오그룹, 인적 분할 앞두고 공동 IR 개최...계열사 CEO 한자리에",
+   "outlet": "파이낸셜리뷰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5TWkzV21WdVE3b2QzTEFGV1Fhb19EdVo2dnNyNV9ZeEdseXhQdW1sejdBZS1BOUlLelZhWlJJVzZxaTJPOWxZMi1NaXBObUdTc1RzNWhQbzBkTUhPZGZqV294Q1VkTWh1T2JZNjR6ckl2UkFD?oc=5",
+   "publishedAt": "2026-10-14T14:20:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T16:41:22+09:00"
   }
  ]
 };
