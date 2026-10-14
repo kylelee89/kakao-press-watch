@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T16:41:22+09:00",
- "runCount": 4040,
+ "generatedAt": "2026-10-14T16:52:56+09:00",
+ "runCount": 4041,
  "price": {
   "price": "31,600",
   "pct": "+0.96",
-  "at": "2026-10-14T16:41:24+09:00"
+  "at": "2026-10-14T16:52:58+09:00"
  },
  "articles": [
   {
@@ -40546,6 +40546,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T16:41:22+09:00"
+  },
+  {
+   "id": "25a2d9f82bfe792e",
+   "title": "카카오그룹, 첫 공동 IR 개최...AI·금융·콘텐츠 성장 전략 공개",
+   "outlet": "디지틀조선TV",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwd0tOLUtMX01VQTdndGxhcHNpZzZkU3h6TGw3MXZfSWxzSXA0bGpXUEs1VUw3VG9mYkJ6c1BYUVdPR2NfTHViMDc3M1VUYmhtcmt1eTRRVmRMRUtaRFF0NnJaeS1GV2U4aWVqMUljR1pOWV96QUQ2enFwNWc?oc=5",
+   "publishedAt": "2026-10-14T10:43:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T16:52:56+09:00"
   }
  ]
 };
