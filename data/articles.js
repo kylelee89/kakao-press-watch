@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T10:42:35+09:00",
- "runCount": 4007,
+ "generatedAt": "2026-10-14T10:53:00+09:00",
+ "runCount": 4008,
  "price": {
   "price": "31,850",
   "pct": "+1.76",
-  "at": "2026-10-14T10:42:37+09:00"
+  "at": "2026-10-14T10:53:01+09:00"
  },
  "articles": [
   {
@@ -39695,6 +39695,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T10:31:11+09:00"
+  },
+  {
+   "id": "7aeccba36fe5e42f",
+   "title": "카카오, 주가 저점 경신 속 첫 공동 IR…인적분할 앞두고 주주 설득 총력",
+   "outlet": "라이센스뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NVTRnd0VhMmE2Y1Nzd0xPaWpyT1F5TmJjVHdNQ3dIUjc3elRlRy1WT25iUE5FYWhhYy11UVZOVloyeWlMams4VndkWWVtZFVRVm5XZ3I0c1FTSGZ1cXk3bnVSc2J5UGhRSlRB?oc=5",
+   "publishedAt": "2026-10-14T10:40:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T10:53:00+09:00"
+  },
+  {
+   "id": "579bfb0e965a57ec",
+   "title": "카카오, 분할 앞두고 첫 공동 IR… “AI와 미래가치 투자로 도약”",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zNlpJZEpSY1prbFczdTc0MjFkMnBSUDhRRW5kWC1jZGQxS1VWM1pKZTdtb0tKTVRNX2dNelh5d3BhblNkenZZUmtvejJGUVBMUFQyekdxaEJKa2lrLU9OeHg2OE1DNnByY1R2RE9pR0nSAXRBVV95cUxQM2NMX0xQeGNSOVQxN2Y4d0ttRU9faTFzSGQ2NGlrNWdjdlBNYl9obndDaGZ2QkQ1T0s5eXJKZE5XdFhOV2UyNl9acGFNZ1RUMHBpQkJteDRKcl9RYVdMaFhrcG1BWmJNVUxDNTJhN2lxckZ6Uw?oc=5",
+   "publishedAt": "2026-10-14T10:07:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "카카오X = 미래가치 투자회사"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T10:53:00+09:00"
   }
  ]
 };
