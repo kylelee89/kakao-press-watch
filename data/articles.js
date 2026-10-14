@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T10:20:46+09:00",
- "runCount": 4005,
+ "generatedAt": "2026-10-14T10:31:11+09:00",
+ "runCount": 4006,
  "price": {
   "price": "31,800",
   "pct": "+1.60",
-  "at": "2026-10-14T10:20:46+09:00"
+  "at": "2026-10-14T10:31:14+09:00"
  },
  "articles": [
   {
@@ -39672,6 +39672,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T10:20:46+09:00"
+  },
+  {
+   "id": "f56c437b8f6eea00",
+   "title": "인적분할 앞둔 카카오, 첫 공동 기업 설명회⋯주요 계열사 CEO 총출동",
+   "outlet": "아이뉴스24",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wU0p6UVhuZUhURldJR1I0ZEhnaUZsQVpLcTZiNGZYQXRySDFHUUo2eU40UERHbHhFSHlnU01rTHhDeWtGV3h6SWZqUQ?oc=5",
+   "publishedAt": "2026-10-14T10:29:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T10:31:11+09:00"
   }
  ]
 };
