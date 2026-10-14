@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T03:28:44+09:00",
- "runCount": 4101,
+ "generatedAt": "2026-10-15T03:39:07+09:00",
+ "runCount": 4102,
  "price": {
   "price": "31,650",
   "pct": "+1.12",
-  "at": "2026-10-15T03:28:44+09:00"
+  "at": "2026-10-15T03:39:07+09:00"
  },
  "articles": [
   {
@@ -41063,6 +41063,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-15T01:12:28+09:00"
+  },
+  {
+   "id": "78c16222af7f49a6",
+   "title": "인적분할 앞둔 카카오, 첫 공동 애널리스트 간담회 개최",
+   "outlet": "SR타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FSTRWSmpadlFiYjdaNEdRQnlwVG1NQTdEXzRJbFhjTXpHTi1kby1mOWRIVDJ6Qy12NkE0MDZPOFdpQnFEUVVTXzI4RjNLb3pLM1NtTnBaNFltTlZhRWMwWTYycFlnQk9E?oc=5",
+   "publishedAt": "2026-10-14T14:34:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T03:39:07+09:00"
   }
  ]
 };
