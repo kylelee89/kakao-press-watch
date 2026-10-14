@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T16:08:11+09:00",
- "runCount": 4037,
+ "generatedAt": "2026-10-14T16:19:33+09:00",
+ "runCount": 4038,
  "price": {
-  "price": "31,750",
-  "pct": "+1.44",
-  "at": "2026-10-14T16:08:12+09:00"
+  "price": "31,700",
+  "pct": "+1.28",
+  "at": "2026-10-14T16:19:34+09:00"
  },
  "articles": [
   {
@@ -40340,6 +40340,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T15:57:35+09:00"
+  },
+  {
+   "id": "67149332c9c4acd1",
+   "title": "카카오, 인적분할 앞두고 첫 공동 IR…AI·투자회사 청사진 공개",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MVM1NDBMeEo1TF8wa3dqdERpMHZkcFYtekgwREM3dEJrVkZMcHkwZFp2c092c0F2RjhoOWpxOVNNYV9FTVlzMzdvQjFmSFZaeDlWcVA5eWlxRUQzN0R2NnlFWEo?oc=5",
+   "publishedAt": "2026-10-14T16:09:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오X = 미래가치 투자회사"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T16:19:33+09:00"
   }
  ]
 };
