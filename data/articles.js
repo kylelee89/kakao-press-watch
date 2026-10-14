@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T14:39:13+09:00",
- "runCount": 4029,
+ "generatedAt": "2026-10-14T14:50:49+09:00",
+ "runCount": 4030,
  "price": {
   "price": "31,950",
   "pct": "+2.08",
-  "at": "2026-10-14T14:39:15+09:00"
+  "at": "2026-10-14T14:50:51+09:00"
  },
  "articles": [
   {
@@ -40137,6 +40137,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T14:39:13+09:00"
+  },
+  {
+   "id": "ffa24851c5d674c0",
+   "title": "카카오 인적분할 앞두고 창사 첫 '그룹 공동 IR' 개최, 계열사 CEO 총출동",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MMXlSaktnS3VtYkRNMExSM1g5VERVeHlxczFqajlXd0puclVZQnlma2VyNWhSR0pLR2kyMExyalN3QnlnMENycWItZkZYSC03WFBDbjBZWFNUTXpFNkNEN3JuYjRhbWZlTzdJbmVTaExQS0E?oc=5",
+   "publishedAt": "2026-10-14T10:54:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T14:50:49+09:00"
+  },
+  {
+   "id": "7b9374122769a1ec",
+   "title": "카카오, 인적분할 앞두고 계열사 성장 전략 공개…시너지 확보 관건",
+   "outlet": "더팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sM2NkcTVTVWNnbGlaOW5WUTFkVUR2S2pSUHZlNm1ORnJ5Snh0dzJvNzFlMklELUpXamRrVGZZN0FUVWh0dEVRUVhsd3RMczU0TmlnSWdjNVdUZ9IBVEFVX3lxTFAxS0lDUk8xSXlxYXBRVFY0algzQVBCTzJReVVRem82WkdWdFVjZ2JZTEJhVHBxcGxIWmhndmpyU0l5ZHRtWUdKeWU0Umt2czFwdkN1Tg?oc=5",
+   "publishedAt": "2026-10-14T12:26:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T14:50:49+09:00"
+  },
+  {
+   "id": "742757d320db8958",
+   "title": "[Digital & Now] 인적분할 앞둔 카카오그룹, 첫 공동 애널리스트 간담회",
+   "outlet": "www.ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZVI2cWxjNXFIUVpzMFl2TXY2NjNza3pSZlFHNHVTamZOVGc5M1lEQU10SkVNZWxGRDVQSlNoemlKdkxSM0xIRWZEWXdkaFNUcXlPSmhwUjJLS2FNYi1iSVlTR1RkaWJy?oc=5",
+   "publishedAt": "2026-10-14T14:00:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T14:50:49+09:00"
   }
  ]
 };
