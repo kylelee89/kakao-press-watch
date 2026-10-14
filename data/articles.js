@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T12:30:19+09:00",
- "runCount": 4017,
+ "generatedAt": "2026-10-14T12:40:46+09:00",
+ "runCount": 4018,
  "price": {
-  "price": "32,050",
-  "pct": "+2.40",
-  "at": "2026-10-14T12:30:20+09:00"
+  "price": "32,000",
+  "pct": "+2.24",
+  "at": "2026-10-14T12:40:47+09:00"
  },
  "articles": [
   {
@@ -39953,6 +39953,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T12:19:41+09:00"
+  },
+  {
+   "id": "412ac86d8d31a861",
+   "title": "카카오, 인적분할 앞두고 사상 첫 '공동 IR' 전격 개최",
+   "outlet": "BBS불교방송",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MaTVFYThqQWtRcm9NdFVURFQyVnJvODNSZjQxc2xmRHlsVG1HSXM5anVITUVzX0Rua24wSGRvRld5NURPVHNnOGNuSnRYT25kajQwZGFCa3RNcm9jRkZZdFFBUFNBQ09QejZJ?oc=5",
+   "publishedAt": "2026-10-14T12:30:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T12:40:46+09:00"
   }
  ]
 };
