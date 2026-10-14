@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T05:03:09+09:00",
- "runCount": 4110,
+ "generatedAt": "2026-10-15T05:13:42+09:00",
+ "runCount": 4111,
  "price": {
   "price": "31,650",
   "pct": "+1.12",
-  "at": "2026-10-15T05:03:09+09:00"
+  "at": "2026-10-15T05:13:43+09:00"
  },
  "articles": [
   {
@@ -41086,6 +41086,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-15T03:39:07+09:00"
+  },
+  {
+   "id": "8adccb9bf72d4305",
+   "title": "카카오, 다시 소액주주 설득 나선다···AI 성장 청사진 통할까",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ub1RmbVdLaWpnZ1FIT0IxS3QxVFVBdE50QnpQT1ptZ1Q4Rnh4bzdaRU4zNDh0SVg4SlNuQ05lNDZMMl9oWGM3elBJQldxQktCalpqZTRhVXpoc2JfV3FNRlZ2T0pJMHduNWc?oc=5",
+   "publishedAt": "2026-10-14T17:04:58+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:할까",
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까",
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T05:13:42+09:00"
   }
  ]
 };
