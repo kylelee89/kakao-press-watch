@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T12:09:16+09:00",
- "runCount": 4015,
+ "generatedAt": "2026-10-14T12:19:41+09:00",
+ "runCount": 4016,
  "price": {
   "price": "32,000",
   "pct": "+2.24",
-  "at": "2026-10-14T12:09:16+09:00"
+  "at": "2026-10-14T12:19:42+09:00"
  },
  "articles": [
   {
@@ -39930,6 +39930,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-14T12:09:16+09:00"
+  },
+  {
+   "id": "570bbf7174314e07",
+   "title": "카카오, 인적분할 앞두고 주요 계열사 CEO 총출동…성장 전략 공개",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mQ0ducmpQd0JCM2JZdV9CV3BXdzQxcGtYUzFyX09fSDFUNXJNMy1ELUVxa0NYbEhYNEliWE52VGJYdTJYd0I2NGZqMGFWN0wyVTRNRnUzR3hHV1FEUlVtaEowaXBrM0E4YVJhOGt3?oc=5",
+   "publishedAt": "2026-10-14T12:11:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T12:19:41+09:00"
   }
  ]
 };
