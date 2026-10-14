@@ -2049,6 +2049,8 @@
         { id: 'articles', label: '기사' }
       ];
       const EGM_BOARD_URL = 'https://script.google.com/a/macros/kakaocorp.com/s/AKfycbxgxE3JloewyhRnrYZ1gEnJrggmKEceQbDHp7FMKYUROWCj01EcZk3udH5gWACA5egaTw/exec';
+      // 사내 노션(CA). 회의록과 '프리즘 회의체 아젠다' DB 가 같은 페이지에 있다.
+      const PRISM_AGENDA_URL = 'https://app.notion.com/p/3cdd2a985afc8016be74caa935c6d081';
 
       function viewFromHash() {
         const raw = String(location.hash || '').replace('#', '');
@@ -2064,6 +2066,7 @@
                 ${v.label}${v.id === 'articles' ? `<span class="nav-count">${count}</span>` : ''}
               </button>`).join('')}
             <span class="nav-sep"></span>
+            <a class="nav-item ext" href="${PRISM_AGENDA_URL}" target="_blank" rel="noopener noreferrer">회의체 아젠다 ↗</a>
             <a class="nav-item ext" href="${EGM_BOARD_URL}" target="_blank" rel="noopener noreferrer">주총 현황판 ↗</a>
           </nav>
         `;
