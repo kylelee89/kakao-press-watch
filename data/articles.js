@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T07:10:06+09:00",
- "runCount": 4122,
+ "generatedAt": "2026-10-15T07:20:32+09:00",
+ "runCount": 4123,
  "price": {
   "price": "31,650",
   "pct": "+1.12",
-  "at": "2026-10-15T07:10:07+09:00"
+  "at": "2026-10-15T07:20:33+09:00"
  },
  "articles": [
   {
@@ -41114,6 +41114,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-15T05:13:42+09:00"
+  },
+  {
+   "id": "183146ebab386325",
+   "title": "AI 비서 경쟁 뛰어든 카카오…5000만 카톡 이용자 무기 될까",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CbVN5SU00ZDRSZmFXSk01aU93UjlreGxKQTJWaUt0WXE4YURUNW9tUHFnZkp5R3lYTnpPUjVadDI4ZFJlWGx3UXl3Uk1zXzNuNHluSXVjeFdqQ3FKQlJNVVZQRWV0cHZJ?oc=5",
+   "publishedAt": "2026-10-15T05:10:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T07:20:32+09:00"
   }
  ]
 };
