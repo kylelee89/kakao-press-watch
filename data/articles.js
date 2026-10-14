@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T15:13:10+09:00",
- "runCount": 4032,
+ "generatedAt": "2026-10-14T15:24:38+09:00",
+ "runCount": 4033,
  "price": {
-  "price": "31,750",
-  "pct": "+1.44",
-  "at": "2026-10-14T15:13:11+09:00"
+  "price": "31,700",
+  "pct": "+1.28",
+  "at": "2026-10-14T15:24:40+09:00"
  },
  "articles": [
   {
@@ -40273,6 +40273,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T15:02:29+09:00"
+  },
+  {
+   "id": "df29641abe0ccd0f",
+   "title": "카카오, AI 시대 ‘신뢰·책임’ 검증 사례 나눈다",
+   "outlet": "지디넷코리아",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85X3Y1LV9uc2ZHLVNFRUs2ZnBieFMyNE03SlpydElqaFNWZGk1cllteTVtWWZjY05nVXVobGNOZ05aYXladkpJMVpkVm00RzMyc1VuX0dn?oc=5",
+   "publishedAt": "2026-10-14T11:23:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T15:24:38+09:00"
   }
  ]
 };
