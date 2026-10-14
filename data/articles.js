@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T18:59:11+09:00",
- "runCount": 4053,
+ "generatedAt": "2026-10-14T19:09:44+09:00",
+ "runCount": 4054,
  "price": {
-  "price": "31,850",
-  "pct": "+1.76",
-  "at": "2026-10-14T18:59:13+09:00"
+  "price": "31,800",
+  "pct": "+1.60",
+  "at": "2026-10-14T19:09:45+09:00"
  },
  "articles": [
   {
@@ -40810,6 +40810,51 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T18:59:11+09:00"
+  },
+  {
+   "id": "4d20f61895706600",
+   "title": "카카오, 인적분할 앞두고 공동 IR…카카오AI·카카오X 성장전략 공개",
+   "outlet": "직썰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnMkVqX2MzUmsyLUhMeGozUm1sV3NUNkdHaF8wX1VGX25tRGJVZTNFUW5NZUR2VWJ1NWpoVkIxWHVhZkExYldxOGtwd3FUS3hQQndxWFpzcGdRbUREMTNwTDVJSkZ1WkdxZXZ6a9IBbEFVX3lxTFBnMkVqX2MzUmsyLUhMeGozUm1sV3NUNkdHaF8wX1VGX25tRGJVZTNFUW5NZUR2VWJ1NWpoVkIxWHVhZkExYldxOGtwd3FUS3hQQndxWFpzcGdRbUREMTNwTDVJSkZ1WkdxZXZ6aw?oc=5",
+   "publishedAt": "2026-10-14T13:01:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T19:09:44+09:00"
+  },
+  {
+   "id": "15c1fb687a9b564c",
+   "title": "음악 듣고 공연 예매·굿즈 구매까지…카카오, K팝 팬덤 묶는다",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rNzZBMm1nT1BpQVJvcWN0SUJHWmNYdU1OOWZ5QWp4Wkk3cXJvaTFaTlk3Qzg5M0VoUG5Nd2V1ZzhLc0RRMWRVbHl5WExRQ05fN0s0TmNyZWt3TDBBZzEtR1JQZ3dqenpy?oc=5",
+   "publishedAt": "2026-10-14T16:20:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T19:09:44+09:00"
   }
  ]
 };
