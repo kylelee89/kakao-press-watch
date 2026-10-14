@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T17:35:05+09:00",
- "runCount": 4045,
+ "generatedAt": "2026-10-14T17:45:35+09:00",
+ "runCount": 4046,
  "price": {
-  "price": "31,650",
-  "pct": "+1.12",
-  "at": "2026-10-14T17:35:06+09:00"
+  "price": "31,600",
+  "pct": "+0.96",
+  "at": "2026-10-14T17:45:35+09:00"
  },
  "articles": [
   {
@@ -40611,6 +40611,50 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T17:14:10+09:00"
+  },
+  {
+   "id": "be2b0bbe4ec83c23",
+   "title": "카카오 계열사 CEO 총출동…인적분할 앞두고 시장 설득 총력",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XUmkxaG5oRkVrM1J5MXpzSGp6TmMyaGdsVnAwZWhjU0hFRmdONXZqUGZsUDFRbkVhNEJCOVIzaGkwRmVCRTVlSmJPYlZyTEFFR0wwVDhLdnpPVmRVQWkwazNhZ2tIM3NU?oc=5",
+   "publishedAt": "2026-10-14T17:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T17:45:35+09:00"
+  },
+  {
+   "id": "87bfd412f0bf7c4c",
+   "title": "분할 앞둔 카카오, 계열사 수장 총출동…AI·금융·콘텐츠 승부수",
+   "outlet": "한스경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzY3FNVWQ1XzBlQXV0ZXJhSUJxbmcyVGZ2TW5aMWhuQy02TWkyTV9SU0I5TVMwT3RVdDJJTVp1LUJCckVWX1RjbE03bnJzS055SFE1OEk3UFkydXVBYkYxRlRSeE1idWl4UUY4?oc=5",
+   "publishedAt": "2026-10-14T17:38:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T17:45:35+09:00"
   }
  ]
 };

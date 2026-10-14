@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-10-14T17:35:15+09:00",
+  "generatedAt": "2026-10-14T17:45:43+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
@@ -88,11 +88,11 @@ window.KMW_PRICES = {
         32400,
         31900,
         31300,
-        31650
+        31600
       ],
       "base": 38700,
-      "last": 31650,
-      "cumPct": -18.22,
+      "last": 31600,
+      "cumPct": -18.35,
       "annPct": -7.49,
       "error": null
     },
@@ -140,11 +140,11 @@ window.KMW_PRICES = {
         19520,
         19780,
         20000,
-        19890
+        19880
       ],
       "base": 21200,
-      "last": 19890,
-      "cumPct": -6.18,
+      "last": 19880,
+      "cumPct": -6.23,
       "annPct": 0.47,
       "error": null
     },
@@ -192,11 +192,11 @@ window.KMW_PRICES = {
         38100,
         37600,
         37100,
-        36100
+        36150
       ],
       "base": 44950,
-      "last": 36100,
-      "cumPct": -19.69,
+      "last": 36150,
+      "cumPct": -19.58,
       "annPct": -5.45,
       "error": null
     },
@@ -296,11 +296,11 @@ window.KMW_PRICES = {
         9330,
         9630,
         9860,
-        9510
+        9500
       ],
       "base": 8970,
-      "last": 9510,
-      "cumPct": 6.02,
+      "last": 9500,
+      "cumPct": 5.91,
       "annPct": -5.13,
       "error": null
     },
@@ -452,11 +452,11 @@ window.KMW_PRICES = {
         223000,
         209000,
         206500,
-        206000
+        206500
       ],
       "base": 220500,
-      "last": 206000,
-      "cumPct": -6.58,
+      "last": 206500,
+      "cumPct": -6.35,
       "annPct": 1.81,
       "error": null
     },
@@ -556,11 +556,11 @@ window.KMW_PRICES = {
         55800,
         53200,
         52200,
-        54600
+        54500
       ],
       "base": 71900,
-      "last": 54600,
-      "cumPct": -24.06,
+      "last": 54500,
+      "cumPct": -24.2,
       "annPct": 4.59,
       "error": null
     },
@@ -608,11 +608,11 @@ window.KMW_PRICES = {
         164000,
         156100,
         162200,
-        163200
+        163300
       ],
       "base": 173400,
-      "last": 163200,
-      "cumPct": -5.88,
+      "last": 163300,
+      "cumPct": -5.82,
       "annPct": -3.17,
       "error": null
     },
