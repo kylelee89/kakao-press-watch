@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T13:01:43+09:00",
- "runCount": 4020,
+ "generatedAt": "2026-10-14T13:12:24+09:00",
+ "runCount": 4021,
  "price": {
   "price": "31,950",
   "pct": "+2.08",
-  "at": "2026-10-14T13:01:48+09:00"
+  "at": "2026-10-14T13:12:26+09:00"
  },
  "articles": [
   {
@@ -40020,6 +40020,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T13:01:43+09:00"
+  },
+  {
+   "id": "3807829423a346a3",
+   "title": "카카오 계열사 대표 총출동…인적분할 앞두고 애널리스트 만났다",
+   "outlet": "스마트투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xa1Rfb2Y1azE1ZnVfNkxQMEYtYXEyS2xRN3dhb3FfMGFVZnlNVmxZbEJNd1NoSXVaSnEzT2V1dnc5eWpuR0gzS1NaVDRFbDhxOGRQZVhKS25URE5EcWRJ?oc=5",
+   "publishedAt": "2026-10-14T13:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T13:12:24+09:00"
   }
  ]
 };
