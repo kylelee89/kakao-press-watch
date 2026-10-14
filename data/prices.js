@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-10-14T11:14:58+09:00",
+  "generatedAt": "2026-10-14T11:26:29+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
@@ -88,11 +88,11 @@ window.KMW_PRICES = {
         32400,
         31900,
         31300,
-        31900
+        32000
       ],
       "base": 38700,
-      "last": 31900,
-      "cumPct": -17.57,
+      "last": 32000,
+      "cumPct": -17.31,
       "annPct": -7.49,
       "error": null
     },
@@ -140,11 +140,11 @@ window.KMW_PRICES = {
         19520,
         19780,
         20000,
-        19820
+        19850
       ],
       "base": 21200,
-      "last": 19820,
-      "cumPct": -6.51,
+      "last": 19850,
+      "cumPct": -6.37,
       "annPct": 0.47,
       "error": null
     },
@@ -244,11 +244,11 @@ window.KMW_PRICES = {
         77900,
         75400,
         77900,
-        77900
+        78600
       ],
       "base": 74700,
-      "last": 77900,
-      "cumPct": 4.28,
+      "last": 78600,
+      "cumPct": 5.22,
       "annPct": -4.55,
       "error": null
     },
@@ -296,11 +296,11 @@ window.KMW_PRICES = {
         9330,
         9630,
         9860,
-        9580
+        9600
       ],
       "base": 8970,
-      "last": 9580,
-      "cumPct": 6.8,
+      "last": 9600,
+      "cumPct": 7.02,
       "annPct": -5.13,
       "error": null
     },
@@ -348,11 +348,11 @@ window.KMW_PRICES = {
         183200,
         179700,
         176900,
-        181400
+        181500
       ],
       "base": 219500,
-      "last": 181400,
-      "cumPct": -17.36,
+      "last": 181500,
+      "cumPct": -17.31,
       "annPct": 1.14,
       "error": null
     },
@@ -400,11 +400,11 @@ window.KMW_PRICES = {
         186600,
         187700,
         187300,
-        189900
+        190400
       ],
       "base": 222500,
-      "last": 189900,
-      "cumPct": -14.65,
+      "last": 190400,
+      "cumPct": -14.43,
       "annPct": -0.22,
       "error": null
     },
@@ -452,11 +452,11 @@ window.KMW_PRICES = {
         223000,
         209000,
         206500,
-        204500
+        205000
       ],
       "base": 220500,
-      "last": 204500,
-      "cumPct": -7.26,
+      "last": 205000,
+      "cumPct": -7.03,
       "annPct": 1.81,
       "error": null
     },
@@ -504,11 +504,11 @@ window.KMW_PRICES = {
         33700,
         33750,
         33800,
-        33550
+        33650
       ],
       "base": 37500,
-      "last": 33550,
-      "cumPct": -10.53,
+      "last": 33650,
+      "cumPct": -10.27,
       "annPct": -1.2,
       "error": null
     },
@@ -556,11 +556,11 @@ window.KMW_PRICES = {
         55800,
         53200,
         52200,
-        52700
+        52900
       ],
       "base": 71900,
-      "last": 52700,
-      "cumPct": -26.7,
+      "last": 52900,
+      "cumPct": -26.43,
       "annPct": 4.59,
       "error": null
     },
@@ -608,11 +608,11 @@ window.KMW_PRICES = {
         164000,
         156100,
         162200,
-        162000
+        162600
       ],
       "base": 173400,
-      "last": 162000,
-      "cumPct": -6.57,
+      "last": 162600,
+      "cumPct": -6.23,
       "annPct": -3.17,
       "error": null
     },
@@ -660,11 +660,11 @@ window.KMW_PRICES = {
         32700,
         32050,
         31900,
-        32300
+        32350
       ],
       "base": 32050,
-      "last": 32300,
-      "cumPct": 0.78,
+      "last": 32350,
+      "cumPct": 0.94,
       "annPct": 0.47,
       "error": null
     },
@@ -712,11 +712,11 @@ window.KMW_PRICES = {
         6625.93,
         6384.24,
         6035.35,
-        6106.13
+        6128.82
       ],
       "base": 6852.58,
-      "last": 6106.13,
-      "cumPct": -10.89,
+      "last": 6128.82,
+      "cumPct": -10.56,
       "annPct": 0.88,
       "error": null
     },
@@ -764,11 +764,11 @@ window.KMW_PRICES = {
         892.27,
         849.19,
         837.03,
-        830.4
+        836.47
       ],
       "base": 840.89,
-      "last": 830.4,
-      "cumPct": -1.25,
+      "last": 836.47,
+      "cumPct": -0.53,
       "annPct": -4.63,
       "error": null
     }
