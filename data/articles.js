@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T09:38:29+09:00",
- "runCount": 4001,
+ "generatedAt": "2026-10-14T09:48:47+09:00",
+ "runCount": 4002,
  "price": {
   "price": "32,000",
   "pct": "+2.24",
-  "at": "2026-10-14T09:38:30+09:00"
+  "at": "2026-10-14T09:48:47+09:00"
  },
  "articles": [
   {
@@ -39331,6 +39331,121 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T09:38:29+09:00"
+  },
+  {
+   "id": "ed65993a24509d0f",
+   "title": "카카오그룹, 첫 공동 IR 개최...인적분할 이후 성장 전략 공개",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NOVN5ZEhjdXQ3V19haUIwLTJHcDI5dkFBaEliTS1aSHIyNzduU2trdXpLSk1hWVNLbDRGNnBFRktaQkh5UWRINXVZazVwZ0VQejJFYzExZnE4RjJ5?oc=5",
+   "publishedAt": "2026-10-14T09:41:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:48:47+09:00"
+  },
+  {
+   "id": "cbb054faba3543b0",
+   "title": "카카오그룹, 인적분할 앞두고 계열사 CEO 총출동…첫 합동 IR 개최",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DZkJueGNWUncza25YOE9DRUd6QWs4bmxnbEh1SXY3N1VOelkxUVY2MGwwTGxhOGY5WEYzTmZUSnBaMmEtOXBGTFhveC1rblhmTlRKVWMxc2VWM3k4RkItNEhocmw?oc=5",
+   "publishedAt": "2026-10-14T09:35:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:48:47+09:00"
+  },
+  {
+   "id": "a59034dffb5f8f99",
+   "title": "\"인적분할 후 청사진\"…카카오그룹, 첫 공동 IR에 CEO 총출동 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xV3VhdVhuazA0UUtEanlNRjExMnl2NnZUNmVMNi16M3NzanE1dHRyZks4Vi1sQVBNRXBtOElpSndpbFpmbHpkTXV2cEQtZEJMQkhhNWRDbnZoM2VJVlo5dkdvRm9CcTDSAWxBVV95cUxQcVBkZ1p2dkFEM3N2dWh1WUFieW5VVDRqZDJZMVYyWWxNdGFuZWJtZzlZY21xa2VfbUl6QlVTMm1PVUNQNlAyWE5ONldOMjh0bGtqMm95UjJ0Y1ZxSG1IMndFTEE1TWlCYUltSDI?oc=5",
+   "publishedAt": "2026-10-14T09:35:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:48:47+09:00"
+  },
+  {
+   "id": "ff131ee7f112ef4a",
+   "title": "카카오그룹, 인적분할 앞두고 '공동 IR' 첫 개최 … 계열사 CEO 총출동",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GMzRTUHY4WHk2MDJJYVVMR0xTY0dONEZIUTY4b0x4QlRQbzRkZ0hxUVUtaXpuTXE4SlZSUlltaG8xS0k1UHR5aEM4VlRkM3ZBTXl2WUIzUmFxMG1NbE9vZmJvX05iNTlGbjNWS3FSeWtJSkpHcXZmWWZwQdIBgAFBVV95cUxPNUZFSzBqWFgwTFMzRFk1dk9UUDFRdWZLWDQzUHctN1FNZk0yNHJubU4zN2xkVW5yMHVVYnY2aG5uQmlfVFFzcUgyVkczbkRGWTF1d3JjOWhMalNpRTFLTmJ3NjA5YjIzT2dDY3FydXFKZkJfYnJsUlV6SnRDQjd6Ug?oc=5",
+   "publishedAt": "2026-10-14T09:26:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:48:47+09:00"
+  },
+  {
+   "id": "835fcabb2d63a9d1",
+   "title": "인적분할 앞둔 카카오, 계열사 CEO 총출동…AI·테크핀·콘텐츠 성장전략 공개",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSjk3a2ZHWTJxdXRlc3ZBY1VCMG04ZEFIMUp4bHhCa3N5MTcxbmNqRlNKSlZIeWhYU181V2lNTEhkYWdLS3ZKOTZUOGVZU3ZsY1pRXzdIYUNKSHQxVDFmUU5UOTdoamZhREVyT1FMNERhMGswM09rVk1lSXQ1a1BSeA?oc=5",
+   "publishedAt": "2026-10-14T09:39:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:48:47+09:00"
   }
  ]
 };
