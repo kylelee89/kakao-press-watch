@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T21:19:23+09:00",
- "runCount": 4066,
+ "generatedAt": "2026-10-14T21:29:51+09:00",
+ "runCount": 4067,
  "price": {
   "price": "31,650",
   "pct": "+1.12",
-  "at": "2026-10-14T21:19:23+09:00"
+  "at": "2026-10-14T21:29:51+09:00"
  },
  "articles": [
   {
@@ -40922,6 +40922,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T20:25:05+09:00"
+  },
+  {
+   "id": "4c2bfc4924590f33",
+   "title": "카카오그룹, 계열사 CEO 함께 '첫 공동 IR'…인적분할 대응",
+   "outlet": "노컷뉴스",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfRVRzRXUxY3NHam0xVDN0YVhqUGVVRjhSeUtZSVR2cU1IQmNfTENQaEwwOVM5T3hkRWNmZWxzU3JGS1M1SnB3enNhTnYxR0RqTHc?oc=5",
+   "publishedAt": "2026-10-14T16:02:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T21:29:51+09:00"
   }
  ]
 };
