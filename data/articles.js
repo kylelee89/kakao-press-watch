@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T11:47:29+09:00",
- "runCount": 4013,
+ "generatedAt": "2026-10-14T11:57:55+09:00",
+ "runCount": 4014,
  "price": {
   "price": "32,000",
   "pct": "+2.24",
-  "at": "2026-10-14T11:47:30+09:00"
+  "at": "2026-10-14T11:57:55+09:00"
  },
  "articles": [
   {
@@ -39834,6 +39834,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T11:47:29+09:00"
+  },
+  {
+   "id": "604286bb21a1ca54",
+   "title": "카카오그룹, 인적분할 앞 첫 공동 IR…계열사 CEO 성장 전략 공개",
+   "outlet": "스트레이트뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJVl9nWkdta1lhdHBzWHN0SXZJaVZrN1hncTB0ekZjUVpxOGZIY3lxM1MybVVHU2pzUWlKNTdEUllrNkJCeDBWZ0NXZWVZMXFtSEkxSWQtUnB0NDlNMFdIb3pWR1FzZ1ViSlNjQTM5QVQxU0xnM2V30gF3QVVfeXFMUElWX2daR21rWWF0cHNYc3RJdklpVms3WGdxMHR6RmNRWnE4ZkhjeXEzUzJtVUdTanNRaUo1N0RSWWs2QkJ4MFZnQ1dlZVkxcW1ISTFJZC1ScHQ0OU0wV0hvelZHUXNnVWJKU2NBMzlBVDFTTGczZXc?oc=5",
+   "publishedAt": "2026-10-14T09:31:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T11:57:55+09:00"
+  },
+  {
+   "id": "3f18fdcadea3077f",
+   "title": "인적분할 앞둔 카카오, 첫 그룹 공동 IR 개최",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUWEtZdERablRXWGhNLXdQMGxGdUlLQ24yV2VUdndEeEg4YklLbkh0OU1fdmZuWklocE9PUzBpM2NWZ01aUzd1ME51MEtqWUxUSlg0NlE4S2RJRzJIdVI2MF8tZjl4ajFH?oc=5",
+   "publishedAt": "2026-10-14T09:35:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T11:57:55+09:00"
+  },
+  {
+   "id": "63f8b2f0331e229a",
+   "title": "카카오그룹, 주요 계열사 CEO 함께 모여 첫 공동 IR 개최 … 인적분할 이후 성장 청사진 공개",
+   "outlet": "워크투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wLXlncnQ4Z2RBVWhhRlExbGhrU2thZlhrbXR5eXkybGhsYlI5U203akUtUjlkb3h2cUlsb0doOTRGUThjTDlZellFSjk0bmIxcUZwRWVuQ0xhTnJTQTNqSVBWRHh5cFlNeXRxbA?oc=5",
+   "publishedAt": "2026-10-14T11:44:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T11:57:55+09:00"
   }
  ]
 };
