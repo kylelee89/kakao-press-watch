@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-10-15T08:14:27+09:00",
+ "asOf": "2026-10-15T08:25:48+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -357,6 +357,19 @@ window.KMW_ANALYSTS = {
    "title": "Spin-off to unlock value",
    "point": "45%가 넘는 할인을 좁히고 AI 성장에 집중하려는 시도로 봤다. 다만 재평가는 카나나를 통해 카카오AI가 신뢰할 만한 성장 경로를 증명하는지에 달려 있다.",
    "extra": "실적 추정 변경 없음, 목표가 유지"
+  },
+  {
+   "date": "10/15",
+   "region": "국내",
+   "house": "LS",
+   "analyst": "선유진",
+   "rating": "Buy",
+   "ratingPrev": "Buy",
+   "target": 42000,
+   "targetPrev": 55000,
+   "title": "B2C AI, 고도화를 기다리며",
+   "point": "3Q26 Preview: 둔화. If Kakao: B2C Agent 플랫폼 청사진 공유. 투자의견 Buy 유지, 목표주가 42,000원으로 하향",
+   "extra": "목표주가 하향"
   },
   {
    "date": "10/14",

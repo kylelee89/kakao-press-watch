@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T08:14:26+09:00",
- "runCount": 4128,
+ "generatedAt": "2026-10-15T08:25:47+09:00",
+ "runCount": 4129,
  "price": {
   "price": "31,700",
   "pct": "+0.00",
-  "at": "2026-10-15T08:14:27+09:00"
+  "at": "2026-10-15T08:25:48+09:00"
  },
  "articles": [
   {
@@ -41139,6 +41139,78 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-15T07:20:32+09:00"
+  },
+  {
+   "id": "2c819ed81ed33d93",
+   "title": "[정신아의 약속 1년②] 카카오 주가 반토막에 인적분할 승부수",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pbWNtWko5a2hiY000YzJ2RndTSlJKa0cxOE5RTVNJWnJTc0d0UFlVWHJFVHVDOXliNUk5Z0RUN1RVTUJzbEdjcHY0d1FCenZXdENMa1A1QnhnM0N4OHRYVWotNU1ZYWtMLVVwaHNUblg?oc=5",
+   "publishedAt": "2026-10-15T08:08:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T08:25:47+09:00"
+  },
+  {
+   "id": "3ee82614a2fc51e2",
+   "title": "\"누구를 위한 분할인가\"…카카오 노조, '일방적 인적분할' 반대 피켓시위 : 알파경제TV",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LRThLbUdMTng4RU1ROTN0NnYyUzc5V3RrbFRzcFQtUmF6RUlUUnlvNWt1VmVvWWNKZ0JYUnAxZ2RYSzFabUlNSnFKaktIdjY1WU5icHJjNXBwdXNBdTVYOVU5UFROSkpTNloyUGln?oc=5",
+   "publishedAt": "2026-10-14T17:42:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T08:25:47+09:00"
+  },
+  {
+   "id": "36f05307cccccddc",
+   "title": "[정신아의 약속 1년①] 5천만 카톡 AI 에이전트로…수익화는 이제부터",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiRV9IdEV0RVVwTm10ZnlZako2b1FSNGRlWGhSb1JhNkZJM0hEVFJ4YlI3SEo3YlF0UkpiWGl3MTJOcTMyZS1hRk52OHRHV0V1Z1IxX01YSzN3b2tTTk1JWGpPNGRJaU9ZR0VITlRRRks?oc=5",
+   "publishedAt": "2026-10-15T08:08:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T08:25:47+09:00"
   }
  ]
 };
