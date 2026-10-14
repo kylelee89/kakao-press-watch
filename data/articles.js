@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T14:28:37+09:00",
- "runCount": 4028,
+ "generatedAt": "2026-10-14T14:39:13+09:00",
+ "runCount": 4029,
  "price": {
   "price": "31,950",
   "pct": "+2.08",
-  "at": "2026-10-14T14:28:39+09:00"
+  "at": "2026-10-14T14:39:15+09:00"
  },
  "articles": [
   {
@@ -40091,6 +40091,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T14:28:37+09:00"
+  },
+  {
+   "id": "63ea8f59ce476735",
+   "title": "카카오그룹, 인적분할 앞두고 첫 공동 IR…카카오X 중심 계열사 시너지 본격화",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRi1UWVRWenJPVy13MzA4TjRIQ1ppU2Z2WDYtaHlwM3dPaHpRR2N0ZEJIT0hCakhfMXRELVV3WlJqNnVEd2l4ejJfbXdad2t5bVUtSmx6cFVneDU2RDYwMXdsYWd5Wkp6b0HSAWpBVV95cUxQZEYtVFlUVnpyT1ctdzMwOE40SENaaVNmdlg2LWh5cDN3T2h6UUdjdGRCSE9IQmpIXzF0RC1Vd1pSajZ1RHdpeHoyX213WndreW1VLUpsenBVZ3g1NkQ2MDF3bGFneVpKem9B?oc=5",
+   "publishedAt": "2026-10-14T11:38:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T14:39:13+09:00"
+  },
+  {
+   "id": "8a47e438ffea56bb",
+   "title": "카카오그룹, 인적분할 앞두고 주요 계열사 CEO 모여 ‘첫 공동 IR’ 열어",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOEh1S2tGcE5tMzNhXzNid3FaZTl2d0VEaDRTVm5tbmVqcTdyU01NWjRwRUxhbGUxNHNzc093cHViVHVGbWtBSTdtVnozSmxxOWtQT1cwV2lOY1NMUEpNamNxdHA4QWNMMU9VWmszMnpaS3dvbWFsbEx0Umd6TVZGUVV3?oc=5",
+   "publishedAt": "2026-10-14T09:14:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T14:39:13+09:00"
   }
  ]
 };
