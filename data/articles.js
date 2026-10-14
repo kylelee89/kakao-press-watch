@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T22:01:13+09:00",
- "runCount": 4070,
+ "generatedAt": "2026-10-14T22:11:40+09:00",
+ "runCount": 4071,
  "price": {
   "price": "31,650",
   "pct": "+1.12",
-  "at": "2026-10-14T22:01:14+09:00"
+  "at": "2026-10-14T22:11:42+09:00"
  },
  "articles": [
   {
@@ -40945,6 +40945,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T21:29:51+09:00"
+  },
+  {
+   "id": "9151a95135c6a51e",
+   "title": "카카오, AI와 투자로 나눈다…분할 후 성장전략 공개",
+   "outlet": "포쓰저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kWTZTUm5ob1I5bDFrZHhWMllFd3d4TmVoa3U4OEdFN1pFLWRYMWZCYURaY2lBd2JleU9WMWZ4cnpwNkN5MmJiM0hhczlJMDhSN3NIV3lLQVNPaXFUbFRMQllPZFg?oc=5",
+   "publishedAt": "2026-10-14T09:53:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T22:11:40+09:00"
   }
  ]
 };
