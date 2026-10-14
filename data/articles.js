@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T19:09:44+09:00",
- "runCount": 4054,
+ "generatedAt": "2026-10-14T19:21:12+09:00",
+ "runCount": 4055,
  "price": {
-  "price": "31,800",
-  "pct": "+1.60",
-  "at": "2026-10-14T19:09:45+09:00"
+  "price": "31,900",
+  "pct": "+1.92",
+  "at": "2026-10-14T19:21:13+09:00"
  },
  "articles": [
   {
@@ -40855,6 +40855,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T19:09:44+09:00"
+  },
+  {
+   "id": "4edf59797cfc0460",
+   "title": "카카오, 인적분할 앞두고 주요 계열사 CEO 총출동…첫 공동 IR 개최",
+   "outlet": "대한경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95Z3p6cThLeGVKajlXY21jMFpsU0QxbThRZTl0Y1d6VkdfS3EyRmRqVGl3RjVlNGxjS1RlRnRRaDllUXEyWjFreFVXbWRNR2N5VDFlQjhfenhQMDlZTEhha0Fza3VSQUh5WTBJZENlZnphdGs?oc=5",
+   "publishedAt": "2026-10-14T16:41:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T19:21:12+09:00"
   }
  ]
 };
