@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T09:59:04+09:00",
- "runCount": 4003,
+ "generatedAt": "2026-10-14T10:09:25+09:00",
+ "runCount": 4004,
  "price": {
   "price": "31,900",
   "pct": "+1.92",
-  "at": "2026-10-14T09:59:05+09:00"
+  "at": "2026-10-14T10:09:27+09:00"
  },
  "articles": [
   {
@@ -39513,6 +39513,73 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T09:59:04+09:00"
+  },
+  {
+   "id": "579941931631ab04",
+   "title": "카카오, 인적분할 앞두고 첫 그룹 공동 IR",
+   "outlet": "스마트비즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12cHNzMlBkNlpVZjFROHdZcXBsRHdjUnIwYVdyWGVwNTRlSXJ1d3BkZHFRc0dDa2FsNkQ5RGZRemtrR1ZYaktxMVNEQ3R1c3NVTGJDN3RxUHBmZDlDUllrbTBLVmtSRkFBSVgzcQ?oc=5",
+   "publishedAt": "2026-10-14T09:40:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T10:09:25+09:00"
+  },
+  {
+   "id": "bdafc4ce2d26edcc",
+   "title": "카카오, 첫 그룹 공동 애널리스트 간담회 개최…인적분할 이후 성장 전략 공개",
+   "outlet": "메트로신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aSVRFVzF0S1hwR0JZanJBNjUxN3dIVnpscEY5N1JHYXlVT0I3VmFwRzBCclVCbTU5VFFSM1JvX0M1YTJLaUNZaTJ0bGE0TEhYcll3anFua1pOZlluT0lHeg?oc=5",
+   "publishedAt": "2026-10-14T08:46:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T10:09:25+09:00"
+  },
+  {
+   "id": "192dac56cf174b09",
+   "title": "카카오 분할 앞두고 첫 공동 IR…AI·X 양대 축으로 '시너지' 정조준",
+   "outlet": "파이낸셜포스트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SS1NoeDhrOXpVQXIzdnhfcXZjWUVWN0lfeWJUeEhwb2JvNlN5WHVhZEVWTGQzelBsLVdlQ3RpZVB3N216ZUxMT3NxMWplLVFYc3dVZ2hBRURPV3JVMHNfTkFsc1IzSVF6WktMS2xMS3pSZDhP?oc=5",
+   "publishedAt": "2026-10-14T09:56:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T10:09:25+09:00"
   }
  ]
 };
