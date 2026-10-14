@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T12:51:12+09:00",
- "runCount": 4019,
+ "generatedAt": "2026-10-14T13:01:43+09:00",
+ "runCount": 4020,
  "price": {
   "price": "31,950",
   "pct": "+2.08",
-  "at": "2026-10-14T12:51:13+09:00"
+  "at": "2026-10-14T13:01:48+09:00"
  },
  "articles": [
   {
@@ -39999,6 +39999,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T12:51:12+09:00"
+  },
+  {
+   "id": "022b05fe5fc65cc1",
+   "title": "둘로 나뉘는 카카오, 계열사 CEO들 한자리에…분할 가치 설득 나섰다",
+   "outlet": "아이티데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05NjJUZmNTODQ0aVZ3MkYzLXQ5SHZ2LXV5cFRHUUkxaDRYZXVIRW51dDZlSFBfMDJXV3VsRWx3cDZpZkxOMklsVzBfMmxBbzJiSUpsbk85S2dsNHN5SzhjTVJlYjNGWWkz?oc=5",
+   "publishedAt": "2026-10-14T11:24:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T13:01:43+09:00"
   }
  ]
 };
