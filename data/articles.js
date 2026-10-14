@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T23:59:36+09:00",
- "runCount": 4081,
+ "generatedAt": "2026-10-15T00:10:00+09:00",
+ "runCount": 4082,
  "price": {
   "price": "31,650",
   "pct": "+1.12",
-  "at": "2026-10-14T23:59:37+09:00"
+  "at": "2026-10-15T00:10:00+09:00"
  },
  "articles": [
   {
@@ -40990,6 +40990,56 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T23:26:30+09:00"
+  },
+  {
+   "id": "be9dd75808301082",
+   "title": "'인적분할' 카카오, 첫 공동 IR 열고 청사진 공개…주주 설득 총력",
+   "outlet": "블로터",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50R0dOandoeGVoOHpreFlzYlFpckowU19rQ3ZMNGhFVGJ5eWt1SDEtWGVvOTdzYU1hdVFPcVBXTzF5UXJidml6RU5hLS02VEtiZmJfRVZlMFJ3NjRmSnQtbTAyWk5QR0xs0gFsQVVfeXFMT2JUVHVTTTlKakVZQjhDazRtQll2azlDenkxV2oxZmlIZjQ2SmZYSVdLek5qellQSEVkVjQxT0JFclJTT2xmT01CdjUzV3J2bHlLcWlrOFVxMDRrSnFGUVNBM1JJdV84NHJJSFpr?oc=5",
+   "publishedAt": "2026-10-14T18:27:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T00:10:00+09:00"
+  },
+  {
+   "id": "ded0c737eb5a36f9",
+   "title": "카카오의 AI 청사진, 하지만 주가는...?",
+   "outlet": "데일리바이트(DAILY BYTE)",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3JnQ3pNSzF6eXU2eTlEWFUwbXJ6UXU5Uy1tUFlYLVM0anVWd0oyX3laLVhlUkhqZUJGVXc2djJCRjNTVXhNSVE2MV9wXzNaRHJUQ3RtR19HMTVObGo2aERpZGFaWFl0Nl92M09NSmVIdWE3TkQzYzlob3Q1eVYwUkt1YnhORVVJQURMWWhR?oc=5",
+   "publishedAt": "2026-10-15T00:01:19+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:지만",
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T00:10:00+09:00"
   }
  ]
 };
