@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T16:52:56+09:00",
- "runCount": 4041,
+ "generatedAt": "2026-10-14T17:03:36+09:00",
+ "runCount": 4042,
  "price": {
   "price": "31,600",
   "pct": "+0.96",
-  "at": "2026-10-14T16:52:58+09:00"
+  "at": "2026-10-14T17:03:38+09:00"
  },
  "articles": [
   {
@@ -40567,6 +40567,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T16:52:56+09:00"
+  },
+  {
+   "id": "a113919c42b22b22",
+   "title": "첫 그룹 공동 IR 연 카카오…계열사 CEO 7명 총출동",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjM2VSYmFPYXh5R1ZSS0FUQTBoMzNBWUpDdDYzd1ludmdMSTdjODgtWV9DUzFjUkd0emNjV1cwZE41TEdOTjUxd3RPU2lTMS05cVI5ZHVtZU03dw?oc=5",
+   "publishedAt": "2026-10-14T16:50:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T17:03:36+09:00"
   }
  ]
 };
