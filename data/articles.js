@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T15:35:17+09:00",
- "runCount": 4034,
+ "generatedAt": "2026-10-14T15:45:57+09:00",
+ "runCount": 4035,
  "price": {
   "price": "31,700",
   "pct": "+1.28",
-  "at": "2026-10-14T15:35:18+09:00"
+  "at": "2026-10-14T15:45:59+09:00"
  },
  "articles": [
   {
@@ -40294,6 +40294,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T15:24:38+09:00"
+  },
+  {
+   "id": "0f460431db5072c6",
+   "title": "카카오그룹, 첫 공동 IR 개최…인적분할 후 계열사 시너지 모색",
+   "outlet": "파이낸셜신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0Zlp4Y19HUjdKS09JNkxYWjFsNi1yWU01MWJ5TGZiWi1kZ19RYVBuMU5MdUVwVXV4UlUyOTMyZV9aQk91dWtaTjBpb0hsWEItZnV3cE9EeWU3NXBNbHFVMUNSMExoVjh2QUxV?oc=5",
+   "publishedAt": "2026-10-14T15:36:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T15:45:57+09:00"
   }
  ]
 };
