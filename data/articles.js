@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T18:17:06+09:00",
- "runCount": 4049,
+ "generatedAt": "2026-10-14T18:27:38+09:00",
+ "runCount": 4050,
  "price": {
-  "price": "31,800",
-  "pct": "+1.60",
-  "at": "2026-10-14T18:17:06+09:00"
+  "price": "31,750",
+  "pct": "+1.44",
+  "at": "2026-10-14T18:27:41+09:00"
  },
  "articles": [
   {
@@ -40678,6 +40678,74 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T18:06:36+09:00"
+  },
+  {
+   "id": "d94973ebe0ab0fd1",
+   "title": "카카오그룹, '카카오AI·카카오X' 인적분할 청사진 공개… 스테이블코인·금융 에이전트 결합",
+   "outlet": "블록체인투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PY0ZsYlNqWkx2SF9ybXJacmItWFNJcS1CVng1cTcyUEhaWVJxUUhsVnVZMnZtQ1RDQ3U5N0tkbW1XN3hYaERCYlVONmFqemE2YWtQa3dwMXNDUHJmc2VlTzRGWVYzVGJHYldHMU41bXo?oc=5",
+   "publishedAt": "2026-10-14T16:32:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T18:27:38+09:00"
+  },
+  {
+   "id": "6eec29f454f86b8b",
+   "title": "AI·X 인적분할 앞둔 카카오... 첫 공동 IR서 성장전략 제시",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUdUZyb1R2bnk2b0lHeWxhWTk4a2VnQTZnWXM3NlZRQ3cxekJfeFFiUkhBQURZdHhId25WT29uOUpDd1Y5enFUOExPX2ItNmJGcmNWc3ozQ0FsZw?oc=5",
+   "publishedAt": "2026-10-14T18:21:05+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T18:27:38+09:00"
+  },
+  {
+   "id": "015621e4e791ee92",
+   "title": "카카오, 분할 후 성장 청사진 공개…테크핀·콘텐츠·모빌리티 시너지 강화",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MNGQzZnVhZ0dKeDc2ek02S2RDekEzVWZEQ1R4MHpXNjF6bmhMU3ZIekg3cFBlSjJ4OGZCRGlrTlZsSVk3N250S3RYTm5ZR3ZLVG92UWY3ZEnSAVhBVV95cUxNTDRkM2Z1YWdHSng3NnpNNktkQ3pBM1VmRENUeDB6VzYxem5oTFN2SHpIN3BQZUoyeDhmQkRpa05WbElZNzdudEt0WE5uWUd2S1RvdlFmN2RJ?oc=5",
+   "publishedAt": "2026-10-14T10:10:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T18:27:38+09:00"
   }
  ]
 };
