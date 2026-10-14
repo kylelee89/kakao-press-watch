@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T18:48:42+09:00",
- "runCount": 4052,
+ "generatedAt": "2026-10-14T18:59:11+09:00",
+ "runCount": 4053,
  "price": {
-  "price": "31,750",
-  "pct": "+1.44",
-  "at": "2026-10-14T18:48:43+09:00"
+  "price": "31,850",
+  "pct": "+1.76",
+  "at": "2026-10-14T18:59:13+09:00"
  },
  "articles": [
   {
@@ -40746,6 +40746,70 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T18:27:38+09:00"
+  },
+  {
+   "id": "642f3df5ab3fc96a",
+   "title": "로보택시 늘면 금융·물류·콘텐츠도…카카오 '피지컬AI' 새 먹거리로",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZcHdUQXIxQ0RuY2pqWlNVY2tOQ09sai1YV09EUmZXeHE2cEJnRUpHN3NCMEg3YXZEZmxmUzFaVFhJUUgza1hRZi1sTTNvWEcyZVVJUXU1cDFYNWNpaVlDaFZhQVdsYS1I?oc=5",
+   "publishedAt": "2026-10-14T16:06:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T18:59:11+09:00"
+  },
+  {
+   "id": "12a42abe4748c670",
+   "title": "카카오뱅크, 금융 데이터로 AI 은행 전환…2030년 ROE 15% 목표",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JRkh2bkxNWXNZQndfVG1PaUlyNXlpUFp6QXpLcmRYUS1BZy1ybEtGNnN3Vk83OFJNalhMTnhtQUozVUx2NmdkcVdaMUR2WFVqWVRz?oc=5",
+   "publishedAt": "2026-10-14T15:27:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T18:59:11+09:00"
+  },
+  {
+   "id": "48d9454f410d8ec2",
+   "title": "카카오페이, AI 금융 인프라 노린다…챗GPT 결제 연동 추진",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZjg2NGt6bkcwLVFRcGNmeHh5am0xNHJqbmJORkVxTHFhYU5pZWVRODZjOVc1OUIydnpnMi1EbGp0Nlg2Q19xaDBtd0xRVmN0SnRhaG10alphbzdVTXJseUhBRG95UWpf?oc=5",
+   "publishedAt": "2026-10-14T15:02:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T18:59:11+09:00"
   }
  ]
 };
