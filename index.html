@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>카카오 인적분할 언론보도 모니터링</title>
+  <title>카카오 인적분할 모니터링</title>
   <style>
     :root {
       --bg: #f7f8fa;
@@ -601,9 +601,28 @@
       min-width: 0;
     }
 
+    /* ---- 상단바 (배너 대신 한 줄) ---- */
+    .topbar { display: flex; align-items: center; justify-content: space-between; gap: 12px;
+      padding: 14px 0 10px; flex-wrap: wrap; }
+    .topbar-brand { display: inline-flex; align-items: center; gap: 8px; min-width: 0; }
+    .brand-name { font-size: 18px; font-weight: 700; letter-spacing: -0.01em; color: var(--text); white-space: nowrap; }
+    .live-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); flex: none;
+      box-shadow: 0 0 0 3px rgba(26,127,90,.15); }
+    .topbar-stats { display: inline-flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+    .tb-price { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
+    .tb-pct { font-size: 14px; font-weight: 600; }
+    .tb-sep { width: 1px; height: 14px; background: var(--line); align-self: center; margin: 0 2px; }
+    .tb-meta { font-size: 12px; color: var(--muted-2); }
+    .tb-meta strong { color: var(--muted); font-weight: 600; margin-left: 2px; }
+    @media (max-width: 560px) {
+      .topbar { padding: 12px 0 8px; }
+      .brand-name { font-size: 16px; }
+      .tb-next { display: none; }
+    }
+
     /* ---- 상단 메뉴 (섹션을 페이지로 나눔) ---- */
     .nav-bar { position: sticky; top: 0; z-index: 20; background: rgba(247,248,250,.92); backdrop-filter: blur(8px);
-      border-bottom: 1px solid var(--line); margin: 0 0 16px; padding: 6px 0; display: flex; gap: 4px;
+      border-bottom: 1px solid var(--line); margin: 0 0 18px; padding: 4px 0; display: flex; gap: 4px;
       overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
     .nav-bar::-webkit-scrollbar { display: none; }
     .nav-item { appearance: none; border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 14px;
@@ -616,6 +635,7 @@
     .nav-item.ext { color: var(--blue); }
     .nav-item.ext:hover { background: rgba(37,99,235,.08); }
     /* 홈 서머리 */
+    .home-note { font-size: 12.5px; color: var(--muted-2); margin: -4px 0 12px; font-variant-numeric: tabular-nums; }
     .home-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
     .home-more { appearance: none; border: 0; background: transparent; color: var(--blue); font: inherit; font-size: 13px;
       font-weight: 600; cursor: pointer; padding: 6px 0; }
@@ -2054,27 +2074,18 @@
         const pctValue = Number(price.pct || 0);
         const pctClass = pctValue < 0 ? 'blue-text' : pctValue > 0 ? 'red-text' : 'mid-text';
         return `
-          <div class="header">
-            <section class="hero">
-              <div class="eyebrow">실시간 모니터링</div>
-              <h1 class="title">카카오 인적분할 언론보도 모니터링</h1>
-              <div class="subtitle">공시 2026-08-21 10:04 / 매매거래정지 10:03 -> 재개 10:44</div>
-            </section>
-            <aside class="header-side">
-              <div class="stat-card">
-                <div class="stat-label">주가</div>
-                <div class="price-value mono">${escapeHtml(price.price || '-')}</div>
-                <div class="price-pct mono ${pctClass}">${pctValue >= 0 ? '+' : ''}${Number.isFinite(pctValue) ? pctValue.toFixed(2) : '0.00'}%</div>
-              </div>
-              <div class="stat-card">
-                <div class="stat-label">갱신 정보</div>
-                <div class="meta-stack">
-                  <div class="meta-line"><span>마지막 갱신</span><strong class="mono" id="last-refresh-label">${formatKstClock(state.lastRefreshAt)}</strong></div>
-                  <div class="meta-line"><span>다음 갱신</span><strong class="mono" id="refresh-countdown">60초</strong></div>
-                  <div class="meta-line"><span>누적 기사 수</span><strong class="mono">${data.articles.length}</strong></div>
-                </div>
-              </div>
-            </aside>
+          <div class="topbar">
+            <div class="topbar-brand">
+              <span class="live-dot" aria-hidden="true"></span>
+              <span class="brand-name">카카오 인적분할 모니터링</span>
+            </div>
+            <div class="topbar-stats">
+              <span class="tb-price mono">${escapeHtml(price.price || '-')}</span>
+              <span class="tb-pct mono ${pctClass}">${pctValue >= 0 ? '+' : ''}${Number.isFinite(pctValue) ? pctValue.toFixed(2) : '0.00'}%</span>
+              <span class="tb-sep" aria-hidden="true"></span>
+              <span class="tb-meta">갱신 <strong class="mono" id="last-refresh-label">${formatKstClock(state.lastRefreshAt)}</strong></span>
+              <span class="tb-meta tb-next">다음 <strong class="mono" id="refresh-countdown">60초</strong></span>
+            </div>
           </div>
         `;
       }
@@ -2097,6 +2108,8 @@
         const recentArticles = data.articles.slice().sort((a, b) => String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''))).slice(0, 5);
 
         return `
+          <div class="home-note">공시 2026-08-21 10:04 · 매매거래정지 10:03 → 재개 10:44 · 임시주총 2026-12-17 · 누적 기사 ${total}건</div>
+
           <section class="section panel">
             <div class="panel-head"><div>
               <h2 class="panel-title">논조 요약</h2>
