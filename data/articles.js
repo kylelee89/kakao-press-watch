@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T09:28:11+09:00",
- "runCount": 4000,
+ "generatedAt": "2026-10-14T09:38:29+09:00",
+ "runCount": 4001,
  "price": {
   "price": "32,000",
   "pct": "+2.24",
-  "at": "2026-10-14T09:28:12+09:00"
+  "at": "2026-10-14T09:38:30+09:00"
  },
  "articles": [
   {
@@ -39237,6 +39237,100 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-14T09:28:11+09:00"
+  },
+  {
+   "id": "d783f9dc731e676d",
+   "title": "카카오그룹, 인적분할 앞두고 첫 공동 IR…AI·X 성장전략 공개",
+   "outlet": "아시아투데이",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pQUhvd29DaThPQjF2RU1FcFE3eWVwbGtPWjloUXQyVnRTbVFzM3hIZm9qcEo1aHZxOGUzcEJKRWl5V3U3WW1aN2VZSmwwMEhzS3Fub3U1c2VxY0hMV00tTEVEZ1ZkTG13Nk1zanFB?oc=5",
+   "publishedAt": "2026-10-14T09:28:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:38:29+09:00"
+  },
+  {
+   "id": "6ae41f12ed2add89",
+   "title": "인적분할 앞둔 카카오 계열사 CEO 한자리에…성장 전략 공유",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tQXpUTmh0UFNpSnliSkdNT0pFUFp3QnI1Q3hzVk5weThrckVDNXVSWkhKUEdTUXRPQUlyTTlCZXZFR1NvSGU2eXd5a2JPc0tKbVR5SWNBdDROQQ?oc=5",
+   "publishedAt": "2026-10-14T09:31:40+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:38:29+09:00"
+  },
+  {
+   "id": "ae261bea50a87395",
+   "title": "카카오, 계열사 CEO 총출동 첫 공동 IR…인적분할 후 ‘AI·미래가치 투자’ 청사진 공개",
+   "outlet": "https://www.creatorjournal.co.kr/",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOdFZJMXdmNjhTUm43VzBXZ0JOei1VMFBsOVpGenNfUVpxQ1pRS042VzJ0NmY0SE1MTE5qMVAyVjVfZE51bWFQeENVbXdkSjJBcnVTZDFzdzlJSTJDN2JQUGozX0JQUVZkdmdLeEFJQVNhb2c?oc=5",
+   "publishedAt": "2026-10-14T09:23:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오X = 미래가치 투자회사"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:38:29+09:00"
+  },
+  {
+   "id": "63df1f408cca8830",
+   "title": "인적분할 앞두고 주주 설득 ‘총력’…정신아 카카오 대표, 직접 나섰다",
+   "outlet": "헤럴드경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEQU5OUGlubVgwc3c4czhrVG82SWtLT3Q4cjZmcjVuTnBQUVVzTXp5by05Z2p4RmRwbkF6SjRLUXktbnNsMGZvSXhTNnUzNGxfV3JsZ1lyQQ?oc=5",
+   "publishedAt": "2026-10-14T09:32:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T09:38:29+09:00"
   }
  ]
 };

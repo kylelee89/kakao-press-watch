@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-10-14T09:28:13+09:00",
+ "asOf": "2026-10-14T09:38:30+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -357,6 +357,19 @@ window.KMW_ANALYSTS = {
    "title": "Spin-off to unlock value",
    "point": "45%가 넘는 할인을 좁히고 AI 성장에 집중하려는 시도로 봤다. 다만 재평가는 카나나를 통해 카카오AI가 신뢰할 만한 성장 경로를 증명하는지에 달려 있다.",
    "extra": "실적 추정 변경 없음, 목표가 유지"
+  },
+  {
+   "date": "10/14",
+   "region": "국내",
+   "house": "현대차",
+   "analyst": "최승호",
+   "rating": "BUY",
+   "ratingPrev": null,
+   "target": 42000,
+   "targetPrev": null,
+   "title": "3Q26 Preview + IF KAKAO 애널리스트 간담회 후기",
+   "point": "3Q26 Preview: 컨센서스 부합, 카카오 본업은 양호하나 기타사업은 부진. IF KAKAO 26: 낙관하긴 어려우나 더 나빠질 것도 없다. 주가전망 및 Valuation",
+   "extra": "목표주가 하향"
   },
   {
    "date": "08/21",
