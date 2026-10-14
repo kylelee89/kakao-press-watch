@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-14T13:56:43+09:00",
- "runCount": 4025,
+ "generatedAt": "2026-10-14T14:07:23+09:00",
+ "runCount": 4026,
  "price": {
-  "price": "32,000",
-  "pct": "+2.24",
-  "at": "2026-10-14T13:56:45+09:00"
+  "price": "31,950",
+  "pct": "+2.08",
+  "at": "2026-10-14T14:07:24+09:00"
  },
  "articles": [
   {
@@ -40043,6 +40043,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-14T13:12:24+09:00"
+  },
+  {
+   "id": "efa7dd1cf4306cb9",
+   "title": "'투자회사' 카카오X, 2030년 매출 10조 목표…AI·금융·콘텐츠 육성",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vdjhialJRaWVSeWN6N1JYanp2eGpLaXF5NmpsX1dOeHo4M2dtOUNYOF91MXREUVdfQjJza1pMSzRia2JvaGpZQnM2c2YwaTlGS2tRTWl5Y1BwZDQ4YmE3cDVka2UzeGFY?oc=5",
+   "publishedAt": "2026-10-14T13:58:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "카카오X = 미래가치 투자회사",
+    "카카오X 2030 매출 10조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-14T14:07:23+09:00"
   }
  ]
 };
