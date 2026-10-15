@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T11:06:20+09:00",
- "runCount": 4144,
+ "generatedAt": "2026-10-15T11:16:56+09:00",
+ "runCount": 4145,
  "price": {
-  "price": "30,650",
-  "pct": "-3.31",
-  "at": "2026-10-15T11:06:22+09:00"
+  "price": "30,700",
+  "pct": "-3.15",
+  "at": "2026-10-15T11:16:58+09:00"
  },
  "articles": [
   {
@@ -41316,6 +41316,57 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-15T10:55:45+09:00"
+  },
+  {
+   "id": "28a2925f1566d25e",
+   "title": "LS증권 \"카카오, 단기 반등 어려워…목표가 4만2000원\"",
+   "outlet": "뉴스웍스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DbGwyLXZTYTNoUkdMZ1k5UUhrVXJRblR5dEdLN0JoQU1FR3dTeXE0QjJxSjN5V2lJZEpkSkRfWlJrVTE1ZEZTVGNkYVVESFZSWnAza0NuOFA3azlLMDBkUWtadU9rVTdORnVfcjJ0X19vdW8?oc=5",
+   "publishedAt": "2026-10-15T09:27:50+09:00",
+   "tone": "긍정",
+   "toneScore": 1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:반등",
+    "적대어:어려워"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "반등"
+    ],
+    "neg": [
+     "어려워"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T11:16:56+09:00"
+  },
+  {
+   "id": "ec2c26c8862c3086",
+   "title": "LS증권 \"카카오 목표주가 하향, AI 서비스 신사업 상용화 지연\"",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yeDJvS1BqdzE4RGwwalhwLXNUNW1xWFRVZkd2d2FSc1ppTHlZRTM3bFFyOUkzZS1vemlULWFldFRwclJWNGh6NWdDazFEUnpuQ0xNTFlBX3pWQldMNTcxVVNVSEVmdXVBWDlWYS1RQU5VQUU?oc=5",
+   "publishedAt": "2026-10-15T10:22:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T11:16:56+09:00"
   }
  ]
 };
