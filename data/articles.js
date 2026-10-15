@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T10:45:07+09:00",
- "runCount": 4142,
+ "generatedAt": "2026-10-15T10:55:45+09:00",
+ "runCount": 4143,
  "price": {
-  "price": "30,750",
-  "pct": "-3.00",
-  "at": "2026-10-15T10:45:10+09:00"
+  "price": "30,650",
+  "pct": "-3.31",
+  "at": "2026-10-15T10:55:47+09:00"
  },
  "articles": [
   {
@@ -41289,6 +41289,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-15T10:22:50+09:00"
+  },
+  {
+   "id": "77782bc4887b280d",
+   "title": "카카오, 커머스 지연·인적분할 불확실성…목표가↓-LS By 인포스탁데일리",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aUklHMjAybmk5ZjlaVDVLcHk2dzBDcDNWNXktX3dxNFZkVjRQbUMwTDcwSnJHX2Nicl94YjdhMDc4ckhjUU1qMmdXdDNJQ1NZZWpwcktVeG9SWkZ4dE1fY0xXLXctTjh0Q3p3bkFXeko?oc=5",
+   "publishedAt": "2026-10-15T10:30:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T10:55:45+09:00"
   }
  ]
 };
