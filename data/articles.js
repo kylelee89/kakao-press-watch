@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T17:17:33+09:00",
- "runCount": 4178,
+ "generatedAt": "2026-10-15T17:28:00+09:00",
+ "runCount": 4179,
  "price": {
-  "price": "30,650",
-  "pct": "-3.31",
-  "at": "2026-10-15T17:17:34+09:00"
+  "price": "30,600",
+  "pct": "-3.47",
+  "at": "2026-10-15T17:28:00+09:00"
  },
  "articles": [
   {
@@ -41446,6 +41446,33 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-15T16:44:49+09:00"
+  },
+  {
+   "id": "dd393eb61a95ab03",
+   "title": "카카오, 인적분할 앞두고 소액주주 설득 '안간힘'",
+   "outlet": "뉴스토마토",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4aGhldENNWDgxdUVlWmRHOExFOG9jaFNrZEFjeVppUFpoQk5IMDBzenZVc2JJZmllNmdJa2thQUpKOVdaV3V2WFk4TEx1M0tMNmFSUjZYRS1vTzJGMm80?oc=5",
+   "publishedAt": "2026-10-15T17:04:06+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T17:28:00+09:00"
   }
  ]
 };
