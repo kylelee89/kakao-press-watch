@@ -1725,21 +1725,35 @@
         const priceRefValue = toAnalystNumber(analystData.priceRef && analystData.priceRef.value);
         const priceRefPct = maxTarget && priceRefValue != null ? (priceRefValue / maxTarget) * 100 : 0;
 
-        const stats = reports.reduce((acc, report) => {
+        // 상단 요약은 '분할 발표 이후 누적'으로 본다.
+        // 같은 증권사가 여러 번 냈으면 가장 최근 리포트 하나만 세고, 비교 기준은
+        // 발표 전 값(targetBase/ratingBase)이다. 리포트 한 건에서 무엇이 바뀌었는지는
+        // 아래 리포트 목록이 직전 리포트 대비로 따로 보여준다.
+        const latestByHouse = new Map();
+        reports.forEach((report) => {
+          const house = String(report.house || '');
+          const kept = latestByHouse.get(house);
+          if (!kept || String(report.date || '') >= String(kept.date || '')) {
+            latestByHouse.set(house, report);
+          }
+        });
+        const latestReports = Array.from(latestByHouse.values());
+
+        const stats = latestReports.reduce((acc, report) => {
           const current = toAnalystNumber(report.target);
-          const prev = toAnalystNumber(report.targetPrev);
-          if (current != null && prev != null) {
+          const base = toAnalystNumber(report.targetBase != null ? report.targetBase : report.targetPrev);
+          if (current != null && base != null) {
             acc.total += 1;
-            acc.prevSum += prev;
+            acc.prevSum += base;
             acc.currentSum += current;
-            if (current < prev) acc.down += 1;
-            else if (current > prev) acc.up += 1;
+            if (current < base) acc.down += 1;
+            else if (current > base) acc.up += 1;
             else acc.flat += 1;
           }
 
-          const prevRating = formatAnalystRating(report.ratingPrev);
+          const baseRating = formatAnalystRating(report.ratingBase != null ? report.ratingBase : report.ratingPrev);
           const currentRating = formatAnalystRating(report.rating);
-          if (prevRating && currentRating && prevRating !== currentRating) {
+          if (baseRating && currentRating && baseRating !== currentRating) {
             acc.ratingChanges.push(report);
           }
           return acc;
@@ -1752,7 +1766,7 @@
         ));
 
         const avgLine = stats.total
-          ? `평균 목표주가 ${formatAnalystNumber(stats.prevSum / stats.total)} -> ${formatAnalystNumber(stats.currentSum / stats.total)}원`
+          ? `평균 목표주가 발표 전 ${formatAnalystNumber(stats.prevSum / stats.total)} -> 현재 ${formatAnalystNumber(stats.currentSum / stats.total)}원`
           : '평균 목표주가 비교 가능 자료 없음';
 
         const summaryCards = [
@@ -1761,7 +1775,7 @@
           { label: '목표주가 상향', value: stats.up, colorClass: 'up', meta: '' },
           {
             label: '투자의견 강등',
-            value: stats.ratingChanges.length,
+            value: changeHouses.length,
             colorClass: 'down',
             meta: changeHouses.length ? changeHouses.join(', ') : '없음'
           }
@@ -1808,7 +1822,7 @@
                 </div>
               `).join('')}
             </div>
-            <div class="analyst-avg-line">${escapeHtml(avgLine)} <span class="analyst-avg-note">(직전 목표가가 있는 ${stats.total}건 기준)</span></div>
+            <div class="analyst-avg-line">${escapeHtml(avgLine)} <span class="analyst-avg-note">(분할 발표 전 대비, 증권사별 최신 리포트 ${stats.total}곳 기준)</span></div>
 
             <div class="table-wrap" style="margin-top:16px;">
               <table class="analyst-table">
