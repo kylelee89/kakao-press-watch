@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T18:21:33+09:00",
- "runCount": 4184,
+ "generatedAt": "2026-10-15T18:32:09+09:00",
+ "runCount": 4185,
  "price": {
   "price": "30,900",
   "pct": "-2.52",
-  "at": "2026-10-15T18:21:35+09:00"
+  "at": "2026-10-15T18:32:11+09:00"
  },
  "articles": [
   {
@@ -41473,6 +41473,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-15T17:28:00+09:00"
+  },
+  {
+   "id": "da894ffcd60f4511",
+   "title": "카카오, 인적분할 앞두고 첫 공동 IR 간담회…AI·금융 성장 전략 공유",
+   "outlet": "파이낸셜투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbnRDMnRrNWp1OEdwb1lDUXdXWTZNR1JIS1pCb25wMjVNZUVveWpTZWRfRGZLNjZxcUtGb3F0UmljRFNKelFpeHR5NmNnME5nTHI0Z0d6dEtCU3JaRnNTcVA2Qi1JdzF5Vnc?oc=5",
+   "publishedAt": "2026-10-14T16:34:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T18:32:09+09:00"
   }
  ]
 };
