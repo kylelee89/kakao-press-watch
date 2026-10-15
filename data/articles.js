@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T15:47:44+09:00",
- "runCount": 4170,
+ "generatedAt": "2026-10-15T15:59:29+09:00",
+ "runCount": 4171,
  "price": {
   "price": "31,000",
   "pct": "-2.21",
-  "at": "2026-10-15T15:47:46+09:00"
+  "at": "2026-10-15T15:59:31+09:00"
  },
  "articles": [
   {
@@ -41395,6 +41395,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-15T11:59:54+09:00"
+  },
+  {
+   "id": "f6575e79ce9342a8",
+   "title": "카카오, 인적분할 청사진 제시…\"AI·신사업 확장 본격화\"",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PcVc1TUlJcFBsRm0wREVrcUxmaGJYN0dDajlDd0N6S1otbHduajV5VXRyVTlELWJHTzAtcEt1NDhSekxrZnV3S2JaS09KZnNCTUpkSkVzTkQzQ3JlcG0w?oc=5",
+   "publishedAt": "2026-10-14T15:32:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T15:59:29+09:00"
   }
  ]
 };
