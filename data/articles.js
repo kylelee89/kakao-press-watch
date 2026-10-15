@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T16:32:55+09:00",
- "runCount": 4174,
+ "generatedAt": "2026-10-15T16:44:49+09:00",
+ "runCount": 4175,
  "price": {
-  "price": "30,600",
-  "pct": "-3.47",
-  "at": "2026-10-15T16:32:58+09:00"
+  "price": "30,650",
+  "pct": "-3.31",
+  "at": "2026-10-15T16:44:52+09:00"
  },
  "articles": [
   {
@@ -41418,6 +41418,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-15T15:59:29+09:00"
+  },
+  {
+   "id": "f50388cfd88dd0d6",
+   "title": "5천만 카카오 연동에도 이용자 외면받은 카나나... 전략 변경할까?",
+   "outlet": "시장경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YUnl5OW9xMzR2MkJjS0ZxZXNSTTg5Mkg0NlYyMm04MWp3Nm5yMjdveENsY3E0R0lUY3c4VkZxb1dRbGFPMF9PWC1nZDdER3JZR1p4VWVEa0cxUjBiWWJPWjJGNlExVUN3NkVYcGRDbTg?oc=5",
+   "publishedAt": "2026-10-15T15:44:52+09:00",
+   "tone": "우려",
+   "toneScore": -8.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "수사의문:할까",
+    "적대어:외면"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까",
+     "외면"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T16:44:49+09:00"
   }
  ]
 };
