@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T11:49:28+09:00",
- "runCount": 4148,
+ "generatedAt": "2026-10-15T11:59:54+09:00",
+ "runCount": 4149,
  "price": {
   "price": "30,650",
   "pct": "-3.31",
-  "at": "2026-10-15T11:49:29+09:00"
+  "at": "2026-10-15T11:59:55+09:00"
  },
  "articles": [
   {
@@ -41367,6 +41367,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-15T11:16:56+09:00"
+  },
+  {
+   "id": "7ad6441fc2f6e715",
+   "title": "‘AI 비서’ 비전에도 냉담한 시장…카카오, 증권사 ‘목표주가 하향’에 고심",
+   "outlet": "한겨레",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteWVYT2wyb0ZlZmhTMDBKWU1qYmxDSVJPWTRsd0ZWLUItS2ZqdFBQOWllMlJnaHJDbmZubU9sekpMczBrRGtxUVluM19YVWZvQlJqcWFaU3lzeTVPdS05LQ?oc=5",
+   "publishedAt": "2026-10-15T11:52:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "적대어:냉담"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "냉담"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T11:59:54+09:00"
   }
  ]
 };
