@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T10:12:12+09:00",
- "runCount": 4139,
+ "generatedAt": "2026-10-15T10:22:50+09:00",
+ "runCount": 4140,
  "price": {
-  "price": "30,600",
-  "pct": "-3.47",
-  "at": "2026-10-15T10:12:14+09:00"
+  "price": "30,400",
+  "pct": "-4.10",
+  "at": "2026-10-15T10:22:52+09:00"
  },
  "articles": [
   {
@@ -41266,6 +41266,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-15T09:50:16+09:00"
+  },
+  {
+   "id": "fb553af2a621563b",
+   "title": "카카오, LS증권 목표주가 4만2000원으로 하향…3분기 성장 둔화 전망, AI 에이전트 주목",
+   "outlet": "CBC뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDUU1fVU1EUks0elVVM3FoUGxpRTBzcjBWY3laRFZWcC1iQVAxb1dNVXRQR2lCWkZFOTVVRndaMEdvZ1JFZEYxNTBPTHNfWDJWOGZMODJvU3c1UE1NYi1oemMwT3VNWDdJ?oc=5",
+   "publishedAt": "2026-10-15T10:12:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-15T10:22:50+09:00"
   }
  ]
 };
