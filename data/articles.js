@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-15T09:08:26+09:00",
- "runCount": 4133,
+ "generatedAt": "2026-10-15T09:18:51+09:00",
+ "runCount": 4134,
  "price": {
-  "price": "31,000",
-  "pct": "-2.21",
-  "at": "2026-10-15T09:08:27+09:00"
+  "price": "30,550",
+  "pct": "-3.63",
+  "at": "2026-10-15T09:18:52+09:00"
  },
  "articles": [
   {
@@ -41211,6 +41211,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-15T08:25:47+09:00"
+  },
+  {
+   "id": "149a14e1bd5061ee",
+   "title": "\"단기간 내 주가 반등 어려울 것\"…카카오 목표가↓",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92SW84UDdaMjQ2MW1EQXRnRTNNUEV2STJoa3VhZGFYWWhGT3dpel9oakt0dmtwclQ0OWxySXRXZDkyaWMxN0ZpcmRtdW03T1QxcDZMa2hLcFExQQ?oc=5",
+   "publishedAt": "2026-10-15T09:09:19+09:00",
+   "tone": "긍정",
+   "toneScore": 1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:반등",
+    "적대어:어려"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [
+     "반등"
+    ],
+    "neg": [
+     "어려"
+    ]
+   },
+   "firstSeenAt": "2026-10-15T09:18:51+09:00"
   }
  ]
 };
