@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-10-15T09:50:17+09:00",
+ "asOf": "2026-10-15T10:01:10+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -442,7 +442,7 @@ window.KMW_ANALYSTS = {
    "house": "삼성",
    "analyst": "오동환,유혜림",
    "rating": "HOLD",
-   "ratingPrev": "BUY",
+   "ratingPrev": "HOLD",
    "target": 35000,
    "targetPrev": 40000,
    "title": "개인 AI 에이전트 시장 출사표",
