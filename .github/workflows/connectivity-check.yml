@@ -61,3 +61,30 @@ jobs:
             'https://news.google.com/rss/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%EC%A0%81%EB%B6%84%ED%95%A0&hl=ko&gl=KR&ceid=KR:ko') || code=000
           echo "HTTP $code / $(wc -c < /tmp/gn.xml) bytes / item $(grep -c '<item>' /tmp/gn.xml || echo 0) 건"
           grep -o '<title>[^<]*</title>' /tmp/gn.xml | head -4
+
+      - name: 공공데이터포털 금융위 (코스피 시총/종목 시총)
+        env:
+          KEY: ${{ secrets.DATA_GO_KR_KEY }}
+        run: |
+          B=https://apis.data.go.kr/1160100/service
+          curl -s -m 30 "$B/GetMarketIndexInfoService/getStockMarketIndex?serviceKey=$KEY&idxNm=%EC%BD%94%EC%8A%A4%ED%94%BC&basDt=20261016&numOfRows=20" -o /tmp/idx.xml
+          curl -s -m 30 "$B/GetStockSecuritiesInfoService/getStockPriceInfo?serviceKey=$KEY&likeSrtnCd=005930&basDt=20261016&numOfRows=10" -o /tmp/stk.xml
+          echo "지수 $(wc -c < /tmp/idx.xml) bytes / 종목 $(wc -c < /tmp/stk.xml) bytes"
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          idx = ET.parse('/tmp/idx.xml').getroot()
+          code = idx.findtext('.//resultCode') or idx.findtext('.//returnReasonCode')
+          msg = idx.findtext('.//resultMsg') or idx.findtext('.//returnAuthMsg') or ''
+          print('resultCode', code, msg)
+          hit = [i for i in idx.findall('.//item') if i.findtext('idxNm') == '코스피']
+          if not hit:
+              raise SystemExit('FAIL 코스피 항목 없음')
+          print('OK 코스피 종가', hit[0].findtext('clpr'), '상장시총',
+                f"{int(hit[0].findtext('lstgMrktTotAmt'))/1e12:,.0f}조")
+          stk = ET.parse('/tmp/stk.xml').getroot()
+          s = [i for i in stk.findall('.//item') if i.findtext('srtnCd') == '005930']
+          if not s:
+              raise SystemExit('FAIL 005930 없음')
+          print('OK 삼성전자 시총', f"{int(s[0].findtext('mrktTotAmt'))/1e12:,.0f}조",
+                '주식수', s[0].findtext('lstgStCnt'))
+          PY
