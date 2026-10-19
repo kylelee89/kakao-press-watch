@@ -4,9 +4,9 @@
   var COLORS = {
     kakao: '#e0a400', kbank: '#1a9c8c', kpay: '#3b8fd9', sm: '#c0469a', kgames: '#8a8f3a',
     naver: '#17a34a', krafton: '#e5572f', nc: '#7a5bd6', netmarble: '#c98a1a', nhn: '#4a6fa5',
-    hybe: '#b23a48', pearl: '#2f8fa0', KOSPI: '#6b7280', KOSDAQ: '#9ca3af'
+    hybe: '#b23a48', pearl: '#2f8fa0', KOSPI: '#6b7280', KOSDAQ: '#9ca3af', KOSPI_EXSEMI: '#8b5cf6'
   };
-  var DEFAULTS = ['kakao', 'kbank', 'kpay', 'sm', 'naver', 'krafton', 'KOSPI', 'KOSDAQ'];
+  var DEFAULTS = ['kakao', 'kbank', 'kpay', 'sm', 'naver', 'krafton', 'KOSPI', 'KOSPI_EXSEMI', 'KOSDAQ'];
   var EVENTS = [
     ['08-21', '분할 발표'], ['08-24', '목표가 하향'], ['08-26', '노조 반발'],
     ['09-16', '주주 설명회'], ['09-22', '합병 1차 통과']
@@ -42,6 +42,8 @@
   function at(item, index) { return cumulative(item, item && item.closes && item.closes[index]); }
   function total(item) { return cumulative(item, item && item.last); }
   function excess(value, other) { return numeric(value) && numeric(other) ? value - other : null; }
+  // 기준지수 id(KOSPI_EXSEMI 등)를 화면에 그대로 쓰면 안 되니 시리즈 이름으로 바꾼다.
+  function benchName() { var item = find(benchmark); return item && item.name ? item.name : benchmark; }
   function chartValue(item, index) {
     var value = at(item, index);
     return mode === 'cum' ? value : excess(value, at(find(benchmark), index));
@@ -114,7 +116,7 @@
   }
   function controls() {
     var html = '<div class="pt-modes">' + button('mode', 'cum', '누적 수익률', mode === 'cum') + button('mode', 'excess', '지수 대비 초과', mode === 'excess');
-    if (mode === 'excess') html += button('benchmark', 'KOSPI', 'vs KOSPI', benchmark === 'KOSPI') + button('benchmark', 'KOSDAQ', 'vs KOSDAQ', benchmark === 'KOSDAQ');
+    if (mode === 'excess') html += button('benchmark', 'KOSPI', 'vs KOSPI', benchmark === 'KOSPI') + button('benchmark', 'KOSPI_EXSEMI', 'vs 코스피(삼전/하이닉스 제외)', benchmark === 'KOSPI_EXSEMI') + button('benchmark', 'KOSDAQ', 'vs KOSDAQ', benchmark === 'KOSDAQ');
     html += '</div>';
     ['index', 'group', 'peer'].forEach(function (group) {
       html += '<div class="pt-chip-row"><span class="pt-group-label">' + GROUPS[group] + '</span>';
@@ -190,7 +192,7 @@
     var y = function (value) { return bottom - (value - min) / (max - min) * (bottom - top); };
     chart = { dates: dates, left: left, right: right, width: width, x: x };
     var unit = mode === 'cum' ? '%' : '%p';
-    var html = '<svg class="pt-svg" width="100%" height="320" role="img" aria-label="' + (mode === 'cum' ? '누적 수익률' : benchmark + ' 대비 초과 수익률') + ' 추이"><text x="4" y="14">' + unit + '</text>';
+    var html = '<svg class="pt-svg" width="100%" height="320" role="img" aria-label="' + (mode === 'cum' ? '누적 수익률' : benchName() + ' 대비 초과 수익률') + ' 추이"><text x="4" y="14">' + unit + '</text>';
     for (var tick = 0; tick <= 4; tick++) {
       var value = min + (max - min) * tick / 4, py = y(value);
       if (Math.abs(py - y(0)) < 13) continue;
@@ -218,7 +220,7 @@
     host.innerHTML = html;
   }
   function render(focusAction, focusValue) {
-    root.innerHTML = '<div class="pt-root"><h2 class="pt-title">주가 흐름</h2><p class="pt-subtitle">' + escape(dateLabel(data.baseDate)) + ' 종가 = 0% 기준 · 갱신 ' + escape(data.generatedAt || '정보 없음') + '</p>' + kpis() + '<section class="pt-section">' + controls() + '<div class="pt-note">' + (mode === 'cum' ? '누적 수익률 (%)' : escape(benchmark) + ' 대비 누적 수익률 차이 (%p)') + '</div><div class="pt-chart"></div><ol class="pt-events">' + EVENTS.map(function (event, i) { return '<li><span class="pt-event-number">' + (i + 1) + '</span>' + event[0] + ' ' + event[1] + '</li>'; }).join('') + '</ol></section>' + ranking() + table() + '</div>';
+    root.innerHTML = '<div class="pt-root"><h2 class="pt-title">주가 흐름</h2><p class="pt-subtitle">' + escape(dateLabel(data.baseDate)) + ' 종가 = 0% 기준 · 갱신 ' + escape(data.generatedAt || '정보 없음') + '</p>' + kpis() + '<section class="pt-section">' + controls() + '<div class="pt-note">' + (mode === 'cum' ? '누적 수익률 (%)' : escape(benchName()) + ' 대비 누적 수익률 차이 (%p)') + '</div><div class="pt-chart"></div><ol class="pt-events">' + EVENTS.map(function (event, i) { return '<li><span class="pt-event-number">' + (i + 1) + '</span>' + event[0] + ' ' + event[1] + '</li>'; }).join('') + '</ol></section>' + ranking() + table() + '</div>';
     drawChart();
     if (focusAction) Array.prototype.some.call(root.querySelectorAll('[data-pt-action]'), function (element) {
       if (element.getAttribute('data-pt-action') === focusAction && element.getAttribute('data-pt-value') === focusValue) { element.focus(); return true; }
@@ -262,7 +264,7 @@
     var rect = svg.getBoundingClientRect(), px = event.clientX - rect.left;
     if (px < chart.left || px > chart.right || event.clientY - rect.top > 283) { hideTooltip(); return; }
     var index = chart.dates.length === 1 ? 0 : Math.round((px - chart.left) / (chart.right - chart.left) * (chart.dates.length - 1));
-    var html = '<div class="pt-tooltip-title">' + escape(chart.dates[index]) + (mode === 'excess' ? ' · vs ' + escape(benchmark) + ' (%p)' : ' · 누적 (%)') + '</div>';
+    var html = '<div class="pt-tooltip-title">' + escape(chart.dates[index]) + (mode === 'excess' ? ' · vs ' + escape(benchName()) + ' (%p)' : ' · 누적 (%)') + '</div>';
     series.filter(enabled).forEach(function (item) {
       var value = chartValue(item, index);
       html += '<div class="pt-tooltip-row"><span><span class="pt-swatch" style="background:' + color(item) + '"></span>' + escape(item.name) + '</span><strong class="' + tone(value) + '">' + pct(value, mode === 'cum' ? '%' : '%p') + '</strong></div>';

@@ -40,6 +40,14 @@ SYMBOLS = [
     ("KOSDAQ", "KOSDAQ", "KOSDAQ", "index"),
 ]
 
+# 코스피에서 삼성전자(보통주/우선주)와 SK하이닉스를 뺀 지수.
+# 2026-10 기준 이 세 종목이 코스피 시가총액의 절반 가까이를 차지해서,
+# 코스피와만 비교하면 "반도체가 끌어올린 지수"와 비교하는 셈이 된다.
+EX_ID = "KOSPI_EXSEMI"
+EX_NAME = "코스피(삼전/하이닉스 제외)"
+EX_CODES = ("005930", "005935", "000660")
+RANK_URL = "https://m.stock.naver.com/api/stocks/marketValue/KOSPI?page={page}&pageSize=100"
+
 
 def run_curl(url: str) -> str:
     proc = subprocess.run(
@@ -87,6 +95,95 @@ def parse_closes(response: str, end_date: str) -> dict[str, int | float]:
     if not closes:
         raise ValueError("요청 기간의 종가 데이터 없음")
     return closes
+
+
+def fetch_kospi_anchor() -> tuple[float, dict[str, float]]:
+    """코스피 전체 시가총액과 제외 종목의 상장주식수를 지금 시점 기준으로 구한다.
+
+    네이버 시가총액 순위 API 는 ETF/ETN 까지 섞어 주므로 `stockEndType == "stock"` 만
+    더해야 지수 시가총액이 된다(2026-10 기준 942종목 4,642조. ETF 1,176종목 419조는 제외).
+    상장주식수는 시가총액/현재가로 역산한다. 두 달 창에서 주식수는 사실상 고정이라
+    과거 종가에 그대로 곱해 그날의 시가총액을 복원할 수 있다.
+    """
+    rows: list[dict] = []
+    page = 1
+    while page <= 40:
+        if page > 1:
+            time.sleep(0.2)
+        payload = json.loads(run_curl(RANK_URL.format(page=page)))
+        chunk = payload.get("stocks") or []
+        rows.extend(chunk)
+        if not chunk or len(rows) >= int(payload.get("totalCount") or 0):
+            break
+        page += 1
+    if not rows:
+        raise ValueError("코스피 시가총액 순위 응답 없음")
+
+    total = 0.0
+    shares: dict[str, float] = {}
+    for row in rows:
+        if row.get("stockEndType") != "stock":
+            continue
+        raw = row.get("marketValueRaw")
+        if raw is None:
+            continue
+        cap = float(raw)
+        if not math.isfinite(cap) or cap < 0:
+            raise ValueError("시가총액 값 오류")
+        total += cap
+        code = row.get("itemCode")
+        if code in EX_CODES:
+            price = float(str(row.get("closePrice", "")).replace(",", "") or 0)
+            if price <= 0:
+                raise ValueError(f"{code} 현재가 오류")
+            shares[code] = cap / price
+    missing = [c for c in EX_CODES if c not in shares]
+    if missing:
+        raise ValueError(f"제외 종목 미발견: {', '.join(missing)}")
+    if total <= 0:
+        raise ValueError("코스피 시가총액 합계 오류")
+    return total, shares
+
+
+def build_ex_index(dates: list[str], kospi: dict[str, int | float], end_date: str):
+    """코스피 시가총액에서 세 종목을 빼고, 기준일에 코스피와 같은 값이 되도록 환산한다.
+
+    과거 시가총액은 `코스피 전체 시총(현재) x 코스피지수(그날)/코스피지수(현재)` 로 되돌린다.
+    이 창(두 달) 안의 신규상장/상폐는 무시한다 — 지수 대비 효과가 1% 미만이다.
+    """
+    if not kospi:
+        raise ValueError("코스피 지수 데이터 없음")
+    total_now, shares = fetch_kospi_anchor()
+    ref_day = max(kospi)
+    ref_level = kospi[ref_day]
+    if not ref_level:
+        raise ValueError("코스피 기준 지수 오류")
+
+    closes: dict[str, float] = {}
+    for code in EX_CODES:
+        query = urlencode({
+            "symbol": code, "requestType": 1, "startTime": START_DATE,
+            "endTime": end_date, "timeframe": "day",
+        })
+        time.sleep(0.3)
+        closes[code] = parse_closes(run_curl(f"https://api.finance.naver.com/siseJson.naver?{query}"), end_date)
+
+    raw: dict[str, float] = {}
+    for day in dates:
+        level = kospi.get(day)
+        if level is None or any(closes[c].get(day) is None for c in EX_CODES):
+            continue
+        market = total_now * (level / ref_level)
+        value = market - sum(shares[c] * closes[c][day] for c in EX_CODES)
+        if value > 0:
+            raw[day] = value
+    if not raw:
+        raise ValueError("제외 지수 계산 가능한 날짜 없음")
+
+    # 기준일(없으면 가장 이른 날)에 코스피와 같은 포인트가 되도록 맞춘다.
+    pin = BASE_DATE if BASE_DATE in raw and BASE_DATE in kospi else min(raw)
+    scale = kospi[pin] / raw[pin]
+    return {day: round(value * scale, 2) for day, value in raw.items()}
 
 
 def pct(value: int | float | None, base: int | float | None) -> float | None:
@@ -141,6 +238,17 @@ def main() -> int:
             print(f"{name}: {error}", file=sys.stderr)
         dates_set.update(closes)
         collected.append((series_id, name, code, grp, closes, error))
+
+    kospi_closes = next((c for sid, _n, _c, _g, c, _e in collected if sid == "KOSPI"), {})
+    ex_closes: dict[str, float] = {}
+    ex_error = None
+    try:
+        ex_closes = build_ex_index(sorted(dates_set), kospi_closes, end_date)
+    except (RuntimeError, ValueError, OSError, subprocess.TimeoutExpired, json.JSONDecodeError) as exc:
+        ex_error = str(exc) if isinstance(exc, (RuntimeError, ValueError)) else type(exc).__name__
+        failed += 1
+        print(f"{EX_NAME}: {ex_error}", file=sys.stderr)
+    collected.append((EX_ID, EX_NAME, "KOSPI", "index", ex_closes, ex_error))
 
     dates = sorted(dates_set)
     result = 0
