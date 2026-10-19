@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-20T04:15:34+09:00",
- "runCount": 4196,
+ "generatedAt": "2026-10-20T08:33:53+09:00",
+ "runCount": 4197,
  "price": {
-  "price": "32,050",
-  "pct": "+0.63",
-  "at": "2026-10-20T04:15:35+09:00"
+  "price": "32,100",
+  "pct": "+0.00",
+  "at": "2026-10-20T08:33:54+09:00"
  },
  "articles": [
   {
@@ -43527,6 +43527,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-20T04:15:34+09:00"
+  },
+  {
+   "id": "43143e68ac6244da",
+   "title": "카카오, 첫 그룹 공동 IR 개최…인적분할 후 성장 전략 공개",
+   "outlet": "한국소비자경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13cDVmWU92M1JBbEpPSDJnRFd0QkNaWDdvMkFIQ1pXTVpQTVo0WjllNGRIa3pyT0FkdExiRTdSc2ozU2dPZDBJSG4ybFFjcjVUdnFYdVBTeE9rYVZRV2lpYXRVdWNtZG4xenhV0gFvQVVfeXFMTjZpSWpnNFB0RGJ1Mmp4NHZVM3QyUXRYS1hoR1lYSF9PT1VTSGp3OE5hMkZTYWEyeUVzR1JVZWQ4TkFoNGUyQXoxN0ozbjlHUkVuTnpCbDVDak5RM2l0NzNINkZFSVpxdEFaYi1kcHE0?oc=5",
+   "publishedAt": "2026-10-14T23:00:06+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-20T08:33:53+09:00"
   }
  ]
 };
