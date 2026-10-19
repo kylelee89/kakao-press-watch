@@ -97,7 +97,7 @@
   function averageTile(label, items) {
     var valid = items.filter(function (item) { return numeric(total(item)); });
     var mean = valid.length ? valid.reduce(function (sum, item) { return sum + total(item); }, 0) / valid.length : null;
-    var note = !items.length ? '선택한 종목 없음' : valid.length + '/' + items.length + '개 유효 종목 · 동일 비중 평균';
+    var note = !items.length ? '선택한 종목 없음' : valid.length + '/' + items.length + '개 유효 종목 / 동일 비중 평균';
     return tile(label, mean, note);
   }
   function individualTile(id, label) {
@@ -154,7 +154,7 @@
   }
   function table() {
     var columns = [['name', '종목'], ['grp', '구분'], ['base', dateLabel(data.baseDate).replace('/', '-') + ' 종가'], ['annPct', '발표일 등락'], ['last', '최근 종가'], ['cum', '누적'], ['KOSPI', 'vs KOSPI'], ['KOSDAQ', 'vs KOSDAQ']];
-    var html = '<section class="pt-section"><h3 class="pt-heading">종목별 상세</h3><div class="pt-note">종가: 주식 원 / 지수 pt · 지수 대비 초과: 누적 수익률 차이(%p)</div><div class="pt-table-wrap"><table class="pt-table"><thead><tr>';
+    var html = '<section class="pt-section"><h3 class="pt-heading">종목별 상세</h3><div class="pt-note">종가: 주식 원 / 지수 pt / 지수 대비 초과: 누적 수익률 차이(%p)</div><div class="pt-table-wrap"><table class="pt-table"><thead><tr>';
     columns.forEach(function (column) {
       var sorted = sortKey === column[0];
       html += '<th scope="col" aria-sort="' + (sorted ? sortDirection === 1 ? 'ascending' : 'descending' : 'none') + '"><button type="button" class="pt-sort" data-pt-action="sort" data-pt-value="' + column[0] + '">' + escape(column[1]) + (sorted ? sortDirection === 1 ? ' ▲' : ' ▼' : ' ↕') + '</button></th>';
@@ -220,7 +220,7 @@
     host.innerHTML = html;
   }
   function render(focusAction, focusValue) {
-    root.innerHTML = '<div class="pt-root"><h2 class="pt-title">주가 흐름</h2><p class="pt-subtitle">' + escape(dateLabel(data.baseDate)) + ' 종가 = 0% 기준 · 갱신 ' + escape(data.generatedAt || '정보 없음') + '</p>' + kpis() + '<section class="pt-section">' + controls() + '<div class="pt-note">' + (mode === 'cum' ? '누적 수익률 (%)' : escape(benchName()) + ' 대비 누적 수익률 차이 (%p)') + '</div><div class="pt-chart"></div><ol class="pt-events">' + EVENTS.map(function (event, i) { return '<li><span class="pt-event-number">' + (i + 1) + '</span>' + event[0] + ' ' + event[1] + '</li>'; }).join('') + '</ol></section>' + ranking() + table() + '</div>';
+    root.innerHTML = '<div class="pt-root"><h2 class="pt-title">주가 흐름</h2><p class="pt-subtitle">' + escape(dateLabel(data.baseDate)) + ' 종가 = 0% 기준 / 갱신 ' + escape(data.generatedAt || '정보 없음') + '</p>' + kpis() + '<section class="pt-section">' + controls() + '<div class="pt-note">' + (mode === 'cum' ? '누적 수익률 (%)' : escape(benchName()) + ' 대비 누적 수익률 차이 (%p)') + '</div><div class="pt-chart"></div><ol class="pt-events">' + EVENTS.map(function (event, i) { return '<li><span class="pt-event-number">' + (i + 1) + '</span>' + event[0] + ' ' + event[1] + '</li>'; }).join('') + '</ol></section>' + ranking() + table() + '</div>';
     drawChart();
     if (focusAction) Array.prototype.some.call(root.querySelectorAll('[data-pt-action]'), function (element) {
       if (element.getAttribute('data-pt-action') === focusAction && element.getAttribute('data-pt-value') === focusValue) { element.focus(); return true; }
@@ -264,7 +264,7 @@
     var rect = svg.getBoundingClientRect(), px = event.clientX - rect.left;
     if (px < chart.left || px > chart.right || event.clientY - rect.top > 283) { hideTooltip(); return; }
     var index = chart.dates.length === 1 ? 0 : Math.round((px - chart.left) / (chart.right - chart.left) * (chart.dates.length - 1));
-    var html = '<div class="pt-tooltip-title">' + escape(chart.dates[index]) + (mode === 'excess' ? ' · vs ' + escape(benchName()) + ' (%p)' : ' · 누적 (%)') + '</div>';
+    var html = '<div class="pt-tooltip-title">' + escape(chart.dates[index]) + (mode === 'excess' ? ' / vs ' + escape(benchName()) + ' (%p)' : ' / 누적 (%)') + '</div>';
     series.filter(enabled).forEach(function (item) {
       var value = chartValue(item, index);
       html += '<div class="pt-tooltip-row"><span><span class="pt-swatch" style="background:' + color(item) + '"></span>' + escape(item.name) + '</span><strong class="' + tone(value) + '">' + pct(value, mode === 'cum' ? '%' : '%p') + '</strong></div>';
