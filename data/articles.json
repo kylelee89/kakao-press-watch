@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-19T21:59:46+09:00",
- "runCount": 4195,
+ "generatedAt": "2026-10-20T04:15:34+09:00",
+ "runCount": 4196,
  "price": {
   "price": "32,050",
   "pct": "+0.63",
-  "at": "2026-10-19T21:59:47+09:00"
+  "at": "2026-10-20T04:15:35+09:00"
  },
  "articles": [
   {
@@ -43460,6 +43460,73 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-19T21:59:46+09:00"
+  },
+  {
+   "id": "afc68f8f0cac7c4d",
+   "title": "카카오, 카나나 스페이스 결과가 주가 방향성 결정",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SY2FYQkNndTZ0UjhwLUZGblI5RGZDSW9kTGl3bVM1LUhxcktnaHlqaWhYWUgxRUhqdXRGRTJxN0VqYzhfWHN1dnd5RldibXUzenhCNlhMOTlDQkRRcGhDUnloMVZYaWQ2RmQtOGpR?oc=5",
+   "publishedAt": "2026-10-19T11:33:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-20T04:15:34+09:00"
+  },
+  {
+   "id": "7783a61080b9d9e5",
+   "title": "네이버·카카오, 'AI 전면 배치' 인사 평가대 오르나",
+   "outlet": "FETV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1razVQZGFNaGppMGEzUnBuUUxXMEh5N1lDWHJ0YU5WcEYzNWxRNFNXSF9sMGFNM1pnU2o2VWVUbmFsc3BjRHRxQ0xrVDI4OEhOaHRBclVqZFZIYkh6MUVhNG0yWVpON3pW?oc=5",
+   "publishedAt": "2026-10-13T07:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-20T04:15:34+09:00"
+  },
+  {
+   "id": "39e7f39552a48fe3",
+   "title": "정신아 카카오 대표 “연결을 새로운 차원으로”…개인 맞춤형 AI 전략 제시",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HMlR1dTROTmpTMG1ZbFpqWjJraHZGMkN0Vk1UYk1Mb3JYeGlhWTd3VV9hRGFxWmVEZVdWMlNIWnFQQy12TnZOVEJ6YzdCSWNHbmJfOXYydVNmZEkzbEdETlozQzd2T3ZHTFk1T2NR?oc=5",
+   "publishedAt": "2026-10-13T13:53:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-20T04:15:34+09:00"
   }
  ]
 }
