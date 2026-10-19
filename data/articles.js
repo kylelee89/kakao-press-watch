@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-19T09:35:26+09:00",
+ "generatedAt": "2026-10-19T09:36:28+09:00",
  "runCount": 4188,
  "price": {
   "price": "31,550",
   "pct": "-0.94",
-  "at": "2026-10-19T09:35:27+09:00"
+  "at": "2026-10-19T09:36:45+09:00"
  },
  "articles": [
   {
@@ -41498,53 +41498,6 @@ window.KMW_DATA = {
    "firstSeenAt": "2026-10-15T18:32:09+09:00"
   },
   {
-   "id": "26715c08492e7302",
-   "title": "카카오, 정신아 대표 나서 '오픈톡' 개최…인적분할 본격 준비",
-   "outlet": "전자신문",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mb084dzUyNmg1WC1TYlpJejF6VzluUnFuaVU2M2RyUVIzU19FbXY3cWhwbUNuelhicWc2NXJ3ZXRvTktSVU5xSEhadUQzQQ?oc=5",
-   "publishedAt": "2026-10-16T09:18:49+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "경영진 내정(정신아/김도영)"
-   ],
-   "signals": [],
-   "frames": [
-    "지배구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "92a0356625fcbd11",
-   "title": "인적분할 앞두고 전방위 소통 나선 카카오…임직원·주주 달래기 총력",
-   "outlet": "라이센스뉴스",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VWHNLT3l5ZmJ5bkRjYzV1NV8yU3BNM2x1UERRcThYMHNZTGFNVjl0akFnalJTdlNXQUpvN0xZbzA0STlqV3VTVUtkMHBCYW1HSlVsdW5pNk1mSzZuLWV2OXdadTBkT05Hejhv?oc=5",
-   "publishedAt": "2026-10-16T10:18:14+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
    "id": "c4b024bef205ab19",
    "title": "인적분할 앞둔 카카오, AI 서비스 3종 출격…내년엔 연계 추진",
    "outlet": "뉴스1",
@@ -41565,20 +41518,67 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
-   "id": "4bf8c008801d27c4",
-   "title": "카카오, 인적분할 관련해 임직원과 소통하는 ‘오픈톡’ 개최",
-   "outlet": "NK경제",
+   "id": "581986188def697b",
+   "title": "카카오, AI 시대 맞춰 기업 둘로 나눈다…'카카오AI·카카오X' 내년 1월 출범",
+   "outlet": "이코노미사이언스",
    "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FbDZGTjRxU19jZmdBZXc4THpvTDk1c0NrbkU3NExDck9heEoxbFVGNDExQ1VSdDE5N0JPaVpnNUY3OEVIUlV6dWFUSmc3dW5ZbjJQTzNQdDN3d0ViZUw3ZllzNENYR2tldnhfdkpB0gFuQVVfeXFMT0VsNkZONHFTX2NmZ0FldzhMem9MOTVzQ2tuRTc0TENyT2F4SjFsVUY0MTFDVVJ0MTk3Qk9pWmc1Rjc4RUhSVXp1YVRKZzd1blluMlBPM1B0M3d3RWJlTDdmWXM0Q1hHa2V2eF92SkE?oc=5",
-   "publishedAt": "2026-10-16T13:46:27+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Pa3lBMmJrX0d5aWRNTGo3QVZqX2lhYmJ0QTZ2RUExamg2U2h5V0RKd182QWFITk80SXk3d0syMWpMMWhZbk9QdEhWR0h3QTJKSkhFU3dGUlhveXpkcnJHMFdyQUVwT2lheHcyMk42dw?oc=5",
+   "publishedAt": "2026-10-16T13:54:24+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "2cef9fbee8896ac0",
+   "title": "카카오, 인적분할 후 카카오AI 근로조건 포괄승계",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zS2hvb0VZeG1oVWVUOWozajZEbTZkMU5QZ29SdFg3RnZaMmV0bExJdTVCdE9tSEpFck9tVzFiVkdlZnFaVlJ5N1RBYkVDMU9yeHE0UnR0dGU2OU5tNWxB?oc=5",
+   "publishedAt": "2026-10-16T15:27:42+09:00",
    "tone": "중립",
    "toneScore": 0.0,
    "frame": "중립전달",
    "messages": [
-    "인적분할 성격(물적분할 아님)"
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "b2c87c55efee4c19",
+   "title": "카카오 \"고용·근로조건 포괄승계\"…인적분할 앞두고 직원설명회",
+   "outlet": "연합뉴스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CWUhhdmtjV29XSE9ZLXdLajhtQlJtSzBOUmt3eGQ4V2t5NWVqSTJ2eFhOTVZiN2k4N1ZPb1hpaUtwaUtSSkYycXF5S1I4bGwyclVXT3hoU2ljN1ZzRFNDSdIBYEFVX3lxTE1CWUhhdmtjV29XSE9ZLXdLajhtQlJtSzBOUmt3eGQ4V2t5NWVqSTJ2eFhOTVZiN2k4N1ZPb1hpaUtwaUtSSkYycXF5S1I4bGwyclVXT3hoU2ljN1ZzRFNDSQ?oc=5",
+   "publishedAt": "2026-10-16T10:04:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
    ],
    "signals": [],
    "frames": [
@@ -41588,7 +41588,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "863a2ed218adee89",
@@ -41611,152 +41611,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "6765f6dc7af454a2",
-   "title": "카카오, 인적분할 앞두고 직원 소통…\"고용·복지 그대로\"",
-   "outlet": "한국경제",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUHFFZ3pHMXl1NEVoelZCZFNrMmxpY0VQS3YyN2JkZTlJbkxCZVgxckpVWjFNQWZXZC1qSFlSZUxxME91YU1Kdm1jZmFMRlZGMDBqOW91c01sUQ?oc=5",
-   "publishedAt": "2026-10-16T14:10:17+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "94fff7791f69965f",
-   "title": "카카오 “인적분할 뒤 임직원 고용·복지 유지…매달 설명회 진행”",
-   "outlet": "매일일보",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hSnprN0JKa2Z4S3dEamRhZExTUXpmeVR2SEtQczQ1LWxZY0tGcFFEMzZacEJvcjQzTVhHQXpvU0FZaHBHNVF6bW9GSTh1TXJ3VExuZ0ZmODBoSEZGZkdFcDZiVFU?oc=5",
-   "publishedAt": "2026-10-16T15:09:17+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "9f018dc3d0935f59",
-   "title": "카카오, 인적분할 앞두고 임직원 소통 강화…고용·복지 유지",
-   "outlet": "서울경제TV",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKS0lOVURtUWszaF9EVVZRVmc0ZDdndUhiUmhZY2ZsX2trN3hIbE9QM3FwYjRreG5nZ21NMWtHN2VzYThjR19HMi1WeTlDanlMZjRHQkxmOFQ0LVZjbmtuTnYtelM?oc=5",
-   "publishedAt": "2026-10-16T09:26:14+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "6101e4d8531efb92",
-   "title": "카카오, 인적분할 준비 임직원 소통 오픈톡 개최",
-   "outlet": "BBS불교방송",
-   "outletGroup": "방송",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSMFNKdENtUTRTMWc4M29IdndoUzFZMUhITS1ZNUZveGs0S2FJSlB3cWhsdFNyVVViN0g2b0R1ckpuWTV3MUN1NFFtNkZoUm1fRjhfRDJyTzNTVU9TWmhOcklyRTFPQkV0WXI4?oc=5",
-   "publishedAt": "2026-10-16T14:06:28+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "7d85929744e695ee",
-   "title": "정신아 카카오 대표 \"인적분할 후 구성원 고용·근로조건 카카오AI에 승계\"",
-   "outlet": "조세금융신문",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mQ1Rqc1ZEZDc0ZDVUblQ4aGdoNmxGTjFiOGxjNmo5VWxoc1lyMDBHamE0U0FYNHlMZ3R2c1pNcUdkNjNOVGUyRE1NaHV6Ul8tc1BuX2tMZ05KczJiUmRjazdPSQ?oc=5",
-   "publishedAt": "2026-10-16T12:53:54+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "경영진 내정(정신아/김도영)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "AI전략",
-    "지배구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "c00dfc5ac1c8b65f",
-   "title": "정신아 카카오 대표 “인적분할, 단순 기업 분리 아닌 새로운 출발”",
-   "outlet": "이투데이",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GTXg2dTFvWWpKOVpsVVNhdzRoazY0TTMyeXNMTnpkVDBpRnFybk11MnVVM2UtNDMtNlhJVHljSXpWRW5mVnBDQXVCbHZ5ME1nMlNwNg?oc=5",
-   "publishedAt": "2026-10-16T09:25:00+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "경영진 내정(정신아/김도영)"
-   ],
-   "signals": [],
-   "frames": [
-    "지배구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "19553d579961880d",
@@ -41779,15 +41634,15 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
-   "id": "5b1fa105454e9b3d",
-   "title": "카카오 \"고용·근로조건 포괄승계\"…인적분할 앞두고 직원설명회",
-   "outlet": "연합뉴스",
-   "outletGroup": "통신사",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CSGZRMnp2NklvV19FUWxOdW04R3I2bHlsT2N2MzhwOGE1b1JybWhvb3RaQjdSS1RuNFA1cURrZlZ2Qko2SFFVaUpaN0xJNWZWYUttQkRYQmxQZnfSAWBBVV95cUxNQllIYXZrY1dvV0hPWS13S2o4bUJSbUswTlJrd3hkOFdreTVlakkydnhYTk1WYjdpODdWT29YaWlLcGlLUkpGMnFxeUtSOGxsMnJVV094aFNpYzdWc0RTQ0k?oc=5",
-   "publishedAt": "2026-10-16T10:04:41+09:00",
+   "id": "f3f2ac698ac1e9b6",
+   "title": "카카오, 인적분할 앞두고 임직원 설득…“고용·복지 포괄승계”",
+   "outlet": "국민일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xYTdIUExmZUZmNFlWZ3JjS3N3UllMMWdDU2VZUFY5c2FaeWNPNEpiRkJuZkkxZlo0OE84YXgxRHpwSktDZnhEcXNFRzMyY0hoU3lOZGVuWGdobjEzVUNvT3BFVktGYXkybHA5M9IBbEFVX3lxTE9xYTdIUExmZUZmNFlWZ3JjS3N3UllMMWdDU2VZUFY5c2FaeWNPNEpiRkJuZkkxZlo0OE84YXgxRHpwSktDZnhEcXNFRzMyY0hoU3lOZGVuWGdobjEzVUNvT3BFVktGYXkybHA5Mw?oc=5",
+   "publishedAt": "2026-10-16T11:25:00+09:00",
    "tone": "중립",
    "toneScore": 0.0,
    "frame": "중립전달",
@@ -41803,386 +41658,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "13516b74c6a085ac",
-   "title": "카카오, 인적분할 앞두고 임직원 소통… '고용·복지' 그대로 승계",
-   "outlet": "인포스탁데일리",
-   "outletGroup": "증권투자",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GSzA5S2RaLUE1OXc4Z2didTBUa1lXV1RyQklIbEkyVEo1YnNBUnloWll6OVNvelBlZVB3Q3NzRV82ZkVuOFdwNkt3SzRveTVWOGNJc0U3Uk1JanNtVUNrdEhhclRkT2xJaU5XTmxBVzg0eEVBMGc?oc=5",
-   "publishedAt": "2026-10-16T12:08:07+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "3158b54d11b63eab",
-   "title": "카카오, 인적분할 후 임직원 고용·복지 포괄승계… “기존 근로조건 유지”",
-   "outlet": "IT조선",
-   "outletGroup": "IT전문",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Jelh3NzRzY05MMjZQTGxtMWlYYWRGbzJUY3dkTXNUbDVnd0QwNkJYWHNRVWV6QkVKc1hzdVhKSE5TYndybjlEUXk0SVJYbEZKZmdQeThZOFJlT1c3VDZqa3dtUzVlS1hfWGxZbGg1OVXSAXRBVV95cUxPSHQxbmsyMGVnT2F3bnlOX1d6Y3hYUm9QZXhoemg0YlMxV1dZSFdZZG5WQ2tXb0F1bVFkaGdjNFZqdHRTd0NqSlZYdE1RREFabGZQd3RSWndxQU9JQWI0emM4b0xxVnZuQU9TdHRCQlJZRnhURg?oc=5",
-   "publishedAt": "2026-10-16T10:23:13+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "5aa07ad3a454bad8",
-   "title": "카카오, 인적분할 앞두고 고용승계 재확인…근로조건·복지 유지",
-   "outlet": "필드뉴스",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHemhrOUh0a09EcXdXZUgza2R0RDJmbzFyNGx2RnNBbzhKaTNTYUdWc0FJanhwT0YyNHlRRTdMZzd0RTl2MFZqVEY2T0dpVWhfTk8zSjd5NjN4amYtUWhzS1dRSWk1Y04wb3Y1bNIBbEFVX3lxTFBHemhrOUh0a09EcXdXZUgza2R0RDJmbzFyNGx2RnNBbzhKaTNTYUdWc0FJanhwT0YyNHlRRTdMZzd0RTl2MFZqVEY2T0dpVWhfTk8zSjd5NjN4amYtUWhzS1dRSWk1Y04wb3Y1bA?oc=5",
-   "publishedAt": "2026-10-16T16:16:59+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "9466149fb1ef670e",
-   "title": "\"인적분할해도 직원 복지·혜택 유지\"…정신아 카카오 대표, 직접 입 열었다",
-   "outlet": "디지털데일리",
-   "outletGroup": "IT전문",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VcHZhVmJrRFEtUmdlenJuZzV2SXJQOEdFTzRKb3hVNWtrckY3SFRHNEk2S3JXYTlxbnFwV2ZTblNQZ0l5S3pHNnJtYmY2czZPRDlfLXFkSHdJV0R5aUdGLXlGQXg?oc=5",
-   "publishedAt": "2026-10-16T14:53:49+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "경영진 내정(정신아/김도영)"
-   ],
-   "signals": [],
-   "frames": [
-    "지배구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "beb2d5b3e1bd50b9",
-   "title": "카카오 “인적분할 TF 설치…임직원과 소통 중”",
-   "outlet": "뷰어스",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhZlNYMWtCejRmUlAzTkgzYkc3MTZ0bGN6MlJ0eU41bWtkbDBkWGEwanRmbnJiWXFnbURpbDdjVXp2cTBKOTF4eTN1V3hSME82aEEzMUVBTWc?oc=5",
-   "publishedAt": "2026-10-16T10:37:44+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "6156902d2ce35464",
-   "title": "카카오, 인적분할 진행 상황 등 임직원 공유···정신아 대표 등 경영진 참석",
-   "outlet": "서울파이낸스",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ycEVBcmUyQXVkLWZXYllzclI1UmxtYzVnQXI3eDdHVUphMDBxOFpvWXM4N1IzeS16U0hnRi1rZ3JTbXRHT2U0S1lUQjVUNFNnWUtJeFJTYUMzemtSQ3VPRTdsdmY0RllzT3c?oc=5",
-   "publishedAt": "2026-10-16T16:23:11+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "경영진 내정(정신아/김도영)"
-   ],
-   "signals": [],
-   "frames": [
-    "지배구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "111931078e68f89e",
-   "title": "[카드] 카카오, 인적분할 앞두고 임직원 참여 '오픈톡'",
-   "outlet": "프라임경제",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yZWpvRE9jcTBSOW5fTjF2Q2hKOHNQSUNXUnVLZTF3eTZzSWU3NTRmSWRIbzlDMnViRkUzc0VmbG1yYmdtd0FIZkhzVUxha2FXM28xS3h2MG85WDVic3lDVWdhTlZkOGZrNk9vaVU1blIyUQ?oc=5",
-   "publishedAt": "2026-10-16T11:28:06+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "b0bc4fb5ac0a8dbe",
-   "title": "카카오, ‘인적분할’ 소통 강화…“고용·복지 그대로 승계”",
-   "outlet": "서울경제",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ubVlvdk5vemVQaDdZUDRpZVhfSy0zNGEzQTFzcnNEVTF6TDNib3YwTm9KX09XV2x4MGNIWktoYnhvRVRWRXJScmNzTXBGN2NROEHSAVNBVV95cUxOZmkyV2VtT2VyVnFtakh2ZXJQaFBuTnRQbUd0eUp4NXZfUFY4ZVdOWUNxVmdsNWphNXNYYVI4YThsU1Y0ZUpGaG8wcnlFWjY1alRSZw?oc=5",
-   "publishedAt": "2026-10-16T16:34:31+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "3703be1f7dfba828",
-   "title": "카카오 인적분할 관련 임직원과 오픈톡, \"전 직원 고용·근로조건 포괄 승계\"",
-   "outlet": "비즈니스포스트",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wX3NpeFlmcDBxQS1WcmdHTk1FaTU4UjJ5NGdHaEFDOUd6enVrUW9ONUVIUXU1VTB5UmJBRzZOVEtfQlhYM0xhVDBINE9XOVl3R2RoV0dSWUJWUGNrN0gyREFlYmhYNTFiRFZBSHh4MVFwdzQ?oc=5",
-   "publishedAt": "2026-10-16T10:39:22+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "97cd4f8095047e7b",
-   "title": "카카오, 인적분할 앞두고 임직원 소통…\"고용·근로조건 승계\"",
-   "outlet": "더팩트",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qRlZaV3BwNjdMT0xqZXhqNTlSWGN6SHlFZk5uSXk0Q1dBYmNtaFdpbnl0UF9hOUo0N1B0NHl2bkxqYXA1STNPOU84dmppd1Y2SERtV9IBVEFVX3lxTE9qRlZaV3BwNjdMT0xqZXhqNTlSWGN6SHlFZk5uSXk0Q1dBYmNtaFdpbnl0UF9hOUo0N1B0NHl2bkxqYXA1STNPOU84dmppd1Y2SERtVw?oc=5",
-   "publishedAt": "2026-10-16T11:12:00+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "888acb2e36a5a9b4",
-   "title": "카카오, 인적분할 앞두고 고용승계·조직 정비…소상공인 판로 지원도 확대",
-   "outlet": "웹이코노미",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZlMtUnc2YmJmTmd4VEphUHJfY2tiX1FPcUItWEpCUHdTRXVRS0xfRTBTR0NyRFdXZ3d0TGJHRnJyVEZlVF9NRU8wXzF6c2NYTVBnQV9EUUNrUGJqal9kYXkwRFg1SngyM05yajJFTTdiZw?oc=5",
-   "publishedAt": "2026-10-17T12:10:31+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "ed038611004778d7",
-   "title": "카카오, 인적분할 앞두고 임직원 '오픈톡' 개최 … 준비 현황 공유",
-   "outlet": "뉴데일리",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY2psdVpQdFc4MHR3VFpXRTJ3RDh2aVRYdXlTTE01OUtKdEZwajJ2Sm9La0JyWWFBbHgzOHlzOHl2WjBHUzg5SXRaOV9IU2FIanZDdHNzNnBxeXNLX0xSU3A2cnFndEpmYlU4VENqaWRMMjBmRDVTT3YwYlMzdzRmbdIBgAFBVV95cUxQY2psdVpQdFc4MHR3VFpXRTJ3RDh2aVRYdXlTTE01OUtKdEZwajJ2Sm9La0JyWWFBbHgzOHlzOHl2WjBHUzg5SXRaOV9IU2FIanZDdHNzNnBxeXNLX0xSU3A2cnFndEpmYlU4VENqaWRMMjBmRDVTT3YwYlMzdzRmbQ?oc=5",
-   "publishedAt": "2026-10-16T09:32:00+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "0703fb69b17c86b4",
-   "title": "카카오, '인적분할' 두고 임직원과 소통 위한 '오픈톡' 개최",
-   "outlet": "SR타임스",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xbWN4OTJEUjVvSVMyTnhreGRCVzQ2WENERjIyMWlaTTlHT2thUDNtWTdUcWJzYjkxNzdtMkl1QTRCQVpoRi1ENklaTUNpMVhCdEIzS2lDNl9pbFAwRjlZVE0xSXk0V0s5?oc=5",
-   "publishedAt": "2026-10-16T16:10:07+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "4a260f5fe944acc6",
-   "title": "카카오, 인적분할 앞두고 사내 설명회… \"고용·복지 전면 승계\"",
-   "outlet": "뉴스드림",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VYkJUbHNkOFBHb3VHemZYR1BuZnczcEo2ZlBvcnRYMEVCZDAzSjRJb19TbDB2dEg4WWRRMWJXUm4ta1V4eFY0bkhZSGpndHY5bWloMW9JTHNjZC1mNjBDbGNOTDMwclNuRjZJ?oc=5",
-   "publishedAt": "2026-10-16T14:00:04+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "f3d1ea3cd09af525",
-   "title": "카카오, 임직원 대상 인적분할 설명회…\"고용·근로조건 승계\"",
-   "outlet": "아시아경제",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96LVp2cVcyZzRmWXZLN3dLako4enRZWTNwNFd3U2Vqc19uUlpFeVhqX0FTSldReUdnWjMzdHMxRTZoM0xBM0hqYWg2UnZwREJjU0RfMk41dDF6ZkdVeXZPUw?oc=5",
-   "publishedAt": "2026-10-16T09:56:55+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "0844d30ffa25bba9",
-   "title": "[Digital & Now] 카카오, 인적분할 앞두고 임직원 소통 강화",
-   "outlet": "www.ebn.co.kr",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wZVBsUW40R08zTzBsaEplbmNGc2FQd216NXI0Q3o3LVdPa3N0aFR6SXBTRG1YU2k0cWNWVWlyYjB6VHp1dGM3ZTctTm1FLWw4X0N3SnVvaHVtdjdDcXRqbzJ0aGZIX2Qx?oc=5",
-   "publishedAt": "2026-10-16T11:20:58+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "b6f7562072af5617",
@@ -42206,88 +41682,15 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
-   "id": "fe979c5dc9c69ea6",
-   "title": "카카오, 인적분할 후 임직원 고용·복지는 '그대로'",
-   "outlet": "스마트비즈",
+   "id": "92a0356625fcbd11",
+   "title": "인적분할 앞두고 전방위 소통 나선 카카오…임직원·주주 달래기 총력",
+   "outlet": "라이센스뉴스",
    "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUdGhLaEU0djZyQU4ybDR1aFpCWGV5ZGlrRllMTi1mT21EZ19mRnUzamlVRlRsVGItV0JvU2dhOGVxbDVhOU5RXzZNWUUwNXFMS09kMUJkbzVFZFZ1TEhWXzljMElFdk5ieGI5bg?oc=5",
-   "publishedAt": "2026-10-16T14:08:04+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "a4ecc29953b2c15f",
-   "title": "카카오, 소액주주 대면 설득 나선다…‘인적분할·AI 비전’ 입증 시험대",
-   "outlet": "파이낸셜투데이",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BN2I3cDU2LXV2YlRwc0xFSzY4N1oya0RrelJpcGdtM05YcEhWTHNkTWVsNDRvNW5lOVNtdlNMLWY2ckdOTENEX0pYa2ltVTg0dTlrU0hrejlYVGpZV2tSNHY0UV8tdkNpLWkw0gFuQVVfeXFMTUtjb213bG9qSTZOb2RFNVptS0NFZFhNMHh4NF9vZWs2QkstcUJ2UTlQUU50eWVYVW1uX2h6ZVU5ZnRNOE9sQnV0c2xmQ3BGN1oxcnoxWFQ1R1hHUjZTVzNQTnlSSlh5UVp3MkcwcUE?oc=5",
-   "publishedAt": "2026-10-15T21:48:14+09:00",
-   "tone": "중립",
-   "toneScore": -1.2,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [
-    "적대어:소액주주"
-   ],
-   "frames": [
-    "중복상장/주주가치",
-    "AI전략"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": [
-     "소액주주"
-    ]
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "24b9787088dbd087",
-   "title": "카카오, '임원들과 소통하는 ‘오픈톡’ 개최",
-   "outlet": "뉴스톱",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wakVYeExyYkhoQmxQdmVDeGc4OWl6SGloV3dYUlN2bWhhYUwyVzV4a2NjbnpEN0ZzU19walJtZm1NZGNseTV2bEVRSzdtSEhUSGVhNmxtejhlRmVsa2tqQ3F0UlI5TGpRbnpDY0ZBOA?oc=5",
-   "publishedAt": "2026-10-16T17:53:09+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "837c03f41e180807",
-   "title": "카카오, 인적분할 앞두고 임직원·주주 소통 확대",
-   "outlet": "디지틀조선TV",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rcXpOdW1USkJjRjBfdGI1RGtCVFlack1IUDBOeU9yeU1oRFVtTFVHNGxiYXVtbmZiYkpKMjRyUG02TklVcWJlNWJvR3QtNGxNSldyTFYxWU1BMjRnTGIwWFpuWUpLRnZGVGx3TUh5QW1wU2haU2p3aHdjR3Y?oc=5",
-   "publishedAt": "2026-10-16T10:31:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VWHNLT3l5ZmJ5bkRjYzV1NV8yU3BNM2x1UERRcThYMHNZTGFNVjl0akFnalJTdlNXQUpvN0xZbzA0STlqV3VTVUtkMHBCYW1HSlVsdW5pNk1mSzZuLWV2OXdadTBkT05Hejhv?oc=5",
+   "publishedAt": "2026-10-16T10:18:14+09:00",
    "tone": "중립",
    "toneScore": 0.0,
    "frame": "중립전달",
@@ -42302,39 +41705,15 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
-   "id": "33321e19aa67f348",
-   "title": "카카오, 인적분할 앞두고 \"고용·복지 그대로 유지\"",
-   "outlet": "현대경제신문",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82M0dIQWVzRVJpRWNJWXFLUGx4UkxaTWduMjljVTVFdFRtVi11VzVXWkJyMkIzNHFPMG9NaXh5ekQ3dkk1RHZ1SEN3UlNmdzVYYm1oVG1XVWtJSzdWOEg3ajRIbjBIWDN4?oc=5",
-   "publishedAt": "2026-10-16T10:35:29+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "5d87a716296cd6ff",
-   "title": "카카오 \"인적분할 후에도 전 직원 고용·근로조건 그대로 승계\"",
-   "outlet": "이데일리",
+   "id": "614b11375e6aac3e",
+   "title": "카카오 \"인적분할 TF 운영 중…고용·근로조건 그대로 승계\" - 머니투데이",
+   "outlet": "머니투데이",
    "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQldtOTd1UmVVUnBWT2FxZ2p0VV9DZXRZWVZSTFN4NnNqdW14Nm5FZVYxakQwSmxfNXRXR2o0ajhLNW9URUpUQk0xSDVVYW4xUThGRTVYODBXaTRqUENEQ09Mb0pWcmYzczBBU2RDSklGbnl3QXM3Q2VmdGktN3N1Sw?oc=5",
-   "publishedAt": "2026-10-16T09:37:39+09:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mS0FJZDRYLXRKMllvWnFEbnNLdVpGSkpxRVFJdDJuREt0am5VakJOT3piQmFUVE1Dbm9MNTEycm9TSjFLQW42UU5ZOWQ1bTJWeHAwTmswV0MzZHBCOV9VNE9xOURYWWFvLVlVSdIBbEFVX3lxTE9mS0FJZDRYLXRKMllvWnFEbnNLdVpGSkpxRVFJdDJuREt0am5VakJOT3piQmFUVE1Dbm9MNTEycm9TSjFLQW42UU5ZOWQ1bTJWeHAwTmswV0MzZHBCOV9VNE9xOURYWWFvLVlVSQ?oc=5",
+   "publishedAt": "2026-10-16T10:13:32+09:00",
    "tone": "중립",
    "toneScore": 0.0,
    "frame": "중립전달",
@@ -42342,9 +41721,7 @@ window.KMW_DATA = {
     "인적분할 성격(물적분할 아님)",
     "고용/근로조건 유지"
    ],
-   "signals": [
-    "역접:에도"
-   ],
+   "signals": [],
    "frames": [
     "기타"
    ],
@@ -42352,38 +41729,39 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
-   "id": "efa9abf6063b014b",
-   "title": "분할 앞둔 카카오, 소상공인 커머스 넓힌다…에이전틱 AI와 접점",
-   "outlet": "아이티데일리",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mWjBTZmVzV1A0OUc1QURVaW9QMExJekdLYS1QNnNadUhiaXJ2WFViYjVEYnV3WVJRUm1Kclh2bE1vMTJfdEZsWmprd05mbl9zdjRlV3VxUGszZFJSYUtucmJ1S2lZcXhJ?oc=5",
-   "publishedAt": "2026-10-16T11:04:37+09:00",
+   "id": "066a48be0e46e486",
+   "title": "카카오, 인적분할 사내 설명회…\"고용·복지 전원 포괄승계” 약속",
+   "outlet": "지디넷코리아",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waGJ2Zjl4c3k0Wng4REdRblIxWjh4TXJaYWJTR19GTHBaSWZEQ29lS2s3NEJuY2NGdnA4QUVieTd4aU4yNHJPNTJnQjBibFhQb2cyb3JB?oc=5",
+   "publishedAt": "2026-10-16T11:46:25+09:00",
    "tone": "중립",
    "toneScore": 0.0,
-   "frame": "회사프레임",
+   "frame": "중립전달",
    "messages": [
-    "카카오AI = 에이전틱 AI"
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
    ],
    "signals": [],
    "frames": [
-    "AI전략"
+    "기타"
    ],
    "hits": {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
-   "id": "7eae8311f10fc020",
-   "title": "인적분할 앞둔 카카오 \"고용·근로조건 승계\"⋯임직원과 준비 현황 공유",
-   "outlet": "아이뉴스24",
+   "id": "6765f6dc7af454a2",
+   "title": "카카오, 인적분할 앞두고 직원 소통…\"고용·복지 그대로\"",
+   "outlet": "한국경제",
    "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83MHRLYnRmdDNfM1hTWnlvdC1URVpmcEdWSTUwQjYyTGphNGI2aDZzLVd0N3B4ZTc3QkpSVVBXN25aRHRBZjZHaGtraw?oc=5",
-   "publishedAt": "2026-10-16T10:39:13+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUHFFZ3pHMXl1NEVoelZCZFNrMmxpY0VQS3YyN2JkZTlJbkxCZVgxckpVWjFNQWZXZC1qSFlSZUxxME91YU1Kdm1jZmFMRlZGMDBqOW91c01sUQ?oc=5",
+   "publishedAt": "2026-10-16T14:10:17+09:00",
    "tone": "중립",
    "toneScore": 0.0,
    "frame": "중립전달",
@@ -42399,79 +41777,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "197cd6516aabb154",
-   "title": "카카오, 인적분할 앞두고 임직원 소통 강화 … \"고용·복지 전면 승계\"",
-   "outlet": "워크투데이",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3T01RMlJwMHZNLXMzSmxPaDQ3c3NQOTJ0UXlFV1VweUwyV0JIdE5KbXd4WjZJN2VPcC1MdWZhM3JjaldMeGJXVzRBSXpyZVlVUVQwZXdVX21JZG1ZMWJwWkZCSkRqcWlhSTg2bg?oc=5",
-   "publishedAt": "2026-10-16T11:44:31+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "64865752ae364ded",
-   "title": "카카오, 인적분할 앞두고 임직원 설득…“고용·복지 포괄승계”",
-   "outlet": "국민일보",
-   "outletGroup": "종합일간",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90eWxIVDA0UE1jUVFocDhnMnVNaWwzOVlPSWw5OG03bEFzZV9fWmptZ0Njc1dXYVNLZGxiWVVrRWlRYUpRclVYSVRUbVZuY25xbkdBd2dLVE1oWVFSVktvRGdjb044MTjSAWxBVV95cUxPcWE3SFBMZmVGZjRZVmdyY0tzd1JZTDFnQ1NlWVBWOXNhWnljTzRKYkZCbmZJMWZaNDhPOGF4MUR6cEpLQ2Z4RHFzRUczMmNIaFN5TmRlblhnaG4xM1VDb09wRVZLRmF5MmxwOTM?oc=5",
-   "publishedAt": "2026-10-16T11:25:00+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "193ef8d5a6925d2a",
-   "title": "정신아 \"인적분할은 새로운 출발\"···카카오, 임직원 대상 '오픈톡' 진행",
-   "outlet": "뉴스웨이",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WWENyN09OYlZaa1oycnlYM1NCUEF1LUhKZ1cwSTNpVUdxbmhNb0YyUnJ0RlBrdGN2anhHZjBGQl9KYjdLV2lJX05rSDJDZlp6bmp6RDJFMDBTTGZtYVdUUXdYZ3pGdC1hYUE?oc=5",
-   "publishedAt": "2026-10-16T09:34:58+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "경영진 내정(정신아/김도영)"
-   ],
-   "signals": [],
-   "frames": [
-    "지배구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "1d3535c7e979e261",
@@ -42499,316 +41805,7 @@ window.KMW_DATA = {
      "과제"
     ]
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "874967f1a0b36e50",
-   "title": "정신아 카카오 대표 “인적분할 후에도 고용·복지 100% 승계”",
-   "outlet": "시사저널",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNzkxd3BmLS1sNl9RQjllR0QweTZBZk9kSkZDTlF6SXlIOXEyQWJHN2VHd1RYajFVeUE1UTZEdUI0U1BJYUpnUjl1TDR3TEZmUzVWaEYxQTlsYnNxRG5PclFGYTVTcFdyYmQ5emtkSdIBc0FVX3lxTE14dzRTdWdXdV9nMXAzOGY4U3M3UmtBaHBMblhsNG5yWTZ4NnZDTVZiOUlrQS1adUMtNDRZQ2tCUWljM01Hd0NRNE80WlNIbGVQeTMwTm1lSGJ1eHJlTmlMLWUxV09td3NnT2tVbFd1WVBFWFk?oc=5",
-   "publishedAt": "2026-10-16T10:58:57+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "경영진 내정(정신아/김도영)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [
-    "역접:에도"
-   ],
-   "frames": [
-    "지배구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "6b93c7bd30a29f25",
-   "title": "인적분할 앞둔 카카오, 임직원·주주 소통 강화...'새로운 출발 과정'",
-   "outlet": "테크M",
-   "outletGroup": "IT전문",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04QkxFLWY5c2l4ZlItdGNmbnZzamI0TS1KY0NwNGFTSG9oZ1pSc1hYZW43bm41Y3oxRHMxeWdSaGRhc3dwcjVSR2RkT3h6ZUQtRC1oa1IybENfM0dEV1ZCb1M0MnJhQdIBakFVX3lxTE9GcGpIaVlNcElnalA1Z0JjQmZJaTNZS2dxeWJIc3M4MGJFcHJzNkxPYkZhNklOVThNV1dwekpBdHVwUWl3R2JZRE5GOVh6T0NaTENWdzdxM01mX095NXhUSk9EU3QzcTRWenc?oc=5",
-   "publishedAt": "2026-10-16T13:42:09+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "12d807a19df4859d",
-   "title": "카카오, 인적분할 앞두고 임직원 소통 강화... '오픈톡' 개최",
-   "outlet": "빅데이터뉴스",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YWU5JQXEtN0dBYlBsd2lBdEQ0b2tfYUxMNWczem9JMS1ockoyZGdxZW1xUUFEWmJTSVA0RWlhUDFPWXc5b2VuN3dKREhpc2dzNXMtaHJWTVpCN1ppT3dQZFEyNDRYMzdNU1hnVmNaZS01QTVwc2dsdmVjVlg?oc=5",
-   "publishedAt": "2026-10-16T13:44:00+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "1e84ed0689d87dec",
-   "title": "카카오 정신아, '오픈톡' 통해 임직원 소통…\"새로운 출발 준비\"",
-   "outlet": "신아일보",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTa3l0RF9NLU9VWXE4bGJSaHJ3VUMxeFFTVzMxQWt2c3Z6bXU5VW4xT0J6UUFEemhZVjRVaXdoZFV3UlVhWVVrOVdLOE1GWXJ5cndJSzVOcHFyNjRYNDZJVFdiOWlPTzZHUmY2UWNMV0Y?oc=5",
-   "publishedAt": "2026-10-16T10:22:21+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "경영진 내정(정신아/김도영)"
-   ],
-   "signals": [],
-   "frames": [
-    "지배구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "be4acd64a405a8cf",
-   "title": "카카오 인적분할해도 고용·복지 그대로…“전 직원 포괄승계”",
-   "outlet": "더파워",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oUjNXYmp1TXY0OGI2azBJQXoxMzJOTlczUGVlLTBkR2J4STRtT0R0SERPRmJfVkRxa0JpeWlhME1ER2pIRkVtaDBZdTBMQTd3YWFnTEg3UFcza1poeE0ySEJCTFpBaDFGR05BcEl0QXUwdkt5TjBJbktJX3BlZw?oc=5",
-   "publishedAt": "2026-10-16T14:55:04+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "3df46e37baaf9d5a",
-   "title": "카카오, 노조 인적분할 반대 속 고용·근로조건 승계 방침 재확인",
-   "outlet": "리더스팩트",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OdlhXcGlJeE8yTnFqaURRQ0xmRGhpZzhSUjJLcDFEenIwU0U4WHBrWDFiazc1Qjc1R1JkRE5HeldSeGpacWZnWXFZaEJ2UkZfd0lycERrVjhqN2xkRzBJM1ZVNE9ZZklqWk5td1BjQXY?oc=5",
-   "publishedAt": "2026-10-16T11:11:00+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "4659907670fbab2b",
-   "title": "카카오, 내년 1월 인적분할 앞두고 임직원과 오픈톡 \"전 직원 고용·복지 100% 승계\"",
-   "outlet": "시장경제신문",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CbWs2U0dZenlBYnNteVNIbjZrODdNWThEWG02XzNjb05VSTA2X1VRNURYQVUwV3djaThROTFzNU40N1lOYTVrSnp5NXRiM1VseUI1RjdJQXh3RzU1Sldldk1UMGNyTHpWVGNMeFdJdmg?oc=5",
-   "publishedAt": "2026-10-16T10:22:52+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "ac5fc69bdd223420",
-   "title": "카카오 인적분할 \"고용·근로조건 포괄승계\" 크루 소통 세 번째 오픈톡",
-   "outlet": "ER 이코노믹리뷰",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pR0RJRWduVVBPZHNLT0NqaDhTQU1hYmowbzBrckVTalhMdUdDT1RxZDVMZDB2V1p6WU1Lc3FWMDV2WG9XSHpyNGpIb2tKa3QtM2JCQ3RrZVAxNnpNUFNjX1BLdWlHLTl3bmRGdA?oc=5",
-   "publishedAt": "2026-10-16T11:37:44+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "b914c91610b07c4d",
-   "title": "카카오, ‘오픈톡’ 열고 임직원과 인적분할 진행 상황 공유",
-   "outlet": "인더뉴스",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTWpKOHBuNW5YeTlPRE5KemVBaUxfU29VTTcxX1h3YzE3TFRpSnQ3TVZRNXhzbG5NYUUwU3VKYjhZYmQzWHhZOTJuX1prTG5NQWt6TTBJc3VxVXphdnhQTFNCR1Q?oc=5",
-   "publishedAt": "2026-10-16T10:45:04+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "581986188def697b",
-   "title": "카카오, AI 시대 맞춰 기업 둘로 나눈다…'카카오AI·카카오X' 내년 1월 출범",
-   "outlet": "이코노미사이언스",
-   "outletGroup": "기타",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Pa3lBMmJrX0d5aWRNTGo3QVZqX2lhYmJ0QTZ2RUExamg2U2h5V0RKd182QWFITk80SXk3d0syMWpMMWhZbk9QdEhWR0h3QTJKSkhFU3dGUlhveXpkcnJHMFdyQUVwT2lheHcyMk42dw?oc=5",
-   "publishedAt": "2026-10-16T13:54:24+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [],
-   "signals": [],
-   "frames": [
-    "AI전략",
-    "분할구조"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "2cef9fbee8896ac0",
-   "title": "카카오, 인적분할 후 카카오AI 근로조건 포괄승계",
-   "outlet": "MTN 머니투데이방송",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zS2hvb0VZeG1oVWVUOWozajZEbTZkMU5QZ29SdFg3RnZaMmV0bExJdTVCdE9tSEpFck9tVzFiVkdlZnFaVlJ5N1RBYkVDMU9yeHE0UnR0dGU2OU5tNWxB?oc=5",
-   "publishedAt": "2026-10-16T15:27:42+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "AI전략"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "614b11375e6aac3e",
-   "title": "카카오 \"인적분할 TF 운영 중…고용·근로조건 그대로 승계\" - 머니투데이",
-   "outlet": "머니투데이",
-   "outletGroup": "경제지",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mS0FJZDRYLXRKMllvWnFEbnNLdVpGSkpxRVFJdDJuREt0am5VakJOT3piQmFUVE1Dbm9MNTEycm9TSjFLQW42UU5ZOWQ1bTJWeHAwTmswV0MzZHBCOV9VNE9xOURYWWFvLVlVSdIBbEFVX3lxTE9mS0FJZDRYLXRKMllvWnFEbnNLdVpGSkpxRVFJdDJuREt0am5VakJOT3piQmFUVE1Dbm9MNTEycm9TSjFLQW42UU5ZOWQ1bTJWeHAwTmswV0MzZHBCOV9VNE9xOURYWWFvLVlVSQ?oc=5",
-   "publishedAt": "2026-10-16T10:13:32+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
-  },
-  {
-   "id": "066a48be0e46e486",
-   "title": "카카오, 인적분할 사내 설명회…\"고용·복지 전원 포괄승계” 약속",
-   "outlet": "지디넷코리아",
-   "outletGroup": "IT전문",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waGJ2Zjl4c3k0Wng4REdRblIxWjh4TXJaYWJTR19GTHBaSWZEQ29lS2s3NEJuY2NGdnA4QUVieTd4aU4yNHJPNTJnQjBibFhQb2cyb3JB?oc=5",
-   "publishedAt": "2026-10-16T11:46:25+09:00",
-   "tone": "중립",
-   "toneScore": 0.0,
-   "frame": "중립전달",
-   "messages": [
-    "인적분할 성격(물적분할 아님)",
-    "고용/근로조건 유지"
-   ],
-   "signals": [],
-   "frames": [
-    "기타"
-   ],
-   "hits": {
-    "pos": [],
-    "neg": []
-   },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "6fee491322d23904",
@@ -42832,7 +41829,31 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "7910db1f13a18b8b",
+   "title": "정신아 카카오 대표 “인적분할, 단순 기업 분리 아닌 새로운 출발”",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OS0ZqdGpiWmM1cEdMQnd1VExUdWp4VWpMemtsMDlCVkFNZDJLXzZFRkZydlNXQ2tyTi1SSUNJWUlDc3NFRmFTWUtodmp1UjI4cjM5c1ozUzVNY1R3UVRwbVlNNFpXWU9WUW9uZENn?oc=5",
+   "publishedAt": "2026-10-16T09:25:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "de8b12fa461d3d6b",
@@ -42854,7 +41875,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "a8867c29dd67bfe3",
@@ -42881,7 +41902,7 @@ window.KMW_DATA = {
      "과제"
     ]
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "efe30431a7b9f9ac",
@@ -42909,7 +41930,7 @@ window.KMW_DATA = {
      "어려워"
     ]
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "6d6facc155ecccf1",
@@ -42932,7 +41953,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "d49ee78dd2c3f971",
@@ -42958,7 +41979,7 @@ window.KMW_DATA = {
     ],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "3f9f43d57b4141b4",
@@ -42981,7 +42002,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "b1bef1f554924caf",
@@ -43004,7 +42025,54 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "4bf8c008801d27c4",
+   "title": "카카오, 인적분할 관련해 임직원과 소통하는 ‘오픈톡’ 개최",
+   "outlet": "NK경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FbDZGTjRxU19jZmdBZXc4THpvTDk1c0NrbkU3NExDck9heEoxbFVGNDExQ1VSdDE5N0JPaVpnNUY3OEVIUlV6dWFUSmc3dW5ZbjJQTzNQdDN3d0ViZUw3ZllzNENYR2tldnhfdkpB0gFuQVVfeXFMT0VsNkZONHFTX2NmZ0FldzhMem9MOTVzQ2tuRTc0TENyT2F4SjFsVUY0MTFDVVJ0MTk3Qk9pWmc1Rjc4RUhSVXp1YVRKZzd1blluMlBPM1B0M3d3RWJlTDdmWXM0Q1hHa2V2eF92SkE?oc=5",
+   "publishedAt": "2026-10-16T13:46:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "26715c08492e7302",
+   "title": "카카오, 정신아 대표 나서 '오픈톡' 개최…인적분할 본격 준비",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mb084dzUyNmg1WC1TYlpJejF6VzluUnFuaVU2M2RyUVIzU19FbXY3cWhwbUNuelhicWc2NXJ3ZXRvTktSVU5xSEhadUQzQQ?oc=5",
+   "publishedAt": "2026-10-16T09:18:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "7274e59713483126",
@@ -43031,7 +42099,78 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "6101e4d8531efb92",
+   "title": "카카오, 인적분할 준비 임직원 소통 오픈톡 개최",
+   "outlet": "BBS불교방송",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSMFNKdENtUTRTMWc4M29IdndoUzFZMUhITS1ZNUZveGs0S2FJSlB3cWhsdFNyVVViN0g2b0R1ckpuWTV3MUN1NFFtNkZoUm1fRjhfRDJyTzNTVU9TWmhOcklyRTFPQkV0WXI4?oc=5",
+   "publishedAt": "2026-10-16T14:06:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "94fff7791f69965f",
+   "title": "카카오 “인적분할 뒤 임직원 고용·복지 유지…매달 설명회 진행”",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hSnprN0JKa2Z4S3dEamRhZExTUXpmeVR2SEtQczQ1LWxZY0tGcFFEMzZacEJvcjQzTVhHQXpvU0FZaHBHNVF6bW9GSTh1TXJ3VExuZ0ZmODBoSEZGZkdFcDZiVFU?oc=5",
+   "publishedAt": "2026-10-16T15:09:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "5aa07ad3a454bad8",
+   "title": "카카오, 인적분할 앞두고 고용승계 재확인…근로조건·복지 유지",
+   "outlet": "필드뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHemhrOUh0a09EcXdXZUgza2R0RDJmbzFyNGx2RnNBbzhKaTNTYUdWc0FJanhwT0YyNHlRRTdMZzd0RTl2MFZqVEY2T0dpVWhfTk8zSjd5NjN4amYtUWhzS1dRSWk1Y04wb3Y1bNIBbEFVX3lxTFBHemhrOUh0a09EcXdXZUgza2R0RDJmbzFyNGx2RnNBbzhKaTNTYUdWc0FJanhwT0YyNHlRRTdMZzd0RTl2MFZqVEY2T0dpVWhfTk8zSjd5NjN4amYtUWhzS1dRSWk1Y04wb3Y1bA?oc=5",
+   "publishedAt": "2026-10-16T16:16:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "f619e263bd5dde36",
@@ -43054,7 +42193,273 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "24b9787088dbd087",
+   "title": "카카오, '임원들과 소통하는 ‘오픈톡’ 개최",
+   "outlet": "뉴스톱",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wakVYeExyYkhoQmxQdmVDeGc4OWl6SGloV3dYUlN2bWhhYUwyVzV4a2NjbnpEN0ZzU19walJtZm1NZGNseTV2bEVRSzdtSEhUSGVhNmxtejhlRmVsa2tqQ3F0UlI5TGpRbnpDY0ZBOA?oc=5",
+   "publishedAt": "2026-10-16T17:53:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "9466149fb1ef670e",
+   "title": "\"인적분할해도 직원 복지·혜택 유지\"…정신아 카카오 대표, 직접 입 열었다",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VcHZhVmJrRFEtUmdlenJuZzV2SXJQOEdFTzRKb3hVNWtrckY3SFRHNEk2S3JXYTlxbnFwV2ZTblNQZ0l5S3pHNnJtYmY2czZPRDlfLXFkSHdJV0R5aUdGLXlGQXg?oc=5",
+   "publishedAt": "2026-10-16T14:53:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "13516b74c6a085ac",
+   "title": "카카오, 인적분할 앞두고 임직원 소통… '고용·복지' 그대로 승계",
+   "outlet": "인포스탁데일리",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GSzA5S2RaLUE1OXc4Z2didTBUa1lXV1RyQklIbEkyVEo1YnNBUnloWll6OVNvelBlZVB3Q3NzRV82ZkVuOFdwNkt3SzRveTVWOGNJc0U3Uk1JanNtVUNrdEhhclRkT2xJaU5XTmxBVzg0eEVBMGc?oc=5",
+   "publishedAt": "2026-10-16T12:08:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "96222ec3ccfcfe57",
+   "title": "인적분할 앞둔 카카오, 임직원·주주 소통 강화...'새로운 출발 과정'",
+   "outlet": "테크M",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GcGpIaVlNcElnalA1Z0JjQmZJaTNZS2dxeWJIc3M4MGJFcHJzNkxPYkZhNklOVThNV1dwekpBdHVwUWl3R2JZRE5GOVh6T0NaTENWdzdxM01mX095NXhUSk9EU3QzcTRWenfSAWpBVV95cUxPRnBqSGlZTXBJZ2pQNWdCY0JmSWkzWUtncXliSHNzODBiRXByczZMT2JGYTZJTlU4TVdXcHpKQXR1cFFpd0diWURORjlYek9DWkxDVnc3cTNNZl9PeTV4VEpPRFN0M3E0Vnp3?oc=5",
+   "publishedAt": "2026-10-16T14:15:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "7d85929744e695ee",
+   "title": "정신아 카카오 대표 \"인적분할 후 구성원 고용·근로조건 카카오AI에 승계\"",
+   "outlet": "조세금융신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mQ1Rqc1ZEZDc0ZDVUblQ4aGdoNmxGTjFiOGxjNmo5VWxoc1lyMDBHamE0U0FYNHlMZ3R2c1pNcUdkNjNOVGUyRE1NaHV6Ul8tc1BuX2tMZ05KczJiUmRjazdPSQ?oc=5",
+   "publishedAt": "2026-10-16T12:53:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "837c03f41e180807",
+   "title": "카카오, 인적분할 앞두고 임직원·주주 소통 확대",
+   "outlet": "디지틀조선TV",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rcXpOdW1USkJjRjBfdGI1RGtCVFlack1IUDBOeU9yeU1oRFVtTFVHNGxiYXVtbmZiYkpKMjRyUG02TklVcWJlNWJvR3QtNGxNSldyTFYxWU1BMjRnTGIwWFpuWUpLRnZGVGx3TUh5QW1wU2haU2p3aHdjR3Y?oc=5",
+   "publishedAt": "2026-10-16T10:31:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "874967f1a0b36e50",
+   "title": "정신아 카카오 대표 “인적분할 후에도 고용·복지 100% 승계”",
+   "outlet": "시사저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNzkxd3BmLS1sNl9RQjllR0QweTZBZk9kSkZDTlF6SXlIOXEyQWJHN2VHd1RYajFVeUE1UTZEdUI0U1BJYUpnUjl1TDR3TEZmUzVWaEYxQTlsYnNxRG5PclFGYTVTcFdyYmQ5emtkSdIBc0FVX3lxTE14dzRTdWdXdV9nMXAzOGY4U3M3UmtBaHBMblhsNG5yWTZ4NnZDTVZiOUlrQS1adUMtNDRZQ2tCUWljM01Hd0NRNE80WlNIbGVQeTMwTm1lSGJ1eHJlTmlMLWUxV09td3NnT2tVbFd1WVBFWFk?oc=5",
+   "publishedAt": "2026-10-16T10:58:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "역접:에도"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "beb2d5b3e1bd50b9",
+   "title": "카카오 “인적분할 TF 설치…임직원과 소통 중”",
+   "outlet": "뷰어스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhZlNYMWtCejRmUlAzTkgzYkc3MTZ0bGN6MlJ0eU41bWtkbDBkWGEwanRmbnJiWXFnbURpbDdjVXp2cTBKOTF4eTN1V3hSME82aEEzMUVBTWc?oc=5",
+   "publishedAt": "2026-10-16T10:37:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "3158b54d11b63eab",
+   "title": "카카오, 인적분할 후 임직원 고용·복지 포괄승계… “기존 근로조건 유지”",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Jelh3NzRzY05MMjZQTGxtMWlYYWRGbzJUY3dkTXNUbDVnd0QwNkJYWHNRVWV6QkVKc1hzdVhKSE5TYndybjlEUXk0SVJYbEZKZmdQeThZOFJlT1c3VDZqa3dtUzVlS1hfWGxZbGg1OVXSAXRBVV95cUxPSHQxbmsyMGVnT2F3bnlOX1d6Y3hYUm9QZXhoemg0YlMxV1dZSFdZZG5WQ2tXb0F1bVFkaGdjNFZqdHRTd0NqSlZYdE1RREFabGZQd3RSWndxQU9JQWI0emM4b0xxVnZuQU9TdHRCQlJZRnhURg?oc=5",
+   "publishedAt": "2026-10-16T10:23:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "a4ecc29953b2c15f",
+   "title": "카카오, 소액주주 대면 설득 나선다…‘인적분할·AI 비전’ 입증 시험대",
+   "outlet": "파이낸셜투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BN2I3cDU2LXV2YlRwc0xFSzY4N1oya0RrelJpcGdtM05YcEhWTHNkTWVsNDRvNW5lOVNtdlNMLWY2ckdOTENEX0pYa2ltVTg0dTlrU0hrejlYVGpZV2tSNHY0UV8tdkNpLWkw0gFuQVVfeXFMTUtjb213bG9qSTZOb2RFNVptS0NFZFhNMHh4NF9vZWs2QkstcUJ2UTlQUU50eWVYVW1uX2h6ZVU5ZnRNOE9sQnV0c2xmQ3BGN1oxcnoxWFQ1R1hHUjZTVzNQTnlSSlh5UVp3MkcwcUE?oc=5",
+   "publishedAt": "2026-10-15T21:48:14+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "1e84ed0689d87dec",
+   "title": "카카오 정신아, '오픈톡' 통해 임직원 소통…\"새로운 출발 준비\"",
+   "outlet": "신아일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTa3l0RF9NLU9VWXE4bGJSaHJ3VUMxeFFTVzMxQWt2c3Z6bXU5VW4xT0J6UUFEemhZVjRVaXdoZFV3UlVhWVVrOVdLOE1GWXJ5cndJSzVOcHFyNjRYNDZJVFdiOWlPTzZHUmY2UWNMV0Y?oc=5",
+   "publishedAt": "2026-10-16T10:22:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "5d5aefc940db4510",
@@ -43077,7 +42482,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "d9cdb7f00eb1bc92",
@@ -43100,7 +42505,151 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "12d807a19df4859d",
+   "title": "카카오, 인적분할 앞두고 임직원 소통 강화... '오픈톡' 개최",
+   "outlet": "빅데이터뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YWU5JQXEtN0dBYlBsd2lBdEQ0b2tfYUxMNWczem9JMS1ockoyZGdxZW1xUUFEWmJTSVA0RWlhUDFPWXc5b2VuN3dKREhpc2dzNXMtaHJWTVpCN1ppT3dQZFEyNDRYMzdNU1hnVmNaZS01QTVwc2dsdmVjVlg?oc=5",
+   "publishedAt": "2026-10-16T13:44:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "b0bc4fb5ac0a8dbe",
+   "title": "카카오, ‘인적분할’ 소통 강화…“고용·복지 그대로 승계”",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ubVlvdk5vemVQaDdZUDRpZVhfSy0zNGEzQTFzcnNEVTF6TDNib3YwTm9KX09XV2x4MGNIWktoYnhvRVRWRXJScmNzTXBGN2NROEHSAVNBVV95cUxOZmkyV2VtT2VyVnFtakh2ZXJQaFBuTnRQbUd0eUp4NXZfUFY4ZVdOWUNxVmdsNWphNXNYYVI4YThsU1Y0ZUpGaG8wcnlFWjY1alRSZw?oc=5",
+   "publishedAt": "2026-10-16T16:34:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "4ab570524522e6c6",
+   "title": "카카오, 노조 인적분할 반대 속 고용·근로조건 승계 방침 재확인",
+   "outlet": "리더스팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwY2VOU1doRGkxUmtLdmVQUWZaOFh1U2pySlZrX01ab0pCR3UxVnhsOGNJQ25NMk1Wd2FyZ2N6M0hKTlhvaFhHMF9TMEhQemF4c3VqNlM1T29ubk1jYTlBRV9TbnZCRzZLTlVpdjF1bw?oc=5",
+   "publishedAt": "2026-10-16T11:11:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "0844d30ffa25bba9",
+   "title": "[Digital & Now] 카카오, 인적분할 앞두고 임직원 소통 강화",
+   "outlet": "www.ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wZVBsUW40R08zTzBsaEplbmNGc2FQd216NXI0Q3o3LVdPa3N0aFR6SXBTRG1YU2k0cWNWVWlyYjB6VHp1dGM3ZTctTm1FLWw4X0N3SnVvaHVtdjdDcXRqbzJ0aGZIX2Qx?oc=5",
+   "publishedAt": "2026-10-16T11:20:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "4a260f5fe944acc6",
+   "title": "카카오, 인적분할 앞두고 사내 설명회… \"고용·복지 전면 승계\"",
+   "outlet": "뉴스드림",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VYkJUbHNkOFBHb3VHemZYR1BuZnczcEo2ZlBvcnRYMEVCZDAzSjRJb19TbDB2dEg4WWRRMWJXUm4ta1V4eFY0bkhZSGpndHY5bWloMW9JTHNjZC1mNjBDbGNOTDMwclNuRjZJ?oc=5",
+   "publishedAt": "2026-10-16T14:00:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "5d87a716296cd6ff",
+   "title": "카카오 \"인적분할 후에도 전 직원 고용·근로조건 그대로 승계\"",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQldtOTd1UmVVUnBWT2FxZ2p0VV9DZXRZWVZSTFN4NnNqdW14Nm5FZVYxakQwSmxfNXRXR2o0ajhLNW9URUpUQk0xSDVVYW4xUThGRTVYODBXaTRqUENEQ09Mb0pWcmYzczBBU2RDSklGbnl3QXM3Q2VmdGktN3N1Sw?oc=5",
+   "publishedAt": "2026-10-16T09:37:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "역접:에도"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "7e5d47e99a8610ab",
@@ -43125,7 +42674,7 @@ window.KMW_DATA = {
      "소액주주"
     ]
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "a49330f2259ca3d9",
@@ -43148,7 +42697,55 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "fe979c5dc9c69ea6",
+   "title": "카카오, 인적분할 후 임직원 고용·복지는 '그대로'",
+   "outlet": "스마트비즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUdGhLaEU0djZyQU4ybDR1aFpCWGV5ZGlrRllMTi1mT21EZ19mRnUzamlVRlRsVGItV0JvU2dhOGVxbDVhOU5RXzZNWUUwNXFMS09kMUJkbzVFZFZ1TEhWXzljMElFdk5ieGI5bg?oc=5",
+   "publishedAt": "2026-10-16T14:08:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "33321e19aa67f348",
+   "title": "카카오, 인적분할 앞두고 \"고용·복지 그대로 유지\"",
+   "outlet": "현대경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82M0dIQWVzRVJpRWNJWXFLUGx4UkxaTWduMjljVTVFdFRtVi11VzVXWkJyMkIzNHFPMG9NaXh5ekQ3dkk1RHZ1SEN3UlNmdzVYYm1oVG1XVWtJSzdWOEg3ajRIbjBIWDN4?oc=5",
+   "publishedAt": "2026-10-16T10:35:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "c340c8c3423c2d13",
@@ -43172,7 +42769,55 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "be4acd64a405a8cf",
+   "title": "카카오 인적분할해도 고용·복지 그대로…“전 직원 포괄승계”",
+   "outlet": "www.thepowernews.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oUjNXYmp1TXY0OGI2azBJQXoxMzJOTlczUGVlLTBkR2J4STRtT0R0SERPRmJfVkRxa0JpeWlhME1ER2pIRkVtaDBZdTBMQTd3YWFnTEg3UFcza1poeE0ySEJCTFpBaDFGR05BcEl0QXUwdkt5TjBJbktJX3BlZw?oc=5",
+   "publishedAt": "2026-10-16T14:55:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
+  },
+  {
+   "id": "888acb2e36a5a9b4",
+   "title": "카카오, 인적분할 앞두고 고용승계·조직 정비…소상공인 판로 지원도 확대",
+   "outlet": "웹이코노미",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZlMtUnc2YmJmTmd4VEphUHJfY2tiX1FPcUItWEpCUHdTRXVRS0xfRTBTR0NyRFdXZ3d0TGJHRnJyVEZlVF9NRU8wXzF6c2NYTVBnQV9EUUNrUGJqal9kYXkwRFg1SngyM05yajJFTTdiZw?oc=5",
+   "publishedAt": "2026-10-17T12:10:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "0be0430665d29215",
@@ -43198,7 +42843,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "e8fe2a65ede1c3c3",
@@ -43221,7 +42866,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   },
   {
    "id": "44b1f8a7a619b999",
@@ -43245,7 +42890,7 @@ window.KMW_DATA = {
     "pos": [],
     "neg": []
    },
-   "firstSeenAt": "2026-10-19T09:35:26+09:00"
+   "firstSeenAt": "2026-10-19T09:36:28+09:00"
   }
  ]
 };
