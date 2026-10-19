@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-19T15:03:43+09:00",
- "runCount": 4194,
+ "generatedAt": "2026-10-19T21:59:46+09:00",
+ "runCount": 4195,
  "price": {
-  "price": "31,950",
-  "pct": "+0.31",
-  "at": "2026-10-19T15:03:44+09:00"
+  "price": "32,050",
+  "pct": "+0.63",
+  "at": "2026-10-19T21:59:47+09:00"
  },
  "articles": [
   {
@@ -43368,6 +43368,98 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-19T11:21:08+09:00"
+  },
+  {
+   "id": "3fb96b92ebf3a7c6",
+   "title": "카카오, 인적분할 노사 갈등 격화되나...'오픈톡'서 동상이몽",
+   "outlet": "글로벌이코노믹",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KQ3p1TVFJaktFUGVRM3FadldtbUp6dVNoZ2RkeEV0SWZtWHczdWZsaC05UURpdk00SGVYVHFBLWNydENhVTg3MXc0UW1LUmZHNHRRUE53MmNUSUFGcXg2YWlERlE1TWFVTkJjZGU0ZjRIZFN4ZUNoX0k2c1hOOFU?oc=5",
+   "publishedAt": "2026-10-19T17:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T21:59:46+09:00"
+  },
+  {
+   "id": "6c337023110f1efc",
+   "title": "카카오, 임직원과 소통하는 '오픈톡' 진행…\"인적분할은 새로운 출발 준비 과정\"",
+   "outlet": "굿모닝경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNF96ZlJYSEtuemFSV2E1UWtkS0tWc1BLbGRYWDBRdm93UVhERFVMRW1PVjFrbDNLWHpqRDdZdnpHd044OTBJRHFzQXJwdll4c2s5N1pwcVlqekdaU0NDSi1naE1fWTI4bTN1Tg?oc=5",
+   "publishedAt": "2026-10-16T10:24:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T21:59:46+09:00"
+  },
+  {
+   "id": "1782560655aedac3",
+   "title": "카카오 \"인적분할 후 임직원 고용·근로조건 유지\"",
+   "outlet": "아시아타임즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iTDN4Q3R1eEl5WEw0Vy04MllXN0NFZjlXbzFFejJiZG5xVkhVWHgyemlDSWt3akVMcDV1QmM4V0o5VDZ5Wm5JSmVJUFExUkJ4bFhHcjFxOXZhb1E5Wnc?oc=5",
+   "publishedAt": "2026-10-16T12:45:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "고용/근로조건 유지"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T21:59:46+09:00"
+  },
+  {
+   "id": "d5840106ca2780cd",
+   "title": "카카오, 카나나 스페이스 결과가 주가 방향성 결정 By 알파경제 alphabiz",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZaURMWklUS3V0bmRTTFRNcmdhcXdlQzdEbVQ1Z3ZBUkJkV2FwbkZ6dk51eXZnelJlanloZnNsNUlXUWoxdXV2cGI3YkxIR3dzMUtXTVZ0WklJY0doOVM2VkNnelliNHNUcm5ZZW1uelU?oc=5",
+   "publishedAt": "2026-10-19T14:13:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-19T21:59:46+09:00"
   }
  ]
 };
