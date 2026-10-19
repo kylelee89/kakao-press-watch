@@ -13,6 +13,7 @@ import tempfile
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+import xml.etree.ElementTree as ET
 from urllib.parse import urlencode
 
 
@@ -46,7 +47,25 @@ SYMBOLS = [
 EX_ID = "KOSPI_EXSEMI"
 EX_NAME = "코스피(삼전/하이닉스 제외)"
 EX_CODES = ("005930", "005935", "000660")
-RANK_URL = "https://m.stock.naver.com/api/stocks/marketValue/KOSPI?page={page}&pageSize=100"
+# 공공데이터포털(금융위원회) 주식시세정보. 거래소 원본이라 코스피 상장시가총액과
+# 종목별 시가총액/상장주식수를 그대로 준다. 키는 환경변수 DATA_GO_KR_KEY
+# (로컬은 ~/.config/kmw/datagokr.key, Actions 는 저장소 시크릿).
+GOV_BASE = "https://apis.data.go.kr/1160100/service"
+
+
+def _gov_key() -> str:
+    """환경변수(Actions 시크릿) 우선, 없으면 로컬 키 파일."""
+    env = os.environ.get("DATA_GO_KR_KEY", "").strip()
+    if env:
+        return env
+    local = Path.home() / ".config/kmw/datagokr.key"
+    try:
+        return local.read_text(encoding="utf-8").strip()
+    except OSError:
+        return ""
+
+
+GOV_KEY = _gov_key()
 DAILY_PATH = DATA_DIR / "kospi_daily.json"
 
 
@@ -98,47 +117,40 @@ def parse_closes(response: str, end_date: str) -> dict[str, int | float]:
     return closes
 
 
-def fetch_kospi_anchor() -> tuple[float, dict[str, float]]:
-    """코스피 전체 시가총액과 제외 종목의 상장주식수를 지금 시점 기준으로 구한다.
+def fetch_official(day: str):
+    """해당 거래일의 (코스피 상장시총, 제외 종목별 시총) 을 거래소 공식값으로 받는다.
 
-    네이버 시가총액 순위 API 는 ETF/ETN 까지 섞어 주므로 `stockEndType == "stock"` 만
-    더해야 지수 시가총액이 된다(2026-10 기준 942종목 4,642조. ETF 1,176종목 419조는 제외).
-    돌려주는 값은 (코스피 전체 시총, 제외 종목별 시총) 이고 둘 다 원 단위다.
+    휴장일이거나 아직 발표 전이면 None 을 돌려준다(장중에는 당일치가 아직 없다).
+    키가 없으면 조용히 포기한다 — 그 경우 직전 행에서 굴려 쓴다.
     """
-    rows: list[dict] = []
-    page = 1
-    while page <= 40:
-        if page > 1:
-            time.sleep(0.2)
-        payload = json.loads(run_curl(RANK_URL.format(page=page)))
-        chunk = payload.get("stocks") or []
-        rows.extend(chunk)
-        if not chunk or len(rows) >= int(payload.get("totalCount") or 0):
-            break
-        page += 1
-    if not rows:
-        raise ValueError("코스피 시가총액 순위 응답 없음")
+    if not GOV_KEY:
+        return None
+    basDt = day.replace("-", "")
 
-    total = 0.0
+    def items(url: str):
+        try:
+            return ET.fromstring(run_curl(url)).findall(".//item")
+        except (RuntimeError, ET.ParseError, OSError, subprocess.TimeoutExpired):
+            return []
+
+    found = items(f"{GOV_BASE}/GetMarketIndexInfoService/getStockMarketIndex"
+                  f"?serviceKey={GOV_KEY}&idxNm=%EC%BD%94%EC%8A%A4%ED%94%BC&basDt={basDt}&numOfRows=20")
+    total = next((it.findtext("lstgMrktTotAmt") for it in found
+                  if it.findtext("idxNm") == "코스피" and it.findtext("lstgMrktTotAmt")), None)
+    if not total:
+        return None
+
     caps: dict[str, float] = {}
-    for row in rows:
-        if row.get("stockEndType") != "stock":
-            continue
-        raw = row.get("marketValueRaw")
-        if raw is None:
-            continue
-        cap = float(raw)
-        if not math.isfinite(cap) or cap < 0:
-            raise ValueError("시가총액 값 오류")
-        total += cap
-        if row.get("itemCode") in EX_CODES:
-            caps[row["itemCode"]] = cap
-    missing = [c for c in EX_CODES if c not in caps]
-    if missing:
-        raise ValueError(f"제외 종목 미발견: {', '.join(missing)}")
-    if total <= 0:
-        raise ValueError("코스피 시가총액 합계 오류")
-    return total, caps
+    for code in EX_CODES:
+        time.sleep(0.2)
+        hit = items(f"{GOV_BASE}/GetStockSecuritiesInfoService/getStockPriceInfo"
+                    f"?serviceKey={GOV_KEY}&likeSrtnCd={code}&basDt={basDt}&numOfRows=10")
+        value = next((it.findtext("mrktTotAmt") for it in hit
+                      if it.findtext("srtnCd") == code and it.findtext("mrktTotAmt")), None)
+        if not value:
+            return None
+        caps[code] = float(value)
+    return float(total), caps
 
 
 def load_daily() -> dict:
@@ -172,62 +184,60 @@ def save_daily(rows: dict) -> None:
 def build_ex_index(dates: list[str], kospi: dict[str, int | float], end_date: str):
     """코스피에서 삼성전자(보통주/우선주)와 SK하이닉스를 뺀 지수를 만든다.
 
-    **수준(level)이 아니라 수익률을 이어 붙인다.** 날마다 그날의 실측 시총을 다시 기준으로 삼고,
-    전일 대비 변화만 계산해 곱해 나간다. 이렇게 해야 신규상장/상장폐지/유상증자가 섞여도
-    지수가 오염되지 않는다:
+    **수준이 아니라 수익률을 이어 붙인다.** 날마다 그날 실측을 다시 기준으로 삼고 전일 대비
+    변화만 곱해 나간다. 그래야 신규상장/상장폐지/유상증자가 섞여도 지수가 오염되지 않는다:
 
-      전체시총(t)  <- 쓰지 않는다. 대신 `전체시총(t-1) x (1 + 코스피 등락률)` 을 쓴다.
-                      신규상장은 시총을 늘리지만 지수는 안 올리므로, 지수 등락률을 쓰면 그 효과가 빠진다
-                      (거래소가 기준시가총액을 조정해 주는 걸 그대로 물려받는 셈).
-      제외분(t)    <- `종목별 시총(t-1) x 주가(t)/주가(t-1)`. 시총 자체를 쓰면 유상증자/무상증자가
-                      주가 하락 없이 시총만 늘려 지수를 왜곡한다. 주가 등락률만 쓰면 안 섞인다.
+      전체시총(t) 은 쓰지 않는다 -> `전체시총(t-1) x (1 + 코스피 등락률)`
+        신규상장은 시총만 늘리고 지수는 안 올린다. 지수 등락률을 쓰면 거래소가 해 주는
+        기준시가총액 조정을 그대로 물려받아 그 효과가 빠진다.
+      제외분(t) 은 시총이 아니라 `종목별시총(t-1) x 주가(t)/주가(t-1)`
+        시총을 그대로 쓰면 유상증자/무상증자가 주가 하락 없이 시총만 늘려 왜곡된다.
 
-    기록이 시작되기 전 구간(2026-08-20 ~ 기록 첫날)만 지수비율로 되돌린 근사치를 쓰고,
-    그 값은 파일에 적어 둔 뒤 다시 계산하지 않는다(= 근사 오차가 더 늘지 않는다).
+    일별 실측은 `data/kospi_daily.json` 에 쌓는다. 공공데이터포털 공식값이 들어온 행은
+    `src:"krx"`, `final:true` 로 두고 다시 받지 않는다. 장중이라 당일 공식값이 아직 없으면
+    직전 행에서 굴린 임시 행(`src:"roll"`)을 쓰고, 다음 실행에서 공식값으로 교체한다.
     """
     if not kospi:
         raise ValueError("코스피 지수 데이터 없음")
     rows = load_daily()
-    today = max(kospi)
     changed = False
 
-    # 1) 오늘치 실측. 장중에는 하루 한 번만 적고, 마감(16시) 뒤 값으로 한 번 더 확정한다.
-    now_kst = datetime.now(KST)
-    existing = rows.get(today)
-    want_write = existing is None or (not existing.get("final") and now_kst.hour >= 16)
-    if want_write:
-        total_now, caps_now = fetch_kospi_anchor()
-        rows[today] = {
-            "k": kospi[today], "t": round(total_now),
-            "m": {c: round(caps_now[c]) for c in EX_CODES},
-            "final": now_kst.hour >= 16,
-        }
-        changed = True
-
-    # 2) 기록이 없는 과거 구간을 한 번만 근사로 채운다.
-    gaps = [d for d in dates if d not in rows and kospi.get(d)]
     closes: dict[str, dict[str, int | float]] = {}
-    if gaps or len(rows) >= 2:
+    for code in EX_CODES:
+        query = urlencode({"symbol": code, "requestType": 1,
+                           "startTime": START_DATE, "endTime": end_date, "timeframe": "day"})
+        time.sleep(0.3)
+        closes[code] = parse_closes(run_curl(f"https://api.finance.naver.com/siseJson.naver?{query}"), end_date)
+
+    # 1) 공식값이 아직 없는 날만 받아 온다(확정된 행은 건드리지 않는다).
+    for day in dates:
+        if not kospi.get(day) or (rows.get(day, {}).get("src") == "krx"):
+            continue
+        official = fetch_official(day)
+        if official:
+            total, caps = official
+            rows[day] = {"k": kospi[day], "t": round(total),
+                         "m": {c: round(caps[c]) for c in EX_CODES},
+                         "src": "krx", "final": True}
+            changed = True
+
+    # 2) 공식값이 아직 안 나온 날(보통 당일)은 직전 확정 행에서 굴려 둔다.
+    for prev, cur in zip(dates, dates[1:]):
+        if cur in rows and rows[cur].get("src") == "krx":
+            continue
+        base = rows.get(prev)
+        if not base or not kospi.get(cur) or not kospi.get(prev):
+            continue
+        moved = {}
         for code in EX_CODES:
-            query = urlencode({"symbol": code, "requestType": 1,
-                               "startTime": START_DATE, "endTime": end_date, "timeframe": "day"})
-            time.sleep(0.3)
-            closes[code] = parse_closes(run_curl(f"https://api.finance.naver.com/siseJson.naver?{query}"), end_date)
-    if gaps and today in rows:
-        # 기준일(오늘)의 시총/주가로 상장주식수를 역산해 과거 종가에 곱한다.
-        ref = rows[today]
-        shares = {c: ref["m"][c] / closes[c][today] for c in EX_CODES if closes[c].get(today)}
-        if len(shares) == len(EX_CODES):
-            for day in gaps:
-                if any(closes[c].get(day) is None for c in EX_CODES):
-                    continue
-                rows[day] = {
-                    "k": kospi[day],
-                    "t": round(ref["t"] * (kospi[day] / ref["k"])),
-                    "m": {c: round(shares[c] * closes[c][day]) for c in EX_CODES},
-                    "approx": True, "final": True,
-                }
-                changed = True
+            p0, p1 = closes[code].get(prev), closes[code].get(cur)
+            moved[code] = round(base["m"][code] * (p1 / p0)) if p0 and p1 else base["m"][code]
+        rolled = {"k": kospi[cur], "t": round(base["t"] * (kospi[cur] / kospi[prev])),
+                  "m": moved, "src": "roll", "final": False}
+        if rows.get(cur) != rolled:
+            rows[cur] = rolled
+            changed = True
+
     if changed:
         save_daily(rows)
 
@@ -236,14 +246,14 @@ def build_ex_index(dates: list[str], kospi: dict[str, int | float], end_date: st
     if len(usable) < 2:
         raise ValueError("제외 지수 계산 가능한 날짜 부족")
     pin = BASE_DATE if BASE_DATE in usable else usable[0]
-    level: dict[str, float] = {usable[0]: kospi[usable[0]]}
+    level: dict[str, float] = {usable[0]: float(kospi[usable[0]])}
     for prev, cur in zip(usable, usable[1:]):
-        a, b = rows[prev], rows[cur]
+        a = rows[prev]
         rest_prev = a["t"] - sum(a["m"].values())
         moved = 0.0
         for code in EX_CODES:
-            p0, p1 = closes.get(code, {}).get(prev), closes.get(code, {}).get(cur)
-            moved += a["m"][code] * (p1 / p0) if p0 and p1 else b["m"][code]
+            p0, p1 = closes[code].get(prev), closes[code].get(cur)
+            moved += a["m"][code] * (p1 / p0) if p0 and p1 else rows[cur]["m"][code]
         rest_cur = a["t"] * (kospi[cur] / kospi[prev]) - moved
         level[cur] = level[prev] * (rest_cur / rest_prev) if rest_prev > 0 and rest_cur > 0 else level[prev]
     scale = kospi[pin] / level[pin]
