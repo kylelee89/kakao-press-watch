@@ -1,0 +1,4 @@
+data/collect.log
+data/agent.log
+data/agent.err
+__pycache__/

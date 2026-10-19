@@ -1,0 +1,76 @@
+# 카카오 인적분할 모니터링 수집기. 맥이 꺼져 있어도 돌도록 GitHub Actions 에서 매시간 실행한다.
+# (2026-10-16~18 맥이 꺼져 있던 사흘간 수집이 멈춘 뒤 옮겨 왔다.)
+# 수집 결과(data/*.json, data/*.js)를 이 저장소에 커밋하고, 그게 곧 GitHub Pages 로 배포된다.
+name: 수집
+
+on:
+  schedule:
+    - cron: '7 * * * *'      # 매시 7분. 정각은 러너가 몰려 지연되기 쉬워 피한다.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 기사 수집
+        run: python3 collect.py
+
+      - name: 증권사 리포트 수집
+        run: python3 collect_analysts.py
+
+      - name: 주가 수집
+        run: python3 collect_prices.py
+
+      - name: 데이터 파일 버전 갱신
+        # index.html 은 새것인데 데이터 js 는 CDN 캐시라 옛것이 물리면 화면 숫자가 어긋난다.
+        # 배포 시각을 쿼리로 붙여 둘이 항상 같이 갱신되게 한다.
+        run: |
+          python3 - <<'PY'
+          import re, time
+          ver = time.strftime('%Y%m%d%H%M%S', time.gmtime())
+          html = open('index.html', encoding='utf-8').read()
+          out, n = re.subn(r'src="(data/[a-z]+\.js|price-tracker\.js)(\?v=\d+)?"',
+                           lambda m: 'src="%s?v=%s"' % (m.group(1), ver), html)
+          if n < 4:
+              raise SystemExit('캐시버전 삽입 실패: %d건만 치환됨' % n)
+          open('index.html', 'w', encoding='utf-8').write(out)
+          print('캐시버전', ver, '(%d건)' % n)
+          PY
+
+      - name: 변경분 커밋
+        # asOf/generatedAt 만 바뀐 '빈 수집' 은 커밋하지 않는다.
+        # 1.3MB 짜리 articles.json 을 매시간 그대로 다시 쌓으면 저장소만 불어난다.
+        run: |
+          real=$(git diff -U0 -- data \
+            | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' \
+            | grep -vE '"(asOf|generatedAt)"' | head -1)
+          if [ -z "$real" ]; then
+            echo "실질 변경 없음, 커밋 생략"
+            git checkout -- data index.html
+            exit 0
+          fi
+          git add -A data index.html
+          git -c user.email=actions@github.com -c user.name="수집 봇" \
+              commit -q -m "데이터 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do
+            git pull -q --rebase origin main && git push -q origin main && { echo "푸시 완료"; exit 0; }
+            echo "푸시 재시도 $i"; sleep 5
+          done
+          echo "푸시 실패"; exit 1
+
+      - name: Vercel 미러 깨우기
+        if: always()
+        run: curl -s -m 60 -o /dev/null "https://kakao-press-watch.vercel.app/api/data?force=1" && echo "완료" || echo "실패(수집에는 영향 없음)"
