@@ -1,0 +1,63 @@
+# 수집기를 맥 launchd 에서 GitHub Actions 로 옮길 수 있는지 확인하는 1회성 점검.
+# 러너는 해외(미국) IP 라 한국 사이트가 막을 수 있어서, 실제로 옮기기 전에 응답을 본다.
+# 데이터를 저장하지 않고 응답만 확인한다.
+name: 수집 소스 접속 점검
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 러너 위치
+        run: curl -s --max-time 20 https://ipinfo.io/json | python3 -c "import json,sys; d=json.load(sys.stdin); print('IP', d.get('ip'), '/', d.get('country'), d.get('city'))" || echo "위치 확인 실패"
+
+      - name: FnGuide 증권사 리포트
+        run: |
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
+          URL='https://comp.wisereport.co.kr/company/ajax/c1080001_data.aspx?cmp_cd=035720&perPage=100&curPage=1'
+          code=$(curl -s -o /tmp/fn.json -w '%{http_code}' --max-time 30 -A "$UA" \
+            -H 'Referer: https://comp.wisereport.co.kr/company/c1080001.aspx?cmp_cd=035720' "$URL") || code=000
+          echo "HTTP $code / $(wc -c < /tmp/fn.json) bytes"
+          python3 - <<'PY'
+          import json
+          try:
+              d = json.load(open('/tmp/fn.json'))
+          except Exception as e:
+              print('FAIL 파싱 불가:', e); print(open('/tmp/fn.json', encoding='utf-8', errors='replace').read()[:300]); raise SystemExit(1)
+          rows = d.get('comp') or d.get('DATA') or next((v for v in d.values() if isinstance(v, list)), [])
+          print('OK 리포트', len(rows), '건')
+          if rows: print('최신:', rows[0].get('ANL_DT'), rows[0].get('BRN_NM') or rows[0].get('FN_NM'), rows[0].get('TARGET_PRC'))
+          PY
+
+      - name: 네이버 일별시세
+        run: |
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
+          code=$(curl -s -o /tmp/nv.txt -w '%{http_code}' --max-time 30 -A "$UA" \
+            'https://api.finance.naver.com/siseJson.naver?symbol=035720&requestType=1&startTime=20261001&endTime=20261019&timeframe=day') || code=000
+          echo "HTTP $code / $(wc -c < /tmp/nv.txt) bytes"
+          python3 - <<'PY'
+          import ast
+          raw = open('/tmp/nv.txt', encoding='utf-8', errors='replace').read().strip()
+          try:
+              rows = ast.literal_eval(raw)
+          except Exception as e:
+              print('FAIL 파싱 불가:', e); print(raw[:300]); raise SystemExit(1)
+          print('OK 거래일', len(rows) - 1, '일 / 마지막', rows[-1][:5] if len(rows) > 1 else '없음')
+          PY
+
+      - name: 네이버 실시간 시세
+        run: |
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
+          code=$(curl -s -o /tmp/rt.json -w '%{http_code}' --max-time 30 -A "$UA" \
+            'https://polling.finance.naver.com/api/realtime/domestic/stock/035720') || code=000
+          echo "HTTP $code / $(wc -c < /tmp/rt.json) bytes"
+          head -c 300 /tmp/rt.json; echo
+
+      - name: 구글뉴스 RSS
+        run: |
+          code=$(curl -s -o /tmp/gn.xml -w '%{http_code}' --max-time 30 \
+            'https://news.google.com/rss/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%EC%A0%81%EB%B6%84%ED%95%A0&hl=ko&gl=KR&ceid=KR:ko') || code=000
+          echo "HTTP $code / $(wc -c < /tmp/gn.xml) bytes / item $(grep -c '<item>' /tmp/gn.xml || echo 0) 건"
+          grep -o '<title>[^<]*</title>' /tmp/gn.xml | head -4
