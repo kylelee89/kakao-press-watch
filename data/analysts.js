@@ -1,10 +1,10 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-10-15T18:55:17+09:00",
+ "asOf": "2026-10-19T09:35:28+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
   "label": "8/21 종가",
-  "value": "31,000"
+  "value": "31,850"
  },
  "reports": [
   {
@@ -13,14 +13,14 @@ window.KMW_ANALYSTS = {
    "house": "키움",
    "analyst": "김진구",
    "rating": "BUY",
-   "ratingPrev": "BUY",
+   "ratingPrev": null,
    "target": 70000,
-   "targetPrev": 110000,
+   "targetPrev": null,
    "title": "복합적 변수 고려할 필요",
    "point": "AI가 분절된 세그먼트가 아니라 프런티어 백본 기반의 종합 자율형 에이전트로 진화할 것으로 보는데, 법인을 쪼개 시너지를 내겠다는 전략이 현실에서 작동하지 않을 개연성을 리스크로 제시했다. 오픈AI 등 프런티어 업체와의 강결합 기조가 희석되는 점도 반영했다.",
    "extra": "SOTP 합산 기준 본사 7.5조, AI 내재가치 3.2조, 커머스 6.8조. 목표가 최대 하향(-36%)",
-   "ratingBase": "BUY",
-   "targetBase": 110000
+   "ratingBase": null,
+   "targetBase": null
   },
   {
    "date": "08/21",
@@ -278,6 +278,21 @@ window.KMW_ANALYSTS = {
    "targetBase": null
   },
   {
+   "date": "10/16",
+   "region": "국내",
+   "house": "DB",
+   "analyst": "신은정",
+   "rating": "Buy",
+   "ratingPrev": "Buy",
+   "target": 47000,
+   "targetPrev": 57000,
+   "title": "AI agent 도전",
+   "point": "눈높이를 소폭 낮춰야. AI agent를 카톡에. TP 4.7만원으로 하향",
+   "extra": "목표주가 하향",
+   "ratingBase": "Buy",
+   "targetBase": 57000
+  },
+  {
    "date": "10/12",
    "region": "국내",
    "house": "대신",
@@ -364,8 +379,8 @@ window.KMW_ANALYSTS = {
    "title": "밸류에이션 저감",
    "point": "AI가 분절된 세그먼트가 아니라 프런티어 백본 기반의 종합 자율형 에이전트로 진화할 것으로 보는데, 법인을 쪼개 시너지를 내겠다는 전략이 현실에서 작동하지 않을 개연성을 리스크로 제시했다. 오픈AI 등 프런티어 업체와의 강결합 기조가 희석되는 점도 반영했다.",
    "extra": "SOTP 합산 기준 본사 7.5조, AI 내재가치 3.2조, 커머스 6.8조. 목표가 최대 하향(-36%)",
-   "ratingBase": "BUY",
-   "targetBase": 110000
+   "ratingBase": null,
+   "targetBase": null
   },
   {
    "date": "08/21",
@@ -488,6 +503,21 @@ window.KMW_ANALYSTS = {
    "targetBase": 49000
   },
   {
+   "date": "10/19",
+   "region": "국내",
+   "house": "신한",
+   "analyst": "고준혁",
+   "rating": "매수",
+   "ratingPrev": "매수",
+   "target": 39000,
+   "targetPrev": 61000,
+   "title": "1년의 기다림을 숫자로 증명할 필요",
+   "point": "카나나 스페이스의 결과가 주가의 방향성 결정. 모두를 위한 연결, 한 사람을 위한 지능으로 초개인화 전략이 핵심. Valuation & Risk: 초기 접점 확보의 강점을 활용할 필요",
+   "extra": "목표주가 하향",
+   "ratingBase": "매수",
+   "targetBase": 61000
+  },
+  {
    "date": "08/24",
    "region": "국내",
    "house": "메리츠",
@@ -544,12 +574,6 @@ window.KMW_ANALYSTS = {
    "house": "유안타",
    "analyst": "이창영",
    "targetPrev": 62000,
-   "lastDate": "08/07"
-  },
-  {
-   "house": "신한",
-   "analyst": "강석오",
-   "targetPrev": 61000,
    "lastDate": "08/07"
   }
  ],
