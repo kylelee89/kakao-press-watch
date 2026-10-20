@@ -847,7 +847,7 @@
       border: 1px solid var(--line);
       border-radius: 12px;
       box-shadow: 0 6px 16px rgba(15, 23, 42, 0.04);
-      padding: 14px;
+      padding: 10px 14px;
     }
 
     .region-badge { display:inline-block; padding:2px 7px; border-radius:5px; font-size:11px; font-weight:600; white-space:nowrap; }
@@ -1121,6 +1121,39 @@
       white-space: pre-line;
     }
 
+    /* 리포트 핵심 논지는 '- ' 불릿 줄로 쓰고, 줄바꿈돼도 글머리에 맞춰 들여쓴다. */
+    .analyst-point ul.point-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      white-space: normal;
+      display: grid;
+      gap: 3px;
+    }
+
+    .analyst-point ul.point-list > li {
+      padding-left: 11px;
+      position: relative;
+    }
+
+    .analyst-point ul.point-list > li::before {
+      content: '';
+      position: absolute;
+      left: 2px;
+      top: 0.62em;
+      width: 3px;
+      height: 3px;
+      border-radius: 50%;
+      background: #9ca3af;
+    }
+
+    .analyst-point ul.point-list > li.is-lead {
+      font-weight: 600;
+      color: #111827;
+    }
+
+    .analyst-point ul.point-list > li.is-lead::before { background: var(--accent, #4b5563); }
+
     .analyst-extra {
       display: flex;
       flex-wrap: wrap;
@@ -1154,29 +1187,40 @@
       color: var(--text);
     }
 
-    .article-top {
+    /* 기사 한 건을 한 줄로 본다: 논조 / 제목 / NEW / 언론사,시간 */
+    .article-line {
       display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      gap: 12px;
+      align-items: baseline;
+      gap: 10px;
     }
+
+    .article-line .tone-badge { flex: 0 0 auto; align-self: center; }
+    .article-line .new-badge { flex: 0 0 auto; align-self: center; }
 
     .article-title {
       margin: 0;
-      font-size: 16px;
+      font-size: 15px;
       line-height: 1.4;
       letter-spacing: -0.02em;
-      font-weight: 800;
+      font-weight: 700;
+      flex: 1 1 auto;
+      min-width: 0;
     }
 
     .article-meta {
       display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
+      gap: 8px;
       color: var(--muted);
-      font-size: 12px;
-      margin-top: 8px;
-      align-items: center;
+      font-size: 11px;
+      flex: 0 0 auto;
+      white-space: nowrap;
+      align-items: baseline;
+    }
+
+    @media (max-width: 720px) {
+      .article-line { flex-wrap: wrap; }
+      .article-title { flex: 1 1 100%; order: 3; }
+      .article-meta { order: 2; margin-left: auto; }
     }
 
     .article-body {
@@ -1331,6 +1375,20 @@
       const els = {
         app: document.getElementById('app')
       };
+
+      // 핵심 논지를 '- ' 불릿 목록으로 그린다. 첫 줄('결론:')은 굵게.
+      function renderPoint(raw) {
+        const text = String(raw || '');
+        const lines = text.split('\n').map((l) => l.trim()).filter(Boolean);
+        if (!lines.length || !lines.some((l) => l.startsWith('- '))) return escapeHtml(text);
+        const items = lines.map((line, i) => {
+          const body = line.replace(/^-\s*/, '');
+          const lead = i === 0 && /^결론\s*:/.test(body) ? ' is-lead' : '';
+          return `<li class="point-item${lead}">${escapeHtml(body)}</li>`;
+        }).join('');
+        return `<ul class="point-list">${items}</ul>`;
+      }
+
 
       function escapeHtml(value) {
         return String(value == null ? '' : value)
@@ -1903,7 +1961,7 @@
                         </td>
                         <td class="analyst-td-point">
                           <div class="analyst-title">"${escapeHtml(report.title || '')}"</div>
-                          <div class="analyst-point">${escapeHtml(report.point || '')}</div>
+                          <div class="analyst-point">${renderPoint(report.point)}</div>
                           ${report.extra ? `<div class="analyst-extra"><span class="analyst-chip">${escapeHtml(report.extra)}</span></div>` : ''}
                         </td>
                       </tr>
@@ -2028,36 +2086,19 @@
 
       function renderArticleCard(article) {
         const tone = article.tone || '중립';
-        const frames = Array.isArray(article.frames) ? article.frames : [];
-        const posHits = Array.isArray(article.hits?.pos) ? article.hits.pos : [];
-        const negHits = Array.isArray(article.hits?.neg) ? article.hits.neg : [];
-        const signals = Array.isArray(article.signals) ? article.signals : [];
-        const frameAxis = FRAME_AXIS_ORDER.includes(article.frame) ? article.frame : '중립전달';
         const newUntil = state.newUntil.get(article.id) || 0;
         const isNew = newUntil > Date.now();
         return `
           <article class="article-card">
-            <div class="article-top">
-              <div style="min-width:0;">
-                <div class="tone-badge ${toneClass(tone)}">${escapeHtml(tone)}</div>
-                <h3 class="article-title" style="margin-top:10px;">
-                  <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="headline-link">${escapeHtml(article.title || '')}</a>
-                </h3>
-                <div class="article-meta mono">
-                  <span>${escapeHtml(article.outlet || '미상')}</span>
-                  <span>${escapeHtml(article.outletGroup || '기타')}</span>
-                  <span>${formatKstTime(article.publishedAt || article.firstSeenAt || '')}</span>
-                </div>
-              </div>
+            <div class="article-line">
+              <div class="tone-badge ${toneClass(tone)}">${escapeHtml(tone)}</div>
+              <h3 class="article-title">
+                <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="headline-link">${escapeHtml(article.title || '')}</a>
+              </h3>
               ${isNew ? `<span class="new-badge mono" data-expire="${newUntil}">NEW</span>` : ''}
-            </div>
-            <div class="article-body">
-              <div class="tag-list oneline">
-                ${frames.length ? frames.map((frame) => `<button class="tag frame clickable" type="button" data-frame="${escapeHtml(frame)}">${escapeHtml(frame)}</button>`).join('') : '<span class="tag frame">기타</span>'}
-                <span class="frame-badge" style="${frameAxisStyle(frameAxis)}background:var(--frame-soft);color:var(--frame-color);border-color:var(--frame-color);">${escapeHtml(frameAxis)}</span>
-                ${posHits.length ? posHits.map((hit) => `<span class="tag pos">+ ${escapeHtml(hit)}</span>`).join('') : ''}
-                ${negHits.length ? negHits.map((hit) => `<span class="tag neg">- ${escapeHtml(hit)}</span>`).join('') : ''}
-                ${signals.map((signal) => `<span class="tag signal">${escapeHtml(signal)}</span>`).join('')}
+              <div class="article-meta mono">
+                <span>${escapeHtml(article.outlet || '미상')}</span>
+                <span>${formatKstTime(article.publishedAt || article.firstSeenAt || '')}</span>
               </div>
             </div>
           </article>
