@@ -781,6 +781,20 @@
       gap: 6px;
     }
 
+    /* 기사 카드의 키워드는 한 줄로 유지하고, 넘치면 가로로 넘겨 본다. */
+    .tag-list.oneline {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      padding-bottom: 2px;
+      -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 24px), transparent 100%);
+      mask-image: linear-gradient(to right, #000 calc(100% - 24px), transparent 100%);
+    }
+
+    .tag-list.oneline::-webkit-scrollbar { display: none; }
+    .tag-list.oneline > * { flex: 0 0 auto; }
+
     .tag {
       display: inline-flex;
       align-items: center;
@@ -1255,10 +1269,10 @@
     <div id="app"></div>
   </div>
 
-  <script src="data/articles.js?v=20261020102130"></script>
-  <script src="data/analysts.js?v=20261020102130"></script>
-  <script src="data/prices.js?v=20261020102130"></script>
-  <script src="price-tracker.js?v=20261020102130"></script>
+  <script src="data/articles.js"></script>
+  <script src="data/analysts.js"></script>
+  <script src="data/prices.js"></script>
+  <script src="price-tracker.js"></script>
   <script>
     (function () {
       const REFRESH_MS = 60000;
@@ -2038,15 +2052,11 @@
               ${isNew ? `<span class="new-badge mono" data-expire="${newUntil}">NEW</span>` : ''}
             </div>
             <div class="article-body">
-              <div class="tag-list">
+              <div class="tag-list oneline">
                 ${frames.length ? frames.map((frame) => `<button class="tag frame clickable" type="button" data-frame="${escapeHtml(frame)}">${escapeHtml(frame)}</button>`).join('') : '<span class="tag frame">기타</span>'}
                 <span class="frame-badge" style="${frameAxisStyle(frameAxis)}background:var(--frame-soft);color:var(--frame-color);border-color:var(--frame-color);">${escapeHtml(frameAxis)}</span>
-              </div>
-              <div class="tag-list">
                 ${posHits.length ? posHits.map((hit) => `<span class="tag pos">+ ${escapeHtml(hit)}</span>`).join('') : ''}
                 ${negHits.length ? negHits.map((hit) => `<span class="tag neg">- ${escapeHtml(hit)}</span>`).join('') : ''}
-              </div>
-              <div class="tag-list">
                 ${signals.map((signal) => `<span class="tag signal">${escapeHtml(signal)}</span>`).join('')}
               </div>
             </div>
