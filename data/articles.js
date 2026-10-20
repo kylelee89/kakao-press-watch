@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-20T18:57:56+09:00",
- "runCount": 4201,
+ "generatedAt": "2026-10-20T19:10:40+09:00",
+ "runCount": 4202,
  "price": {
-  "price": "31,400",
-  "pct": "-2.18",
-  "at": "2026-10-20T18:57:58+09:00"
+  "price": "31,350",
+  "pct": "-2.34",
+  "at": "2026-10-20T19:10:41+09:00"
  },
  "articles": [
   {
@@ -45432,6 +45432,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-20T18:57:56+09:00"
+  },
+  {
+   "id": "ab4074173d77b1dc",
+   "title": "\"인적분할로 기업가치 재평가\"…카카오, 2차 소액주주 간담회서 주주 소통 강화",
+   "outlet": "더페어",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83TUY1Q0lwdk1YVHloczlyUWI2cERFSlRvWFBBdy1SVDk2aDlsQ1pjMWxlQm5USzJ5cG4xX2o0NmY3X0JYSVpWZ2gtcFRMRGFNb3Q5Z3ozWG8ydDQ2UzJENDNuVU9mcUdBUXpreTVvWWc?oc=5",
+   "publishedAt": "2026-10-20T16:08:33+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-20T19:10:40+09:00"
   }
  ]
 };
