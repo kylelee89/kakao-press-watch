@@ -131,7 +131,8 @@ def build():
     if op.exists():
         ov = json.loads(op.read_text(encoding="utf-8")).get("points", {})
         for r in reports:
-            o = ov.get(r["house"])
+            # 같은 하우스가 여러 번 내므로 "하우스 MM/DD" 를 먼저 찾고, 없으면 하우스만으로 찾는다.
+            o = ov.get(f"{r['house']} {r['date']}") or ov.get(r["house"])
             if o:
                 r.update({k: v for k, v in o.items() if k in ("point", "extra", "title")})
 
