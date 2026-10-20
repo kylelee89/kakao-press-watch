@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-20T18:38:37+09:00",
- "runCount": 4199,
+ "generatedAt": "2026-10-20T18:46:17+09:00",
+ "runCount": 4200,
  "price": {
   "price": "31,350",
   "pct": "-2.34",
-  "at": "2026-10-20T18:38:38+09:00"
+  "at": "2026-10-20T18:46:18+09:00"
  },
  "articles": [
   {
@@ -45261,6 +45261,64 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-20T18:38:37+09:00"
+  },
+  {
+   "id": "6b6e13292af3e088",
+   "title": "카카오, 소액주주 반발에도 인적분할 의지 확고…\"오히려 가치 높일 것\"",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Oem1XaHJYNkZ0UkJrWkNldWotRnBiOHA0MTVoY0YxQ0ZzNG80blV0UkI5QjViNE4wX2VtN1ppNnhET1dMLWVNQ0lqRDRya2M?oc=5",
+   "publishedAt": "2026-10-20T17:45:14+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:에도",
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-20T18:46:17+09:00"
+  },
+  {
+   "id": "668186d7f0dc1123",
+   "title": "카카오, 인적분할 앞두고 소액주주 달래기…자사주 매입·소각",
+   "outlet": "SR타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JTVZXa0lLNEJKTlBLSGIxcFRUR1RXWG54RUIyR0ZralNOZVJ6M3paTTI3QkR3cEVqNDZ2ZG1oaTU4UDJaVVUwWld0N2ZhNzlrOHlNTVNOSmRFWFRNZmR4UVFndEVNYmFF0gFrQVVfeXFMTUhGQmRVTmpCQ2gtN0plajVILW9jekQ5M2wyeGlxWmQ4eUVvbFZtQjZyLTdIUzJZMmxPTUdab2h5bkoyeDlmMk5EVW05ZXByVTBrLUpfUEhONFpZS2VwRi1nVkxFcTRDSVF0bDQ?oc=5",
+   "publishedAt": "2026-10-20T16:41:17+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-20T18:46:17+09:00"
   }
  ]
 };
