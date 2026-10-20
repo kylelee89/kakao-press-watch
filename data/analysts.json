@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-20T19:43:11+09:00",
+ "asOf": "2026-10-20T23:58:46+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -501,6 +501,21 @@
    "extra": "투자의견 하향 / 목표주가 하향",
    "ratingBase": "BUY",
    "targetBase": 49000
+  },
+  {
+   "date": "10/20",
+   "region": "국내",
+   "house": "KB",
+   "analyst": "이지은,이종건",
+   "rating": "BUY",
+   "ratingPrev": null,
+   "target": 39000,
+   "targetPrev": null,
+   "title": "에이전트 사업 방향성 긍정적, 관건은 실행력",
+   "point": "인적분할에 따른 지분가치 할인 반영, 목표주가 32% 하향. 3Q26 Preview: 플랫폼 성장 둔화로 컨센서스 하회 전망. AI 에이전트 사업 방향성은 긍정적, 관건은 실행력",
+   "extra": "목표주가 하향",
+   "ratingBase": null,
+   "targetBase": null
   },
   {
    "date": "10/19",
