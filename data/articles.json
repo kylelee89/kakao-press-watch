@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-20T19:33:02+09:00",
- "runCount": 4204,
+ "generatedAt": "2026-10-20T19:43:07+09:00",
+ "runCount": 4205,
  "price": {
   "price": "31,300",
   "pct": "-2.49",
-  "at": "2026-10-20T19:33:03+09:00"
+  "at": "2026-10-20T19:43:09+09:00"
  },
  "articles": [
   {
@@ -45459,6 +45459,50 @@
     ]
    },
    "firstSeenAt": "2026-10-20T19:10:40+09:00"
+  },
+  {
+   "id": "d2b96e2e49cd47e0",
+   "title": "[이슈 직썰] 카카오, 인적분할 앞두고 주주 설득…“블록딜·유상증자 계획 없다”",
+   "outlet": "직썰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UOGYta2YxcDlPUjA2dWZrbF9tM0xidERCNFpKcFBsamxXMHFROTFHRjJIcWZONl9EZ0VIQzdVMEtrU0laVFNBTEtySFA5WUY1NjVaUmk5SFhOeVMtblZRWkQxNzVjZS0w?oc=5",
+   "publishedAt": "2026-10-20T17:39:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-20T19:43:07+09:00"
+  },
+  {
+   "id": "6c76244181417772",
+   "title": "카카오 “블록딜·3자 유증·자회사 매각은 사실무근”",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDM0lzZFp6MXdIbEZpWWR2V1BnVmhxT0FCMDZHdDlxd2JqamlzaVpOeDFfN3I5bi1hX0s5SEhjdndSZkN1cGJfX2luMTVpLVl5eGMw0gFTQVVfeXFMUEMzSXNkWnoxd0hsRmlZZHZXUGdWaHFPQUIwNkd0OXF3YmpqaXNpWk54MV83cjluLWFfSzlISGN2d1JmQ3VwYl9faW4xNWktWXl4YzA?oc=5",
+   "publishedAt": "2026-10-20T17:44:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-20T19:43:07+09:00"
   }
  ]
 }
