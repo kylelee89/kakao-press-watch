@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-21T11:29:13+09:00",
- "runCount": 4212,
+ "generatedAt": "2026-10-21T13:33:32+09:00",
+ "runCount": 4213,
  "price": {
-  "price": "31,275",
-  "pct": "-0.87",
-  "at": "2026-10-21T11:29:15+09:00"
+  "price": "31,050",
+  "pct": "-1.58",
+  "at": "2026-10-21T13:33:33+09:00"
  },
  "articles": [
   {
@@ -46726,6 +46726,73 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-21T11:27:53+09:00"
+  },
+  {
+   "id": "44a6b4b6cf81e573",
+   "title": "'국민주' 쪼개는 카카오, 쪼개진 신뢰...인적분할 시험대",
+   "outlet": "대한데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SN0dmVlpDcTM0Nk9UOVJoZTA4MVluRUl5Y0ZZclItak5jallpdVEyamF1LUsyNUpTT2QtQXlHbTdvREtBTTMyV3QwMlZsdUtDZFNQU2l0QlRaT2EtNENkRnpOQXAxeDRMN2c?oc=5",
+   "publishedAt": "2026-10-21T12:01:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T13:33:32+09:00"
+  },
+  {
+   "id": "ceb0336a9b1794fb",
+   "title": "카카오 “인적분할 후 계열사 매각·블록딜 없다”",
+   "outlet": "헤럴드경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xTGo4RlNWNGZoYm8yWGlOSTliWXBaUC1BOTY3THJkWVV6bVBYcFpWSUVjRFVHemFUOG4zN1BzRFFTRnB5RW9xWmR1LXU0dmhoRkROVkdaYw?oc=5",
+   "publishedAt": "2026-10-21T11:31:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T13:33:32+09:00"
+  },
+  {
+   "id": "611835c0627bd07e",
+   "title": "카카오, 3Q 실적보다 ‘분할 이후 가치’가 변수…목표가 낮춰도 매수 유지",
+   "outlet": "토요경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KUWJTS2tFWDhOUm9wNEhRTnZ5dUhaT0pDWFVMbnJlQ2t3UEFHZURTQndhV1JsekJCUl9Xb3lXTVZPLV9VcHNKRjZZd3VQT0NKRTU5ci1FRlBiUHZya0JFN9IBb0FVX3lxTE05elNiYzhDeTFfLWJyd2NIazdKdVlSdWdma1lUb1R0NDZ4cjBHZ0lRcUgtczVfY0c2aG9DMEU1ei1EUEJCUkdwdldIUkkwb3o5UHFYUG40YW9iUGhKOU13NktJRENjQnFxeF9VVGUtYw?oc=5",
+   "publishedAt": "2026-10-21T10:17:17+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T13:33:32+09:00"
   }
  ]
 };
