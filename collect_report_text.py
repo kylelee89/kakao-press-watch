@@ -33,6 +33,7 @@ TELEGRAM_HANDLES = {
     "IBK": "Ibks_innovation_research",        # 기업분석부
     "키움": "KiwoomResearch",                 # 리서치센터
     "다올": "daolresearch",                   # 리서치센터
+    "메리츠": "meritz_research",               # 리서치센터(글이 많아 과거 백필은 어렵다)
 }
 SOURCES = ("hankyung", "naver", "broker", "telegram")
 MAX_TELEGRAM_PAGES = 20
