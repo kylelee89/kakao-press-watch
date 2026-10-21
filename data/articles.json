@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T05:04:31+09:00",
- "runCount": 4216,
+ "generatedAt": "2026-10-22T08:14:22+09:00",
+ "runCount": 4217,
  "price": {
   "price": "30,950",
-  "pct": "-1.90",
-  "at": "2026-10-22T05:04:32+09:00"
+  "pct": "+0.00",
+  "at": "2026-10-22T08:14:23+09:00"
  },
  "articles": [
   {
@@ -46896,6 +46896,65 @@
     ]
    },
    "firstSeenAt": "2026-10-21T19:02:44+09:00"
+  },
+  {
+   "id": "dfcadfc08cb65080",
+   "title": "[카카오, 인적분할 진통]① “구조개편, AI 경쟁력 높인 다지만”… “기업가치 훼손·주가하락” 주주·노조 ‘반발’ 넘어설까",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41d1NMSjJNb1gwYmVxQmg4YkVZdjJSZ2luOUZZbzdNdXJ6eUlXcWt4anNzd0tFYnBpaFZKQVUxczRGekJuOHI2OGVYZDRaSFNXQjlsXzgtYklrTmZ5cG5NTkZEZTNXeGI4?oc=5",
+   "publishedAt": "2026-10-22T07:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -10.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:지만",
+    "등락:하락",
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "하락",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-22T08:14:22+09:00"
+  },
+  {
+   "id": "457130d25d4a9353",
+   "title": "카카오, 인적분할 후 3,000억원 자사주 매입·소각…소액주주에 환원책 재확인",
+   "outlet": "웹이코노미",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wYnp6d3B4WWxINmhKWTVUWmRKU2ZfdjNXZFBJU3I0NlpETk5vV2lzMGRnMjJyVFBxUXJSSktSN2JIMGZILWZYNzFFMlgwd1Qxb2dIOWNyazhTaUp6WExXTHRpaHFCUk41MHlxREhxakZvdw?oc=5",
+   "publishedAt": "2026-10-22T07:52:25+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-22T08:14:22+09:00"
   }
  ]
 }
