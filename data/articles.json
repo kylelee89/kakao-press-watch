@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-21T10:19:42+09:00",
- "runCount": 4209,
+ "generatedAt": "2026-10-21T10:52:12+09:00",
+ "runCount": 4210,
  "price": {
-  "price": "31,150",
-  "pct": "-1.27",
-  "at": "2026-10-21T10:19:43+09:00"
+  "price": "31,350",
+  "pct": "-0.63",
+  "at": "2026-10-21T10:52:14+09:00"
  },
  "articles": [
   {
@@ -46632,6 +46632,49 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "c31e0e6b7d603aaf",
+   "title": "카카오, 용인 AI캠퍼스서 첫 그룹 IR…카카오X 3대 사업군 성장 전략 공개",
+   "outlet": "스페셜타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uaGFOdkh6RjVJaXlwQ3FlV0hiVFNSRldiU2lnZTlEWjBkRHZWWm0xd0llYXU4bHVmb09KbzRRbmFjTlQ1V05jRmktZkowVXNyakdLOTktZXZlbEVhMExRRFZvUG5XbTVCTVczZGpJOUptS3M?oc=5",
+   "publishedAt": "2026-10-14T10:13:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:52:12+09:00"
+  },
+  {
+   "id": "c67facf56fe665b1",
+   "title": "카카오 \"자회사 매각 소문 사실무근…경영진 평가에 '주가' 반영\"",
+   "outlet": "https://spt.co.kr/",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1weTNyaUtoenJRU19OTV9zdnY2QUZ6bGFDamJrakFzQXQwRU9VVkFYdWlvbWtiLUlzTGdrYzdkTW1QOWZ4ZXk3a0lKcXJ5Y25UaW9CLVdMcTFjQXYx?oc=5",
+   "publishedAt": "2026-10-20T16:27:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:52:12+09:00"
   }
  ]
 }
