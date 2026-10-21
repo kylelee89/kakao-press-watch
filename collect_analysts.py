@@ -75,8 +75,13 @@ def build():
         (recent if (r.get("ANL_DT") or "") >= CUTOFF else older).append(r)
 
     # 직전 목표가/의견: 같은 증권사의 컷오프 이전 최신 리포트에서 가져온다.
+    # 단 '목표주가 없음' 행(실적속보, 코멘트 등)은 건너뛴다. 안 그러면 같은 날 발간된
+    # 빈 행이 진짜 목표가를 덮어써서 직전값이 통째로 사라진다(KB 가 08/06 57,000 을
+    # 들고 있는데도 '직전 목표가 미상'으로 나오던 문제).
     prev = {}
     for r in sorted(older, key=lambda x: x.get("ANL_DT") or ""):
+        if not to_int(r.get("TARGET_PRC")):
+            continue
         prev[r.get("BRK_NM_SHORT_KOR")] = r
 
     reports, seen = [], set()
@@ -97,6 +102,7 @@ def build():
             "ratingPrev": (p or {}).get("RECOMM"),
             "target": to_int(r.get("TARGET_PRC")),
             "targetPrev": to_int((p or {}).get("TARGET_PRC")),
+            "prevDate": ((p or {}).get("ANL_DT") or "")[3:] or None,
             "title": no_middot(r.get("RPT_TITLE") or ""),
             "point": no_middot(". ".join(bullets[:3])),
             "extra": no_middot(" / ".join(
@@ -165,9 +171,11 @@ def chain_prev_targets(reports):
         # 따로 보여줄 수 있다(리포트 단위 변화만 남기면 8월 강등이 화면에서 사라진다).
         base_rating = group[0].get("ratingPrev")
         base_target = group[0].get("targetPrev")
+        base_date = group[0].get("prevDate")
         for r in group:
             r["ratingBase"] = base_rating
             r["targetBase"] = base_target
+            r["baseDate"] = base_date
         if len(group) < 2:
             continue
         for prev, cur in zip(group, group[1:]):
