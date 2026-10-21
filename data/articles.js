@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-21T13:33:32+09:00",
- "runCount": 4213,
+ "generatedAt": "2026-10-21T19:02:44+09:00",
+ "runCount": 4214,
  "price": {
-  "price": "31,050",
-  "pct": "-1.58",
-  "at": "2026-10-21T13:33:33+09:00"
+  "price": "30,950",
+  "pct": "-1.90",
+  "at": "2026-10-21T19:02:45+09:00"
  },
  "articles": [
   {
@@ -46793,6 +46793,109 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-21T13:33:32+09:00"
+  },
+  {
+   "id": "907c4237964974fd",
+   "title": "[기획] 김범수의 카카오 인적분할…3000억원 주주환원, 지배력은 어떻게 바뀌나",
+   "outlet": "더 이코노미",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tUHVYUzlwT0lqLXdUY25aT2tPbllZcmgyRnVLZHBWV25Cd2pqSVJmcEJJSzBCZG5DcUJxM0VTSGNlQWs3RGg5TGJlbUxlRTdjUG9uQ1BSbHJYYTEwVUhiMnpSZlk2YVd4UFBHcnU0Wnotek3SAXNBVV95cUxOLVB1WFM5cE9Jai13VGNuWk9rT25ZWXJoMkZ1S2RwVlduQndqaklSZnBCSUswQmRuQ3FCcTNFU0hjZUFrN0RoOUxiZW1MZUU3Y1BvbkNQUmxyWGExMFVIYjJ6UmZZNmFXeFBQR3J1NFp6LXpN?oc=5",
+   "publishedAt": "2026-10-21T12:37:36+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T19:02:44+09:00"
+  },
+  {
+   "id": "de9abac50af94693",
+   "title": "카카오, 인적분할 앞두고 주주 달래기...블록딜·유상증자 부인, 3000억원 환원 추진",
+   "outlet": "www.ppss.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iU0gxV1V6Y2U5RDVDazJ3QXJueHNBNm5Hek82MWhjYjBqdURxcklET2dIMHBUQlJnNjVWekRNMDN6Mk9LODhRd0FGeXVsSlctSTJvRnFhUmFEeXVlekNOZzBfWFE?oc=5",
+   "publishedAt": "2026-10-21T13:32:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T19:02:44+09:00"
+  },
+  {
+   "id": "be8a5caa473b8de8",
+   "title": "\"그래서 주가가 오르나요?\"···카카오의 설득에도 주주 여론 냉랭한 이유",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yU3p5NWVTSTd4N3lSc2RfcFRWTGZ5eE1UeVR6NzF2cDZ0QUlhSzI5R3hORnQxTFdmRWZ1V2YzVGlpdmJnS2FEc2J2WmtYYUpWUzBBbVM0Szk2WDBJVVhrcVFhY3JGekRfa0E?oc=5",
+   "publishedAt": "2026-10-21T17:02:36+09:00",
+   "tone": "중립",
+   "toneScore": -0.3,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T19:02:44+09:00"
+  },
+  {
+   "id": "4c63389895e72626",
+   "title": "\"왜 굳이 나누나\" 소액주주 쓴소리에…카카오 \"실적·주주환원으로 증명\"",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNGJlZ3FNNDdoQ1VYMVBOVHkzbG1pXzlGZUFhRXJYeHJwTHZnczhVNUpmb1BUbTNWSDJmdzVjaW5CTkRaVzhvNm83NC1xU3NJem54NElzRlpVck5nZnpsbkQ4TExsUG43MEx0b0dMWTZUVGJiRHpSWjFaNlFXWmZhcA?oc=5",
+   "publishedAt": "2026-10-20T16:50:41+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:증명"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "증명"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T19:02:44+09:00"
   }
  ]
 };
