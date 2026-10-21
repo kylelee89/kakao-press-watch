@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-21T08:08:50+09:00",
- "runCount": 4208,
+ "generatedAt": "2026-10-21T10:19:42+09:00",
+ "runCount": 4209,
  "price": {
-  "price": "31,550",
-  "pct": "+0.00",
-  "at": "2026-10-21T08:08:51+09:00"
+  "price": "31,150",
+  "pct": "-1.27",
+  "at": "2026-10-21T10:19:43+09:00"
  },
  "articles": [
   {
@@ -46173,6 +46173,465 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-21T08:08:50+09:00"
+  },
+  {
+   "id": "169526c83a209cfd",
+   "title": "[카카오 밸류업①] \"인적분할때 기업가치 32% 증가?\"…사례 따져보니",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZYW1XTmFGT0hTaWhRTVZCeU9aMUVXejF3X0ZicXh1LWlfeXg2clpudUw2WFBfX25hRGZrbkRVZFltWGFaZkpDeEpyZXp6TXZGMlZmbndXNFdnUkVyWGJYRDJmT3dLeVZQWng4Q2hGcUw?oc=5",
+   "publishedAt": "2026-10-21T08:31:57+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "2cb496d427257e9b",
+   "title": "[모닝 리포트] \"카카오, 인적분할 전까진 관망…AI 수익화 관건\"",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93RmxCSGZUNUhoTFZKcE0wYlRhVkNEREk2SG9qcEpLTnNBcG4yMFZBRUJLV1V0MTcwLVdfUENCVExUOElGRnhnemlQZ2hiNnluSGxnLXNOOWJjbHBu?oc=5",
+   "publishedAt": "2026-10-21T09:11:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "57c0069e13fcdf80",
+   "title": "한국투자증권 \"카카오, 내년 1월 인적분할 후 투자 판단​해야\"",
+   "outlet": "글로벌이코노믹",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2FWOUVRQWZWcC1uRXBMYXhROWc1ZnV6OXhPVkxwY2JRNnJMVnBDcHpfQnJja3R5YldCamUxZWdpUVRxR1MxaEJLS3lEN1JkRldvMEN4dmRkQ3l2bjZtMFM1OUZlamM0MkY2TEZUcjdqc0ZjSFQzVjJrZjF4bkFQYWVMWmE2bk5Y?oc=5",
+   "publishedAt": "2026-10-21T10:10:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "56af13f4b3531d8a",
+   "title": "카카오, 2차 소액주주 간담회 개최…인적분할 이후 성장 전략 설명",
+   "outlet": "테크월드",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVkdZOFpRengwZnJ2dlJpYzJkNVBfLW5UdTgzRENsLVU2ampzY3hKUmpHLWdlV2Y5SE8zb09qcmoteEp3alpzWTM4WVp1d3d1cFhJMHFqblFLVEI0U2tKU3hpcEZCRjJ1?oc=5",
+   "publishedAt": "2026-10-21T08:20:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "d92f5d218069b461",
+   "title": "카카오, 직원 이어 주주 달래기…인적분할 우려에 블록딜·유상증자설 부인",
+   "outlet": "리더스팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sVWlQZTFrUmpveTJoZWlxYkc0UW9pV0pUSmZsVk9qM1JqY0Nob1c3YVhFTDJLalBjc3RiVkpyazc1X2hDdDk5OTFHSXZ4ZEF4MFVXSE42M2xfWnJtYk8tVGFTNzNTWFNtZFlyZmRKQ18?oc=5",
+   "publishedAt": "2026-10-21T09:11:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:우려"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "bd51a463f599e846",
+   "title": "카카오, 소액주주 간담회 개최…“주주가치 제고 최선”",
+   "outlet": "newslinejeju.com",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CS3ZFZ2lYYmd6RUxXeXdwYmhsbXBEWFBzRk5ROUp0dlZNbjc1VXF5YUZLdVNVcHZmZ0VNRVBBa243bmJFeUR2TXp1a1BMRkpzQXZnRWRCMU1jdElIdkhDUzNGVUtnQl9yRWczRGVEbw?oc=5",
+   "publishedAt": "2026-10-21T09:19:47+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "0cd7f12210a97382",
+   "title": "한투증권, 카카오 목표가↓…\"3분기 영업익, 전망치 밑돌 듯\"",
+   "outlet": "연합뉴스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CQkplYXJpOXF6cVJwbzg5MkVlb2N5YjJabllZS1ZSRmFDQ19CTjROc0VVT0dzT2RzWXFlcXlDRUdNblg1NnhSRThHV0RsY2NqN1k0eFhIRFFyTGlXZFZHMtIBYEFVX3lxTE1CQkplYXJpOXF6cVJwbzg5MkVlb2N5YjJabllZS1ZSRmFDQ19CTjROc0VVT0dzT2RzWXFlcXlDRUdNblg1NnhSRThHV0RsY2NqN1k0eFhIRFFyTGlXZFZHMg?oc=5",
+   "publishedAt": "2026-10-21T08:06:21+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "667e16e64c530497",
+   "title": "소액주주 만난 카카오…\"경영진 블록딜·자회사 매각 없다\" [현장+]",
+   "outlet": "Daum",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5waHRVTXdZSVFkX29xY2s0TnVKbkpneWtFRVUzUjR1aWpqVjJWdEI2VVI5RHdVMzNEQTR1V1lBTGtfN2U1RkE?oc=5",
+   "publishedAt": "2026-10-20T18:11:35+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "27b92483b92d0799",
+   "title": "[기업] 카카오 경영진 \"성과급·보상에 주가 반영할 것\"",
+   "outlet": "YTN",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ybUozTERXR2RzMkdJSHBEZ2tSME03XzlfV210THNrNGhmUU5LVUJ3SDJVYjgxOVRkbHZtQWo3Rkt2SXdhSkpiUFVGZm1uNGkwMm0wUnJYeV9RRkpmUFE?oc=5",
+   "publishedAt": "2026-10-20T16:26:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "ee960a5b2c3722aa",
+   "title": "카카오, 목표주가 줄하향···AI 성과 불확실성 지속",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2R2dWN0RrNHhGVVEzbjhzSmk1WG5TSWk5aWF6QWw2ZW5zYVAwcnVaWDFJeVdiNDF3VUpseXZlNGJ4Ni1ESXVKMkhFc0pfZTNEdmJmSThvd2Z6clJKRlZOQTkwSTZhQWZEOFE?oc=5",
+   "publishedAt": "2026-10-21T08:35:45+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "3173a04aeccd1196",
+   "title": "한투證 “카카오, 3분기 실적 부진 전망… AI 수익화 전략부터 보여줘야” - 조선비즈",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWC03NHBSRlk5NnBZNzl2b0p5QXlyc25mNzloYkhhcjgwUWM2cTVOYTM1cGhBdENUQXk4UTNqZ2ZpZFBlOFlwYklHcjM0WTV3RG1RN2wycXF5VlZxX3E2M01kNG5OeC1adWZyV3R0N0x5NjhfUWotYXVsd091NEJGNXJfRFZLS0820gGcAUFVX3lxTFBKcnFqOHNlRDYyMmh5UUlnU2ZzLTdQQ3hmY29KSmVPODQyVmQ4OS1IRGoyWFBqa0lnOVZmbzI4N3ZzaVdkVVlCbFRZSEhiVzRrLTZ3RTV0UXlxRkRRakdIZHN6RGZXSkhtWUVfaVhCMzdzMlJFSlctTHpMS0k2N3lJVUtYU0pEMXBHUE5Pc0tfVkRLeEFOUlZwRUtETA?oc=5",
+   "publishedAt": "2026-10-21T08:41:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "9fa3f2f73b33143b",
+   "title": "한투證 “카카오, 3분기 실적 기대 밑돌 듯”…목표주가 하향 조정 [줍줍리포트]",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GRWRJUzRVWGhZb1JTdHNMYXQzV1owTTc4V2NHR0xhOEhqNl9iVGdUT0o5V3ZuRlBBalZzTjNneW5VZmlBalhOTDhrd3JydElDUEHSAVNBVV95cUxQLXRlNEdkTnF0dGh2RW5ENE14Z0NsXzZSeGpoc002bDRUZ2NSVTJQMHFYbjVWYVAwMkR0T0V6ZVE3VHdQQzJjQWh6Ul9Ta25naVlRcw?oc=5",
+   "publishedAt": "2026-10-21T08:34:31+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "0f503cf8794d2018",
+   "title": "KB證 카카오, 3분기 실적 기대치 하회 전망…목표가↓",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KQ3gzY1pDR3l2SkxpMUVJTHVoRnplNmxqdGIyUUVGdm0tSk9XSTgyYXlUZTVYQlpDZXgwd05QUjFWLVpoUVNYd2hvTThGNkJWdy1qSGI1NW95d9IBWEFVX3lxTE5ud0NySlhja25EYzFVNms4TGxkM2VFQmdlcFE2eVR6bEJvN0VqVTVWRFJLUURmTHZSVzZwaW9nWXhqZGJmNUlCMy1yQmJRczdDMThlOWpRRFc?oc=5",
+   "publishedAt": "2026-10-21T08:33:21+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "7a95abc010b09274",
+   "title": "한국투자증권 \"카카오, 3분기 실적 하회…목표가 11.7% 하향\"",
+   "outlet": "중앙신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQOG13ekxrX29BSmFCUklzLUd5REZ0WXNZQ3FBeDdJZjJYV3FOdkhjSG1RY3FlUTFaX1IwUjJ0WDdoeEhWTHhKdy1KR1lwZVY2VkJVYl9HbGd6dWJ0aWtVSk1mYVBySkpjMEVRM29FTk8tZnpJY3N3dEdUalpXNHUyc1BmOWVYdTF0OHF1Q0lIbXJhUmVwRkNxUW1LSHRTRWctRFNMUjdTLW5LMU1WUUlydnB2OGhzdndGUXZpQWFPNURaR0VqN2VmeXF6RmRJMy0wcWtTbHNOaGVZZElkdXFxZGNBVDlqb3ExLUtLS3l2YW9nMXJKUm1qcHlsWTBhZWg5UWxFU2dQMEFOUjV0ck80ajV3SGEtR0NHYnlvLUNRaUxxNm11SWZHRGtObzc5SVp2c2JqTGJrMG1EVGo2MmQ4MTRmUDVhOUpqd21hYw?oc=5",
+   "publishedAt": "2026-10-21T08:01:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "850a9abc04dc29af",
+   "title": "\"카카오 3분기 영업익, 시장 전망치 밑돌 것… 목표가↓\"-한투 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnS21pYzhwazFTdEZzWm95UVlwcFh2X2Y2YkRCYUlfaXMxUVhnM1BpQTdTSFRFckNhR2VHd1F5c29IOHJvQjhkSnBpWTJkZklBUlFuUlBUM09Ka0hBcFF0T2FIblp5UHdkNms5Qkd3NHZ4ODJQaFHSAXtBVV95cUxOS0dsRktZZEVUaHBNall1a3pTRVR6QzR6bW9jdVczUmkzeG1TSnppdUlhdFpMVC1tNjlmN2NwYTZaeGNQdU5hS3NKeDhnLTd0WlJtWFlDT3FhZUVORU9QTEJuNlBfejlYTEUzNUZWRU0xMFNUcHdMSGpSWmc?oc=5",
+   "publishedAt": "2026-10-21T08:43:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "840a72575a97d1bc",
+   "title": "한국투자증권 \"카카오, 3분기 실적 부진 전망…AI 수익화 전략이 관건\"",
+   "outlet": "컨슈머타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PcC1lUzFRNWh3Nkl1NEs0WVpEekdDWjJ2VmxfNjF6ck5wTHZ6aUFEa2hMMDJwZ0plQU9INmFIS1ZrWXVwX3I0SWN4OE5EUUlEM3c4ZXdXclQxbTdYUThaSGh0cldDNGhaNWc?oc=5",
+   "publishedAt": "2026-10-21T08:37:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "d1cf983aada481a5",
+   "title": "한투증권, 카카오 목표주가 5만3천원으로 11.7% 하향 : 경제",
+   "outlet": "재경일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43ZkFaekRQSmx3X3VsLUxTRVNTbGJQLVg0RTQ0SmJXUl9QOEVETUp4UnVfYURHa3VfSFQ5bkJEU2lfZjhNSVJBVGh1SQ?oc=5",
+   "publishedAt": "2026-10-21T08:16:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "d14d5565b3a5e023",
+   "title": "[카카오 밸류업②] AI 청사진에도 증권가 목표가 줄하향…소액주주도 우려 |",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMWDJ6MWotNXB0VmpjMldpcDQxUlJaRFJMbFlfVjBaYUZqU080SlJmc2JLT3lzeXVYdUZCNktHWDNRbmV4NldkemVhUzVIUl9XMmlNVDR6YkJ1NGtVLXVoVGtMcXRMS3p5X3QyT1U2eEtLdHNr?oc=5",
+   "publishedAt": "2026-10-21T08:45:29+09:00",
+   "tone": "우려",
+   "toneScore": -2.6,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "적대어:소액주주",
+    "적대어:우려",
+    "전언감쇠:증권가"
+   ],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
+  },
+  {
+   "id": "4bfb0944db4c3a18",
+   "title": "카카오 3000억 소각 재확인…블록딜설엔 \"사실무근\"",
+   "outlet": "자본시장뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOUVRwS3dHdGdtc3lTX19VQkloNEtCamtFTWZPQm8tM3U0UjVlWjFOQ0lQRkxpcTFlUUsxZS16T281cTVkT1lPT2tLRHgwX2JDLVc5UlRPSFJLWk9BVHpmdkRWemdIbFE?oc=5",
+   "publishedAt": "2026-10-21T09:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T10:19:42+09:00"
   }
  ]
 }
