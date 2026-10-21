@@ -19,8 +19,23 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 HANKYUNG = "http://consensus.hankyung.com/analysis/"
 NAVER = "https://m.stock.naver.com/api/research/stock/035720?page=1&pageSize=40"
 BROKER_APIS = {"현대차": "https://mprod.hmsec.com/api/v1/searchResearch"}
-TELEGRAM_HANDLES = {"현대차": "ssi_game"}
+# 하우스 -> 공개 텔레그램 채널 핸들. 애널리스트 개인 채널이 리포트 전문을 더 많이 담지만,
+# 없는 곳은 리서치센터 채널도 자기 하우스 카카오 리포트를 올린다(교보 08/24, 흥국 10/07 확인).
+# 핸들은 추측으로 못 찾는다. 반드시 실제로 열리는 것만 넣는다.
+TELEGRAM_HANDLES = {
+    "KB": "GamestockEasy",                   # 이지은 (인터넷/게임)
+    "한국투자": "internet_hy",                 # 정호윤 (인터넷/게임/엔터)
+    "현대차": "ssi_game",                     # 최승호 (인터넷/게임)
+    "하나": "internetgameLJH",                # 이준호 (AI/인터넷/게임)
+    "미래에셋": "mirae_internet",              # 임희석 (인터넷/SW/게임)
+    "교보": "KyoboRSC",                       # 리서치센터
+    "흥국": "lovequant",                      # 리서치센터
+    "IBK": "Ibks_innovation_research",        # 기업분석부
+    "키움": "KiwoomResearch",                 # 리서치센터
+    "다올": "daolresearch",                   # 리서치센터
+}
 SOURCES = ("hankyung", "naver", "broker", "telegram")
+MAX_TELEGRAM_PAGES = 20
 
 
 def now():
@@ -287,7 +302,9 @@ class Collector:
             raise RuntimeError("확인된 공개 채널 없음")
         base = "https://t.me/s/" + handle
         before = None
-        for _ in range(6):
+        # 리서치센터 채널은 전 섹터를 올려 글이 많다. 목표 날짜보다 사흘 이상 과거까지
+        # 내려가면 멈추되, 거기 닿을 때까지는 넉넉히(최대 20쪽) 넘긴다.
+        for _ in range(MAX_TELEGRAM_PAGES):
             url = base + ("?before=" + str(before) if before is not None else "")
             parser = TelegramParser()
             parser.feed(self.fetch(url).decode("utf-8", errors="replace"))
@@ -298,20 +315,45 @@ class Collector:
                 except ValueError:
                     continue
                 text = row["text"]
-                if delta <= 2 and len(text) >= 500 and "카카오" in text and ("TP" in text or "목표주가" in text):
-                    matches.append((delta, row))
+                if delta > 2 or len(text) < 400 or not is_kakao_report(text):
+                    continue
+                matches.append((delta, row))
             if matches:
                 matches.sort(key=lambda pair: pair[0])
                 row = matches[0][1]
                 return row["text"], 3, "https://t.me/" + handle + "/" + str(row["id"])
             if not parser.messages:
                 break
+            # 이 쪽의 가장 오래된 글이 이미 목표일보다 한참 과거면 더 내려갈 필요가 없다.
+            dates = [row["date"] for row in parser.messages if row.get("date")]
+            if dates and min(dates) < (day - timedelta(days=3)).isoformat():
+                break
             oldest = min(row["id"] for row in parser.messages)
             if before is not None and oldest >= before:
                 break
             before = oldest
-        raise RuntimeError("최대 6페이지 내 날짜/본문 조건 일치 메시지 없음")
+        raise RuntimeError(f"최대 {MAX_TELEGRAM_PAGES}페이지 내 날짜/본문 조건 일치 메시지 없음")
 
+
+def is_kakao_report(text):
+    """이 글이 '카카오 리포트'인지 본다. 본문에 카카오가 스쳐 지나가는 글은 걸러야 한다.
+
+    리서치센터 채널은 전 섹터를 올려서, 롯데웰푸드 리포트 본문에 카카오가 한 번
+    언급됐다는 이유로 잘못 잡히는 일이 실제로 있었다. 그래서 '머리말'(첫 줄 + 앞부분)에
+    카카오가 종목으로 등장하는지를 본다.
+    """
+    head = "\n".join(text.splitlines()[:4])[:200]
+    if "035720" in head:
+        return True
+    # 머리말에 카카오가 아닌 다른 종목코드가 먼저 박혀 있으면 그 종목 리포트다.
+    other = re.search(r"\((\d{6})\)", head)
+    if other and other.group(1) != "035720":
+        return False
+    if "카카오게임즈" in head or "카카오뱅크" in head or "카카오페이" in head:
+        return False
+    if "카카오" not in head:
+        return False
+    return any(k in text for k in ("TP", "목표주가", "투자의견", "적정주가", "인적분할"))
 
 def atomic_write(path, text):
     path.parent.mkdir(parents=True, exist_ok=True)
