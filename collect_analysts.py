@@ -103,6 +103,11 @@ def build():
             "target": to_int(r.get("TARGET_PRC")),
             "targetPrev": to_int((p or {}).get("TARGET_PRC")),
             "prevDate": ((p or {}).get("ANL_DT") or "")[3:] or None,
+            # 와이즈리포트 원문 주소를 만드는 데 필요한 값. 무료 ajax 가 그냥 준다
+            # (로그인은 PDF 내려받기만 열어준다). 이 값들 자체는 공개 정보다.
+            "rptId": r.get("RPT_ID"),
+            "brkCd": r.get("BRK_CD"),
+            "fpath": r.get("FILE_NM"),
             "title": no_middot(r.get("RPT_TITLE") or ""),
             "point": no_middot(". ".join(bullets[:3])),
             "extra": no_middot(" / ".join(
