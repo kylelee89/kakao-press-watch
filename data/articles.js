@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-21T10:52:12+09:00",
- "runCount": 4210,
+ "generatedAt": "2026-10-21T11:27:53+09:00",
+ "runCount": 4211,
  "price": {
-  "price": "31,350",
-  "pct": "-0.63",
-  "at": "2026-10-21T10:52:14+09:00"
+  "price": "31,300",
+  "pct": "-0.79",
+  "at": "2026-10-21T11:27:54+09:00"
  },
  "articles": [
   {
@@ -46675,6 +46675,57 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-21T10:52:12+09:00"
+  },
+  {
+   "id": "65725c5c838df149",
+   "title": "한국투자 \"카카오 목표주가 하향, 내년 1월 인적분할 전까지 지켜봐야\"",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81OWlxTHNyYU9LVUZwRDFSZkVCLVhpRDliTm4xb01QYVB5MlFnX2tfWlVnOElKRFdmRmgyVG9ZNnlzeUM0MVNoS0pOLTV4QURQUVhLTG9nV3M4YnhmVFFrUy0zREhRdlZVLWYzYmNOV2h1a0U?oc=5",
+   "publishedAt": "2026-10-21T11:03:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T11:27:53+09:00"
+  },
+  {
+   "id": "bab6357b02fc6eec",
+   "title": "\"삼양식품, 中 신공장 효과 주목할 시점\"…\"카카오, 내년 인적분할 전까진 신중해야 할 때\" [株토피아]",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YZGh3cFNLMmM0SHdld0h6NTN0U0ZpUzdtRmtGSXgydloxaEhtaDFWNzdGVUUyUlJDR3B1SUgzRHVwNzVaVGZUcUNwNy1nR0lGVnc3UEstUUx3UQ?oc=5",
+   "publishedAt": "2026-10-21T11:09:37+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "호재어:주목할"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "주목할"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-21T11:27:53+09:00"
   }
  ]
 };
