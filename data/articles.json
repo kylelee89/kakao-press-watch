@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T10:34:03+09:00",
- "runCount": 4218,
+ "generatedAt": "2026-10-22T10:39:23+09:00",
+ "runCount": 4219,
  "price": {
-  "price": "30,650",
-  "pct": "-0.97",
-  "at": "2026-10-22T10:34:04+09:00"
+  "price": "30,600",
+  "pct": "-1.13",
+  "at": "2026-10-22T10:39:23+09:00"
  },
  "articles": [
   {
@@ -46981,6 +46981,27 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-22T10:34:03+09:00"
+  },
+  {
+   "id": "4878dc605f01f583",
+   "title": "분할 주총 전 덮칠 SM 항소심…카카오뱅크 대주주 자격 흔들까",
+   "outlet": "파이낸셜투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EQzF2aC14TXpvbUFqZGRYbEpMeVRmM05HdktnQWVrLW4xdUlXMTFVVzAzUjdyWm5JcDRUbC1HTGJQWG51MXBmcUtHLU5BQ3N0RTYzek5YY1NVRWFYT1B3RUY3Q3d3VWkya25J0gFuQVVfeXFMUE5JZThWc0ppSmRzeURzaVFzWE5ndVlQbWl1T3laeFBreXctVG1aZWVXanVyc09QanFGSFBtNW1RdVN0X1JYTEUxaWNnOFMxZTMtZmFQMTEtaWhfSk9scmM0bDNQaWQ5cUZhMHBYR0E?oc=5",
+   "publishedAt": "2026-10-21T16:00:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-22T10:39:23+09:00"
   }
  ]
 }
