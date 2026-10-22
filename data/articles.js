@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-22T15:07:24+09:00",
- "runCount": 4233,
+ "generatedAt": "2026-10-22T15:27:56+09:00",
+ "runCount": 4234,
  "price": {
   "price": "30,300",
   "pct": "-2.10",
-  "at": "2026-10-22T15:07:25+09:00"
+  "at": "2026-10-22T15:27:58+09:00"
  },
  "articles": [
   {
@@ -47129,6 +47129,60 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-22T14:26:07+09:00"
+  },
+  {
+   "id": "c6529e2cf98b614b",
+   "title": "카카오, 소액주주 의문 해명…\"인적분할, 오히려 가치 높일 것\" : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2lXNUZldTB0MGdJOXlidTkwbTFCZlZZSnhGTHJ0QThua0dFM19Vb2ZkSW1rZGxFcV9lOVRvVWh1SjF0ci1FYjNQbXJwc1ZLd1NWZVh0UzZSdXhzbVF4WGlqMGQ2WkctTWZ0dHpTalRtOTM0N0dEanhweVd1aWJ1Ymc5b0djUTJ0Y3A2UnlMVQ?oc=5",
+   "publishedAt": "2026-10-21T16:55:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.4,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:의문"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "의문"
+    ]
+   },
+   "firstSeenAt": "2026-10-22T15:27:56+09:00"
+  },
+  {
+   "id": "23e3b34bb5389fdb",
+   "title": "카카오, 해외 매출 뒷걸음…카카오X 수익화 과제 : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXB2X2t4RVJKS2g1UmNaOVFxXzlDNERQNTk3a3NaWXk3c2hJTlpfX3JlRFpsQlkzS29lMEVvQ21Ud3dyeEFnRDVXSFQxT1JrS0NjNE9VM09PTEpjdU9YWFd1U2djTWJlallGRmVmQktOLTg0V2hzWElkZmpnTi0yMGRqMm1QZjEtUmxhYTBPTQ?oc=5",
+   "publishedAt": "2026-10-21T17:05:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:과제"
+   ],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-10-22T15:27:56+09:00"
   }
  ]
 };
