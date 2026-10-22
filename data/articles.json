@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T17:11:15+09:00",
- "runCount": 4239,
+ "generatedAt": "2026-10-22T17:31:49+09:00",
+ "runCount": 4240,
  "price": {
-  "price": "30,100",
-  "pct": "-2.75",
-  "at": "2026-10-22T17:11:16+09:00"
+  "price": "30,150",
+  "pct": "-2.58",
+  "at": "2026-10-22T17:31:50+09:00"
  },
  "articles": [
   {
@@ -47183,6 +47183,29 @@
     ]
    },
    "firstSeenAt": "2026-10-22T15:27:56+09:00"
+  },
+  {
+   "id": "80cd28096a953935",
+   "title": "카카오 노조 “인적분할 책임 회피…김범수 창업자가 직접 나서야”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBleFVtOS1fOGdsSmlFcVdXYnpwNHF0QTE1V2d0U0NkRkxTYnZCYko2ZGhCU1E3b2xhSXBKUVFfTFUzMXFfWjBtS3pKWTFOWkN4WU1aUU92TTlVZWFCX2JxNXJLYTRPR0xT?oc=5",
+   "publishedAt": "2026-10-22T16:40:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-22T17:31:49+09:00"
   }
  ]
 }
