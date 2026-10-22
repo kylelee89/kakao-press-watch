@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T12:02:20+09:00",
- "runCount": 4224,
+ "generatedAt": "2026-10-22T12:22:42+09:00",
+ "runCount": 4225,
  "price": {
   "price": "30,650",
   "pct": "-0.97",
-  "at": "2026-10-22T12:02:21+09:00"
+  "at": "2026-10-22T12:22:42+09:00"
  },
  "articles": [
   {
@@ -47031,6 +47031,29 @@
     ]
    },
    "firstSeenAt": "2026-10-22T11:21:18+09:00"
+  },
+  {
+   "id": "0b38a84cee0d4ac4",
+   "title": "메리츠證 \"카카오, 인적분할로 지주",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBySmY1WHpSQkladDFLNXVxamxDcUdDS2ZqUU1jdTVTamZlN1dQRVZGdDI1SWxtNTNpZHFLdE5ZekxGMFVhY1djUU1jcExsUWx1SzJuOUVWTFJDenRvZUhzNW5PalloaXhL?oc=5",
+   "publishedAt": "2026-10-22T06:27:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-22T12:22:42+09:00"
   }
  ]
 }
