@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-23T00:10:05+09:00",
- "runCount": 4246,
+ "generatedAt": "2026-10-23T08:16:23+09:00",
+ "runCount": 4247,
  "price": {
-  "price": "30,200",
-  "pct": "-2.42",
-  "at": "2026-10-23T00:10:06+09:00"
+  "price": "30,350",
+  "pct": "+0.00",
+  "at": "2026-10-23T08:16:24+09:00"
  },
  "articles": [
   {
@@ -47324,6 +47324,35 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-23T00:10:05+09:00"
+  },
+  {
+   "id": "557955e23fff75ab",
+   "title": "카카오, 소액주주 의문 해명…\"인적분할, 오히려 가치 높일 것\"",
+   "outlet": "블로그",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6VHF5aDJ0YjliVF9zSlYzdUx5Q1VxdXJsWmlHN1otZGpSeGpaS25jM0l4amFUajQzTDQyV0kyNGdnMUt5bUNpaFpHQlZQOGdqd2dsLS04RGRPUQ?oc=5",
+   "publishedAt": "2026-10-21T16:55:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.4,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:의문"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "의문"
+    ]
+   },
+   "firstSeenAt": "2026-10-23T08:16:23+09:00"
   }
  ]
 }
