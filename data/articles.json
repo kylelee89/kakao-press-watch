@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T12:22:42+09:00",
- "runCount": 4225,
+ "generatedAt": "2026-10-22T12:43:11+09:00",
+ "runCount": 4226,
  "price": {
-  "price": "30,650",
-  "pct": "-0.97",
-  "at": "2026-10-22T12:22:42+09:00"
+  "price": "30,550",
+  "pct": "-1.29",
+  "at": "2026-10-22T12:43:11+09:00"
  },
  "articles": [
   {
@@ -47054,6 +47054,33 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-22T12:22:42+09:00"
+  },
+  {
+   "id": "d6ee50018bb7b38a",
+   "title": "\"분할 결정은 경영진이, 책임은 주주가?\"…카카오노조, 인적분할 책임 회피 정면 비판",
+   "outlet": "메디컬투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QbmJ0cWc0TVlJZV9ZUHpWRzROOXRSdzJJZG5TN0JST1FRcHJjUEw3d2ptdkJwdkZNYmEzTFFVT3BvWUF6dTFXUW1LMi14dUNxc2xmclllNklqTWRyUG94bWdiNXI5UDFCVGxoVg?oc=5",
+   "publishedAt": "2026-10-22T12:21:42+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-22T12:43:11+09:00"
   }
  ]
 }
