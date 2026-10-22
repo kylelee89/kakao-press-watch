@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T19:03:14+09:00",
- "runCount": 4245,
+ "generatedAt": "2026-10-23T00:10:05+09:00",
+ "runCount": 4246,
  "price": {
-  "price": "30,100",
-  "pct": "-2.75",
-  "at": "2026-10-22T19:03:15+09:00"
+  "price": "30,200",
+  "pct": "-2.42",
+  "at": "2026-10-23T00:10:06+09:00"
  },
  "articles": [
   {
@@ -47303,6 +47303,27 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-22T19:03:14+09:00"
+  },
+  {
+   "id": "01cc2afe66178c76",
+   "title": "카카오, 경영진 평가에 주가 반영…＂금융 자회사 안 판다＂",
+   "outlet": "한국경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZeDlIcWwwMGNpZHB3LWJHdnpYUkozbWgyN2RtUmdRS2pBb3VhOThQNGNRSmVVZHJwYVFWYVUzLUMxWkZZTzJTb0NPZ3BTTm44cHYyOHU4N21MVkZKdDgtWkkyMnMwMW5jZkVBekxtUTA5VmJfX1Zn?oc=5",
+   "publishedAt": "2026-10-20T18:02:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-23T00:10:05+09:00"
   }
  ]
 }
