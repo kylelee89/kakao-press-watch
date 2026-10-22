@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-22T14:05:27+09:00",
- "runCount": 4230,
+ "generatedAt": "2026-10-22T14:26:07+09:00",
+ "runCount": 4231,
  "price": {
-  "price": "30,400",
-  "pct": "-1.78",
-  "at": "2026-10-22T14:05:29+09:00"
+  "price": "30,350",
+  "pct": "-1.94",
+  "at": "2026-10-22T14:26:10+09:00"
  },
  "articles": [
   {
@@ -47081,6 +47081,54 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-22T12:43:11+09:00"
+  },
+  {
+   "id": "0ec35ee1e3d798ac",
+   "title": "\"분할 결정은 경영진이, 책임은 주주가?\"…카카오노조, 인적분할 책임 회피 정면 비판 By 알파경제 alphabiz",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kY0JXa0x4VTlkdEZBWTFfSjFPNEEzWnZ5VGhHWnFkM25XY0RGYWpEMDA5SWJOYnp3cVp1V1M2anFKZzU3QUdoSW56LVpjWmsyN0gyZHdVNE1RWWtNOUVMZUxmS0hJRDFjVS10N3NORTE?oc=5",
+   "publishedAt": "2026-10-22T14:15:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-22T14:26:07+09:00"
+  },
+  {
+   "id": "bac95205ae134b0d",
+   "title": "'5000만의 카카오톡', 생활형 AI로…분할 앞둔 카카오AI의 승부수",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcmwxMnFYX0ZzMXFDbDRubXlOUXBPaFdteGxEYlJhQTh1M1lkWF93VDZsVFA5bTZmeHdrVzZQRFRYSXBncy1MOXVOR2ZRbzRZV0ppeDFtOXJtZ1AxbHZfUUZFUEtTNWYwTFRLRzhaWWZXcXc4czd0ZW1PUGpyQWt1dUx1XzVKcWRxS0k4ZV9mcnpMOUxyT25SMmhCQXVkZkRXbmVjbXVlamx5a21ZWXBPUkVuTlowZjFPTFMwZ2oxX29fZFlFeFJPWUVqVmZHaU81VFdvQ3Zta2ViS05CeHJlTnduYXJXbENhOEVLMWJR?oc=5",
+   "publishedAt": "2026-10-22T14:02:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-22T14:26:07+09:00"
   }
  ]
 };
