@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-22T18:33:47+09:00",
- "runCount": 4243,
+ "generatedAt": "2026-10-22T18:54:33+09:00",
+ "runCount": 4244,
  "price": {
   "price": "30,150",
   "pct": "-2.58",
-  "at": "2026-10-22T18:33:50+09:00"
+  "at": "2026-10-22T18:54:36+09:00"
  },
  "articles": [
   {
@@ -47259,6 +47259,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-22T17:52:22+09:00"
+  },
+  {
+   "id": "cba34ba7167631d3",
+   "title": "카카오, 인적분할 앞두고 CEO 총출동",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GN0xzX0NNdE9jTmdndGl4cHZ0c2FqTEFpLVlpTVFJME1zQ3I0MEhtWlQyOG5tM0FHbXhSMFhSb0ZFazRpZEg2UE9qSVI5a1Rlb1NPYThxOW92V0Z2T05qdEx1TUR5V0lv?oc=5",
+   "publishedAt": "2026-10-21T05:41:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-22T18:54:33+09:00"
   }
  ]
 };
