@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-22T11:00:50+09:00",
- "runCount": 4221,
+ "generatedAt": "2026-10-22T11:21:18+09:00",
+ "runCount": 4222,
  "price": {
-  "price": "30,700",
-  "pct": "-0.81",
-  "at": "2026-10-22T11:00:50+09:00"
+  "price": "30,650",
+  "pct": "-0.97",
+  "at": "2026-10-22T11:21:19+09:00"
  },
  "articles": [
   {
@@ -47002,6 +47002,35 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-22T10:39:23+09:00"
+  },
+  {
+   "id": "62d9f6424dbfa75c",
+   "title": "[그래픽] 카카오 인적분할에 반발하는 소액주주·노조",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFbjY4ZnJaX0Rsa0t3NEctOHliMmdfbk96dlRfN0JnZ0lyTFNEZGlWSXV0WURFZEZpeURsSVV3akM0QmVYNG04OGx6UDJKT1lwZWlUdEttQlRoazlNcEstZjRCdE9wSGxN?oc=5",
+   "publishedAt": "2026-10-22T11:07:48+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:반발"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-22T11:21:18+09:00"
   }
  ]
 };
