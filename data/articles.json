@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T18:54:33+09:00",
- "runCount": 4244,
+ "generatedAt": "2026-10-22T19:03:14+09:00",
+ "runCount": 4245,
  "price": {
-  "price": "30,150",
-  "pct": "-2.58",
-  "at": "2026-10-22T18:54:36+09:00"
+  "price": "30,100",
+  "pct": "-2.75",
+  "at": "2026-10-22T19:03:15+09:00"
  },
  "articles": [
   {
@@ -47282,6 +47282,27 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-22T18:54:33+09:00"
+  },
+  {
+   "id": "a737d930b3587536",
+   "title": "네이버·카카오, 올해 역대 최대 매출 쓴다…커머스·광고 효과↑",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VVEhsNkRGTUxzeUphX3NMWEp4WTFpSHZ1Y1loWWwxQ0VQd1ZXNnVybHFoY0xyeDhVYkhyWEpUTEpuV0I2bVdrMDN3ZzcwZw?oc=5",
+   "publishedAt": "2026-10-22T16:07:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-22T19:03:14+09:00"
   }
  ]
 }
