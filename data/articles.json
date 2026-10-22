@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T08:14:22+09:00",
- "runCount": 4217,
+ "generatedAt": "2026-10-22T10:34:03+09:00",
+ "runCount": 4218,
  "price": {
-  "price": "30,950",
-  "pct": "+0.00",
-  "at": "2026-10-22T08:14:23+09:00"
+  "price": "30,650",
+  "pct": "-0.97",
+  "at": "2026-10-22T10:34:04+09:00"
  },
  "articles": [
   {
@@ -46955,6 +46955,32 @@
     ]
    },
    "firstSeenAt": "2026-10-22T08:14:22+09:00"
+  },
+  {
+   "id": "ca4f92cdd260102c",
+   "title": "미래에셋證 카카오게임즈, 내년 신작 출시 기대…목표주가 67% 상향 조정",
+   "outlet": "아주경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mNmdQVGdJQUcxb3RYRjlLTklncHFEeGtEaVdxMmZGcGNmU3h3OVdvWE1Sb2ZtaFVXVElXMnliREJXLXR6YUQ1bDdKYzY3d0dmRzY1RzdabjN0Z9IBWEFVX3lxTE45Y2ctMzdOa2REQTh4RC14SGlnM1NaOHBubDEycU5wX0RNWmVIMkpNd3V2YTZvcThyOGVnemZ6MVdIc2RBNzhNTEY0dnQ0QzVESUNla01EQU8?oc=5",
+   "publishedAt": "2026-10-22T08:45:45+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-22T10:34:03+09:00"
   }
  ]
 }
