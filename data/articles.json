@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-22T17:31:49+09:00",
- "runCount": 4240,
+ "generatedAt": "2026-10-22T17:52:22+09:00",
+ "runCount": 4241,
  "price": {
-  "price": "30,150",
-  "pct": "-2.58",
-  "at": "2026-10-22T17:31:50+09:00"
+  "price": "30,100",
+  "pct": "-2.75",
+  "at": "2026-10-22T17:52:25+09:00"
  },
  "articles": [
   {
@@ -47206,6 +47206,59 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-22T17:31:49+09:00"
+  },
+  {
+   "id": "b00316aa888ce0b0",
+   "title": "[특징주] 목표주가 상향에…카카오게임즈 주가 9%↑",
+   "outlet": "뉴스드림",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSGxYb3M3WFFUa2gtUE4yV0hfeGxXV0Eyd3VEYW9HMWd6R3lBX2RGTnZVUDhxSlE1Z3lBVC1Ca3QwVkNKMjgwZlpNUjU0aXVaU2dzNnBIWWg2Z3VYaXBBUFByWlRhaWJqejVJ0gFuQVVfeXFMTVk1czJ0T19GaVVDU1RoMXhkWHlwSlU4RGFZUDdjeFM4OFZBZGdILXVwTjlaR3NqOWlfSkZBUkVGVUw5b19LNVVKQkthMFFJcVh2S0hHWk5md1B1Y2xmal9jd2hYaExVbE1veW5JTmc?oc=5",
+   "publishedAt": "2026-10-22T12:34:34+09:00",
+   "tone": "긍정",
+   "toneScore": 5.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:주가 9%↑",
+    "호재어:목표주가 상향"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [
+     "주가 9%↑",
+     "목표주가 상향"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-22T17:52:22+09:00"
+  },
+  {
+   "id": "b47e900ab80d91b2",
+   "title": "카카오 노조, 김범수 '정조준'···분할 실패하면 주주 탓?",
+   "outlet": "현대경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wNG1hUEp4S056ZXZqZTdrTE1QYjB3ZzZRVHNHVWdCck9QQy1weDJhSnJrYkl5bzRDdm5jMEN1VlR1c3lRYmp3RVVoVDBtOEJIc0J3cndXV1dOcWRxQ3VwT2V5em9Vak9ndDlv0gFrQVVfeXFMTjA0bWFQSnhLTnpldmplN2tMTVBiMHdnNlFUc0dVZ0JyT1BDLXB4MmFKcmtiSXlvNEN2bmMwQ3VWVHVzeVFiandFVWhUMG04QkhzQndyd1dXV05xZHFDdXBPZXl6b1VqT2d0OW8?oc=5",
+   "publishedAt": "2026-10-22T16:41:49+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-22T17:52:22+09:00"
   }
  ]
 }
