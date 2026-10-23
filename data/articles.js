@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-24T04:06:32+09:00",
- "runCount": 4269,
+ "generatedAt": "2026-10-24T07:05:39+09:00",
+ "runCount": 4270,
  "price": {
   "price": "29,800",
   "pct": "-1.81",
-  "at": "2026-10-24T04:06:33+09:00"
+  "at": "2026-10-24T07:05:40+09:00"
  },
  "articles": [
   {
@@ -47496,6 +47496,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-24T04:06:32+09:00"
+  },
+  {
+   "id": "b2ee9cf5323593ba",
+   "title": "미래에셋증권, 10월 넷째주 카카오게임즈 등 10종목 매수 추천",
+   "outlet": "빅터뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13cjNkTC0wODJBb0Rla2hBb0IzcmZ5VGFYc1RRbVBRVVZnTkQ0em1ROUFGdXgzOGVNNjgxTU03OUFMcEhNN0ZVOTAyRW9XVGt4eUsyem5uenMyclg4Wlp1Qm14SlEyMTg?oc=5",
+   "publishedAt": "2026-10-23T22:37:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-24T07:05:39+09:00"
   }
  ]
 };
