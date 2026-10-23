@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-23T08:16:23+09:00",
- "runCount": 4247,
+ "generatedAt": "2026-10-23T11:28:33+09:00",
+ "runCount": 4248,
  "price": {
-  "price": "30,350",
-  "pct": "+0.00",
-  "at": "2026-10-23T08:16:24+09:00"
+  "price": "29,950",
+  "pct": "-1.32",
+  "at": "2026-10-23T11:28:51+09:00"
  },
  "articles": [
   {
@@ -47353,6 +47353,82 @@
     ]
    },
    "firstSeenAt": "2026-10-23T08:16:23+09:00"
+  },
+  {
+   "id": "fe41cb65fe179033",
+   "title": "\"분할 결정은 경영진이, 책임은 주주가?\"…카카오노조, 인적분할 책임 회피 정면 비판 : 알파경제TV",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WYzFnVTBaOGpnVFVRNURmQk9MQWxFRVZpUnFLZHk2RENGQ3lNTlJGT1VZUERmOVdIZE0xRzViOEtzNzdBNTJvU3pfNnpxbkJubEhmXzJlWFBKQ1NycmwxVTlvUF9pQU5nNHE5X2h3?oc=5",
+   "publishedAt": "2026-10-22T17:13:05+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-23T11:28:33+09:00"
+  },
+  {
+   "id": "82c8a15627c16cf3",
+   "title": "'도깨비의세계' 흥행에…카카오게임즈 주가 연일 고공행진",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqWHRQNXB6YnhnYS1sSGZEX0llWGxEZWNfVmd5VWU2UU9lRmVHZGY3VjI3Q1VwZEZnR3RyMWZ0M2R0Y0Y3dkZTZHhpd2VlRGoxYXBHMWkxWkZFZw?oc=5",
+   "publishedAt": "2026-10-23T10:19:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-23T11:28:33+09:00"
+  },
+  {
+   "id": "be3124178b210d46",
+   "title": "카카오 인적분할 소액주주 간담회, 자사주 3,000억 매입·소각 설명",
+   "outlet": "스페셜타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxMGJ2Wnd1RzJBUGdwb2hXbkI2UGZsM3lvT0gyTHR1Y0hGNXZybElhU3FPRWl1MVJ1ei13SzdpZ0w4bU5GbFFJbDNnS1BjT1JqNHBGRWVHRUFnOHo3bXpEM1pjaWF2RDdsSHNLVHFGN3ZaZFE?oc=5",
+   "publishedAt": "2026-10-20T17:07:42+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-23T11:28:33+09:00"
   }
  ]
 }
