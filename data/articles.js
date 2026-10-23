@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-23T14:34:49+09:00",
- "runCount": 4258,
+ "generatedAt": "2026-10-23T15:15:24+09:00",
+ "runCount": 4259,
  "price": {
-  "price": "29,750",
-  "pct": "-1.98",
-  "at": "2026-10-23T14:34:51+09:00"
+  "price": "29,800",
+  "pct": "-1.81",
+  "at": "2026-10-23T15:15:25+09:00"
  },
  "articles": [
   {
@@ -47450,6 +47450,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-23T12:10:43+09:00"
+  },
+  {
+   "id": "06391d1485783298",
+   "title": "카카오 쪼개기 막힐까…노조, 주주 표 모은다",
+   "outlet": "SBS Biz",
+   "outletGroup": "방송",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43T0lHanZUMlBrWjhwRzJLeTFEei04OGpGV3p3UjJXR2VDZ1l2cVM1NFlTWXl3Ml83b0JnandFa25vZW12M05mT0dUaTluZk5nOGFr0gFYQVVfeXFMT1RuYlp0UnoyLVZaSlE5X196SGlCY2pjQXU5NlBNOFk0Q1Z4RnRJN1l2dTEtR0twd3BNZmxRbGkzbHpBRXhzcWtQZ3lGY05pVnhob3BGRUJ4Yg?oc=5",
+   "publishedAt": "2026-10-23T11:29:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "비판프레임",
+   "messages": [],
+   "signals": [
+    "적대어:쪼개기"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기"
+    ]
+   },
+   "firstSeenAt": "2026-10-23T15:15:24+09:00"
   }
  ]
 };
