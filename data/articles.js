@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-25T03:04:17+09:00",
- "runCount": 4275,
+ "generatedAt": "2026-10-25T05:42:18+09:00",
+ "runCount": 4276,
  "price": {
   "price": "29,800",
   "pct": "-1.81",
-  "at": "2026-10-25T03:04:18+09:00"
+  "at": "2026-10-25T05:42:19+09:00"
  },
  "articles": [
   {
@@ -47586,6 +47586,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-25T03:04:17+09:00"
+  },
+  {
+   "id": "7178af53bc5e5e69",
+   "title": "카카오, 국제 AI 학회서 MoE 학습 최적화·모델 경량화 성과 공개",
+   "outlet": "AI타임스",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTnZxVnZ3VmxUelpuNUlpVFhLMDhVX1ZyMDJudjRkSDBldHdwbjVQamxxSFVVaE1FUlhTeDZmbVdGS1lMRGtkeUlVOVhOZC1qRWlDVnRBNWQtR3RTbk5Cd0dWdF9HNmdjNFE?oc=5",
+   "publishedAt": "2026-10-08T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-25T05:42:18+09:00"
   }
  ]
 };
