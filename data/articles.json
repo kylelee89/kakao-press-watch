@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-24T23:27:30+09:00",
- "runCount": 4274,
+ "generatedAt": "2026-10-25T03:04:17+09:00",
+ "runCount": 4275,
  "price": {
   "price": "29,800",
   "pct": "-1.81",
-  "at": "2026-10-24T23:27:31+09:00"
+  "at": "2026-10-25T03:04:18+09:00"
  },
  "articles": [
   {
@@ -47565,6 +47565,27 @@
     ]
    },
    "firstSeenAt": "2026-10-24T14:42:41+09:00"
+  },
+  {
+   "id": "67f0523779606000",
+   "title": "네이버 ‘교섭’ 책임 카카오 ‘분할’ 책임…네카오 노조 ‘정면충돌’",
+   "outlet": "한스경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rOGctUHZfNU1MR0VhR1NKbDZJZ2NCUHpYSER1NDV0dlZLQWo0ZERDTlJPOS1nLVNDQ3YxVXZHOU9BZ0VwVDhyZk8xV1RRaVpXZVk1SjItbl9UV1RyRkxldi15TmRQN2RiZVMw0gFvQVVfeXFMT3JRTnBUaHdlbjRIbmNvWE5RZ29IRFVVUHJXaTQ2QzFPdmI0R19mM01tOFkwNllneWVpekt1X0t5eHdVUzJHdXVlVHhDX0VhTGJnNHE1TG5wNGgtU3F6MGJvQmFucmRYNzQ3ak95dGlJ?oc=5",
+   "publishedAt": "2026-10-24T18:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-25T03:04:17+09:00"
   }
  ]
 }
