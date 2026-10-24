@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-24T09:36:42+09:00",
- "runCount": 4271,
+ "generatedAt": "2026-10-24T14:42:41+09:00",
+ "runCount": 4272,
  "price": {
   "price": "29,800",
   "pct": "-1.81",
-  "at": "2026-10-24T09:36:43+09:00"
+  "at": "2026-10-24T14:42:42+09:00"
  },
  "articles": [
   {
@@ -47517,6 +47517,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-24T07:05:39+09:00"
+  },
+  {
+   "id": "3391aacb4c79ea67",
+   "title": "카카오 | 카나나 스페이스 공개, AI 수익화와 인적분할이 관건",
+   "outlet": "네이버 프리미엄콘텐츠",
+   "outletGroup": "매체 미상",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGxHNXNDVG1UUzdOd2U4bEV5eEpERllsVEhRdWRQSVRoeGdjR09HcWlSMC1rTmktWjdwdTBKMy14NFplNXI5RmVSanJvaXJhOFBpa0Nkb1JpRXNYM1FqUFQ3RXpRU1NzaF92RHd4bHNPUGJncWlCRE5ZRVBOZnZNaEVlWmVVVVoz?oc=5",
+   "publishedAt": "2026-10-16T15:58:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-24T14:42:41+09:00"
+  },
+  {
+   "id": "c6a97dad994094be",
+   "title": "게임주 일제히 하락한 날...카카오게임즈만 6% 올랐다",
+   "outlet": "게임와이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HZDRZRlN0ZkRoR3ZYblJBejlEeEpScXRBc1V5V0x5eV9SRkNLUmNvTmhGNDBEWG1fRk5ZYVVUU0RvVTBMdDRmQ1pzUi1fVnd5bGF3eGdNeGZ1VkdRUzJ0Vk4wSUVjWDTSAWpBVV95cUxPR0gxajVCZUtBSW1uYTZiYjBZLTI4Mzh0X0R3dmRtdzRNcXVaWFNaNWg4MkZKOHBScm9NbmFBTWRvZzlhYXcxRWFycFYtSUd0VEMtTkZFRzVKT25wcnJ0ekpUelBsMkhKcEVB?oc=5",
+   "publishedAt": "2026-10-24T12:17:28+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:하락"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "하락"
+    ]
+   },
+   "firstSeenAt": "2026-10-24T14:42:41+09:00"
   }
  ]
 };
