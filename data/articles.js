@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-26T21:49:09+09:00",
- "runCount": 4321,
+ "generatedAt": "2026-10-27T04:11:49+09:00",
+ "runCount": 4322,
  "price": {
   "price": "29,550",
   "pct": "-1.34",
-  "at": "2026-10-26T21:49:10+09:00"
+  "at": "2026-10-27T04:11:50+09:00"
  },
  "articles": [
   {
@@ -47706,6 +47706,35 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-26T18:43:32+09:00"
+  },
+  {
+   "id": "6fa692124fe59f59",
+   "title": "\"블록딜 없다\" 진화 나선 카카오…소액주주들, 인적분할에 우려 쏟아내 By EBN",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00U0l2UDlMMHMzUUpJdFdFb3M4VkJTb3JFNmJaQ0JaQ0NqM2V1cEtmZmJ6U29yNHdSb2pZSGYxVUl2aHRQZHJ6ZkZTWDVXbUQ3VXlzaXhYYzd5R0RDTk90X1RLLVlSR19wNnVmS0Fvd2E?oc=5",
+   "publishedAt": "2026-10-20T17:11:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.4,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주",
+    "적대어:우려"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주",
+     "우려"
+    ]
+   },
+   "firstSeenAt": "2026-10-27T04:11:49+09:00"
   }
  ]
 };

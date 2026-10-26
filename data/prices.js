@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-10-26T21:49:46+09:00",
+  "generatedAt": "2026-10-27T04:12:09+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
