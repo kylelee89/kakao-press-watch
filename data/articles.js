@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-26T06:41:07+09:00",
- "runCount": 4283,
+ "generatedAt": "2026-10-26T09:10:27+09:00",
+ "runCount": 4284,
  "price": {
-  "price": "29,800",
-  "pct": "-1.81",
-  "at": "2026-10-26T06:41:09+09:00"
+  "price": "29,700",
+  "pct": "-0.83",
+  "at": "2026-10-26T09:10:28+09:00"
  },
  "articles": [
   {
@@ -47607,6 +47607,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-25T05:42:18+09:00"
+  },
+  {
+   "id": "727704d0342c26a6",
+   "title": "[카카오, 인적분할 진통]②김범수, 사법리스크에 ‘경영공백’ 장기화…“2심 판결 임박, 리더십 회복 ‘중대고비’”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LOGpjRTlHWldwTkJfRW9QU1N6SnUtdkdsdFBUeV9MLXVWQW4xaXlZaWlya2tKY1pZTVJPMEFZMGNXX0x5YTZ0NGJBNGV5cE82ZC04V091RlBBaXJRNXprNEdUZmY3bHA5?oc=5",
+   "publishedAt": "2026-10-26T07:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-10-26T09:10:27+09:00"
   }
  ]
 };
