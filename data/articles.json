@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-26T09:10:27+09:00",
- "runCount": 4284,
+ "generatedAt": "2026-10-26T10:07:13+09:00",
+ "runCount": 4285,
  "price": {
-  "price": "29,700",
-  "pct": "-0.83",
-  "at": "2026-10-26T09:10:28+09:00"
+  "price": "29,350",
+  "pct": "-2.00",
+  "at": "2026-10-26T10:07:30+09:00"
  },
  "articles": [
   {
@@ -47634,6 +47634,28 @@
     ]
    },
    "firstSeenAt": "2026-10-26T09:10:27+09:00"
+  },
+  {
+   "id": "37c3e3d044be59d4",
+   "title": "한국투자증권, 카카오 목표주가 하향, 3분기 실적 둔화 전망",
+   "outlet": "Traders Union",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2tQc0tPVENFZF82Z1MwVmRhQXR6TGM3aTNYLTJsaGEwSDdnYlIyQUNvdDExbmJfSUVNdnFyUUpmd0VILWRidDFTNXEybUVjdjRCWlhQeUhfcUcwd05sSlRIdjZoc3ZCOEhHdy1FV0wwOFY2eElLRWQ3YXMtTHdvQWI0V1ZBd05nVGZpOFZqNFE5dw?oc=5",
+   "publishedAt": "2026-10-21T08:37:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-26T10:07:13+09:00"
   }
  ]
 }
