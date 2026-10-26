@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-10-26T18:23:12+09:00",
+  "generatedAt": "2026-10-26T18:43:43+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
@@ -284,11 +284,11 @@ window.KMW_PRICES = {
         86100,
         84400,
         82500,
-        80800
+        80900
       ],
       "base": 74700,
-      "last": 80800,
-      "cumPct": 8.17,
+      "last": 80900,
+      "cumPct": 8.3,
       "annPct": -4.55,
       "error": null
     },
@@ -344,11 +344,11 @@ window.KMW_PRICES = {
         10170,
         10900,
         11610,
-        11200
+        11180
       ],
       "base": 8970,
-      "last": 11200,
-      "cumPct": 24.86,
+      "last": 11180,
+      "cumPct": 24.64,
       "annPct": -5.13,
       "error": null
     },
@@ -404,11 +404,11 @@ window.KMW_PRICES = {
         179300,
         175500,
         172600,
-        174600
+        174500
       ],
       "base": 219500,
-      "last": 174600,
-      "cumPct": -20.46,
+      "last": 174500,
+      "cumPct": -20.5,
       "annPct": 1.14,
       "error": null
     },
@@ -464,11 +464,11 @@ window.KMW_PRICES = {
         194200,
         190900,
         185400,
-        182600
+        183900
       ],
       "base": 222500,
-      "last": 182600,
-      "cumPct": -17.93,
+      "last": 183900,
+      "cumPct": -17.35,
       "annPct": -0.22,
       "error": null
     },
@@ -584,11 +584,11 @@ window.KMW_PRICES = {
         34400,
         34150,
         33900,
-        33700
+        33650
       ],
       "base": 37500,
-      "last": 33700,
-      "cumPct": -10.13,
+      "last": 33650,
+      "cumPct": -10.27,
       "annPct": -1.2,
       "error": null
     },
@@ -644,11 +644,11 @@ window.KMW_PRICES = {
         57100,
         55600,
         51400,
-        48750
+        48700
       ],
       "base": 71900,
-      "last": 48750,
-      "cumPct": -32.2,
+      "last": 48700,
+      "cumPct": -32.27,
       "annPct": 4.59,
       "error": null
     },
@@ -764,11 +764,11 @@ window.KMW_PRICES = {
         34650,
         34400,
         34650,
-        34300
+        34350
       ],
       "base": 32050,
-      "last": 34300,
-      "cumPct": 7.02,
+      "last": 34350,
+      "cumPct": 7.18,
       "annPct": 0.47,
       "error": null
     },
@@ -944,11 +944,11 @@ window.KMW_PRICES = {
         5963.84,
         5786.4,
         5783.42,
-        5548.49
+        5543.22
       ],
       "base": 6852.58,
-      "last": 5548.49,
-      "cumPct": -19.03,
+      "last": 5543.22,
+      "cumPct": -19.11,
       "annPct": -1.97,
       "error": null
     }
