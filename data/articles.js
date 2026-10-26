@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-27T06:49:09+09:00",
- "runCount": 4325,
+ "generatedAt": "2026-10-27T07:09:35+09:00",
+ "runCount": 4326,
  "price": {
   "price": "29,550",
   "pct": "-1.34",
-  "at": "2026-10-27T06:49:10+09:00"
+  "at": "2026-10-27T07:09:36+09:00"
  },
  "articles": [
   {
@@ -47735,6 +47735,30 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-27T04:11:49+09:00"
+  },
+  {
+   "id": "b450f1cd2395093d",
+   "title": "[카카오, 인적분할 진통]③2030년 16조 매출 ‘안갯속’…“AI 수익화·킬러 서비스 부재 ‘험로’”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Jd3BTenhoUG1xRjhGY01GTDBybWdneHNDQ2VXNTZ4aGFBS0dxZFNSbllZYVZUUjRZdFJ3Z2kyc3B2MVVzc3YtZUlhQ3pYNVppV1J1LXhEeG1odmdOWjNsZll0N245LXZm?oc=5",
+   "publishedAt": "2026-10-27T07:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "카카오AI 2030 매출 6조"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-27T07:09:35+09:00"
   }
  ]
 };
