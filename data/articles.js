@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-27T19:08:51+09:00",
- "runCount": 4363,
+ "generatedAt": "2026-10-27T19:25:57+09:00",
+ "runCount": 4364,
  "price": {
   "price": "29,650",
   "pct": "+0.34",
-  "at": "2026-10-27T19:08:53+09:00"
+  "at": "2026-10-27T19:25:59+09:00"
  },
  "articles": [
   {
@@ -47870,6 +47870,53 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-27T18:27:21+09:00"
+  },
+  {
+   "id": "8d37a2060c2a2045",
+   "title": "카카오그룹, 주요 계열사 CEO '첫 공동 IR' 개최",
+   "outlet": "뉴스드림",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vaVJXeTBuR2l3RkxEeExSZG5vdGN4dmNLcVFhSlc5RHdjaEZZYVNKY2NzY3dQOUZKQVBaUU5CamdtT3pFdDFNaFNOLTA0MWhhSkNBanNIczBXT1dhTHlqNzBYMHFDNXE1RWhocjRB0gFuQVVfeXFMT29pUld5MG5HaXdGTER4TFJkbm90Y3h2Y0txUWFKVzlEd2NoRllhU0pjY3Njd1A5RkpBUFpRTkJqZ21PekV0MU1oU04tMDQxaGFKQ0Fqc0hzMFdPV2FMeWo3MFgwcUM1cTVFaGhyNEE?oc=5",
+   "publishedAt": "2026-10-14T09:34:32+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-27T19:25:57+09:00"
+  },
+  {
+   "id": "f5d166359bc21ef8",
+   "title": "[진단] “카카오 3만 원도 깨졌다”… 주주 달래기에도 이틀째 3만 원 하회 ‘AI 수익화’ 증명해야",
+   "outlet": "이코노미톡뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DUzdCdVBuVVNCVndiZ21wd1lwSkNNQ2ZnQlAyOEx2VThuN1JGVVgtZGZjSElndlZ6ZXkxcUU0X1k3elZUdEVfclY0SUFOSEpfM25zM1ZYSWhDaW9nTjNkd2xNUXBUYzFseXVCcw?oc=5",
+   "publishedAt": "2026-10-27T19:13:54+09:00",
+   "tone": "중립",
+   "toneScore": -1.6,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "적대어:증명"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "증명"
+    ]
+   },
+   "firstSeenAt": "2026-10-27T19:25:57+09:00"
   }
  ]
 };
