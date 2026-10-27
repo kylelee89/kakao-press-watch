@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-27T17:25:34+09:00",
- "runCount": 4358,
+ "generatedAt": "2026-10-27T17:46:02+09:00",
+ "runCount": 4359,
  "price": {
-  "price": "29,700",
-  "pct": "+0.51",
-  "at": "2026-10-27T17:25:35+09:00"
+  "price": "29,650",
+  "pct": "+0.34",
+  "at": "2026-10-27T17:46:04+09:00"
  },
  "articles": [
   {
@@ -47828,6 +47828,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-27T15:21:54+09:00"
+  },
+  {
+   "id": "34c4d0fb8611ed7e",
+   "title": "[단독] 카카오 채용 ‘AI면접관’ 도입…AI로 쓴듯한 이력서에 송곳질문",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5azZGSmowYXVuZHFGa283S3ZKdXZ1Tm84bGU0c2lhZlpWNEZQT3MzRXQ1UGRyZEV2N2dGZVBobExSR1pBbGo4OGdlV2w5UQ?oc=5",
+   "publishedAt": "2026-10-27T10:36:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-27T17:46:02+09:00"
   }
  ]
 };
