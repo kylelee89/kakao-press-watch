@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-27T15:01:26+09:00",
- "runCount": 4351,
+ "generatedAt": "2026-10-27T15:21:54+09:00",
+ "runCount": 4352,
  "price": {
-  "price": "29,550",
-  "pct": "+0.00",
-  "at": "2026-10-27T15:01:26+09:00"
+  "price": "29,500",
+  "pct": "-0.17",
+  "at": "2026-10-27T15:21:55+09:00"
  },
  "articles": [
   {
@@ -47801,6 +47801,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-27T10:34:23+09:00"
+  },
+  {
+   "id": "962fffc5f24d8453",
+   "title": "[파업, 암초 만난 카카오 下] 보상에서 고용까지 번진 노사갈등…AI 성장전략 발목 잡히나",
+   "outlet": "중앙이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EQ2JkZjRFRnlsYkVzTkNpWm82N09XNWtRMkc4cko3cWU3cVNIWjRuMi03RmdjSDBDUmpiYUwwajY4Ri0zVGRlRjZ6a092SGUxTnNmRDc5SVl5UW85d2FLcG5lYTBPMDhJUmVkUF9XY1FOZw?oc=5",
+   "publishedAt": "2026-10-27T14:57:22+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "고용/근로조건 유지"
+   ],
+   "signals": [
+    "적대어:발목"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "발목"
+    ]
+   },
+   "firstSeenAt": "2026-10-27T15:21:54+09:00"
   }
  ]
 };
