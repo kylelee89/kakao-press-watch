@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-27T10:13:40+09:00",
- "runCount": 4336,
+ "generatedAt": "2026-10-27T10:34:23+09:00",
+ "runCount": 4337,
  "price": {
-  "price": "29,500",
-  "pct": "-0.17",
-  "at": "2026-10-27T10:13:42+09:00"
+  "price": "29,750",
+  "pct": "+0.68",
+  "at": "2026-10-27T10:34:25+09:00"
  },
  "articles": [
   {
@@ -47780,6 +47780,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-27T07:50:32+09:00"
+  },
+  {
+   "id": "84ea35add3bc4753",
+   "title": "카카오, SM 지분 카카오엔터로 일원화 검토 [시그널]",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QZFVfSVpXRHFvT19OTnZYaDMzenp6aTNNdm5uZHYyQlVCd2ZtQzEzQWlnakdFVWY1cDhsVzVfdVI2SzRqRU1BRkY3dWxxaUNaWVlj?oc=5",
+   "publishedAt": "2026-10-26T20:14:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-27T10:34:23+09:00"
   }
  ]
 };
