@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-29T00:56:31+09:00",
- "runCount": 4392,
+ "generatedAt": "2026-10-29T05:58:56+09:00",
+ "runCount": 4393,
  "price": {
   "price": "29,900",
   "pct": "+1.36",
-  "at": "2026-10-29T00:56:32+09:00"
+  "at": "2026-10-29T05:58:57+09:00"
  },
  "articles": [
   {
@@ -48046,6 +48046,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-29T00:56:31+09:00"
+  },
+  {
+   "id": "8d26973956b846a8",
+   "title": "카카오 3만50원으로 1.86% 상승…광고·커머스 회복 여부 관건",
+   "outlet": "잡포스트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMc3ZYbl9VMXI5eGQ4blNIcmtCTmRlVThqb3h0cnB2SVNPMlRJUjFNZGxQV3ZTbzRneWFGYTA0UnkxM0M0dnBMXzQxNFFrTElTZmtxaW9vT0dyV201eHhrX2c2XzVwcFNnRXluOTVzaVZOZ9IBckFVX3lxTFBMc3ZYbl9VMXI5eGQ4blNIcmtCTmRlVThqb3h0cnB2SVNPMlRJUjFNZGxQV3ZTbzRneWFGYTA0UnkxM0M0dnBMXzQxNFFrTElTZmtxaW9vT0dyV201eHhrX2c2XzVwcFNnRXluOTVzaVZOZw?oc=5",
+   "publishedAt": "2026-10-28T14:15:08+09:00",
+   "tone": "긍정",
+   "toneScore": 3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:1.86% 상승"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [
+     "1.86% 상승"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-29T05:58:56+09:00"
   }
  ]
 };
