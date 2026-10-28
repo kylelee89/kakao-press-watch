@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-28T18:20:14+09:00",
- "runCount": 4391,
+ "generatedAt": "2026-10-29T00:56:31+09:00",
+ "runCount": 4392,
  "price": {
   "price": "29,900",
   "pct": "+1.36",
-  "at": "2026-10-28T18:20:15+09:00"
+  "at": "2026-10-29T00:56:32+09:00"
  },
  "articles": [
   {
@@ -48022,6 +48022,30 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-28T17:59:29+09:00"
+  },
+  {
+   "id": "43eb81ea5a8dcdda",
+   "title": "카카오 정신아 호(號), ‘생활형 AI 운영체제’ 만들어 기술·자본·신뢰 ‘세 토끼’ 잡는다",
+   "outlet": "이코노미트리뷴",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94bThVNzJVczctQUJ6Y0tuVUlUcndxZ3Bod1IyWV9GUjV6c2FuM1hURDFRMDBRSlVPTklXajNsSFdkR2QtTGY4TWJRZ3hGRHRGdGgzb1JrSmZKZmdIOEdScUNSajdPQzZpQzcwci0yVnJsS2hXYllz?oc=5",
+   "publishedAt": "2026-10-28T22:40:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-29T00:56:31+09:00"
   }
  ]
 };
