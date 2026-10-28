@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-28T15:14:22+09:00",
- "runCount": 4381,
+ "generatedAt": "2026-10-28T15:34:57+09:00",
+ "runCount": 4382,
  "price": {
-  "price": "29,850",
-  "pct": "+1.19",
-  "at": "2026-10-28T15:14:24+09:00"
+  "price": "29,800",
+  "pct": "+1.02",
+  "at": "2026-10-28T15:34:58+09:00"
  },
  "articles": [
   {
@@ -47946,6 +47946,35 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-28T13:51:52+09:00"
+  },
+  {
+   "id": "383c4862e32a2734",
+   "title": "최저가에도 카카오에 등돌린 증권가…매수지만 목표가 30% '뚝' - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93cjF0SmdfajE0bWZlNlZWMVpxMVRIZ2pPRDhYdndSUndSRnFjS0paSXFjRW9jaUc4YlQwQW5xbUVVeE53ZklTS0V5YWV3YW9jT3dJQ1prNXBJRlUzaXdSN1FjZWRKdV9v0gFuQVVfeXFMT2E0NGlUYVdVNnEyWEtTT0Zqb0FjbW1Nay1UdGFSTTdkYVVUUWVHSUlrOTIzSVFVMGpsSWFqSDYzRmVhSHpmSkhncG1Ccm5jVG93eXN6U3F4WEdvWXdkNS05bFJ1cGZTMGUtRTVJNXc?oc=5",
+   "publishedAt": "2026-10-28T15:27:24+09:00",
+   "tone": "우려",
+   "toneScore": -5.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "등락:뚝",
+    "적대어:등돌",
+    "전언감쇠:증권가"
+   ],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "뚝",
+     "등돌"
+    ]
+   },
+   "firstSeenAt": "2026-10-28T15:34:57+09:00"
   }
  ]
 };
