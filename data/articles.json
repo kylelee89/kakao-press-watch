@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-28T13:31:05+09:00",
- "runCount": 4376,
+ "generatedAt": "2026-10-28T13:51:52+09:00",
+ "runCount": 4377,
  "price": {
-  "price": "30,100",
-  "pct": "+2.03",
-  "at": "2026-10-28T13:31:08+09:00"
+  "price": "30,050",
+  "pct": "+1.86",
+  "at": "2026-10-28T13:51:54+09:00"
  },
  "articles": [
   {
@@ -47917,6 +47917,35 @@
     ]
    },
    "firstSeenAt": "2026-10-27T19:25:57+09:00"
+  },
+  {
+   "id": "bccaff6eb132c4f7",
+   "title": "‘쪼개기 상장’ 막히자…대기업 인적분할 급증 [ESG 뉴스 5]",
+   "outlet": "한경매거진",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kdlJpb2JRcmJyeXNqN1h0X1NBVlhlOFFJdGFPWm1Va0pyOU5rN0hGTS10TWNUQUJoSmRKUnFUb05lbkFLeTlNWlc3blkweFRpVHdrOTF3dUhpYmhJMF9MaVc3cDdPeFpFWl9EVA?oc=5",
+   "publishedAt": "2026-09-07T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "비판프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:쪼개기",
+    "스케어쿼트:쪼개기 상장"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개기",
+     "쪼개기 상장"
+    ]
+   },
+   "firstSeenAt": "2026-10-28T13:51:52+09:00"
   }
  ]
 }
