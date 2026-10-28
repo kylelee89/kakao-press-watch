@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-28T17:19:52+09:00",
- "runCount": 4388,
+ "generatedAt": "2026-10-28T17:38:46+09:00",
+ "runCount": 4389,
  "price": {
   "price": "29,950",
   "pct": "+1.53",
-  "at": "2026-10-28T17:19:53+09:00"
+  "at": "2026-10-28T17:38:48+09:00"
  },
  "articles": [
   {
@@ -47975,6 +47975,28 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-28T15:34:57+09:00"
+  },
+  {
+   "id": "f3414b65952490a4",
+   "title": "10월 28일 카카오뱅크 OX 퀴즈 정답…AI 목표적금 문제 ‘X’",
+   "outlet": "비건뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEWUNnZ1IzLVIyWmIyZndIUHJLcW9lMWh5cmdJNlZNZzJRaXpMUm5qbUFfRGNzMXFldkljU0hUSEpXODJ3VG4zT0J6TEQwaW5ZU25ZOG8xano3U1YydkZfZzFVM2FSUQ?oc=5",
+   "publishedAt": "2026-10-28T16:05:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-28T17:38:46+09:00"
   }
  ]
 };
