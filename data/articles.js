@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-29T05:58:56+09:00",
- "runCount": 4393,
+ "generatedAt": "2026-10-29T09:49:03+09:00",
+ "runCount": 4394,
  "price": {
-  "price": "29,900",
-  "pct": "+1.36",
-  "at": "2026-10-29T05:58:57+09:00"
+  "price": "29,300",
+  "pct": "-1.68",
+  "at": "2026-10-29T09:49:04+09:00"
  },
  "articles": [
   {
@@ -48071,6 +48071,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-29T05:58:56+09:00"
+  },
+  {
+   "id": "d5f775bf38c5ccc0",
+   "title": "카카오, 2차 ‘인적분할 소액주주 간담회’ 개최",
+   "outlet": "dhns.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kdzF3MllmbXRvZ1l4Q3BaYl9MWk9GbVotZVZNWGtTX0RuMXdxX3I1VFk1MU9jN3hxenI4d3JwVGplVm5VREMxUWhOSmFmejhOTWRwcDZYVTJQc2dMaWlnaTlzUHA0SkU?oc=5",
+   "publishedAt": "2026-10-20T18:29:57+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-10-29T09:49:03+09:00"
   }
  ]
 };
