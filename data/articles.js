@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-29T16:49:54+09:00",
- "runCount": 4414,
+ "generatedAt": "2026-10-29T23:09:28+09:00",
+ "runCount": 4415,
  "price": {
-  "price": "29,150",
-  "pct": "-2.18",
-  "at": "2026-10-29T16:49:56+09:00"
+  "price": "29,450",
+  "pct": "-1.17",
+  "at": "2026-10-29T23:09:29+09:00"
  },
  "articles": [
   {
@@ -48123,6 +48123,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-29T10:39:30+09:00"
+  },
+  {
+   "id": "09d0cf16cf3d15f1",
+   "title": "카카오, SM엔터 지분 이전하나…음악사업 재편 주목",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WLXRyN0NLQk05QUFXdmVhLU0yQVhxSVEwVWQ2NDFjQ2xYM29EU0o4NzhPQjR4Vzl5QlBQa2hLbDNvMlBVMzVTWEpkTWZRcmFQX09LeDBUODFxVndkSXhGT2VHMno?oc=5",
+   "publishedAt": "2026-10-29T18:40:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-29T23:09:28+09:00"
   }
  ]
 };
