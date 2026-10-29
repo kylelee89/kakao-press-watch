@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-29T09:49:03+09:00",
- "runCount": 4394,
+ "generatedAt": "2026-10-29T10:39:30+09:00",
+ "runCount": 4395,
  "price": {
-  "price": "29,300",
-  "pct": "-1.68",
-  "at": "2026-10-29T09:49:04+09:00"
+  "price": "29,200",
+  "pct": "-2.01",
+  "at": "2026-10-29T10:39:32+09:00"
  },
  "articles": [
   {
@@ -48098,6 +48098,31 @@
     ]
    },
    "firstSeenAt": "2026-10-29T09:49:03+09:00"
+  },
+  {
+   "id": "94528721a28868ce",
+   "title": "카카오, 해외 매출 뒷걸음…카카오X 수익화 과제",
+   "outlet": "블로그",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rcE0xMy1nbWpqb0hEb1lLQ3c0Zi1kbFdTWEIzWjVxTTZjYlBEY05vN2xMXzRYMEF3MldQTzFJWm9EZ2R6ODN3aHRXZnFwdmFvTEQ3OURGQmlTUQ?oc=5",
+   "publishedAt": "2026-10-22T11:30:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:과제"
+   ],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-10-29T10:39:30+09:00"
   }
  ]
 }
