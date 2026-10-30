@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-30T05:13:05+09:00",
- "runCount": 4416,
+ "generatedAt": "2026-10-30T09:50:28+09:00",
+ "runCount": 4417,
  "price": {
-  "price": "29,450",
-  "pct": "-1.17",
-  "at": "2026-10-30T05:13:06+09:00"
+  "price": "29,350",
+  "pct": "+0.17",
+  "at": "2026-10-30T09:50:29+09:00"
  },
  "articles": [
   {
@@ -48144,6 +48144,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-29T23:09:28+09:00"
+  },
+  {
+   "id": "cd3708ae7bb9d895",
+   "title": "김범수 지분만으론 부족...카카오 인적분할 '주총 표심' 계산해보니",
+   "outlet": "디지털투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PTWRTOHdVRElCSGpKR01Ca0ljMk5DSHpPa2pFdGc4SFp0Q3N3Vkw1SjZYNUtQXzZ2YXdvZ2c2SUNyUW85WHFlRGRIa1A1UlFRWVJMbUZjUkE5b0pvYnBrSmZST3pYOWJSM3V6LWw4dmxKWWM?oc=5",
+   "publishedAt": "2026-10-30T07:30:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-30T09:50:28+09:00"
   }
  ]
 };
