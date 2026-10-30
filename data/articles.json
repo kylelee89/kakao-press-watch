@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-30T09:50:28+09:00",
- "runCount": 4417,
+ "generatedAt": "2026-10-30T16:01:01+09:00",
+ "runCount": 4418,
  "price": {
-  "price": "29,350",
-  "pct": "+0.17",
-  "at": "2026-10-30T09:50:29+09:00"
+  "price": "29,450",
+  "pct": "+0.51",
+  "at": "2026-10-30T16:01:02+09:00"
  },
  "articles": [
   {
@@ -48167,6 +48167,52 @@
     "neg": []
    },
    "firstSeenAt": "2026-10-30T09:50:28+09:00"
+  },
+  {
+   "id": "76b982c76b123a4e",
+   "title": "성공 사례 6건?…카카오의 ‘위험한 일반화’",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1NXp5TG40V2RwcDdmeE5hOUM0VXlUaGp1TUs2Z1FZYVBDZGNocHBhTGVZRFR0TEVnbWM2bVhWSlJPTEgzRVpqM2NPVTlZX1dtX2VvbThB?oc=5",
+   "publishedAt": "2026-10-30T14:45:05+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-10-30T16:01:01+09:00"
+  },
+  {
+   "id": "29dc2778dc4dadf7",
+   "title": "카카오, 분할 승인 주주총회 추진…035720 주가 압박 지속",
+   "outlet": "Traders Union",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWZBY2ZybUY5enY3RXNqcV9TTzJRNkhyRWlSRHZxMWF5SnFYYXQ4aEVadEhBdUlSNGF0MWIzU096My1iWkZvUXNidU53b2YtcXN1dmpaRFYtUGNhTk9uRGZJbjFkR2k0NWRiVHlYZmREWE1kV0xTMTNyVEV5LVZocTdLbTRjSGNDQzB1Ml9TMEN0eER2?oc=5",
+   "publishedAt": "2026-10-29T13:09:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-30T16:01:01+09:00"
   }
  ]
 }
