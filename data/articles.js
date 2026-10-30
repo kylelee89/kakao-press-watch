@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-31T04:13:45+09:00",
- "runCount": 4420,
+ "generatedAt": "2026-10-31T08:39:15+09:00",
+ "runCount": 4421,
  "price": {
   "price": "29,200",
   "pct": "-0.34",
-  "at": "2026-10-31T04:13:47+09:00"
+  "at": "2026-10-31T08:39:16+09:00"
  },
  "articles": [
   {
@@ -48246,6 +48246,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-10-31T04:13:45+09:00"
+  },
+  {
+   "id": "41ca2db0f290e781",
+   "title": "카카오(035720) 9월 4주차 리포트",
+   "outlet": "데일리바이트(DAILY BYTE)",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByajN4cnZ1c1ctMTlMX1ZzX3NtM2lTc3hTUnZodGlJOWxnN0x1WWNyRENhMmdhZVZycEY4NzZWbG5oVUFwVWpZOF85eUFZVGo3ZXBxRUFXUGJ3bUx0Z2ZkZzB4YU5pWXUyWWlmeS1CTVhaa0JSVkZMYzY3d1cxYXc?oc=5",
+   "publishedAt": "2026-10-05T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-10-31T08:39:15+09:00"
   }
  ]
 };
