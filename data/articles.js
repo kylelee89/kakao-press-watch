@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-10-30T23:01:55+09:00",
- "runCount": 4419,
+ "generatedAt": "2026-10-31T04:13:45+09:00",
+ "runCount": 4420,
  "price": {
   "price": "29,200",
   "pct": "-0.34",
-  "at": "2026-10-30T23:01:56+09:00"
+  "at": "2026-10-31T04:13:47+09:00"
  },
  "articles": [
   {
@@ -48213,6 +48213,39 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-30T16:01:01+09:00"
+  },
+  {
+   "id": "24b22e71366406da",
+   "title": "카카오 인적분할 후폭풍…주가 급락·노조 반발 '첩첩산중' - 이비엔(EBN)뉴스센터",
+   "outlet": "www.ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnWjk0djFNTlFURjM5LWdQOVVPSElWNVJKQVZCRXhxZEZFUTBWMnB0OHVZMEhFWER0LXltVXNUczU4bkp5SjRIa3ZPdGJhU1JhYnhCeF9Sb0ljUU05WWRiZnpRam5uRzMw?oc=5",
+   "publishedAt": "2026-08-24T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -9.5,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "등락:급락",
+    "적대어:첩첩산중",
+    "적대어:후폭풍",
+    "적대어:반발"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "급락",
+     "첩첩산중",
+     "후폭풍",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-10-31T04:13:45+09:00"
   }
  ]
 };
