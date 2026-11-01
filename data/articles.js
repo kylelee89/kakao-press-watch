@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-01T23:59:21+09:00",
- "runCount": 4428,
+ "generatedAt": "2026-11-02T04:33:34+09:00",
+ "runCount": 4429,
  "price": {
   "price": "29,200",
   "pct": "-0.34",
-  "at": "2026-11-01T23:59:23+09:00"
+  "at": "2026-11-02T04:33:36+09:00"
  },
  "articles": [
   {
@@ -48435,6 +48435,30 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-01T16:26:11+09:00"
+  },
+  {
+   "id": "964895f6fc4c33aa",
+   "title": "정신아 카카오 대표, 카카오톡 AI 플랫폼 전환 '정조준'",
+   "outlet": "스마트비즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTMXdvTV9XbHNCZWZMYlcySklyRFVqR2gybnBRMXczcTl2U3FTRnVpbTh3N1lnN1VDNDlJcVJTeFNJUjU5WU83RVhOLWpXNHlQazRKeUgtMENfbFBDRG1KU0lGamN6Q2xwdXNjRQ?oc=5",
+   "publishedAt": "2026-10-23T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-02T04:33:34+09:00"
   }
  ]
 };
