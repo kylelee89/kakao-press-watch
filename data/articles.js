@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-01T10:00:47+09:00",
- "runCount": 4426,
+ "generatedAt": "2026-11-01T16:26:11+09:00",
+ "runCount": 4427,
  "price": {
   "price": "29,200",
   "pct": "-0.34",
-  "at": "2026-11-01T10:00:48+09:00"
+  "at": "2026-11-01T16:26:12+09:00"
  },
  "articles": [
   {
@@ -48366,6 +48366,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-10-31T14:25:35+09:00"
+  },
+  {
+   "id": "1d4c368c8998399d",
+   "title": "카카오, 이달 해외 투자자 대상 인적분할 설명회…주주 설득 총력전",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vUTBac1d2Qm5hSF83a2xNM1UxRkZUWWFOc09qOGJpMUFkRHZyNXE4Y1d6cU95MVZMTjJHNWdXR0pfd1RmNUZUVms5NkFXQQ?oc=5",
+   "publishedAt": "2026-10-30T15:54:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-01T16:26:11+09:00"
+  },
+  {
+   "id": "e999656f5a2b9fae",
+   "title": "[단독] TPG, 카카오에 법적 대응…홍콩 국제중재센터 제소 검토[시그널]",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9odEE3eFh4REMyck9GT3U3TFQyU0tTTUx6WmlsSzh6VFRIS092Q3R5WWpEQUVNZlNqaGxsZkpOamVJTnhQLUxvTm9fTm5TR3hHVGc40gFTQVVfeXFMT2h0QTd4WHhEQzJyT0ZPdTdMVDJTS1NNTHpaaWxLOHpUVEhLT3ZDdHlZakRBRU1mU2pobGxmSk5qZUlOeFAtTG9Ob19OblNHeEdUZzg?oc=5",
+   "publishedAt": "2026-10-30T16:42:55+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-01T16:26:11+09:00"
+  },
+  {
+   "id": "18abef80061a77b7",
+   "title": "“매각설까지…⁠” 카카오엔터, 김범수 리스크에 나스닥 상장 좌절되나",
+   "outlet": "비즈한국",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6cXFKUDN1Zk93Yl9jb2Q5d1RwU190U2QwazJuM3lBSC15aWF5dGtZOUVwSjBvb0JSbDhvc3NfcmQ5WUF2czZLMGhnZ2M3OHN6SFB0dg?oc=5",
+   "publishedAt": "2026-10-26T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-01T16:26:11+09:00"
   }
  ]
 };
