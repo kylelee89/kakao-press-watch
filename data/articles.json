@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-03T06:51:03+09:00",
- "runCount": 4469,
+ "generatedAt": "2026-11-03T07:11:28+09:00",
+ "runCount": 4470,
  "price": {
   "price": "29,800",
   "pct": "+1.19",
-  "at": "2026-11-03T06:51:04+09:00"
+  "at": "2026-11-03T07:11:29+09:00"
  },
  "articles": [
   {
@@ -48591,6 +48591,33 @@
     ]
    },
    "firstSeenAt": "2026-11-02T18:24:04+09:00"
+  },
+  {
+   "id": "c35e629c55f35fea",
+   "title": "[Who Is ?] 김도영 카카오엑스 대표이사 내정자",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVQk45ZERQSHA5cWVzWkJFa0VOZ0txQzREeVNLSkp3OTZaRFBVakZKNVN0SDJXdlJmcGtrMEZVUlhxSG52SDhUSnV0WGpkTUNfNDNVZW1rVFgxZ0xSbV9TM3k3UHAzd1ZhN2hOa0JWTXZ2ZDQ?oc=5",
+   "publishedAt": "2026-11-03T07:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-11-03T07:11:28+09:00"
   }
  ]
 }
