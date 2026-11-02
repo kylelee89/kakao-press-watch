@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-02T12:54:05+09:00",
- "runCount": 4438,
+ "generatedAt": "2026-11-02T13:14:34+09:00",
+ "runCount": 4439,
  "price": {
   "price": "29,750",
   "pct": "+1.02",
-  "at": "2026-11-02T12:54:06+09:00"
+  "at": "2026-11-02T13:14:35+09:00"
  },
  "articles": [
   {
@@ -48480,6 +48480,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-02T08:31:13+09:00"
+  },
+  {
+   "id": "725fc64446817ffd",
+   "title": "카카오페이서 인터넷은행 3사 개인사업자 대출 비교 가능해져",
+   "outlet": "생생비즈플러스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DU2JISU1VMDNLdlowSVlxUUI0bDlfRTZQYXpMVnVnV0d6aUxsZjlWU1JyckJsYnVpVmtEMXV6a2FPMHhiLWJ0WDNWSDBFX29yUk8xWEI3VVFlZm1KQVQ1V2hZOURkcTFXNi1wMg?oc=5",
+   "publishedAt": "2026-11-02T11:46:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-02T13:14:34+09:00"
   }
  ]
 };
