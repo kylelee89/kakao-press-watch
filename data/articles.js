@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-02T16:20:20+09:00",
- "runCount": 4449,
+ "generatedAt": "2026-11-02T16:40:58+09:00",
+ "runCount": 4450,
  "price": {
   "price": "29,700",
   "pct": "+0.85",
-  "at": "2026-11-02T16:20:22+09:00"
+  "at": "2026-11-02T16:40:59+09:00"
  },
  "articles": [
   {
@@ -48522,6 +48522,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-02T14:16:13+09:00"
+  },
+  {
+   "id": "98c8207bab9de4b9",
+   "title": "NH투자 \"카카오게임즈 주식 '매수'로 상향, 내년 1분기 흑자전환 전망\"",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12TnR2QndCT0NvSmtMYzRJUVZrbk1PckVValpnXzZ1Zm9KOXNfTkVnQWZJTWZKdVNMa1NIME9VcHZXZjF6SlJ4NWlGX0JLd3p2WmpDOERjMGZfdVp4TEd4MVczel9Dc1h0QTlYMExidDhEZFk?oc=5",
+   "publishedAt": "2026-11-02T10:18:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-02T16:40:58+09:00"
   }
  ]
 };
