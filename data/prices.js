@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-11-03T08:26:37+09:00",
+  "generatedAt": "2026-11-03T08:34:06+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
@@ -504,11 +504,11 @@ window.KMW_PRICES = {
         182800,
         181600,
         181300,
-        182500
+        182700
       ],
       "base": 222500,
-      "last": 182500,
-      "cumPct": -17.98,
+      "last": 182700,
+      "cumPct": -17.89,
       "annPct": -0.22,
       "error": null
     },
