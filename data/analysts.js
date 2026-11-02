@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-11-02T08:31:17+09:00",
+ "asOf": "2026-11-02T10:27:30+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -506,6 +506,26 @@ window.KMW_ANALYSTS = {
    "ratingBase": null,
    "targetBase": null,
    "baseDate": null
+  },
+  {
+   "date": "11/02",
+   "region": "국내",
+   "house": "한화",
+   "analyst": "김소혜,김나우",
+   "rating": "Buy",
+   "ratingPrev": "Buy",
+   "target": 43000,
+   "targetPrev": 54000,
+   "prevDate": "08/06",
+   "rptId": 1144843,
+   "brkCd": 11,
+   "fpath": "1F01120261102_035720.pdf",
+   "title": "분할 이후 성장 전략 구체화 필요",
+   "point": "AI 에이전트 도입을 통한 유의미한 트래픽 확인이 필요. 인적분할을 통한 사업별 가치 재평가 기대",
+   "extra": "목표주가 하향",
+   "ratingBase": "Buy",
+   "targetBase": 62000,
+   "baseDate": "08/06"
   },
   {
    "date": "08/21",
