@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-02T13:55:49+09:00",
- "runCount": 4441,
+ "generatedAt": "2026-11-02T14:16:13+09:00",
+ "runCount": 4442,
  "price": {
-  "price": "29,700",
-  "pct": "+0.85",
-  "at": "2026-11-02T13:55:49+09:00"
+  "price": "29,750",
+  "pct": "+1.02",
+  "at": "2026-11-02T14:16:14+09:00"
  },
  "articles": [
   {
@@ -48501,6 +48501,27 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-02T13:14:34+09:00"
+  },
+  {
+   "id": "a5b42a06f87bc9ec",
+   "title": "카카오 주가 상승, 기술적 신호는 장중 매수세 강화 시사",
+   "outlet": "Traders Union",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjVNTmJwdE5qRkNMTXozTXZFWmVxUy0yem5SLWtHZ0IxcFpTclpNeDMxNU8zUS1SQnRTbFFKSGRIYUI2YnRzeFZJTGFfdWdpV3Q1bDN2dkhNVzJ1ODhuLWlZWHBUVlRyekNVUE9tRUNaZ193ZlVkXzJOMGFWVFEwMk1IWWJCbzRiOVJNY1VCdldUMXc?oc=5",
+   "publishedAt": "2026-11-01T14:14:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-02T14:16:13+09:00"
   }
  ]
 }
