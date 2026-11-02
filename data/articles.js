@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-02T18:03:17+09:00",
- "runCount": 4454,
+ "generatedAt": "2026-11-02T18:24:04+09:00",
+ "runCount": 4455,
  "price": {
-  "price": "29,650",
-  "pct": "+0.68",
-  "at": "2026-11-02T18:03:18+09:00"
+  "price": "29,750",
+  "pct": "+1.02",
+  "at": "2026-11-02T18:24:06+09:00"
  },
  "articles": [
   {
@@ -48543,6 +48543,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-02T16:40:58+09:00"
+  },
+  {
+   "id": "c4f315881961b502",
+   "title": "카카오X 출범 전부터 날아든 '투자회수 청구서', 김도영 모빌리티·엔터 수조 원 FI 상환 직면",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DNG1kSHB5VFdNVGk1SjdXQ19uMHNwQ0trb2Z4TDdJaHd3a3d0YkN4WVdhR28xWTVnb2dma2REWWZJRnRiY0pqb09lT3Z5M3R6enFuYUprYUtROHRhTHdsSlZtaDFLdXZyUGg5ZVNlX3N2OW8?oc=5",
+   "publishedAt": "2026-11-02T16:31:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-02T18:24:04+09:00"
+  },
+  {
+   "id": "5b1912c8f0642d88",
+   "title": "카카오 브랜드 메시지 논란, 이통사로 번지나···'규제 형평성' 쟁점",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wa2J6SDd2UUZSLXNuTFhQYVZjNWF5NzFsN19zT2NtaEMweHVESlVfNFF1YVI5QnV5cHN1bGdkOGVqLW5kYW1abDBMODZ2UEptRGJXaFFzeDBMTkZQdjZKNmFsby1SNVp6WUE?oc=5",
+   "publishedAt": "2026-10-19T16:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-11-02T18:24:04+09:00"
   }
  ]
 };
