@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-04T11:12:38+09:00",
- "runCount": 4508,
+ "generatedAt": "2026-11-04T11:35:02+09:00",
+ "runCount": 4509,
  "price": {
-  "price": "28,800",
-  "pct": "+0.00",
-  "at": "2026-11-04T11:12:47+09:00"
+  "price": "28,600",
+  "pct": "-0.69",
+  "at": "2026-11-04T11:35:04+09:00"
  },
  "articles": [
   {
@@ -48713,6 +48713,35 @@
     ]
    },
    "firstSeenAt": "2026-11-04T11:12:38+09:00"
+  },
+  {
+   "id": "a47096d0b3600c5c",
+   "title": "카카오AI는 실체 논란, 카카오X는 할인 덫…인적분할 주가 장담 못한다",
+   "outlet": "더쎈뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SenR0MmQ1MjlabjBmXzFyX3pTVUNWYi1oek14Q0lHM1VIWmNkdy1zVThoeVBFTjllN1p1Skd1OUtYSFFyT054enVhMjV3dHd2eC0yaW5HVm1CNVpJNmFhcy1MZ01tZkly?oc=5",
+   "publishedAt": "2026-11-04T11:27:38+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-11-04T11:35:02+09:00"
   }
  ]
 }
