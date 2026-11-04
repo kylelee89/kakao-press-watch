@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-04T17:25:51+09:00",
- "runCount": 4526,
+ "generatedAt": "2026-11-04T17:46:46+09:00",
+ "runCount": 4527,
  "price": {
-  "price": "29,000",
-  "pct": "+0.69",
-  "at": "2026-11-04T17:25:53+09:00"
+  "price": "29,050",
+  "pct": "+0.87",
+  "at": "2026-11-04T17:46:49+09:00"
  },
  "articles": [
   {
@@ -48763,6 +48763,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-04T15:42:46+09:00"
+  },
+  {
+   "id": "417dcc23c3ec8719",
+   "title": "\"드디어 터졌다\"…신작 대박에 57% 뛰어오른 카카오게임즈",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MYWU4LXhnem9uSkNLS2x0a3MxRzZOTkxHU0VEQ1ZrZXJaVTlHTXgxcUNlX3VCMThBMWlQbS11MzlDek1MM3FEeFBTZGp1R2xtd25NakVqS3lTQQ?oc=5",
+   "publishedAt": "2026-10-23T16:00:00+09:00",
+   "tone": "긍정",
+   "toneScore": 3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:57% 뛰어"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [
+     "57% 뛰어"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-04T17:46:46+09:00"
   }
  ]
 };
