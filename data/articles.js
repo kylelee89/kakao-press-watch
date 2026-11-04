@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-04T10:15:28+09:00",
- "runCount": 4507,
+ "generatedAt": "2026-11-04T11:12:38+09:00",
+ "runCount": 4508,
  "price": {
-  "price": "28,650",
-  "pct": "-0.52",
-  "at": "2026-11-04T10:15:30+09:00"
+  "price": "28,800",
+  "pct": "+0.00",
+  "at": "2026-11-04T11:12:47+09:00"
  },
  "articles": [
   {
@@ -48640,6 +48640,79 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-04T10:15:28+09:00"
+  },
+  {
+   "id": "384193e8fe915382",
+   "title": "네이버는 합병, 카카오는 분할…기업가치 시험대",
+   "outlet": "포인트데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9weXdXX2NmVUUwRWtMRE1QSG12XzBlOXdVMzdKNDZtTEpnRTJPVzA0cXh4aTE4eHF2dXRFQV9MbHNpdnpMaGpqS2JlMjB3aG9XMjZPRUFpZ0REUnB3NTExcDV0dkdlMWZ2ME45ekVjZHjSAXRBVV95cUxQQmlPTWFmZjl4dFpObk9sSlZJVEZkODVlaGZpUFBUUktLMmFJUWo5dlhqeXBCNmZxZTdFMVlzS24zUXo1Yk5qaFBleU9lN296WVhuQXc3ZWZpbl9NTDl0cEwwVkRxdVNuRGlVaWJBTGFzX0NiTw?oc=5",
+   "publishedAt": "2026-11-04T10:18:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-04T11:12:38+09:00"
+  },
+  {
+   "id": "70604d23668a0afd",
+   "title": "[영상] 카카오 '문어발' 떼어냈다, 소액주주 마음 잡고 재도약 발판 마련할까",
+   "outlet": "허프포스트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ob3RvWHRqUXhlMWRrUzY1RTljY0I2blhMUjE3OVAwSmNUWk1sSHRrTmFydnZwT084T0ljWWZIekNKcHNQd3JoLVNmc2g4VS00NEhkMDBrQQ?oc=5",
+   "publishedAt": "2026-11-03T07:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "수사의문:할까",
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "할까",
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-11-04T11:12:38+09:00"
+  },
+  {
+   "id": "33102e89106f01d5",
+   "title": "카카오페이, 2026년 3분기 매출 예상치 하회…주가 5.78% 하락",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UclpBamx3c3FBMTlIeWw2LU1LS2k0Y1d4aTlNSElMSThLTk9pVFE3aFZtSzJJX1U3TEVkRTRUYVpvU1lGUjBmb0VpRGwwc3Q0N2szdm5ab2M4cHl1LU43T0djWTZjX3dSS3ExMVhqWQ?oc=5",
+   "publishedAt": "2026-11-04T08:48:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:5.78% 하락"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "5.78% 하락"
+    ]
+   },
+   "firstSeenAt": "2026-11-04T11:12:38+09:00"
   }
  ]
 };
