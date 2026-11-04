@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-04T15:21:56+09:00",
- "runCount": 4520,
+ "generatedAt": "2026-11-04T15:42:46+09:00",
+ "runCount": 4521,
  "price": {
-  "price": "29,000",
-  "pct": "+0.69",
-  "at": "2026-11-04T15:21:58+09:00"
+  "price": "29,100",
+  "pct": "+1.04",
+  "at": "2026-11-04T15:42:46+09:00"
  },
  "articles": [
   {
@@ -48742,6 +48742,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-04T11:35:02+09:00"
+  },
+  {
+   "id": "4d9b5d8120b28290",
+   "title": "[카카오모빌리티 M&A] ADR 비협조한 카카오…결국 TPG 국제중재 신청",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02c01Xbi1sMnBCTHlvdUhLcHdUcmk0dzZlNUtlaEZPWVpoaTZld1pmejVnTFYwRHFCeWZ1VjBXVlZXbXFGVENiQ0ZqSGR2dEk?oc=5",
+   "publishedAt": "2026-11-04T07:05:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-04T15:42:46+09:00"
   }
  ]
 };
