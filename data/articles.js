@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T13:35:51+09:00",
- "runCount": 4539,
+ "generatedAt": "2026-11-05T13:56:26+09:00",
+ "runCount": 4540,
  "price": {
-  "price": "32,000",
-  "pct": "+9.97",
-  "at": "2026-11-05T13:35:53+09:00"
+  "price": "31,950",
+  "pct": "+9.79",
+  "at": "2026-11-05T13:56:26+09:00"
  },
  "articles": [
   {
@@ -49824,6 +49824,101 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T13:35:51+09:00"
+  },
+  {
+   "id": "15d2d74de4a632c2",
+   "title": "카카오 인적분할 1월1일→2월1일…자사주 1500억 소각 조기 이행 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4T2NwR093dDIzZWVEQm16c2dEU2dvOHVsQTk5dy1NaklwRXQtRV9NUl9kYjVqOThVZFQ5bUtaUnZhUmY0RDlaXzN1Qkl6LW5RZ3BkRUpPb0FhbEo4MUNSeGxSeVhjc0nSAWxBVV95cUxNMDhWNndaZFZScGpJSmJfUWluakItX0VwUXk1OXFlcWNhcFF0V3UxS0RzU3NrVTRVLUswVVUtMmVyWWhoeTRJVGh6bnd6TW1KaG0tQnhzei1MWFRhSjBza2pHX0Vrb01LbDhUT18?oc=5",
+   "publishedAt": "2026-11-05T13:33:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T13:56:26+09:00"
+  },
+  {
+   "id": "9815f801d8bc3a47",
+   "title": "카카오, 인적분할 주주총회 내년 1월 15일로 연기⋯분할 기일도 2월 1일로",
+   "outlet": "아이뉴스24",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4waFBCYU4tWHp0NE12anRqVVNFcDhRNnJLS2QtNW5zMUdZRXRsZTdOZXhOeTBvSU9vdGFsUmkzd0lkMUY4ZV8wdHgtRQ?oc=5",
+   "publishedAt": "2026-11-05T13:41:11+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T13:56:26+09:00"
+  },
+  {
+   "id": "02b1b5782ac0a8ab",
+   "title": "카카오, 인적분할 한 달 연기···분할 비율도 조정",
+   "outlet": "서울파이낸스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DbXI4cHdPczBEb3A5OUdNZXZVSFNSSE9uNTNUN3JnT2I5WUFoTnBWSk9lVXpJOXRRcVFGWl9QbkNVQlo2SnYxNGV2eE1MSmMwdjkyZkJxYVE1TUhYREdhREU0ZnppWWs1dnc?oc=5",
+   "publishedAt": "2026-11-05T13:32:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "분할비율 0.36 / 0.64"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T13:56:26+09:00"
+  },
+  {
+   "id": "0d19f9faf3b6d16a",
+   "title": "카카오, 자사주 1500억 매입·소각…인적분할 전 주주환원 조기 이행",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iMzBKUS05ZThFd1B4TmFiMzVOYUdMRi1TMzBkN1V5RVl2Tm10T2d1SG91RUJvTnlOM0Z3VEtEUGpiY1FGSmpza2FXWnhoUDN1b3cxd0dhS1FCRm93eThfUERlMTBmWTV6SURPZmJmVnN6eFBM?oc=5",
+   "publishedAt": "2026-11-05T13:37:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T13:56:26+09:00"
   }
  ]
 };
