@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T11:32:25+09:00",
- "runCount": 4533,
+ "generatedAt": "2026-11-05T11:53:14+09:00",
+ "runCount": 4534,
  "price": {
   "price": "31,950",
   "pct": "+9.79",
-  "at": "2026-11-05T11:32:26+09:00"
+  "at": "2026-11-05T11:53:15+09:00"
  },
  "articles": [
   {
@@ -49307,6 +49307,196 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T11:11:17+09:00"
+  },
+  {
+   "id": "075045f3033301f3",
+   "title": "카카오, 자사주 1500억 먼저 태운다…인적분할 비율도 0.611대 0.388로 조정",
+   "outlet": "인포스탁데일리",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMem5NQzIyY0NCVFc1LVNpTUpDSW5DdEs0UTVWTDV1RmJEaDBndjZBYWJTXzM5bWkyc1Frc2RJczczUmw1bE8xZnhBdEFvRTQxX1piRkRsN2thOUpVUFdvS2xBZlR1UEtsdjhicXVBN3EzalZaLWc?oc=5",
+   "publishedAt": "2026-11-05T11:34:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "분할비율 0.36 / 0.64",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T11:53:14+09:00"
+  },
+  {
+   "id": "58f0fda3db259772",
+   "title": "카카오, 인적분할 앞두고 자사주 절반 먼저 사들여 소각한다",
+   "outlet": "플래텀(Platum)",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xalV1NTVRNEJZQ1VTNGR3V3FQMmRTandJQ3JQSk1BYXBuczdWcllfN3hyaUNfTEg1VlNYQVlRY1dTUHJPR0RQNg?oc=5",
+   "publishedAt": "2026-11-05T11:32:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T11:53:14+09:00"
+  },
+  {
+   "id": "c46c33960ecd5812",
+   "title": "카카오, 자사주 1500억원 매입·소각…인적분할 비율·일정도 변경",
+   "outlet": "www.ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qTXJSaVdHYXA1LTNiLVhXNExLRTQ2aXlZSmsxZDZ6d3N4SFBqSnNiWUVZZ0JqeVFpUnNjSXZBYjJEVDktWjEtd1dlNk1RdEJVVXhGaDREUVExakRZd2h4YWdNTTB0R2ht?oc=5",
+   "publishedAt": "2026-11-05T11:33:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "분할비율 0.36 / 0.64",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T11:53:14+09:00"
+  },
+  {
+   "id": "6c2e6d2622673b58",
+   "title": "카카오, 자사주 1,500억 매입·소각…주주환원 조기 이행",
+   "outlet": "와우테일",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWUU0tUFFLd3Q5RnlnT3BnY2s5ZURRYWhCTU9nQUFSa3EwVkxhNGhCVi1SY1M5Q0pkLV9lUW01TDBBZGx6NGRxeDBJMTN6M00?oc=5",
+   "publishedAt": "2026-11-05T11:43:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T11:53:14+09:00"
+  },
+  {
+   "id": "ed67afbb8afa4e3d",
+   "title": "카카오AI 출범 앞둔 정신아, AI 에이전트 전략 '수정'",
+   "outlet": "비즈워치",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MkRLS01Bdm1wRlRTWTJDTkJkVjVYRzQzaXRpU2RZUUxucndlZ0k4STBPOUwxdExJUTh3S09GenI0UVNCblBvbFJwbFA0WnlqbWJKNFoyOXRhb3hpSnN4MUlMQmExclZtc1E?oc=5",
+   "publishedAt": "2026-11-05T11:39:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T11:53:14+09:00"
+  },
+  {
+   "id": "8787e1bfff609451",
+   "title": "교보증권 \"카카오뱅크 목표주가 하향 조정, 이자·수수료이익 성장은 안정적\"",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UUXdVY0dSdkhsamduc2E3d3ZaY2RWQUhWaXJ6a2pZRFF2SUhVWjdnbE10cm9oV0l2N0RHOU5ReFAzWDk3bDJvaDdjdUhsSGdUVHQxcEdxT2YyZi11R3hFR2hEeXRsVXA3dlNBZDB3cmhrM2c?oc=5",
+   "publishedAt": "2026-11-05T09:26:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "규제/거래소",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T11:53:14+09:00"
+  },
+  {
+   "id": "31698004a8469035",
+   "title": "카카오, 자사주 1500억 매입·소각…\"주주환원 계획 조기 이행\"",
+   "outlet": "더트래커",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtc1pHTklZekNjR3VHMVlpNVB3dVE3VVJFeGlJd1NSbDBBRldrVC1qMUhuQUJyNFNmVmhpVk96b2hFUGp6S1d0WmJxQjlQbkxtM1ZEdDB0ZUg?oc=5",
+   "publishedAt": "2026-11-05T11:32:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T11:53:14+09:00"
+  },
+  {
+   "id": "1851273a0e4759ae",
+   "title": "카카오, 분할 앞두고 주주환원 앞당겨..자사주 1500억 매입·소각",
+   "outlet": "한국정경신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6bXlxX0dXWjJrWE5GMnFpZUtkQVF5cngzY2pveldMRFhOT25jV2VkWFlYOUY0UlRnQ0swMFlYTE85Xy16TmVFU0hBaFBmSVc4QWc?oc=5",
+   "publishedAt": "2026-11-05T11:46:37+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T11:53:14+09:00"
   }
  ]
 };
