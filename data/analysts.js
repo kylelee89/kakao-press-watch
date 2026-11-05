@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-11-05T14:37:44+09:00",
+ "asOf": "2026-11-05T14:58:25+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -486,6 +486,26 @@ window.KMW_ANALYSTS = {
    "ratingBase": "BUY",
    "targetBase": 60000,
    "baseDate": "08/07"
+  },
+  {
+   "date": "11/05",
+   "region": "국내",
+   "house": "미래에셋",
+   "analyst": "임희석",
+   "rating": "매수",
+   "ratingPrev": "매수",
+   "target": 44000,
+   "targetPrev": 52000,
+   "prevDate": "08/06",
+   "rptId": 1146887,
+   "brkCd": 14,
+   "fpath": "1F01420261105_035720_a.pdf",
+   "title": "분할 이후 반전을 기대",
+   "point": "3Q26 Review: 컨센서스 부합. AI 서비스 확장 본격화, 2028년 BEP 목표. 투자의견 ＇매수＇ 유지, 목표주가 44,000원으로 하향",
+   "extra": "목표주가 하향",
+   "ratingBase": "매수",
+   "targetBase": 52000,
+   "baseDate": "08/06"
   },
   {
    "date": "10/07",

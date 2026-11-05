@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-05T14:37:41+09:00",
- "runCount": 4542,
+ "generatedAt": "2026-11-05T14:58:20+09:00",
+ "runCount": 4543,
  "price": {
   "price": "32,050",
   "pct": "+10.14",
-  "at": "2026-11-05T14:37:43+09:00"
+  "at": "2026-11-05T14:58:23+09:00"
  },
  "articles": [
   {
@@ -50244,6 +50244,80 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-05T14:37:41+09:00"
+  },
+  {
+   "id": "379e2d739f967630",
+   "title": "카카오, 1500억원 자사주 조기 소각…인적분할 한 달 연기",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04Z2g0Mkxfd1ZocXlkbmx2bmVLWWMyU0c1Y2FhVjJRZmFGRjd0bUJvYzBEd1Jma19sTWVmX1llWmxVSG5pSDBnWDhnaVZZMmE0WW00bDBRZmllcXVTSjdIYXlTZG8?oc=5",
+   "publishedAt": "2026-11-05T14:49:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:58:20+09:00"
+  },
+  {
+   "id": "f4f4392fb8dd4573",
+   "title": "카카오, 인적분할 앞두고 1500억원 자사주 소각···분할비율도 조정",
+   "outlet": "이뉴스투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nRVYzaHBTdm9tV3ppeG5sZ1RJdU9TZ0pGdkhqQTlVcXpKMmVSb25NNkxXOWI3UmRCWjY3WnAwSU1sYjNSZmtiQmtaQWVOV0NLZ0xLNXViVmJjV25qQ011cjdYMFh5dUpWOUExc3hZVHDSAXRBVV95cUxQRHJibmpSWnZfdWQ0NUtaQUpsZEYzbjBjREFyQnFEQUVXVV9VREpUWVUxVWpIaHVPY01jcENYRS1GZ0FZcU51SVc3NjIzeVdWaVJHNzBmc0g1Z2pkWm1GR0pURWNGMzdRdTdTdGtGY3BBMUJHaA?oc=5",
+   "publishedAt": "2026-11-05T14:41:49+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "분할비율 0.36 / 0.64",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:58:20+09:00"
+  },
+  {
+   "id": "4479dad84b26241c",
+   "title": "카카오, 자사주 1500억원 매입·소각 결정…주주가치 제고 의지 구체화",
+   "outlet": "인더뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNUmlXMDNMMWlNeTYwZkVzc3JLcTBMcUNnQlliMFh2VnJEVUpxVFZUUTVCemVKamFYNmlNMmduQUNTd0sxYmZYa0o0a0dXZndtSGRaWmVmd3ZvYl9ld3ZOMG0xR3Q?oc=5",
+   "publishedAt": "2026-11-05T14:47:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:58:20+09:00"
   }
  ]
 }
