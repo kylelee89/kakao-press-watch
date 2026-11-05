@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T12:54:43+09:00",
- "runCount": 4537,
+ "generatedAt": "2026-11-05T13:15:12+09:00",
+ "runCount": 4538,
  "price": {
-  "price": "32,200",
-  "pct": "+10.65",
-  "at": "2026-11-05T12:54:43+09:00"
+  "price": "32,050",
+  "pct": "+10.14",
+  "at": "2026-11-05T13:15:14+09:00"
  },
  "articles": [
   {
@@ -49753,6 +49753,53 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T12:54:43+09:00"
+  },
+  {
+   "id": "cbcf12e7af2bc734",
+   "title": "카카오, 인적 분할 일정 한 달 연기…주총 내년 1월로",
+   "outlet": "민주신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43blNvQllTckpfb3BMSUgtOEhHTXBGd0hReHF3dnBmajd3SXlST2dEbWxCVXo3VWNPbDZScFFKczBEeU5kVUdBcHExN0dnNTVyWFc4VnpTNnVWOGZScUVNRzRuRThOM2vSAWtBVV95cUxNU3ZpUVVRR2N2QmFxeDRBTXJMMFFsZTF0Q0d2VnN3NWtsTkl1eEVmN0VWQ0U4Y0pQUDNJa1IyM3Q4TlFicFg3Z045ZjRTMEV0SXd2a29xcHRLWkhvejdaMlZ2QzYxdmZvdkFFYw?oc=5",
+   "publishedAt": "2026-11-05T12:55:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T13:15:12+09:00"
+  },
+  {
+   "id": "1d3c603cdfd60578",
+   "title": "카카오, 1500억원 자사주 매입·소각…인적분할 앞두고 주주환원 조기 이행",
+   "outlet": "핀포인트뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjZFprZG1hR3NHX19Va3Rza2wtYml3a0Eyb0JlblRwOUpfekg5czhIRjlxNGloNTRuRGhUSzMyUWRtd1JJSHA2MHczbW10QWFMcmE0dER3OUh3NTN2NW8xb21kRHBfZmhYYjJUX05oOGl3VlnSAXdBVV95cUxQeTVpUEEtdk1oSkoxd1VvQkk0VDNMRGpCNnc3VF9nc3pubXIzUmw5ZWRWMWdtYm9SUmc0dGRZZUZWdHVRTFFkWkV5TXc2UG1Cenl0aThJZzYwbExid2pPM2tXdDh6cGV3NU1vQThZYjNDeE1nMjRmQQ?oc=5",
+   "publishedAt": "2026-11-05T13:03:50+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T13:15:12+09:00"
   }
  ]
 };
