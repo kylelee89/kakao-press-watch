@@ -1313,10 +1313,10 @@
     <div id="app"></div>
   </div>
 
-  <script src="data/articles.js?v=20261105063231"></script>
-  <script src="data/analysts.js?v=20261105063231"></script>
-  <script src="data/prices.js?v=20261105063231"></script>
-  <script src="price-tracker.js?v=20261105063231"></script>
+  <script src="data/articles.js"></script>
+  <script src="data/analysts.js"></script>
+  <script src="data/prices.js"></script>
+  <script src="price-tracker.js"></script>
   <script>
     (function () {
       const REFRESH_MS = 60000;
@@ -1803,6 +1803,9 @@
         // 아래 리포트 목록이 직전 리포트 대비로 따로 보여준다.
         const latestByHouse = new Map();
         reports.forEach((report) => {
+          // 실적속보/코멘트(kind='속보')는 목표가가 없다. 그 증권사의 '현재 스탠스'를
+          // 고를 때 이게 뽑히면 직전 정식 리포트의 목표가가 통째로 사라진다.
+          if (report.kind === '속보') return;
           const house = String(report.house || '');
           const kept = latestByHouse.get(house);
           if (!kept || String(report.date || '') >= String(kept.date || '')) {
@@ -1916,7 +1919,12 @@
                     const currentRating = formatAnalystRating(report.rating);
                     const prevRating = formatAnalystRating(report.ratingPrev);
 
-                    let ratingText = '의견 미제시';
+                    // 실적속보/코멘트는 애초에 목표가와 의견을 안 내는 글이다.
+                    // '의견 미제시 / 미제시'로 적으면 리포트가 빠진 것처럼 읽혀서
+                    // 무엇인지 그대로 적어 준다.
+                    const isFlash = report.kind === '속보';
+
+                    let ratingText = isFlash ? '속보' : '의견 미제시';
                     let ratingClass = 'pending';
                     if (currentRating && prevRating && currentRating === prevRating) {
                       ratingText = `${currentRating} 유지`; ratingClass = 'keep';
@@ -1926,8 +1934,8 @@
                       ratingText = currentRating; ratingClass = 'keep';
                     }
 
-                    let targetMain = '미제시';
-                    let targetSub = '';
+                    let targetMain = isFlash ? '해당없음' : '미제시';
+                    let targetSub = isFlash ? '목표가 제시 안 함' : '';
                     let targetClass = 'none';
                     if (currentTarget != null && prevTarget != null) {
                       const delta = currentTarget - prevTarget;
