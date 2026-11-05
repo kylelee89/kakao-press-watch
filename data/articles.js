@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T16:00:37+09:00",
- "runCount": 4547,
+ "generatedAt": "2026-11-05T16:21:27+09:00",
+ "runCount": 4548,
  "price": {
-  "price": "32,100",
-  "pct": "+10.31",
-  "at": "2026-11-05T16:00:38+09:00"
+  "price": "32,000",
+  "pct": "+9.97",
+  "at": "2026-11-05T16:21:29+09:00"
  },
  "articles": [
   {
@@ -50721,6 +50721,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "f01322ca27d4c2f3",
+   "title": "카카오, 인적분할 내년 2월1일로 연기…자사주 1,500억 매입·소각",
+   "outlet": "연합뉴스TV",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04SmJaZ2lWSmVjcXd0Xy1hYTdWdlNIT3JEbFQxX2dLS0ZXVUZRUktUaGdTeUtFQWRuX2xXUzhfT0poWTBZWk5xVjl6aWJHbDl2TlV0bjhLM1NqMDVZNTQtRDdrQUF2TjA?oc=5",
+   "publishedAt": "2026-11-05T15:57:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:21:27+09:00"
+  },
+  {
+   "id": "4809ff086b7c9f14",
+   "title": "카카오, 인적분할 한 달 늦춘다…분할 전 자사주 1500억 먼저 소각",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FMmN2SWRhV3M5ck9OUVZ6ZjF2Y0F0bXZyX1RGWDk5eDdZbXVYWXc4YjNTckRDRmtjQ1V2cUs1ZlRVVW9KdjJwOW9XdnU4QzNJc1JkN05TaEFJWHNK?oc=5",
+   "publishedAt": "2026-11-05T16:05:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:21:27+09:00"
   }
  ]
 };
