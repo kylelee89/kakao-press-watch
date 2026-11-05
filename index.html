@@ -2463,13 +2463,31 @@
         });
       }
 
+      // 데이터 파일을 전부 다시 받는다. 예전엔 articles.js 하나만 갱신해서
+      // 증권가(analysts.js)와 주가(prices.js)는 처음 받은 뒤로 브라우저 캐시
+      // (GitHub Pages 가 max-age=600 을 준다)에 10분간 묶여 있었다. 그래서
+      // 데이터를 고쳐 배포해도 화면은 옛 숫자를 계속 들고 있었다.
+      const DATA_FILES = ['articles', 'analysts', 'prices'];
+
       function refreshData() {
-        const existing = document.getElementById('kmw-data-script');
-        if (existing) existing.remove();
-        const script = document.createElement('script');
-        script.id = 'kmw-data-script';
-        script.src = `data/articles.js?t=${Date.now()}`;
-        script.onload = () => {
+        const stamp = Date.now();
+        let pending = DATA_FILES.length;
+        DATA_FILES.forEach((name) => {
+          const id = `kmw-data-${name}`;
+          const existing = document.getElementById(id);
+          if (existing) existing.remove();
+          const script = document.createElement('script');
+          script.id = id;
+          script.src = `data/${name}.js?t=${stamp}`;
+          const done = () => { if (--pending === 0) applyRefreshedData(); };
+          script.onload = done;
+          script.onerror = done;   // 한 파일이 실패해도 나머지는 반영한다
+          document.body.appendChild(script);
+        });
+      }
+
+      function applyRefreshedData() {
+        (() => {
           const data = getCurrentData();
           if (!data) return;
           const currentIds = new Set((data.articles || []).map((item) => item.id));
@@ -2489,11 +2507,7 @@
           state.lastRefreshAt = Date.now();
           state.nextRefreshAt = state.lastRefreshAt + REFRESH_MS;
           renderFromCurrent();
-        };
-        script.onerror = () => {
-          state.nextRefreshAt = Date.now() + REFRESH_MS;
-        };
-        document.body.appendChild(script);
+        })();
       }
 
       function initialize() {
@@ -2505,7 +2519,7 @@
         state.previousIds = new Set((data.articles || []).map((item) => item.id));
         state.newUntil = new Map();
         state.lastRefreshAt = Date.now();
-        state.nextRefreshAt = state.lastRefreshAt + REFRESH_MS;
+        state.nextRefreshAt = Date.now();   // 첫 하트비트에서 바로 최신본을 받는다
         state.view = viewFromHash();
         renderApp(data);
 
