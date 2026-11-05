@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-05T15:40:02+09:00",
- "runCount": 4546,
+ "generatedAt": "2026-11-05T16:00:37+09:00",
+ "runCount": 4547,
  "price": {
-  "price": "32,200",
-  "pct": "+10.65",
-  "at": "2026-11-05T15:40:05+09:00"
+  "price": "32,100",
+  "pct": "+10.31",
+  "at": "2026-11-05T16:00:38+09:00"
  },
  "articles": [
   {
@@ -50504,6 +50504,223 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-05T15:32:12+09:00"
+  },
+  {
+   "id": "5f6e06733a593aa0",
+   "title": "'주가 부진' 카카오, 주주환원 앞당기고 인적분할은 한 달 연기",
+   "outlet": "인베스트조선",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlJiRVZBUUF4RVNxOGYxMmtNQ3pDZVBNeEtmUl9hRjZGbjZmMWtJOGRVYVNUVThBNHpwcXBRdFZzQW40YWtUNXFRVTB4SUp0SkJXVU1VVVl5MG1uSEFGUHAtdWpRMmpwUThmYWd4QWVlSUczREpXSl9TUWtiT05fSHFKaw?oc=5",
+   "publishedAt": "2026-11-05T15:40:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "dd990c311025160c",
+   "title": "카카오, 인적분할 지연에 주주환원 먼저 꺼냈다…1500억원 조기 소각",
+   "outlet": "서울이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53djZGR044M281N1VrazhmcGNzWm5pVWZuazJmQUh5d0U3S2NwQW5Ba3pkdFl0R1RBbGJ4YXNWbzBQeFF6UXk3Zjc3NTZXRVRadHV6T0FFbUN1bGtqMzd3a09YWVpIVXlickx1VGJR?oc=5",
+   "publishedAt": "2026-11-05T15:43:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "dacd5ec488a30ae0",
+   "title": "카카오, 인적분할 앞두고 1500억원 자사주 매입·전량 소각",
+   "outlet": "리더스팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KLUNzdy1seUNyY2JhbzBVcFpFVHYwakdRcjhMU3VWUTZ1QmpOaUllRm43a01tLXBZRWttRmF2VzFnZVJMYUZHUzR3NUgwN3V5empkSy1UY3BvTmV5U1lWVmxRMHNDcG1tdTV6S1dUSDQ?oc=5",
+   "publishedAt": "2026-11-05T15:48:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "76e9ce3b06d90760",
+   "title": "카카오, 재상장 예비심사 지연…인적분할 한 달 연기",
+   "outlet": "중앙신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWVF1dmRSRzZsLWVpMXZjZ2ZscVFmYWk4S3ZGRm85bHRYbnBKb3dJbms1enUwd3AyLS0xZ2tRZUJ0NWpWblRPU2x0ZTJhRW9md25sUkZUWmJYT0FWS1NHRXZvUzVpVWQwR1hwdFhKTWh4blR4a2owc1J4enZhbzN6bDJNMGllUUV2X2tkUDhjSURqWnZPY1gwcG1pTndObER1dEhoUkpoMjV4TXJVR3JLU0RIcUNyXzdVMTRPYXdYSnVWUEVMNm9ZRmNCdGp0QXltMFlCYTFhaGxGZVlTeFNpUVZXZmhxRFBQeFBWWDR1QXc4MTlDY3NKT0wyX1Z1ZzJENDhBdjhHSkdsXzdGZWd5amtEaDJMNmU3Z2pOT1JtOWxfQ0FSS21lb3VsU0U5akcyc0NoVXFtQzB6a0RLX3BBY0pIR0VEZXZTdXhzU1V2X1lwZw?oc=5",
+   "publishedAt": "2026-11-05T15:43:54+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "일정(12/17 주총, 27/1/27 재상장)"
+   ],
+   "signals": [],
+   "frames": [
+    "규제/거래소",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "4ded8e582d334155",
+   "title": "카카오 분할, 내년 2월로 연기… AI에 2636억 더 주는데 사용처는 '추후 결정'",
+   "outlet": "파이낸셜포스트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6RW9yYWs4WFlOYkFtNFViaFBaUlNWY05LUmNlZk9NM1FzZEFnYUhCZ0xZSEVNRGZKbGZSb1Z2WVpERFlfLTR3OEZkSlBiZGhZMGtTbHdjZlo2RFRkVTNReG1weVVYZ1RWQ2JEWHBVQnMwd3lr?oc=5",
+   "publishedAt": "2026-11-05T15:21:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "4ccefff404f9d4d9",
+   "title": "카카오, 1,500억원 자사주 매입·전량 소각…주주환원 조기 실행",
+   "outlet": "서울뉴스통신",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZZEdKQkxqZk9MRnNjN0RSQ3UyTF8tZ1VsWTVMYm5KcWhRb1JrdlJrVlE1OGY1ZFdRRXhyUXhzczZWdFM3WVZUbTkzN0NUdXBqWXI3c2RBQzFmMGo4aDVtWjRjMkdNWUxaYjEw?oc=5",
+   "publishedAt": "2026-11-05T15:51:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "41672d791a69f3e2",
+   "title": "[조타수] 코스피 폭락에도 카카오 10% 역주행…실적 대신 '1500억 소각'이 끌어올려",
+   "outlet": "콕스뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HRXpJVEpXWndNNURlVDRDalRrbGlxeUhtbUZBdldDWHAxOVhNcDNMM2psTlVJajN5VS1xUlIta2ZkN24tRTZHaVZaRXF0akpNYkRRdHM2aUlGbEpTTFBfUVdhTlRWbXVPZ0E?oc=5",
+   "publishedAt": "2026-11-05T15:43:00+09:00",
+   "tone": "중립",
+   "toneScore": -0.9,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "역접:에도",
+    "등락:폭락"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "폭락"
+    ]
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "3731b89c0fabc115",
+   "title": "[특징주] 카카오, 주주환원 승부수 통했다…역대 최대 3분기 영업익에 강세",
+   "outlet": "와이드경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xclVTRWJQZEVybnp4enF5Z0xIVlNqa2xINDFmS0dGZEsxZXVTeC1ERHFiZzBocTlIQ0JubDNmZXA1cEhBbUZNd0twTG11dWhaNGd1V0Rxc2dkdG1sQjU3Q1BfeFk5MWVNYjFfMA?oc=5",
+   "publishedAt": "2026-11-05T15:30:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
+  },
+  {
+   "id": "2a644894725080f2",
+   "title": "카카오, 인적분할 내년 2월로 연기…카카오AI 순자산 3.2조로 확대",
+   "outlet": "헤럴드경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zWFRPTWxYWjI1cGVkQkRlT2EwQ2s1MjVLQTVmWkxsYkprbnV2NEI2bmZqTEt6czAwbFVqb2RwdVcyMzF3RnRZYkNmdm4zaktORUF0MHJB?oc=5",
+   "publishedAt": "2026-11-05T15:49:23+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T16:00:37+09:00"
   }
  ]
 }
