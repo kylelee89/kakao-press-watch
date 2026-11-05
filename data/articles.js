@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T13:15:12+09:00",
- "runCount": 4538,
+ "generatedAt": "2026-11-05T13:35:51+09:00",
+ "runCount": 4539,
  "price": {
-  "price": "32,050",
-  "pct": "+10.14",
-  "at": "2026-11-05T13:15:14+09:00"
+  "price": "32,000",
+  "pct": "+9.97",
+  "at": "2026-11-05T13:35:53+09:00"
  },
  "articles": [
   {
@@ -49800,6 +49800,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T13:15:12+09:00"
+  },
+  {
+   "id": "48f0a6d351af666f",
+   "title": "카카오, 인적분할 내년 2월로 연기…분할 비율 재산정",
+   "outlet": "전자신문",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hendDYkg2eDdHbWJldF9LeEotbUJJUmhwVnoyTE9zUUFhZGZJUUR3TV9GQXhHNUdfeUhUdUw3SVFsellrV05VaEFOazd2Zw?oc=5",
+   "publishedAt": "2026-11-05T13:30:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "분할비율 0.36 / 0.64"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T13:35:51+09:00"
   }
  ]
 };

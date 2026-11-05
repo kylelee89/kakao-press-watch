@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-05T13:15:15+09:00",
+ "asOf": "2026-11-05T13:35:54+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -782,6 +782,26 @@
    "ratingBase": "BUY",
    "targetBase": 57000,
    "baseDate": "08/06"
+  },
+  {
+   "date": "11/05",
+   "region": "국내",
+   "house": "해당기업",
+   "analyst": "IR팀",
+   "rating": null,
+   "ratingPrev": null,
+   "target": null,
+   "targetPrev": null,
+   "prevDate": null,
+   "rptId": 1146851,
+   "brkCd": 143,
+   "fpath": "해당기업_카카오_20261105131602.pdf",
+   "title": "2026년 3분기 실적발표",
+   "point": "2026년 3분기 경영실적 발표와 질의응답",
+   "extra": "",
+   "ratingBase": null,
+   "targetBase": null,
+   "baseDate": null
   },
   {
    "date": "08/24",
