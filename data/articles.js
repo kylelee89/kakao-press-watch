@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T11:53:14+09:00",
- "runCount": 4534,
+ "generatedAt": "2026-11-05T12:13:55+09:00",
+ "runCount": 4535,
  "price": {
-  "price": "31,950",
-  "pct": "+9.79",
-  "at": "2026-11-05T11:53:15+09:00"
+  "price": "32,150",
+  "pct": "+10.48",
+  "at": "2026-11-05T12:13:55+09:00"
  },
  "articles": [
   {
@@ -49497,6 +49497,168 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T11:53:14+09:00"
+  },
+  {
+   "id": "4a266797c28c486c",
+   "title": "카카오, 인적분할·자회사 합병 한 달 연기…내년 2월로",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HLU1oZVRxMDZvMzg4ZW9QaHg0XzUtd245RzN2a20xNURKZThnRmRWUU9INWI0b0lTRlQ2ZEdleDVjRFFsVlVnMlFpU19Lcm1PYUZtZzdXVDFMQzVLalhZc3QwRWsxNnlqQnBOM0tqc0o?oc=5",
+   "publishedAt": "2026-11-05T11:54:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:13:55+09:00"
+  },
+  {
+   "id": "3f13bb245c98a9ce",
+   "title": "카카오 인적분할 주총 내년 1월로…분할기일 한 달 밀려",
+   "outlet": "아시아경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdDFyVFNlT0xCS1ZidDlkVEVScG9YYk5BSmxiblY5U01tU2ZObkJhcThtanViVnZhbGVpWnkwQk4yanNhcmtkUkFETlVMcFRvMHBYNjN6UzRFS1NnT2RLSA?oc=5",
+   "publishedAt": "2026-11-05T11:58:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:13:55+09:00"
+  },
+  {
+   "id": "138803612542aea6",
+   "title": "카카오, 인적분할 앞두고 자사주 1500억원 매입·소각",
+   "outlet": "워크투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9URjdHVTVPdF9rRExhakxQMG1VcmxrUnctYnF2TXZtbW5sbWdUZTYtbGwxYXl5ajEzX2hLWlFhSU44RFY3NmZsU1czNDRPd0NmbW1iRkphYlo1Uk00dzdpNF9mbXhwSmZMQ3R3QQ?oc=5",
+   "publishedAt": "2026-11-05T11:49:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:13:55+09:00"
+  },
+  {
+   "id": "99f041a79b3cbbfa",
+   "title": "카카오, 자사주 1500억원 규모 매입 후 소각",
+   "outlet": "시사포커스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FSHJBSjhCZWRIMi1HeTJ4cXpqUVU0ODlWOHJ5OGVZZ05pZEdoYmhOYm4wQ0pCc3FHc0h2czFMcUxLWVRJRzQ4N2hMeXZ5cThZRGtIS21oeDdYVzg5My1fQ0dLZVpxSjh2SWVoWHZBdw?oc=5",
+   "publishedAt": "2026-11-05T11:51:33+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:13:55+09:00"
+  },
+  {
+   "id": "2d4a0d0e0166db4e",
+   "title": "카카오, 자사주 1500억원 조기 매입·전량 소각…주주환원 계획 앞당긴다",
+   "outlet": "중앙이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQQThJV2JaaDRmRnFBeXFiUnZ3bTJhMzhnM1FqTGpOZUFWSmRiRGdDOTFwSElBWXVqVnBGMnFLc2pCOXN3QW1oOGtuUjQ4YUQ0SUladUtrUnRDVWhoU0VnNFZRZ04tTko3NFlZbTRrM0xKZw?oc=5",
+   "publishedAt": "2026-11-05T12:06:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:13:55+09:00"
+  },
+  {
+   "id": "7858ff317c7a1322",
+   "title": "카카오, 1500억원 자사주 소각…주총 한 달 연기",
+   "outlet": "블로터",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hOWVOdmstbE9BUzAyWEpPMkRNZ1RRaFFXVnV4MzF1U09tUHZRV3dqTDVEMFJCUVcydEpmVFZNTGphdl9NM3B2TkpHN3ZPTUx0cGZEdkNoc3duX3F6TFJaMkdFSXJsdFZJ0gFsQVVfeXFMTUpjcDAxTVE3enV3TkwyRHZNSUdWTXBKMmNGTjAxUWJhNzdIc2tTQi1MSWZtcExzMWhURXpjbzVxTE0tRDh6ZkktZnJzazZDajNuS2IxeC1YN2RtYVNFMUhhRWlXOVlDWlFQYkk1?oc=5",
+   "publishedAt": "2026-11-05T12:09:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:13:55+09:00"
+  },
+  {
+   "id": "23cbac3b6ae2b8a9",
+   "title": "[경영전략] 영업익 2403억 거둔 카카오, 분할 전 자사주 1500억 태운다",
+   "outlet": "파이낸셜포스트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wM3dSUkU5aUFxLXZUQTJYOUotSUN5VDFLc2NXVEUtbDBOUDQ1Rm5NcFFMdHQxdzZ5eW5HRm5nWUt4NkVNOExNWHVteEVGb1FUTnZVZUxtT3FSek5pYkhhd1M4MjFvazN5LWVHc1Q5WjAwcFZL?oc=5",
+   "publishedAt": "2026-11-05T12:06:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:13:55+09:00"
   }
  ]
 };
