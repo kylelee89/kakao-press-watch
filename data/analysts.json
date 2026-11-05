@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-05T11:11:21+09:00",
+ "asOf": "2026-11-05T11:32:26+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -762,6 +762,26 @@
    "ratingBase": "Neutral",
    "targetBase": null,
    "baseDate": null
+  },
+  {
+   "date": "11/05",
+   "region": "국내",
+   "house": "KB",
+   "analyst": "이지은",
+   "rating": null,
+   "ratingPrev": "BUY",
+   "target": null,
+   "targetPrev": 39000,
+   "prevDate": "08/06",
+   "rptId": 1146810,
+   "brkCd": 13,
+   "fpath": "1L01320261105_035720.pdf",
+   "title": "[AI 실적속보] 3Q26 실적 및 컨퍼런스 콜 요약",
+   "point": "3Q26 매출액 2조 867억원 (+6.3% YoY, -0.6% QoQ)으로 컨센서스 부합. 3Q26 영업이익 2,403억원 (+7.4% YoY, -13.3% QoQ)으로 컨센서스 부합. 3Q26 지배순이익 1,589억원 (+27.2% YoY, +872.8% QoQ)으로 컨센서스 하회",
+   "extra": "",
+   "ratingBase": "BUY",
+   "targetBase": 57000,
+   "baseDate": "08/06"
   },
   {
    "date": "08/24",
