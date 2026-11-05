@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T12:34:18+09:00",
- "runCount": 4536,
+ "generatedAt": "2026-11-05T12:54:43+09:00",
+ "runCount": 4537,
  "price": {
-  "price": "32,250",
-  "pct": "+10.82",
-  "at": "2026-11-05T12:34:19+09:00"
+  "price": "32,200",
+  "pct": "+10.65",
+  "at": "2026-11-05T12:54:43+09:00"
  },
  "articles": [
   {
@@ -49706,6 +49706,53 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T12:34:18+09:00"
+  },
+  {
+   "id": "ce815d77529c65ae",
+   "title": "카카오 인적분할 한 달 연기…카카오AI에 2636억 추가 배정",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRLWUzdTl1UEtremNlaWlwTFhseGVqejFiV1Jod1dlZlNjSHp1OUozNndwUzg5OGpGVHZ4WTBleXRuSU80dXIxVDBUS3VNSEFzOFQ4MWQ0cWQ3OFdQTWlkUDN2MHdSR1R0?oc=5",
+   "publishedAt": "2026-11-05T12:30:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:54:43+09:00"
+  },
+  {
+   "id": "9ac3bf3137e26361",
+   "title": "[종합] 카카오, 3분기 영업익 2403억원…연간 1조원 가시권에 AI·1500억 주주환원 승부수",
+   "outlet": "중앙이코노미뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HendlckVQdmJ2V2l1WExIakRycWRHSEc1cngyWld5ei1GRFpsYzRmUEttcFFoaEphRUVWWUMxLWdoS0xVUy0yQVhXdU5CWTFCZHF3NU01Y1Jlc1FTNGJpUVZEN1AyU3lodkNJVWdBZXFaUQ?oc=5",
+   "publishedAt": "2026-11-05T12:27:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T12:54:43+09:00"
   }
  ]
 };
