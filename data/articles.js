@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T16:42:04+09:00",
- "runCount": 4549,
+ "generatedAt": "2026-11-05T17:02:39+09:00",
+ "runCount": 4550,
  "price": {
-  "price": "31,900",
-  "pct": "+9.62",
-  "at": "2026-11-05T16:42:06+09:00"
+  "price": "31,950",
+  "pct": "+9.79",
+  "at": "2026-11-05T17:02:40+09:00"
  },
  "articles": [
   {
@@ -50937,6 +50937,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T16:42:04+09:00"
+  },
+  {
+   "id": "3b70496d59238161",
+   "title": "카카오, 1500억 자사주 매입·소각 결정 \"주주가치 제고 나선다\"",
+   "outlet": "게임톡",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14UDhFbV9uVm5tUF9vc1BGYVZ5Y3RwTkotbU5NTUIzaWp4bi1wVDVPWlRXT21fTUlPRmJIVXk5Nmh2VWpMQ0FkaWZ3clZVcVhQSTRTQnlUNTdKSmNFWWM2d0cwS05aTXROZ2ExQg?oc=5",
+   "publishedAt": "2026-11-05T11:42:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T17:02:39+09:00"
   }
  ]
 };
