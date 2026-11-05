@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T13:56:26+09:00",
- "runCount": 4540,
+ "generatedAt": "2026-11-05T14:16:54+09:00",
+ "runCount": 4541,
  "price": {
-  "price": "31,950",
-  "pct": "+9.79",
-  "at": "2026-11-05T13:56:26+09:00"
+  "price": "31,900",
+  "pct": "+9.62",
+  "at": "2026-11-05T14:16:57+09:00"
  },
  "articles": [
   {
@@ -49919,6 +49919,176 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T13:56:26+09:00"
+  },
+  {
+   "id": "f4b587bbfd2dc02f",
+   "title": "카카오, 인적분할 내년 1월 1일→2월 1일로 연기",
+   "outlet": "지디넷코리아",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZUTNVaHdsYm95bVppMVU0ZHlTamR0ZXdBZkV1UkJSMWxTVFM1S3hYZ2JVNW45Qnl1VVFHS3o4XzF6aXBkRzJFMzBmbVdEY01ULS05X3dn?oc=5",
+   "publishedAt": "2026-11-05T14:09:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "일정(12/17 주총, 27/1/27 재상장)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:16:54+09:00"
+  },
+  {
+   "id": "993a2572876e67d5",
+   "title": "카카오, 1500억원 규모 자사주 매입·소각키로 … 인적분할 앞두고 주주환원 속도",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaNW5XM1NYaWRKU05nMElmLU5NRkNid0VTSHdXQ3ZOcjZMQzF1eVF3YnIwbksyWmVrT3VMaUdzU0ZUa0VMNFhMWUprOHM0UERSRXJINURYMWUzTVZ1dW5TczFfS1Znc253Mklxdk1uRmJ3bURoZFdjajZFb9IBgAFBVV95cUxQbWdkQ1FCN1JuNTR4cGlvWTc1VGhfUk51ME1hc3NrYmpqcGhVV0p3el93eE5DWXRLVExzaTEwSzAtSWNzTVRGcXdpV1FIdk5nNHBDNEZjcGVNUFZlRzJFR0FJbmhVR3F2cG8xNm1PaXdQc1NDajQxLU1NajhzNUUzbQ?oc=5",
+   "publishedAt": "2026-11-05T11:49:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:16:54+09:00"
+  },
+  {
+   "id": "12d90c9e3ffc6c69",
+   "title": "카카오, 3분기 매출·영업익 증가...자사주 소각 조기 이행",
+   "outlet": "AI타임스",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuMHU4TGNZLUhyZGExcWlkVG5BUV9JZlBMTFZfNkxBLURPcG1DQWZ6S29DbmszY2U2Z0xwN0xEd3UtWWRUY3Y1dm9iUTMzME94T0hFVG1Vd3htQ3dwRDRUeEtmcVNCeTMtZ0E?oc=5",
+   "publishedAt": "2026-11-05T14:01:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:16:54+09:00"
+  },
+  {
+   "id": "012744d0dac08c71",
+   "title": "[DD's톡] \"폭락장에도 급등\"…네카오 주가, 8% 이상 뛴 이유는",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1Ullhak5IQmpVQ1lSNHF2N0R3NGxVeE1ZWWc2MGJXVnBiZGNHNGR4TWZibHVzaGgyMzUtb2xVMVFlXzRnZmd1Qmw4M3lINzVzeTB3by1zS1NEUGF0V3BFdzh3?oc=5",
+   "publishedAt": "2026-11-05T14:09:33+09:00",
+   "tone": "중립",
+   "toneScore": -0.9,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도",
+    "등락:폭락"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "폭락"
+    ]
+   },
+   "firstSeenAt": "2026-11-05T14:16:54+09:00"
+  },
+  {
+   "id": "67341105e175ca30",
+   "title": "카카오뱅크, 대출 성장 정체 벗어나나…4분기 반등이 주가 변수 [주가동향]",
+   "outlet": "조세일보",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FZTBsQmI3SEI3bmNLdHRKdnNUUmxrb2pNb01jcUFNR2Q1a3lWaXJBbHR3dFV4XzZDTnctdy1hUmtiNVVwTjZJaUo1dUszQTkwLVFueWd3VmN3UkNCUVo1T2NJNkQxU05NaUhwWkpYNTY0aUpK?oc=5",
+   "publishedAt": "2026-11-05T14:13:54+09:00",
+   "tone": "긍정",
+   "toneScore": 3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:반등"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "규제/거래소"
+   ],
+   "hits": {
+    "pos": [
+     "반등"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:16:54+09:00"
+  },
+  {
+   "id": "9e1ec8e0325d527a",
+   "title": "카카오 인적분할 내년 2월로 연기…분할비율도 소폭 조정",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2FCN2gtbk4zbU04cFBIN0NoSWdtSjBOYXY4Z0xNMGZnYVh0cUxjRS1LS0tiUDUzaWVEbElPTFlpT0FxYS0zeU5vZHpMZDVkQm5vNXpPdktpbWE1LWhIR1I1X0ZkNEpvVjdkalhnSnBFV0lWVDE3ZU9TR0xhUGRRQg?oc=5",
+   "publishedAt": "2026-11-05T13:54:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "분할비율 0.36 / 0.64"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:16:54+09:00"
+  },
+  {
+   "id": "278d6c959c03c36f",
+   "title": "주주환원 나선 카카오, 자사 주식 1500억원 매입 후 소각",
+   "outlet": "동행미디어 시대",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3MkM4VWpCaHRVVmE0eHpCc1RjUEQ3ZHgwTzNJcmpXTDk3aVUtTDhkMG45RVcxR0FYcDZydXNxY0w2YXJlalRhaTN6OTF2YkNueTJxT1hxQVFNaDQ1Nnc?oc=5",
+   "publishedAt": "2026-11-05T14:04:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T14:16:54+09:00"
   }
  ]
 };
