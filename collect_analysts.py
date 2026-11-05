@@ -92,6 +92,11 @@ def build():
         # '의견 미제시 / 미제시' 한 줄로 커버리지 수와 컨센서스를 흐린다. 그래서 뺀다.
         if house == "해당기업" or str(r.get("RPT_SUB_TYP") or "") == "9":
             continue
+        # 목표주가 없는 행 = 실적속보/코멘트(RPT_SUB_TYP=4). 숫자도 의견도 없어서
+        # 목표주가 보드에서는 '미제시' 한 줄로만 남는다. 보드 목적상 뺀다.
+        # (목표가를 제시한 코멘트성 리포트는 여기 안 걸리고 그대로 들어온다.)
+        if not to_int(r.get("TARGET_PRC")):
+            continue
         key = (house, r.get("ANL_DT"))
         if key in seen:          # 같은 날 같은 증권사 중복(영문판 잔여 등) 제거
             continue
@@ -113,11 +118,6 @@ def build():
             "rptId": r.get("RPT_ID"),
             "brkCd": r.get("BRK_CD"),
             "fpath": r.get("FILE_NM"),
-            # 목표주가 없는 행 = 실적속보/코멘트(RPT_SUB_TYP=4). 내용은 쓸모 있지만
-            # '그 증권사의 현재 목표가'는 아니라서, 보드가 하우스 최신값을 고를 때
-            # 이 행이 직전 정식 리포트의 목표가를 덮어쓰면 안 된다(KB 가 39,000 을
-            # 들고 있는데 11/05 AI 실적속보 때문에 '미제시'로 바뀌던 문제).
-            "kind": "정식" if to_int(r.get("TARGET_PRC")) else "속보",
             "title": no_middot(r.get("RPT_TITLE") or ""),
             "point": no_middot(". ".join(bullets[:3])),
             "extra": no_middot(" / ".join(
