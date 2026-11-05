@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-05T15:18:59+09:00",
- "runCount": 4544,
+ "generatedAt": "2026-11-05T15:32:12+09:00",
+ "runCount": 4545,
  "price": {
-  "price": "32,225",
-  "pct": "+10.74",
-  "at": "2026-11-05T15:19:01+09:00"
+  "price": "32,200",
+  "pct": "+10.65",
+  "at": "2026-11-05T15:32:13+09:00"
  },
  "articles": [
   {
@@ -50435,6 +50435,75 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-05T15:18:59+09:00"
+  },
+  {
+   "id": "a16272692953d04a",
+   "title": "카카오, 자사주 1500억원 매입·소각…인적분할 전 주주환원 앞당겨",
+   "outlet": "NSP통신",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04bFRKT3dzejlMNUlGa1FtbmZMaXFLa21vWG1FdVNpVUNjTTlNb0kzcnozT0JWb2JkckVQbjFKMlZmb0NZWEdzZGxlNXR6dEwwNVBPZ0hRSlIxU0FiRmFZMA?oc=5",
+   "publishedAt": "2026-11-05T15:13:13+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T15:32:12+09:00"
+  },
+  {
+   "id": "da9f05a9bea6a05d",
+   "title": "카카오, 재상장 심사 지연...분할 내년 2월로 연기",
+   "outlet": "한스경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtSC01ampJNUEwaWZUakZwYndkMDdMYlQ5V0VHaVc1ZXZuYlFKSjZJeW9WYzFDX0xNUjkwc0pKZFdIaGwxNmxxWk5wQ0RUMHBmY1NHM2lTWGloRVRDbDU5MldPTUs2d0xlWDFwN9IBb0FVX3lxTE5ob1NIaWUxMzZvd3czV2tuMmNKbGFCYWNHeWtxX21adTFPUFV6Tm9CLVp2OEttdkFfb1l0WG1RWXc0anJ0ZnJVR29GbUZJdnZpSFhlb1hYWkxtQWxZekJHMDJnNjIzNVhXT3p1LTR5Yw?oc=5",
+   "publishedAt": "2026-11-05T15:17:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "일정(12/17 주총, 27/1/27 재상장)"
+   ],
+   "signals": [],
+   "frames": [
+    "규제/거래소",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T15:32:12+09:00"
+  },
+  {
+   "id": "5ded0ac6bc89971d",
+   "title": "카카오, 구조개편 일정 늦춰…분할·합병일 2월 1일로 [공시]",
+   "outlet": "파이낸셜뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsa2xIbkpFZGVUQ1dxX0xTNjRidjhHM21LYWtXSUE4c0xfMkMzLWJuRzdwSG93RHVhcTMycEJSUk1XZldhMGtlYWxEdmFEcjdjejZrc3ZkdTQ3UQ?oc=5",
+   "publishedAt": "2026-11-05T15:23:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T15:32:12+09:00"
   }
  ]
 }
