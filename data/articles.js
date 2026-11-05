@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-05T17:23:11+09:00",
- "runCount": 4551,
+ "generatedAt": "2026-11-05T17:43:50+09:00",
+ "runCount": 4552,
  "price": {
   "price": "32,150",
   "pct": "+10.48",
-  "at": "2026-11-05T17:23:13+09:00"
+  "at": "2026-11-05T17:43:53+09:00"
  },
  "articles": [
   {
@@ -51103,6 +51103,100 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-05T17:23:11+09:00"
+  },
+  {
+   "id": "1c72bf85348beda9",
+   "title": "인적분할 앞두고 수익성 챙긴 카카오…AI 수익 모델도 입증 나선다",
+   "outlet": "필드뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qaUl0NVY3Wm42YXViNk1qYTJCNzY0eVFmeHJhNURyOGZ4cWlHeFlSSHZvT2hQWkJ1cjEyQWszby1DbFlPTWt4LTluRVFxYUktSTNUMGxOZG9ZbDFZd0xCeDNDaGQ0ZDB20gFsQVVfeXFMTl9pWjZocUljTmhCUEc3QWxBSGw3OHJoUjZmYWdMYm1Xak9STm1kT3BEWkdsVUpHYlNYdUdoTUdjSTh2WGNsNjJGRi03NHc4Mjc5TW53S1dnemw5WEdlMjVRMmR6NFNCVFZuNGY3?oc=5",
+   "publishedAt": "2026-11-05T17:23:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T17:43:50+09:00"
+  },
+  {
+   "id": "c711d0b13fff7a8d",
+   "title": "카카오, 1500억 규모 자사주 소각 먼저…인적분할 한 달 연기한다",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMDBLcGIzWGgxYUhmTGF3OUFOZkhXWlBoZzAzU0ZGSnViS2lKZElmWHRHX2lQV0FaM1R5Vm81R0pXYTZnWmcxdkZ5S1hoaEJlVVFkaEJkVHZWSjNRbFdOOG9LWDhnU3pEZVhCdGlKRGNSV0nSAXdBVV95cUxOTG44X1d2c0xTVVhKQVFiTThWckFHMThfblBVVW1ENF9naVc3Q0p4dXRvMnN5QWE3Wmg1VDZZX2MxaDk5OXFjQUFCWEtqV0kxNC14SWdvMVcxcHZnMVVuNlJxNGxvRERWLWloTFVya0Z6eWFFTDRwWQ?oc=5",
+   "publishedAt": "2026-11-05T16:11:25+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T17:43:50+09:00"
+  },
+  {
+   "id": "9cdbf5a764611d68",
+   "title": "정신아 \"연내 카카오 AI 이용 1000만명 달성\"",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JUFNmQkpBSGg1VzBfQkJueGtIaVFHb0N3bzNkM0Vxb2FJT2J4eXl4RTdsVGVMUXBjTVY1OFg0WWtxQk1MMjMtZlpxSDFUbXE5UE1RNjhCdDRyUQ?oc=5",
+   "publishedAt": "2026-11-05T17:21:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T17:43:50+09:00"
+  },
+  {
+   "id": "8b1aefffb1262000",
+   "title": "[IT큐레이션] 카카오 주주환원 승부수가 의미하는 것",
+   "outlet": "ER 이코노믹리뷰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQUI5ckZOZkUza2xDLWd3WUtzdFNsdjh3Nk5oN3lueGNlRlg0TXFCU2ZhVmVHdEZWZF9WRFBsWVNzcV80cS1jMFUteDFpR2lfS3pHUW16UXdxTjliTFVWMklDSUdsZUtnZFV4UQ?oc=5",
+   "publishedAt": "2026-11-05T17:30:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-05T17:43:50+09:00"
   }
  ]
 };
