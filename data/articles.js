@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-06T20:44:52+09:00",
- "runCount": 4589,
+ "generatedAt": "2026-11-06T21:05:21+09:00",
+ "runCount": 4590,
  "price": {
   "price": "32,000",
   "pct": "-0.62",
-  "at": "2026-11-06T20:44:53+09:00"
+  "at": "2026-11-06T21:05:21+09:00"
  },
  "articles": [
   {
@@ -51738,6 +51738,48 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-06T19:23:02+09:00"
+  },
+  {
+   "id": "7707670ab4f8c2f1",
+   "title": "AI 재편 앞둔 카카오···엔터프라이즈·디케이테크인 합병설 '촉각'",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DT2M4eE5WYVNqdWFvOWpJU1dlUGhLXzltNEwtR2J3QmQ4elJ4YnZkcHpMODhTbWI2ZUtGQmdUSFhaa3hTckxWbkhkYkZtQjZzUE1haG13ZzY4YllPVERmdENxQmQ4UGhtNjdnNU9MY2IwQdIBdkFVX3lxTE9rMTJvY3ZqRnl6elhzaEpWQU1QNmdJY3FaS2ptbkROaTBURUpuQ2hNU0NzQy1VZUxzR2ZTRnNTcjRzdE5PMGQ1SmdPdXJ3UjFrZVZCb1NnQzJHeVlwcGI1a3FYb21ZMElvSXA5b1ZMemRlLXBYakE?oc=5",
+   "publishedAt": "2026-11-06T13:53:08+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T21:05:21+09:00"
+  },
+  {
+   "id": "7aac938732934e91",
+   "title": "주주 달래기 나선 카카오 “경영진 성과급에 ‘주가’ 반영한다“",
+   "outlet": "브릿지경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZVl3RXFXQTVxVHdZNTBOT1JMUWdBWlR5cmZlVG84LThYQkMxdHFKaGRWSm5nRjNkSHk3YXA1bThnYWZxQUxJcUJQaDRRUVVnZXhGTjFGUQ?oc=5",
+   "publishedAt": "2026-10-20T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T21:05:21+09:00"
   }
  ]
 };
