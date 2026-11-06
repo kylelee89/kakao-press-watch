@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-11-06T17:40:48+09:00",
+  "generatedAt": "2026-11-06T18:01:25+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
@@ -122,11 +122,11 @@ window.KMW_PRICES = {
         28900,
         29450,
         32400,
-        31900
+        31850
       ],
       "base": 38700,
-      "last": 31900,
-      "cumPct": -17.57,
+      "last": 31850,
+      "cumPct": -17.7,
       "annPct": -7.49,
       "error": null
     },
@@ -191,11 +191,11 @@ window.KMW_PRICES = {
         19290,
         20150,
         20750,
-        20500
+        20450
       ],
       "base": 21200,
-      "last": 20500,
-      "cumPct": -3.3,
+      "last": 20450,
+      "cumPct": -3.54,
       "annPct": 0.47,
       "error": null
     },
@@ -329,11 +329,11 @@ window.KMW_PRICES = {
         76400,
         72200,
         78200,
-        77000
+        76900
       ],
       "base": 74700,
-      "last": 77000,
-      "cumPct": 3.08,
+      "last": 76900,
+      "cumPct": 2.95,
       "annPct": -4.55,
       "error": null
     },
@@ -398,11 +398,11 @@ window.KMW_PRICES = {
         12050,
         12020,
         12600,
-        12270
+        12280
       ],
       "base": 8970,
-      "last": 12270,
-      "cumPct": 36.79,
+      "last": 12280,
+      "cumPct": 36.9,
       "annPct": -5.13,
       "error": null
     },
@@ -743,11 +743,11 @@ window.KMW_PRICES = {
         48050,
         49000,
         51100,
-        59300
+        59600
       ],
       "base": 71900,
-      "last": 59300,
-      "cumPct": -17.52,
+      "last": 59600,
+      "cumPct": -17.11,
       "annPct": 4.59,
       "error": null
     },
@@ -812,11 +812,11 @@ window.KMW_PRICES = {
         153100,
         139100,
         148200,
-        144800
+        145100
       ],
       "base": 173400,
-      "last": 144800,
-      "cumPct": -16.49,
+      "last": 145100,
+      "cumPct": -16.32,
       "annPct": -3.17,
       "error": null
     },
@@ -1088,11 +1088,11 @@ window.KMW_PRICES = {
         5565.56,
         5634.18,
         5612.48,
-        5336.41
+        5304.85
       ],
       "base": 6852.58,
-      "last": 5336.41,
-      "cumPct": -22.13,
+      "last": 5304.85,
+      "cumPct": -22.59,
       "annPct": -1.97,
       "error": null
     }
