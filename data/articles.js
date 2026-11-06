@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-06T11:50:33+09:00",
- "runCount": 4562,
+ "generatedAt": "2026-11-06T12:10:59+09:00",
+ "runCount": 4563,
  "price": {
-  "price": "32,450",
-  "pct": "+0.78",
-  "at": "2026-11-06T11:50:34+09:00"
+  "price": "32,750",
+  "pct": "+1.71",
+  "at": "2026-11-06T12:11:00+09:00"
  },
  "articles": [
   {
@@ -51598,6 +51598,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-06T11:09:00+09:00"
+  },
+  {
+   "id": "99436af53d849bab",
+   "title": "주주환원에만 열 올리는 ICT업계 … 삼전닉스 제외하고 직원들 보상은 초라해",
+   "outlet": "뉴데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Ml84cjJfcUpmRGp3bzlxdG94RDY0MnB4eGRXWGFZY3ppWUdJLVBxNjNkVzEwOVBZUnBvM0hXRTkyd0xwUVNnZ2VEdW03MEt6Z3JaUlZVVGllZ2RnSTJjQ3VSRmotSTJRTXBOM0JVbjV6UTVrWks4eU93QdIBgAFBVV95cUxNYUhEbU04c2dLVkxucmZBaWppUDE4T2VjQ2dJYzFwcmU0TXg0WnI3Yk9hb05LSnc2ekdST2ZvUzVnNXc5ME1ZVGYzc2ktSjNjV3FjV21jeWZwOVo4SEV5akJ1VEs1eGJEcXVHRXo0cktQRFVjajB6TTNQaFpBSnZnOA?oc=5",
+   "publishedAt": "2026-11-06T11:25:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T12:10:59+09:00"
   }
  ]
 };
