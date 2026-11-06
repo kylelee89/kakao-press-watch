@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-11-06T16:18:16+09:00",
+  "generatedAt": "2026-11-06T16:38:57+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
@@ -122,11 +122,11 @@ window.KMW_PRICES = {
         28900,
         29450,
         32400,
-        32000
+        31850
       ],
       "base": 38700,
-      "last": 32000,
-      "cumPct": -17.31,
+      "last": 31850,
+      "cumPct": -17.7,
       "annPct": -7.49,
       "error": null
     },
@@ -260,11 +260,11 @@ window.KMW_PRICES = {
         32100,
         31950,
         33000,
-        32250
+        31900
       ],
       "base": 44950,
-      "last": 32250,
-      "cumPct": -28.25,
+      "last": 31900,
+      "cumPct": -29.03,
       "annPct": -5.45,
       "error": null
     },
@@ -398,11 +398,11 @@ window.KMW_PRICES = {
         12050,
         12020,
         12600,
-        12210
+        12170
       ],
       "base": 8970,
-      "last": 12210,
-      "cumPct": 36.12,
+      "last": 12170,
+      "cumPct": 35.67,
       "annPct": -5.13,
       "error": null
     },
@@ -467,11 +467,11 @@ window.KMW_PRICES = {
         171200,
         172100,
         183900,
-        187800
+        187400
       ],
       "base": 219500,
-      "last": 187800,
-      "cumPct": -14.44,
+      "last": 187400,
+      "cumPct": -14.62,
       "annPct": 1.14,
       "error": null
     },
@@ -605,11 +605,11 @@ window.KMW_PRICES = {
         197000,
         201000,
         209000,
-        206500
+        205500
       ],
       "base": 220500,
-      "last": 206500,
-      "cumPct": -6.35,
+      "last": 205500,
+      "cumPct": -6.8,
       "annPct": 1.81,
       "error": null
     },
@@ -743,11 +743,11 @@ window.KMW_PRICES = {
         48050,
         49000,
         51100,
-        58500
+        59400
       ],
       "base": 71900,
-      "last": 58500,
-      "cumPct": -18.64,
+      "last": 59400,
+      "cumPct": -17.39,
       "annPct": 4.59,
       "error": null
     },
@@ -1088,11 +1088,11 @@ window.KMW_PRICES = {
         5565.56,
         5634.18,
         5612.48,
-        5368.51
+        5384.9
       ],
       "base": 6852.58,
-      "last": 5368.51,
-      "cumPct": -21.66,
+      "last": 5384.9,
+      "cumPct": -21.42,
       "annPct": -1.97,
       "error": null
     }
