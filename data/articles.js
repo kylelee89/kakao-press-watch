@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-06T13:12:16+09:00",
- "runCount": 4566,
+ "generatedAt": "2026-11-06T13:32:42+09:00",
+ "runCount": 4567,
  "price": {
-  "price": "32,700",
-  "pct": "+1.55",
-  "at": "2026-11-06T13:12:16+09:00"
+  "price": "32,600",
+  "pct": "+1.24",
+  "at": "2026-11-06T13:32:43+09:00"
  },
  "articles": [
   {
@@ -51644,6 +51644,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-06T12:51:53+09:00"
+  },
+  {
+   "id": "523834aa05709d0f",
+   "title": "카카오, 3분기 '실적 순항'에도 증권가 \"AI 수익 확인해야\"...금일 주가는 상승 [주가동향]",
+   "outlet": "조세일보",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DMGU5NFBURDU3Vms5SWFpNkJ1MlFsWnV5clVWNmhqdUIzMmk0SW8wd05vUWZaNnFpX3FMRTVXTlpMMFBuQWFNWmtGOGZueW5UaHJ6NnFrWFhaTkJhdDd6R0NRal9SdS1JVHloQzVWTVFBYXBN?oc=5",
+   "publishedAt": "2026-11-06T13:15:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:에도"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T13:32:42+09:00"
   }
  ]
 };
