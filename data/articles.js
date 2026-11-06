@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-06T16:59:22+09:00",
- "runCount": 4577,
+ "generatedAt": "2026-11-06T17:19:55+09:00",
+ "runCount": 4578,
  "price": {
-  "price": "32,000",
-  "pct": "-0.62",
-  "at": "2026-11-06T16:59:24+09:00"
+  "price": "31,950",
+  "pct": "-0.78",
+  "at": "2026-11-06T17:19:57+09:00"
  },
  "articles": [
   {
@@ -51692,6 +51692,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-06T15:16:10+09:00"
+  },
+  {
+   "id": "b55d3af672e93038",
+   "title": "[기자수첩]카카오 '인적분할'에 내·외부 온도차 '뚜렷'",
+   "outlet": "현대경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fR3Z3c3dHMkEteWIxM25CZWdVSEVKR0gwc05yM0ZwMXlxa3NJVDhJdGlWcFE3NlJ3bEtJRHRGMDA0YjB0OE4yZmVkX0JibGxYREctNnRvNXV4djMwYzRBZEo2UE1XVzDSAWtBVV95cUxNTlllUlp1czg5YU5MellRcjlwa2tacHdxVWRBMExfaU5VRENhZDFDTlF6dm1YMUVjTTBKekpTekJVZy01ZndGbkQ3R3NFY1VaQnpOYUtlZTdxVTA0cV9UZmNwNThDLVJhQXpNVQ?oc=5",
+   "publishedAt": "2026-11-06T16:22:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T17:19:55+09:00"
   }
  ]
 };
