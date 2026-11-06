@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-06T12:31:26+09:00",
- "runCount": 4564,
+ "generatedAt": "2026-11-06T12:51:53+09:00",
+ "runCount": 4565,
  "price": {
   "price": "32,700",
   "pct": "+1.55",
-  "at": "2026-11-06T12:31:26+09:00"
+  "at": "2026-11-06T12:51:53+09:00"
  },
  "articles": [
   {
@@ -51621,6 +51621,29 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-06T12:10:59+09:00"
+  },
+  {
+   "id": "039151709b229ad4",
+   "title": "대신증권 \"카카오 목표주가 하향, 4분기 신규 AI 서비스 성과 확인 필요\"",
+   "outlet": "비즈니스포스트",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxaHlGVm9QcVRXWmdZTU9tRTYwOTE1Q0p3eFg2ODBJcUlwdElKOEliek9YbUgwdU02dmp6WjB1LVEycXEwYmtwUkxNdndFNmhOMFRSZXg2aUZvc2t2QWVNN2tkVldWVndpaEtncDNuMXJHQTA?oc=5",
+   "publishedAt": "2026-11-06T10:04:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T12:51:53+09:00"
   }
  ]
 }
