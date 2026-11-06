@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-06T06:55:47+09:00",
- "runCount": 4556,
+ "generatedAt": "2026-11-06T10:27:06+09:00",
+ "runCount": 4557,
  "price": {
-  "price": "32,400",
-  "pct": "+11.34",
-  "at": "2026-11-06T06:55:48+09:00"
+  "price": "31,750",
+  "pct": "-1.40",
+  "at": "2026-11-06T10:27:08+09:00"
  },
  "articles": [
   {
@@ -51411,6 +51411,145 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-06T06:55:47+09:00"
+  },
+  {
+   "id": "9c3b3bace8eddda0",
+   "title": "카카오, 분할 후 복잡한 사업구조 해소…주주환원 정책 기다릴 -한화 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMHdGQkJtdDN5R1NmcHBoMmtIdmVtRWoyajcxeGg5UEZFbnU4YkRycTZHNWZZejc4MlBsTkJRMHg5V3Ewa3MtMEVrc0dkZmxwc1dBQ19xTkxNZ2lrcnFaQXNHTnNPQTkz0gFuQVVfeXFMUHhQcnQ4cDJXVlJ3dkg4TlZNTFgxQldCYnl1RTZCaUFoSkpSdUNWZ0xVdjEyZm9iNW0xNXRjR09aRzg0M1JUNmhwWURjN3VTX3RIbVRNd3hHWGp3bE4zbVZlUldCbk1ZUmpVNDJOZFE?oc=5",
+   "publishedAt": "2026-11-06T08:28:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T10:27:06+09:00"
+  },
+  {
+   "id": "add724c897f8752b",
+   "title": "카카오, 분할 전 자사주 1500억 소각 앞당겨…카카오AI 몫도 늘렸다",
+   "outlet": "마켓잉크",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95OEJYSWlzWlo3Z1pGZy1YYldseUZ1amJ0LXpTTUVPUWY1Q2pfWDNPcW9KeUVXYXpxcVNkZ2ZxZFlwQ3JlRzhCQU5ZT2d2bWZ1UmcyelVJUE55MFFueUNNazVoWXFaUG93VExUZlllQQ?oc=5",
+   "publishedAt": "2026-11-06T09:29:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T10:27:06+09:00"
+  },
+  {
+   "id": "12010d9103d3ce9b",
+   "title": "\"카카오, 실적 좋아졌지만 AI는 아직\"…목표가 8.5%↓-대신",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdUJhODgyRk5VU01aUjVhbV8tUzZsSVJCMnEyR052cVFLWm50OFFmUHRDTl9UeXNNdmdpbFMzX01jVExyNWJITzduTVI1dU9lbktXSGstcWR4QXNYUTVwc0lndFJwbjR4QkRWWWlmVnhsRjV1c2R4NFZVWDFEYmFkQg?oc=5",
+   "publishedAt": "2026-11-06T07:41:05+09:00",
+   "tone": "우려",
+   "toneScore": -6.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "역접:지만",
+    "등락:8.5%↓"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "8.5%↓"
+    ]
+   },
+   "firstSeenAt": "2026-11-06T10:27:06+09:00"
+  },
+  {
+   "id": "d188c9ad41195fdc",
+   "title": "“카카오, 플랫폼 사업이 매출 성장 이끈건 맞는데”…IBK투자증권, 목표가↓",
+   "outlet": "매일경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NYmRmQ2RaRUZtTVl0VmdKUi1MSks3VHUyalR4YmZ4dk51VzFkaHhkakJKZERZWXBZYzdscjFELWpaV2Y3NkFBbkhqUXVCWWZnRkE?oc=5",
+   "publishedAt": "2026-11-06T09:12:47+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T10:27:06+09:00"
+  },
+  {
+   "id": "423b81d7b8792c00",
+   "title": "신한證 “카카오, 3분기 호실적⋯주가 향방은 AI ‘카나나’에 달려”",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tOTlUd1oybW9YSl9xbXpMeWRKMXNOQXlrcTBfdng4SUtSNTJwNWx5NGJoNGxxbkhEcTY4ZkdFeUZfaDFiLTZkU2h3alFaY0RqLWJITQ?oc=5",
+   "publishedAt": "2026-11-06T07:40:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T10:27:06+09:00"
+  },
+  {
+   "id": "6aed19f2ce22e49d",
+   "title": "카카오, 인적분할 주총 내년 1월로 미룬다",
+   "outlet": "한국경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96WXRKN2pXZ2laa0dTX09MeG1MeW5KZzQ2TGs5ejA4M2N1T1Y5czQ4dDROMEdacWxrWXhtVExaam9seUtWUy0tX3A1YjNFd1Fnb0pRakkzOU1rODZyeXNUdUp2S1R5cm9RcTFiVi1ENTg4N3M?oc=5",
+   "publishedAt": "2026-11-05T14:01:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T10:27:06+09:00"
   }
  ]
 };
