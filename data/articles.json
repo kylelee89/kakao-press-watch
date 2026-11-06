@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-06T19:02:36+09:00",
- "runCount": 4583,
+ "generatedAt": "2026-11-06T19:23:02+09:00",
+ "runCount": 4584,
  "price": {
-  "price": "32,100",
-  "pct": "-0.31",
-  "at": "2026-11-06T19:02:36+09:00"
+  "price": "32,050",
+  "pct": "-0.47",
+  "at": "2026-11-06T19:23:02+09:00"
  },
  "articles": [
   {
@@ -51715,6 +51715,29 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-06T17:19:55+09:00"
+  },
+  {
+   "id": "1fec15d59247f022",
+   "title": "카카오, 1500억 규모 자사주 소각 나선다 : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjNWTDY5azFNNnpyWHpPVllYMkJZVlVRYlRhczZxeUt5LU9HdHBlNGIyblJlbjljSTJndlB6alNCZjJId0F3cVhGVXh4VTJNUGJFazNnR0dQc25HXzd6VEE5bmp3enA4REM4RHN3a2U1QzJ5Z0RONzQtQmV4ejYwYlF4d2tJTzUtMUliWWpScw?oc=5",
+   "publishedAt": "2026-11-06T13:43:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-06T19:23:02+09:00"
   }
  ]
 }
