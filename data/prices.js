@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-11-06T19:23:12+09:00",
+  "generatedAt": "2026-11-06T19:43:14+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
@@ -122,11 +122,11 @@ window.KMW_PRICES = {
         28900,
         29450,
         32400,
-        32050
+        32100
       ],
       "base": 38700,
-      "last": 32050,
-      "cumPct": -17.18,
+      "last": 32100,
+      "cumPct": -17.05,
       "annPct": -7.49,
       "error": null
     },
@@ -191,11 +191,11 @@ window.KMW_PRICES = {
         19290,
         20150,
         20750,
-        20500
+        20650
       ],
       "base": 21200,
-      "last": 20500,
-      "cumPct": -3.3,
+      "last": 20650,
+      "cumPct": -2.59,
       "annPct": 0.47,
       "error": null
     },
@@ -329,11 +329,11 @@ window.KMW_PRICES = {
         76400,
         72200,
         78200,
-        77200
+        77400
       ],
       "base": 74700,
-      "last": 77200,
-      "cumPct": 3.35,
+      "last": 77400,
+      "cumPct": 3.61,
       "annPct": -4.55,
       "error": null
     },
@@ -398,11 +398,11 @@ window.KMW_PRICES = {
         12050,
         12020,
         12600,
-        12400
+        12350
       ],
       "base": 8970,
-      "last": 12400,
-      "cumPct": 38.24,
+      "last": 12350,
+      "cumPct": 37.68,
       "annPct": -5.13,
       "error": null
     },
@@ -467,11 +467,11 @@ window.KMW_PRICES = {
         171200,
         172100,
         183900,
-        188300
+        188700
       ],
       "base": 219500,
-      "last": 188300,
-      "cumPct": -14.21,
+      "last": 188700,
+      "cumPct": -14.03,
       "annPct": 1.14,
       "error": null
     },
@@ -674,11 +674,11 @@ window.KMW_PRICES = {
         33750,
         34400,
         35650,
-        34550
+        34500
       ],
       "base": 37500,
-      "last": 34550,
-      "cumPct": -7.87,
+      "last": 34500,
+      "cumPct": -8.0,
       "annPct": -1.2,
       "error": null
     },
@@ -743,11 +743,11 @@ window.KMW_PRICES = {
         48050,
         49000,
         51100,
-        58700
+        58000
       ],
       "base": 71900,
-      "last": 58700,
-      "cumPct": -18.36,
+      "last": 58000,
+      "cumPct": -19.33,
       "annPct": 4.59,
       "error": null
     },
@@ -812,11 +812,11 @@ window.KMW_PRICES = {
         153100,
         139100,
         148200,
-        146200
+        146100
       ],
       "base": 173400,
-      "last": 146200,
-      "cumPct": -15.69,
+      "last": 146100,
+      "cumPct": -15.74,
       "annPct": -3.17,
       "error": null
     },
@@ -881,11 +881,11 @@ window.KMW_PRICES = {
         31100,
         31050,
         32050,
-        32700
+        32750
       ],
       "base": 32050,
-      "last": 32700,
-      "cumPct": 2.03,
+      "last": 32750,
+      "cumPct": 2.18,
       "annPct": 0.47,
       "error": null
     },
@@ -1088,11 +1088,11 @@ window.KMW_PRICES = {
         5565.56,
         5634.18,
         5612.48,
-        5213.42
+        5197.47
       ],
       "base": 6852.58,
-      "last": 5213.42,
-      "cumPct": -23.92,
+      "last": 5197.47,
+      "cumPct": -24.15,
       "annPct": -1.97,
       "error": null
     }
