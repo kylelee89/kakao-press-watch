@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-07T11:42:46+09:00",
- "runCount": 4595,
+ "generatedAt": "2026-11-07T18:56:16+09:00",
+ "runCount": 4596,
  "price": {
   "price": "32,000",
   "pct": "-0.62",
-  "at": "2026-11-07T11:42:47+09:00"
+  "at": "2026-11-07T18:56:17+09:00"
  },
  "articles": [
   {
@@ -51903,6 +51903,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-07T11:42:46+09:00"
+  },
+  {
+   "id": "8a709f243778b979",
+   "title": "\"AI로 수익내라\"…정신아 카카오 대표의 과제",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Qk1aLXFjNmR2TnRuMGNmaTdnTDhCdmdMS19PZDNERVVfN3htY3VFSGo5MnRaaERLcGotQjBQU0dod3RUb1R6anhURG15c2dFRkpQalJxRGtNRWlSUFJ6aEJ1b1NuRDlM?oc=5",
+   "publishedAt": "2026-11-06T06:12:06+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "적대어:과제"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-11-07T18:56:16+09:00"
   }
  ]
 };
