@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-07T08:00:47+09:00",
- "runCount": 4594,
+ "generatedAt": "2026-11-07T11:42:46+09:00",
+ "runCount": 4595,
  "price": {
   "price": "32,000",
   "pct": "-0.62",
-  "at": "2026-11-07T08:00:48+09:00"
+  "at": "2026-11-07T11:42:47+09:00"
  },
  "articles": [
   {
@@ -51879,6 +51879,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-07T08:00:47+09:00"
+  },
+  {
+   "id": "48c4791c0eee6152",
+   "title": "[IT돋보기] 카카오 인적분할 내년 2월로⋯1500억원 규모 자사주는 조기 소각",
+   "outlet": "아이뉴스24",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kNWxVVndfOXpWWDBQWHpHQ2lvVjNaTFpEajNWUF9VU2NINkNRUFBETkdKdWJnd3c2a1lhczRVaVZaZWdQd2tMeWt4TQ?oc=5",
+   "publishedAt": "2026-11-07T09:31:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-07T11:42:46+09:00"
   }
  ]
 };
