@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-08T09:26:47+09:00",
- "runCount": 4599,
+ "generatedAt": "2026-11-08T16:12:57+09:00",
+ "runCount": 4600,
  "price": {
   "price": "32,000",
   "pct": "-0.62",
-  "at": "2026-11-08T09:26:49+09:00"
+  "at": "2026-11-08T16:12:58+09:00"
  },
  "articles": [
   {
@@ -51952,6 +51952,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-08T09:26:47+09:00"
+  },
+  {
+   "id": "7e3d5a3744adf56c",
+   "title": "[편집국장 칼럼] 카카오 정신아 호(號), 17.4조원 가치 괴리 메울 승부수 기대 커",
+   "outlet": "이코노미트리뷴",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sYmk0QkI2WjhuM3UybXVCWkY1SC1LWWhWbll5NDRxREN2ZWxUajQyaGFhR2RhQmxaSS1RWlNHbjhmZ3FkNFVkUVNtbkxWTEdGRzl0ZXNpX3F3LU55djcwUHN4d3g4a1ViYUNkYXJkYzFwRTJZNHNB?oc=5",
+   "publishedAt": "2026-11-08T14:33:41+09:00",
+   "tone": "긍정",
+   "toneScore": 2.0,
+   "frame": "회사프레임",
+   "messages": [
+    "SOTP 34.2조 저평가 논거",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [
+    "호재어:기대 커"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [
+     "기대 커"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-08T16:12:57+09:00"
   }
  ]
 };
