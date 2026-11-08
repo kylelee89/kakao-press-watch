@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-08T16:12:57+09:00",
- "runCount": 4600,
+ "generatedAt": "2026-11-09T00:02:07+09:00",
+ "runCount": 4601,
  "price": {
   "price": "32,000",
   "pct": "-0.62",
-  "at": "2026-11-08T16:12:58+09:00"
+  "at": "2026-11-09T00:02:08+09:00"
  },
  "articles": [
   {
@@ -51980,6 +51980,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-08T16:12:57+09:00"
+  },
+  {
+   "id": "7fbcfefedb47532d",
+   "title": "연초로 미뤄진 카카오 인적분할…변수로 떠오른 ‘전자주총’",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ycUd1ODhmcjNpRF9mSVBnVjNhSkctMHZkZVNicm5WaE11RmU2MUVqTnotdDhpRjlRc3FWNUxPbjNNeVItb2x1WGxnSjhIeU9wQUHSAVNBVV95cUxNTGxjUjYxR3JIOVRSbWgwUUhOM0paRi0xazdLbVViWEtBREtkVUIyZEF2NDlwdTV5bXByVnNtdXozQjdUTnUyTE4yR00yZ2ZSaFl5dw?oc=5",
+   "publishedAt": "2026-11-08T18:00:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-09T00:02:07+09:00"
+  },
+  {
+   "id": "81108e0b668a0fb6",
+   "title": "카카오, 인적분할 주총 연기로 전자주총 변수 부상",
+   "outlet": "Traders Union",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3BueU9vNHVjMUlpeHhQbzF5ZXV0aUpUM3hoN0FzeTRzWUJ5NmxiaGVZeGlqQUZoUlpobUZrY1Q3UGI1NmRiUWVjSV9iMzhiYV9ndUVsRzc2UTVzQXVoLUpicDhqTWtTZS0tYjc2enVmY2w3bk5Fd3FVbHgwNVdwSDJYeE1EbG9sN2VjN0Y0NDBKM1FtTzEyREpJc2U0YTFa?oc=5",
+   "publishedAt": "2026-11-08T18:08:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-09T00:02:07+09:00"
   }
  ]
 };
