@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-09T06:07:45+09:00",
- "runCount": 4603,
+ "generatedAt": "2026-11-09T06:28:15+09:00",
+ "runCount": 4604,
  "price": {
   "price": "32,000",
   "pct": "-0.62",
-  "at": "2026-11-09T06:07:46+09:00"
+  "at": "2026-11-09T06:28:15+09:00"
  },
  "articles": [
   {
@@ -52049,6 +52049,31 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-09T06:07:45+09:00"
+  },
+  {
+   "id": "6089065c6d206c68",
+   "title": "[전망] 카카오, 인적분할·자사주 소각으로 주주가치 제고",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wS2pxUDZieURaWmhLUzlKSDJ4dG1tMnFTRmE4RnV5WmxBVHEyU3ZWYTdycVZkSXdZY1dpN0ttXy0zZkxBakZWaG1VU2RCUTY0UnVYeWp2QTR4Zm11TllnVmNJc3E0R2Y1T3lFWUh3?oc=5",
+   "publishedAt": "2026-11-09T06:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-09T06:28:15+09:00"
   }
  ]
 }
