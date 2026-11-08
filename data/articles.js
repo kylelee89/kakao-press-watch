@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-08T05:49:32+09:00",
- "runCount": 4598,
+ "generatedAt": "2026-11-08T09:26:47+09:00",
+ "runCount": 4599,
  "price": {
   "price": "32,000",
   "pct": "-0.62",
-  "at": "2026-11-08T05:49:33+09:00"
+  "at": "2026-11-08T09:26:49+09:00"
  },
  "articles": [
   {
@@ -51931,6 +51931,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-07T18:56:16+09:00"
+  },
+  {
+   "id": "1f854a422e17ec48",
+   "title": "분할기일 밀린 카카오, 노조는 반대 서명 지속",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZEQ5M25LTEFTZGVERFNEdTNxOHlGdDRiTk9yRmZQb3JkMjU4Yzc5anNLcVpZOXU2MklxUVk5RFhwLWZYcDZERmZoMmpYb3A5SEFNbmNHN3RRRVlHT0hxYldUQ28?oc=5",
+   "publishedAt": "2026-11-08T08:00:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-08T09:26:47+09:00"
   }
  ]
 };
