@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-09T11:37:13+09:00",
- "runCount": 4620,
+ "generatedAt": "2026-11-09T11:57:40+09:00",
+ "runCount": 4621,
  "price": {
   "price": "32,500",
   "pct": "+0.62",
-  "at": "2026-11-09T11:37:14+09:00"
+  "at": "2026-11-09T11:57:40+09:00"
  },
  "articles": [
   {
@@ -52074,6 +52074,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-09T06:28:15+09:00"
+  },
+  {
+   "id": "8977fbde82bc6b85",
+   "title": "카카오, 자사주 1500억원 매입·소각 추진…주주환원 계획 조기 이행",
+   "outlet": "포인트데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YR0VZa29XNkk0c2ZGUElPdTlES3Y1VklhanJqdEIza09lRjYyNTZyVW9VdG5zaDZaaXRScm50Z085Y1BBYTg0ZjBHemFzSU04clEtYlhROXdTVHNuclgxanFoZmVVYWlEaUY0aHdNSErSAXRBVV95cUxQLTFWcWw5c0hlRmxwT1ZkUkZfYnRLOHdZblBCRlFERFdkY2hFRXhUSmJnMUVVMm54QlRsWGtVdG42OEs1YV9CTXlmTmk4MTQxV3NsMTlIWDV3bEVsNTREY0lMTEdIVHZlQ0NxSEVkQmxEM3RvLQ?oc=5",
+   "publishedAt": "2026-11-05T16:20:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-09T11:57:40+09:00"
   }
  ]
 };
