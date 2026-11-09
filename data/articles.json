@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-10T06:55:48+09:00",
- "runCount": 4655,
+ "generatedAt": "2026-11-10T07:16:11+09:00",
+ "runCount": 4656,
  "price": {
   "price": "31,800",
   "pct": "-1.55",
-  "at": "2026-11-10T06:55:48+09:00"
+  "at": "2026-11-10T07:16:11+09:00"
  },
  "articles": [
   {
@@ -52151,6 +52151,30 @@
     ]
    },
    "firstSeenAt": "2026-11-10T01:07:39+09:00"
+  },
+  {
+   "id": "ad41a4d0297bcb63",
+   "title": "[IR 분석] 정신아의 AI 수익화 구상, 카카오톡에 광고·커머스 연결",
+   "outlet": "www.fetv.co.kr",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ocUt0bzZITHppX0I2b082SF9Wc3gtY3REVkt1NHZQVWlVVHoxR2dWeFZLMXVUa0IzTVZSdVdmYmhEeUVJRDRBUUpMT0pPR0lCUUpyaS1SYnAtSGdRblBSOExua0RobkV4?oc=5",
+   "publishedAt": "2026-11-10T07:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-10T07:16:11+09:00"
   }
  ]
 }
