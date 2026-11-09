@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-09T21:54:27+09:00",
- "runCount": 4651,
+ "generatedAt": "2026-11-10T01:07:39+09:00",
+ "runCount": 4652,
  "price": {
   "price": "31,800",
   "pct": "-1.55",
-  "at": "2026-11-09T21:54:27+09:00"
+  "at": "2026-11-10T01:07:40+09:00"
  },
  "articles": [
   {
@@ -52097,6 +52097,60 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-09T11:57:40+09:00"
+  },
+  {
+   "id": "e7a6a1cf53bd90f7",
+   "title": "1500억 자사주 소각에 폭락장 견뎠지만…목표가는 반토막 [종목+]",
+   "outlet": "블루밍비트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tZkRLUWNEQlhQeEgtMmJqa01XMjE5WlQwRDV3b1QxMy1EOHl2TkZUTnR0N0I0cjRORGs0TldFc2VNSi1PbWNZemxOY1k0UDNX?oc=5",
+   "publishedAt": "2026-11-07T21:31:39+09:00",
+   "tone": "중립",
+   "toneScore": -0.9,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "역접:지만",
+    "등락:폭락"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "폭락"
+    ]
+   },
+   "firstSeenAt": "2026-11-10T01:07:39+09:00"
+  },
+  {
+   "id": "79f55208a620201e",
+   "title": "[리포트 브리핑]카카오, '목표 달성을 위한 선결 과제' 목표가 51,000원 - 교보증권",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BS2VLaHBzMENvMF93TnNNZHQxSUhoWU8wZWJ0ODlkTkJyc29HUmdpRDFETVJfX3BwQk1INVh0WV9FXzNHMHhPTVY1NmhCaVNhRDVmaE5fX3gteFZV?oc=5",
+   "publishedAt": "2026-11-06T11:31:00+09:00",
+   "tone": "중립",
+   "toneScore": -0.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:과제",
+    "전언감쇠:리포트"
+   ],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-11-10T01:07:39+09:00"
   }
  ]
 };
