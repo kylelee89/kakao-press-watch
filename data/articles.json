@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-10T07:36:34+09:00",
- "runCount": 4657,
+ "generatedAt": "2026-11-10T07:56:57+09:00",
+ "runCount": 4658,
  "price": {
   "price": "31,800",
   "pct": "-1.55",
-  "at": "2026-11-10T07:36:34+09:00"
+  "at": "2026-11-10T07:56:58+09:00"
  },
  "articles": [
   {
@@ -52175,6 +52175,33 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-10T07:16:11+09:00"
+  },
+  {
+   "id": "f8965856c2502e96",
+   "title": "분할 앞둔 카카오가 풀어야할 두 가지 숙제",
+   "outlet": "비즈워치",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uWHBKdHB6WWJXbG1jT3BwTFhzTDlaQXdsTTZvVzQ4SDlhRktzblJnZTl0eE5ubE9yWEFlY090a3NMTEhZQ1lmQ0taVU1fWFhtQVdKYnowaUtYVndIVmNtTDlGQlR4bXFhNWc?oc=5",
+   "publishedAt": "2026-11-10T07:40:02+09:00",
+   "tone": "우려",
+   "toneScore": -2.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:풀어야",
+    "적대어:숙제"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "풀어야",
+     "숙제"
+    ]
+   },
+   "firstSeenAt": "2026-11-10T07:56:57+09:00"
   }
  ]
 }
