@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-10T13:31:58+09:00",
- "runCount": 4676,
+ "generatedAt": "2026-11-10T13:52:33+09:00",
+ "runCount": 4677,
  "price": {
-  "price": "31,900",
-  "pct": "-0.62",
-  "at": "2026-11-10T13:31:59+09:00"
+  "price": "31,950",
+  "pct": "-0.47",
+  "at": "2026-11-10T13:52:35+09:00"
  },
  "articles": [
   {
@@ -52227,6 +52227,31 @@
     ]
    },
    "firstSeenAt": "2026-11-10T11:22:09+09:00"
+  },
+  {
+   "id": "8c0ff458d51f5a0b",
+   "title": "[단독] 카카오, 150만 주주명부 ‘종이 6박스’로 제공…소액주주 “주주권 방해”",
+   "outlet": "조선일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGQ2dlU1TTA3MnFYaFNLRER5MXdGN1VXa2lFSm5tZ1AtZ1BEMzRFRWxIMlZ3X1FSaDhXWkxNVG1hRUIxb2RUOUNtRXNTUkdrOUZpeFdwOTEwRE93XzVSbGRSWXZpdjBUaUtPRWU4NlpTTlpFTl9mR1ZodjFVSzlQSjZhQQ?oc=5",
+   "publishedAt": "2026-11-10T13:41:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-11-10T13:52:33+09:00"
   }
  ]
 }
