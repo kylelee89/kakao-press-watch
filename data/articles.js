@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-11T01:58:57+09:00",
- "runCount": 4691,
+ "generatedAt": "2026-11-11T07:18:51+09:00",
+ "runCount": 4692,
  "price": {
   "price": "31,800",
   "pct": "-0.93",
-  "at": "2026-11-11T01:58:58+09:00"
+  "at": "2026-11-11T07:18:53+09:00"
  },
  "articles": [
   {
@@ -52275,6 +52275,31 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-11T01:58:57+09:00"
+  },
+  {
+   "id": "0425e271f52ac478",
+   "title": "[단독] 소액주주에게 150만 주주명부 ‘박스 6개’에 담아 보낸 카카오",
+   "outlet": "조선일보",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0E3Tk56LU9vYV9HcXQzbTByMGt4eXBPcUNZWDZueGI4TTJleENOSTRJcXpjay15ZEJMWEs2QkZCaUlLTWVETnBlT3Rrblc5OVd0R3p6MzlxS1hMOWx4UE5jV1hCbVptRlBGLWUtLThkQ0xLSXlhQmJhV3RjZDJGZ0xIZw?oc=5",
+   "publishedAt": "2026-11-11T05:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-11-11T07:18:51+09:00"
   }
  ]
 };
