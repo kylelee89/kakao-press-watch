@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-10T11:01:28+09:00",
- "runCount": 4668,
+ "generatedAt": "2026-11-10T11:22:09+09:00",
+ "runCount": 4669,
  "price": {
-  "price": "32,000",
-  "pct": "-0.31",
-  "at": "2026-11-10T11:01:30+09:00"
+  "price": "31,950",
+  "pct": "-0.47",
+  "at": "2026-11-10T11:22:12+09:00"
  },
  "articles": [
   {
@@ -52202,6 +52202,31 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-10T07:56:57+09:00"
+  },
+  {
+   "id": "025c7a3eda8fc8e8",
+   "title": "'장기집권' 윤호영, '주가하락' 최우형...인사 앞둔 인뱅 2K CEO '기로'",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1bDF5ei1sQllwWnphczRhRmhrVzE5VFYwYU55bFBrZVNNWHEwTDFNUHlyR0NaTVJMLWhWTlE4NGtXa3VpOWFWRy1mb3E0OVNLZ0xHblpBd1Vra1p0?oc=5",
+   "publishedAt": "2026-11-10T11:16:00+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "등락:하락"
+   ],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "하락"
+    ]
+   },
+   "firstSeenAt": "2026-11-10T11:22:09+09:00"
   }
  ]
 };
