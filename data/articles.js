@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-11T17:20:38+09:00",
- "runCount": 4714,
+ "generatedAt": "2026-11-11T17:41:19+09:00",
+ "runCount": 4715,
  "price": {
   "price": "31,950",
   "pct": "-0.31",
-  "at": "2026-11-11T17:20:41+09:00"
+  "at": "2026-11-11T17:41:22+09:00"
  },
  "articles": [
   {
@@ -53654,6 +53654,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-11T17:20:38+09:00"
+  },
+  {
+   "id": "b05b6404dfa7d25e",
+   "title": "카카오, 홍콩·싱가포르서도 인적분할 전략 설명 나서",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ld1U4MkdienV0dm9mQnhxa3pCUGVtVHNTMUxYc0NNRGZZSGdZZV9KeFplUEJVWUx5VmlrdHExVXpFQVREazZnX0Jkd1NnZHc2RjRxMDVhWEtMQWtlejFMZjAwSk0?oc=5",
+   "publishedAt": "2026-11-11T17:15:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T17:41:19+09:00"
   }
  ]
 };
