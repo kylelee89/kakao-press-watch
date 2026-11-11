@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-11T11:07:19+09:00",
- "runCount": 4695,
+ "generatedAt": "2026-11-11T11:28:05+09:00",
+ "runCount": 4696,
  "price": {
-  "price": "32,200",
-  "pct": "+0.47",
-  "at": "2026-11-11T11:07:21+09:00"
+  "price": "32,100",
+  "pct": "+0.16",
+  "at": "2026-11-11T11:28:08+09:00"
  },
  "articles": [
   {
@@ -52983,6 +52983,77 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-11T11:07:19+09:00"
+  },
+  {
+   "id": "0f7d6c9fd9ff10de",
+   "title": "카카오, 인적분할 앞두고 해외 투자자 설득 나섰다",
+   "outlet": "팍스경제TV",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1veURDNTI3MW1lQTIzR0RRa0xDU0tCN2VadVZUdTJOUExhM0FFRlJ5OVFYVUlfTFJuN1Z3cG9qVUgzVDdfQlZqVFBQMmF6WGdXazQ2QW9tRnpWejN5N0gtdGpIUXRSZjg?oc=5",
+   "publishedAt": "2026-11-11T11:12:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T11:28:05+09:00"
+  },
+  {
+   "id": "923845d002534f74",
+   "title": "카카오, 인적분할 앞두고 해외 투자자 설득…홍콩·싱가포르서 IR",
+   "outlet": "진일보 | 전남일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhLXUybUJoLUdlQkp6cnkwdGlvcFhTLTE0OExRMUpab1dxczlnUGxUU1B4LXhuOGJScjY2QUZYcTdqdk12LVZ1NmJvSGszRmtVNHB1U0pqQ0J0bFRjazV6SWloVDdleWhxdHlqX0ZEUQ?oc=5",
+   "publishedAt": "2026-11-11T10:53:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T11:28:05+09:00"
+  },
+  {
+   "id": "f1a98681373fd64e",
+   "title": "\"인적분할 설득에 1500억 자사주 조기 소각\"…해외 투자자 직접 만나는 카카오 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wNGlLbGt5MWxLM0tCSi1UNXRvWkhlVlZya0x4YTdicmNvTGtLcDBMenNXYnZPX3V0NG1JQTZHaE9EdENMVnRRcDhYWU5FbFZSQ2pqRkFoZ0I2akZ3ZTI0ZGxxWGNHamfSAWxBVV95cUxPeElHWk9xQzh1TTJiOUE1akVlWWJGYnljcGJGbHJEMW5uQ1JHUW9uR3o3eXpMZ3VGR2Y3ZndtR0xnTmxWNFdTTDV6TDJWM1hOUndLQ2JabFhlckZIT2h1Y1FDVHdmR25KVVd0N3I?oc=5",
+   "publishedAt": "2026-11-11T11:12:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T11:28:05+09:00"
   }
  ]
 };
