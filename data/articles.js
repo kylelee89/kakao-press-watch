@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-11T11:28:05+09:00",
- "runCount": 4696,
+ "generatedAt": "2026-11-11T11:43:38+09:00",
+ "runCount": 4697,
  "price": {
-  "price": "32,100",
-  "pct": "+0.16",
-  "at": "2026-11-11T11:28:08+09:00"
+  "price": "31,900",
+  "pct": "-0.47",
+  "at": "2026-11-11T11:43:39+09:00"
  },
  "articles": [
   {
@@ -53054,6 +53054,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-11T11:28:05+09:00"
+  },
+  {
+   "id": "b3c3256fbff3b31f",
+   "title": "카카오 정신아·김도영, 해외 IR 직접 나선다…인적분할 설득전",
+   "outlet": "알파경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uUm1Vamp1cVZTV3RmZ2FBdWVkS0VnNWRZMTBJaTBEWnMyQmpwU3loakFQMkI2YWRLUEtPa0xEa0wwQU9nbThVY0ZBVWMtdWMxYUJIT1RnRWQtNTBZd19QdDJWd0dHeVo1ejFVOTR3?oc=5",
+   "publishedAt": "2026-11-11T11:32:57+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T11:43:38+09:00"
   }
  ]
 };
