@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T16:59:59+09:00",
- "runCount": 4713,
+ "generatedAt": "2026-11-11T17:20:38+09:00",
+ "runCount": 4714,
  "price": {
-  "price": "31,900",
-  "pct": "-0.47",
-  "at": "2026-11-11T17:00:01+09:00"
+  "price": "31,950",
+  "pct": "-0.31",
+  "at": "2026-11-11T17:20:41+09:00"
  },
  "articles": [
   {
@@ -53631,6 +53631,29 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T16:59:59+09:00"
+  },
+  {
+   "id": "39b5358edd41a269",
+   "title": "카카오, 인적 분할 설득 위해 해외로···홍콩·싱가포르서 투자자 만난다",
+   "outlet": "이뉴스투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95anpNaW9EWXFyN0lua3QxOFFDVjROdlFyaFVDdlJ2T1VBbDBtd0YwNWEtNlBiMkpkb204ekZsWmhSZHVWM1ZDNXJrUFRzSUFKMWJWNXFBVWh3R0hkMkl0Rkg4WERCdllzNDliZzNkeXfSAXRBVV95cUxOVEpIbmpBLUZTcENWc09GVXNuem5HeDVTR3RCb1dBcldOVzBXZnFGSVRyMjF3S3RQcF9EcDhocXY0d0dKRjV3bVNyYWZiNEhrVHl4bEowVkdVMU11YldFQVJJU0xNQXM5NVlTYkFmUVVTOFhCZQ?oc=5",
+   "publishedAt": "2026-11-11T16:51:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T17:20:38+09:00"
   }
  ]
 }
