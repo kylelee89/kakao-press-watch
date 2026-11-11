@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T11:48:48+09:00",
- "runCount": 4698,
+ "generatedAt": "2026-11-11T12:09:36+09:00",
+ "runCount": 4699,
  "price": {
-  "price": "31,950",
-  "pct": "-0.31",
-  "at": "2026-11-11T11:48:51+09:00"
+  "price": "31,900",
+  "pct": "-0.47",
+  "at": "2026-11-11T12:09:37+09:00"
  },
  "articles": [
   {
@@ -53078,6 +53078,31 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T11:43:38+09:00"
+  },
+  {
+   "id": "2231f01b3ab5a2d4",
+   "title": "카카오 정신아 대표, 해외 투자자에 인적분할과 비전 설명",
+   "outlet": "코리아리포트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MVkZPcVNuRWV1SlBzS1Q1OGJuZHctazhRLUhNUWhfTE9aV3FyOXBKVjNHbjJTVjJ3elJRUTZGcnMzVDRKX0ZGTWMtX0NqQVk4VzJ6Y1B5a1BiV09tdk1IT1dHdC1BYjFBU2o4NlV2WWk?oc=5",
+   "publishedAt": "2026-11-11T11:29:45+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T12:09:36+09:00"
   }
  ]
 }
