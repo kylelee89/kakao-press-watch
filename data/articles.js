@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-11T15:58:04+09:00",
- "runCount": 4710,
+ "generatedAt": "2026-11-11T16:18:34+09:00",
+ "runCount": 4711,
  "price": {
-  "price": "32,000",
-  "pct": "-0.16",
-  "at": "2026-11-11T15:58:05+09:00"
+  "price": "31,950",
+  "pct": "-0.31",
+  "at": "2026-11-11T16:18:36+09:00"
  },
  "articles": [
   {
@@ -53472,6 +53472,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-11T15:37:21+09:00"
+  },
+  {
+   "id": "94020f62a35f78b3",
+   "title": "카카오, 홍콩・싱가포르서 해외 IR 진행 글로벌 투자자와 인적분할 공감대 넓힌다",
+   "outlet": "www.dhns.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14eTlNN2dyY3lQdlk4S3JKb1JuczhDQ1M3Y3I5VnptLTVKbGRac2dESWxSelR0Y2pxa21LRmgwalVNTlVxNDJ5QjJSdFJhemhudGNkVGloX3ZEa2UxSTdHZWpxaXdYSWM?oc=5",
+   "publishedAt": "2026-11-11T16:07:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T16:18:34+09:00"
+  },
+  {
+   "id": "5cc72486e0df9ba3",
+   "title": "카카오 정신아, 해외 투자자에 인적분할 설득 나선다",
+   "outlet": "포쓰저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCd19VSWFLWDZvNmgweXE3S2FIanVnVFdfUzZSUnBEVHljUXJQb1VILXlNYzNkeEpMUE9mWG12SnVFZnNKS3FfMGZHaVFiMGtydS1xTC0taDktMG5PZ2JJYzNZX00?oc=5",
+   "publishedAt": "2026-11-11T10:06:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T16:18:34+09:00"
+  },
+  {
+   "id": "68ca842b8747af5f",
+   "title": "외국인 지분 29% 잡아라…카카오, 국내 넘어 해외서 '분할 설득전'",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFRqeGF1Y3dtYmdBZVVLU0NLUDlYbDBiVWFWME1MSGlKMHJVbVlKR1RxZEdNbWZVR0E4cXBISUVtNk1hOG1rMnJid01IeDM2Z3FqcFJ5WEkwZjlRbW5UYmgwYk8taGI4R3B4Y1NxUVRRMC1idGFybzZPQ3VKZWQxeA?oc=5",
+   "publishedAt": "2026-11-11T15:57:16+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T16:18:34+09:00"
   }
  ]
 };
