@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-11T14:34:20+09:00",
- "runCount": 4706,
+ "generatedAt": "2026-11-11T14:55:21+09:00",
+ "runCount": 4707,
  "price": {
   "price": "31,850",
   "pct": "-0.62",
-  "at": "2026-11-11T14:34:23+09:00"
+  "at": "2026-11-11T14:55:25+09:00"
  },
  "articles": [
   {
@@ -53355,6 +53355,27 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-11T14:34:20+09:00"
+  },
+  {
+   "id": "3c341007dcc25643",
+   "title": "카카오, 홍콩·싱가포르서 해외 IR 행사 진행...소비자 관심도 상승",
+   "outlet": "빅데이터뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1UWRDdXJNMTBnU0o2dExicHBycV83QjRpTjcxVUJOczdxWTNPTWYxZmFyRFNTSWpCTWE4all6cmdNa3VYVE01eUVhVXZRY1RXWllCamFpYTdlRnhDcUhZSG9qdm92cllPak1qaUtXbTlkeENOYng2NEg0RW0?oc=5",
+   "publishedAt": "2026-11-11T10:21:03+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T14:55:21+09:00"
   }
  ]
 };
