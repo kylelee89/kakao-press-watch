@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-11T18:02:00+09:00",
- "runCount": 4716,
+ "generatedAt": "2026-11-11T18:22:35+09:00",
+ "runCount": 4717,
  "price": {
-  "price": "32,000",
-  "pct": "-0.16",
-  "at": "2026-11-11T18:02:03+09:00"
+  "price": "31,850",
+  "pct": "-0.62",
+  "at": "2026-11-11T18:22:36+09:00"
  },
  "articles": [
   {
@@ -53677,6 +53677,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-11T17:41:19+09:00"
+  },
+  {
+   "id": "b68e74c2458d4162",
+   "title": "카카오, 해외 투자자들 만나 ‘인적분할 설득’",
+   "outlet": "뷰어스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYMUYtTlo5b295YWxOUGtMa1V4YWZPVHlUSHEzWk1QeU1LTWdYYy03VWZaeXRLSU1NN0o0MC1ZTS1IaUUwdENuWDROXzRFRFBGdW9pYnZPcEQ?oc=5",
+   "publishedAt": "2026-11-11T17:58:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T18:22:35+09:00"
   }
  ]
 };
