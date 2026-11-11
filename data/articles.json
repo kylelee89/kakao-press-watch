@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T10:24:18+09:00",
- "runCount": 4693,
+ "generatedAt": "2026-11-11T10:46:26+09:00",
+ "runCount": 4694,
  "price": {
-  "price": "32,150",
-  "pct": "+0.31",
-  "at": "2026-11-11T10:24:36+09:00"
+  "price": "32,200",
+  "pct": "+0.47",
+  "at": "2026-11-11T10:46:28+09:00"
  },
  "articles": [
   {
@@ -52773,6 +52773,98 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T10:24:18+09:00"
+  },
+  {
+   "id": "e8131f58051c176d",
+   "title": "카카오, 정신아·김도영 해외 IR 나서…인적분할 설득 총력",
+   "outlet": "연합인포맥스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wVGdGMmdNc2ljMjZ1M21rdmxWTHJEWFVnZlFZSDFkM1A1RnUxd3REb2cyVFk0VWxoTHUyd0tRbWNpSmlDbzlGN3VQeUpFdktoMms0NmdxYklkRTNkbC1fV0RzblZrbDVVeTB6MURvRG0?oc=5",
+   "publishedAt": "2026-11-11T10:14:51+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T10:46:26+09:00"
+  },
+  {
+   "id": "8921085f26606eff",
+   "title": "카카오, 홍콩·싱가포르 IR 진행…투자자 대상 인적분할 성장 전략 공유",
+   "outlet": "와우테일",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MTV81clJ6R1l5NEtsWVItME9xdW9xcm1RTFBIQnhQOHRleU9UdXUtN2w1Tk5oM0hkM0N2VTZZN2h4Zmp2ejNHeGVjYzVLOW8?oc=5",
+   "publishedAt": "2026-11-11T10:01:52+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T10:46:26+09:00"
+  },
+  {
+   "id": "c6dc123ba18f22c4",
+   "title": "정신아·김도영, 홍콩·싱가포르 간다…카카오, 인적분할 해외 주주 설득",
+   "outlet": "라이센스뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3RnJ5Y0pQcjJtLTBhSVl5Ni15TXRJSVlWTlJ3X016eEVJTEZuT1RfaGpuSHJGT2NGZFlQVnh2dnB6ZXZ2c0s5NTBwMWNCVUYxc1VxWTZManZNTFdHZkVUUHVPZGdRS2ZkV1ZF?oc=5",
+   "publishedAt": "2026-11-11T10:24:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T10:46:26+09:00"
+  },
+  {
+   "id": "0159f009bde64754",
+   "title": "분할 앞두고 짐 싼 카카오…홍콩·싱가포르서 해외 투자자 설득 나서",
+   "outlet": "포인트데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tRlhkRVgtOHFZeTFVM2xQbUxaSzkwbmRQdHJqUzNmOXduaWVzMHpOMjlMTXhGMlNmRENhRnlabjJpdmNpdnNGQ3k1VjJQbDFsekpUR3dSVVlyZ2VHal84UFJFMmFyTEdXVENuV0FkNjDSAXRBVV95cUxQcmJaTEhIRk1LSTBFNVVzQ2ljSEhGMGtwLVhpQW5adlk3eEQ3bHFSemZCYmhfZFpTdjhldnlMX1lUZEVRSkNrQ0VmczZCejRBZHR3U2stMHp1NDMwdDNoWTljQ1NtMVg5VHZpYjZ3MGVhNVpFZw?oc=5",
+   "publishedAt": "2026-11-11T10:14:34+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T10:46:26+09:00"
   }
  ]
 }
