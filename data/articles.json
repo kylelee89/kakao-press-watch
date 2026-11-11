@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T21:48:18+09:00",
- "runCount": 4728,
+ "generatedAt": "2026-11-12T03:37:54+09:00",
+ "runCount": 4729,
  "price": {
   "price": "32,000",
   "pct": "-0.16",
-  "at": "2026-11-11T21:48:19+09:00"
+  "at": "2026-11-12T03:37:55+09:00"
  },
  "articles": [
   {
@@ -53793,6 +53793,29 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T21:48:18+09:00"
+  },
+  {
+   "id": "01f32907baad2dbc",
+   "title": "인적분할 앞둔 카카오…TPG와 모빌리티 상장 논의, 카카오X가 'Key' : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb29DLTZLNUhuN0ZRVXl5ajQ2VWowbXdNTW9tTVpzOW1rWHhxVGozN1BZMzg0aWxQYXhVdVVZR21rUmY2TFZpX2Z0V1MwSHpMQkw5MWRlVk4yQ3NiRzBxdkhSLVZiT0V1YXRmTmpNbmJLOUxvd3BNLW5WOUY1bFRsWllaSUtJTDM4LXdidFpFMA?oc=5",
+   "publishedAt": "2026-11-11T09:01:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-12T03:37:54+09:00"
   }
  ]
 }
