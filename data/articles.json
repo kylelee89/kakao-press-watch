@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T12:30:18+09:00",
- "runCount": 4700,
+ "generatedAt": "2026-11-11T12:50:58+09:00",
+ "runCount": 4701,
  "price": {
-  "price": "31,700",
-  "pct": "-1.09",
-  "at": "2026-11-11T12:30:21+09:00"
+  "price": "31,900",
+  "pct": "-0.47",
+  "at": "2026-11-11T12:51:01+09:00"
  },
  "articles": [
   {
@@ -53126,6 +53126,31 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T12:30:18+09:00"
+  },
+  {
+   "id": "28e4a7d5e1cc7e43",
+   "title": "카카오, 해외 투자자에 인적분할 설명…정신아 홍콩·싱가포르 IR",
+   "outlet": "마이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vbUpveUUwR05CSGhaa1g5SXMxc21PLVotZGlJQU16WXNIMUFSekhma21TdnlJeFVseDlYQzBzNHphdlI1VHpycVdacVcxNWdJRFFTQklqdkNDMmZRYjlnbg?oc=5",
+   "publishedAt": "2026-11-11T12:33:48+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T12:50:58+09:00"
   }
  ]
 }
