@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T12:09:36+09:00",
- "runCount": 4699,
+ "generatedAt": "2026-11-11T12:30:18+09:00",
+ "runCount": 4700,
  "price": {
-  "price": "31,900",
-  "pct": "-0.47",
-  "at": "2026-11-11T12:09:37+09:00"
+  "price": "31,700",
+  "pct": "-1.09",
+  "at": "2026-11-11T12:30:21+09:00"
  },
  "articles": [
   {
@@ -53103,6 +53103,29 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T12:09:36+09:00"
+  },
+  {
+   "id": "1fc998528d470ecd",
+   "title": "카카오, 인적분할 앞두고 해외 투자자와 소통…홍콩·싱가포르서 IR",
+   "outlet": "서울경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yN0ZvYzdFNlNvWmN6WHJ0cFB2WnhNYnNYZWRBRFZIVXA2VjM3TmRmdmc5VHYxSVBQa3FtbkNPZlRKajFfRUo0V0piYmItcVAwRkHSAVNBVV95cUxPbUNtQU04UnVXblU5Mld4Y2ZzMGYwWlF1aWhLZzhkSGJWRTZPdWFhaWNOeTBxcWdqZ0c5R0dkY1VjZ3p1aGx1NEZ0NlFBamdJXzlQWQ?oc=5",
+   "publishedAt": "2026-11-11T10:09:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T12:30:18+09:00"
   }
  ]
 }
