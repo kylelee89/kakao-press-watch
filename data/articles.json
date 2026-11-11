@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T12:50:58+09:00",
- "runCount": 4701,
+ "generatedAt": "2026-11-11T13:11:35+09:00",
+ "runCount": 4702,
  "price": {
-  "price": "31,900",
-  "pct": "-0.47",
-  "at": "2026-11-11T12:51:01+09:00"
+  "price": "31,950",
+  "pct": "-0.31",
+  "at": "2026-11-11T13:11:36+09:00"
  },
  "articles": [
   {
@@ -53151,6 +53151,28 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T12:50:58+09:00"
+  },
+  {
+   "id": "e8f11e437ffeb75a",
+   "title": "카카오, 홍콩·싱가포르서 해외 IR미팅…기업·주주가치 제고 의지 구체화",
+   "outlet": "IT비즈뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyamJHYk9PamphMzFjY3VRaW10NnRtSVU3WlNyLUMtMGh0ck9JeDdoV1VrUk1RNE0tZS1fWkF3d0RPNjVJa3A5QTRvZVF5UklYTGVhT2M3NGFwN0R2NjZseS0tSFBYOFJEMlNSVQ?oc=5",
+   "publishedAt": "2026-11-11T13:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T13:11:35+09:00"
   }
  ]
 }
