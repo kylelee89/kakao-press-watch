@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T13:52:42+09:00",
- "runCount": 4704,
+ "generatedAt": "2026-11-11T14:13:31+09:00",
+ "runCount": 4705,
  "price": {
-  "price": "31,950",
-  "pct": "-0.31",
-  "at": "2026-11-11T13:52:46+09:00"
+  "price": "31,900",
+  "pct": "-0.47",
+  "at": "2026-11-11T14:13:33+09:00"
  },
  "articles": [
   {
@@ -53219,6 +53219,50 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T13:52:42+09:00"
+  },
+  {
+   "id": "72e9c5ab489186eb",
+   "title": "카카오, 1,500억원 규모 자사주 매입·소각 조기실행한다",
+   "outlet": "게임톡",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUHRmYjh1VlZyRnRFVVNTejBGal9CTUpORThjb0VPQm1BczdqeWZrWUszeUthQVU1SHhtRGlWemxOV3VfTTdWdURHN0xmUE8takl6WHhQcFBYeXdiXzFvcW12eHVMU2dFdkxWRQ?oc=5",
+   "publishedAt": "2026-11-11T13:52:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T14:13:31+09:00"
+  },
+  {
+   "id": "8d9b4a404ca1ee8a",
+   "title": "카카오, 홍콩·싱가포르서 해외 IR…기업 개편 앞두고 투자자 소통 확대",
+   "outlet": "이코노미트리뷴",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNndia1RWdGRwR0dDZHh5UmpHOERIbms1aGIwRXFqQlZFVDJ0SmFzeWJOYmJvdFRBZGZpQkdVQ0JyV3RqUVNNOXRxbGhManVLQXhMS2lhRmxDRloyOHlkQV9zcWdNQmhjOFp2V1pUWlB5aEVUa2M4?oc=5",
+   "publishedAt": "2026-11-11T14:04:20+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T14:13:31+09:00"
   }
  ]
 }
