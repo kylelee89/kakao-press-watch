@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T18:22:35+09:00",
- "runCount": 4717,
+ "generatedAt": "2026-11-11T18:43:14+09:00",
+ "runCount": 4718,
  "price": {
-  "price": "31,850",
-  "pct": "-0.62",
-  "at": "2026-11-11T18:22:36+09:00"
+  "price": "31,950",
+  "pct": "-0.31",
+  "at": "2026-11-11T18:43:15+09:00"
  },
  "articles": [
   {
@@ -53700,6 +53700,52 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T18:22:35+09:00"
+  },
+  {
+   "id": "a564871aa891b19d",
+   "title": "카카오, 홍콩·싱가포르서 인적분할 IR…해외 투자자 설득 나서",
+   "outlet": "아이티데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGWmdwcDZxcWpnOVRabkRpMzJfelFWeUduVGZnZWo3OHRUZUliUnN4QXZFWVhDbW9NZERNSHJWanZvVWthRzJUdG5mSGU5SzdqSExYOFowM3lUN0xHZEo4eDZDVXRNckdZ?oc=5",
+   "publishedAt": "2026-11-11T11:13:04+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T18:43:14+09:00"
+  },
+  {
+   "id": "d485b2b3422c5c2f",
+   "title": "카카오, 홍콩·싱가포르서 글로벌 IR···인적분할 설득 나선다",
+   "outlet": "공유경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RSjgwMWczRkdEVG82OHhUakRQOTBsYkI5WVQ3LXVwVmpZeHc5UlI2YzJpMi02M1U0Qk5UZ2dQelJVdTNXZGw4cXU1MWV3WFlUTU1MWWRFWEF3Y3lQUE8za1dSYzRiSHlLTVE?oc=5",
+   "publishedAt": "2026-11-11T18:19:44+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T18:43:14+09:00"
   }
  ]
 }
