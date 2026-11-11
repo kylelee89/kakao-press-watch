@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T15:16:21+09:00",
- "runCount": 4708,
+ "generatedAt": "2026-11-11T15:37:21+09:00",
+ "runCount": 4709,
  "price": {
-  "price": "31,900",
-  "pct": "-0.47",
-  "at": "2026-11-11T15:16:23+09:00"
+  "price": "32,000",
+  "pct": "-0.16",
+  "at": "2026-11-11T15:37:24+09:00"
  },
  "articles": [
   {
@@ -53400,6 +53400,78 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T15:16:21+09:00"
+  },
+  {
+   "id": "d48801d7a45c4c13",
+   "title": "인적분할 앞둔 카카오, 1500억원 자사주 조기 소각… 해외 투자자 직접 설득",
+   "outlet": "비즈트리뷴",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuX1d4bGlMSXBzaVlHSHZoMThrbUk0aHM3V0g5dTlBekloakNiRnVmNkNOVXI2LVNucThXTXhZX0NfeXpkeEdkUXZqa2lUb25qMkZfc1VHczh2Uld5N2hQc1JiRDBOQkUzbU03ZkRxbkI?oc=5",
+   "publishedAt": "2026-11-11T15:11:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T15:37:21+09:00"
+  },
+  {
+   "id": "1d5661dd81a4835f",
+   "title": "카카오, 홍콩·싱가포르서 인적분할 IR…해외 투자자 10여곳 만난다",
+   "outlet": "m.thepowernews.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5USTN5aDdUakp0b1UtREFVd2M4OENRMDFxVmNZckxGazJ4Z3c3eEZ5cFo4Qi1pWjNsTTEwRnF5LWZsNV9VZGItbFFxa0pmdW9jUU5jMDg1WlM4djkyR1o3cVpWNEJSRzNCdERBRExrLVA3cG81N1Q4Tml4Unhkdw?oc=5",
+   "publishedAt": "2026-11-11T14:28:31+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T15:37:21+09:00"
+  },
+  {
+   "id": "b9ea1317ec220c25",
+   "title": "카카오 정신아·김도영, 글로벌 IR 행보…해외 투자자 설득 나서",
+   "outlet": "더팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTXlsXzZoekFhSW05VFZHQVNxTEszSVpxd3JGbnlJVzZOb2hKYmF3N1BYSVhEcFNCcFN6bUlUcGkxdkNqMjI5MkRUSHR2b2RmUG41cVBTR2R5Z9IBVEFVX3lxTE53SVNfdVduLXVHWDRTemVfMTEtYzVPbnM1ZElLaENOaHZNWHRpTGwxa3FQVm9aMGtmcWZINkJ3b3hXdHV6YXVLQkRZcWh3WW93UFR0Xw?oc=5",
+   "publishedAt": "2026-11-11T15:03:58+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T15:37:21+09:00"
   }
  ]
 }
