@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T14:55:21+09:00",
- "runCount": 4707,
+ "generatedAt": "2026-11-11T15:16:21+09:00",
+ "runCount": 4708,
  "price": {
-  "price": "31,850",
-  "pct": "-0.62",
-  "at": "2026-11-11T14:55:25+09:00"
+  "price": "31,900",
+  "pct": "-0.47",
+  "at": "2026-11-11T15:16:23+09:00"
  },
  "articles": [
   {
@@ -53376,6 +53376,30 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T14:55:21+09:00"
+  },
+  {
+   "id": "751f2a0b52af5ca3",
+   "title": "정신아 카카오 대표, 홍콩·싱가포르서 인적분할 전략 설명",
+   "outlet": "서울파이낸스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oaERGcmdyeklQZTJ3eDJ2VDdYdEI3QnJJTnJOeC11a3p4UEM2NDZSQlhhNWUzQUFBOVQycnpKSFdDY1NRaldUOWliSW5BU1VJZHM1TzZhRk5PemxBTUdGNkdTOVhQZHZIaXc?oc=5",
+   "publishedAt": "2026-11-11T14:56:18+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T15:16:21+09:00"
   }
  ]
 }
