@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-11T16:18:34+09:00",
- "runCount": 4711,
+ "generatedAt": "2026-11-11T16:39:16+09:00",
+ "runCount": 4712,
  "price": {
   "price": "31,950",
   "pct": "-0.31",
-  "at": "2026-11-11T16:18:36+09:00"
+  "at": "2026-11-11T16:39:19+09:00"
  },
  "articles": [
   {
@@ -53541,6 +53541,75 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-11T16:18:34+09:00"
+  },
+  {
+   "id": "381fa16a4cd8a25b",
+   "title": "카카오, 인적분할 앞두고 해외 IR 본격화…“글로벌 투자자 설득 나서”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ycEVhYWxPbWQ3TW1WOG9qZTU2c01kdUxCU3VrSTJ4Z180ay1LS1JxSXZvVHNZeFRPQWtrNmpBaXNUNWtfcnZ4U09sQlp0UEJHNFQ4QnpCazB1MXMxbk1pM1RxNDcwSVIyVWpN?oc=5",
+   "publishedAt": "2026-11-11T16:11:30+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T16:39:16+09:00"
+  },
+  {
+   "id": "d772710671a3b369",
+   "title": "카카오, 홍콩·싱가포르서 해외 IR…인적분할 청사진 공유",
+   "outlet": "비즈워치",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSejFYeHFFYXVVUHBDOS1WZXRZV0RKcUxWWXlEZUhMTmVZWjdyT2V3dmVOR3Z0MGVOTUxwemNDSFpDdGJmQXlYemxyOUhZc0tiZ1V3bEllNmVhWmtfMkluRHZNMG1sdjJZRVE?oc=5",
+   "publishedAt": "2026-11-11T16:19:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T16:39:16+09:00"
+  },
+  {
+   "id": "5c622bfe2662549d",
+   "title": "카카오, 홍콩·싱가포르서 IR 진행…인적분할 취지 설명",
+   "outlet": "MTN 머니투데이방송",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFcUxzU2RkZzBIcUpHOXhpX1lQMHpmWUh6c2NyRjhMajBucEJRcGVmVUwwM1JmdUJFYzMzQmRfSUR1SEk3YWpfclRZSmlITkxFWW9mOXFZRGoyQXpBeHJj?oc=5",
+   "publishedAt": "2026-11-11T16:26:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T16:39:16+09:00"
   }
  ]
 };
