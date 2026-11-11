@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-11T13:32:01+09:00",
- "runCount": 4703,
+ "generatedAt": "2026-11-11T13:52:42+09:00",
+ "runCount": 4704,
  "price": {
-  "price": "32,050",
-  "pct": "+0.00",
-  "at": "2026-11-11T13:32:01+09:00"
+  "price": "31,950",
+  "pct": "-0.31",
+  "at": "2026-11-11T13:52:46+09:00"
  },
  "articles": [
   {
@@ -53173,6 +53173,52 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-11T13:11:35+09:00"
+  },
+  {
+   "id": "3a3287b838b89d64",
+   "title": "카카오, 인적분할 앞두고 해외 투자자 설득 나선다…홍콩·싱가포르서 IR",
+   "outlet": "메트로신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uRXN5WmphR01tb0p5ODRGUkRoWFkzUk5RbGlqVmdXM256RG1IQV9tNzRHOFZJdDJ6Zk9iNU1xXzhLS3VmUF9YT3ZWakpxLUFfZmJfNG1zUzVrOWFlX21nNg?oc=5",
+   "publishedAt": "2026-11-11T13:09:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T13:52:42+09:00"
+  },
+  {
+   "id": "026bb0332c56c543",
+   "title": "카카오, 홍콩·싱가포르서 인적분할 설명…해외 투자자 10여곳 만난다",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZTNubGRBUUxBUy1TSDh5YkVnMi1KNXE0Uk1lcG5ydzI2RVc4VnhWd2Jlc0VUUDdOUjdORUNPM2MzTmtIamJTTDhjZW9FZmQ0NWViR01iZmtiUkNvVVhMZE5sRmtBNGF5Z0tYZEpCamNRekYzRjk0VlVlelVodHB3OWotSHA5a1R0alZONE1XSWRzZzZwWDFCNGQyZTlGanp1X1NQUFNMcUk4Z1VBLTBuTkZYbkFFdXp2Nl8ydEM0dEc4VjVpZmU5UHlHTllqVWxzdGhodzNkM3F3LVdmcVZwX054Q0lsX29mOUZ2WmFERGRrMmRLZkU5SUVPaFNvWGYxNnFKQjY3ak9aeDRNOTlnLThHd1lQX3ZWRDRPRkhmcThSUVJmbTFORVdjLVpVQQ?oc=5",
+   "publishedAt": "2026-11-11T13:48:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-11T13:52:42+09:00"
   }
  ]
 }
