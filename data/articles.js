@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-12T15:45:04+09:00",
- "runCount": 4759,
+ "generatedAt": "2026-11-12T16:06:21+09:00",
+ "runCount": 4760,
  "price": {
   "price": "31,700",
   "pct": "-0.94",
-  "at": "2026-11-12T15:45:06+09:00"
+  "at": "2026-11-12T16:06:23+09:00"
  },
  "articles": [
   {
@@ -53886,6 +53886,76 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-12T15:03:44+09:00"
+  },
+  {
+   "id": "3c40e071bffd9d2b",
+   "title": "카카오 인적분할 반대 서명 첫날 1000명 참여… 노조 “졸속 추진 중단해야”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzUVVFWVRWU0VvaXRMWVA4X2hmTEZLNFFmR1NpaDdwWEI3VmlvTUQwY1E4a3A0a2Y2akhoeTNlNldVYTV5UEZrTTE2YzRRdzh0NUdzNElEQmJDY0ZNUm1ER3RTbWNIUlNl?oc=5",
+   "publishedAt": "2026-11-12T15:48:39+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-12T16:06:21+09:00"
+  },
+  {
+   "id": "6493fca3b9954a52",
+   "title": "카카오 노조 “인적분할 반대 서명 첫날 1천명 넘어”",
+   "outlet": "IT조선",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtc1kzUzE5cjQ1NV90WTFWb29kTFBzdk9KeTcwdmdFODUtYXcxSDNTX3ZXdUxCc244aThoakZpYl9BcVBJeWNvNTRaY2Y1UXFKUXJac0lNY0NtTFUzYU1qb0Y0cEdXcU5COFFpUjE4S3fSAXRBVV95cUxNVGVoNEZxUTlWRHlZQjFYdHRKT0pGRXgySWo2MHlHQnh0cmJCWVk0R2NsZVpUcm9Fc3RLazh4Q1hHOWlaamZRc1EtV1hOd3ZfdjBVNF85X0tacldRQlQ0NTdDN1lzTW93SXVPTkpTT3k2WUtqUQ?oc=5",
+   "publishedAt": "2026-11-12T15:19:07+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-12T16:06:21+09:00"
+  },
+  {
+   "id": "e05af43bbc20321e",
+   "title": "정신아 카카오 대표, 인적분할 앞두고 홍콩·싱가포르서 투자 유치전",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kQV9kQi1laXpxM2ZwWUlIRi1NQnB4Ul9Ubkx6MlRUQUctOTJ5a1JGWmwySFdlR2RCdkNrSmxYTWRXaWxiRXQwZzE5TjNvZ3M0aWtEakJid2h3SkU1Ul8xNGprRHZmN2NfbUE3SzNXWU1La2PSAXdBVV95cUxOQ3d1QU9mVkVOenBBNjc2ZzdMSWdQTFNsM0lQRWRMTFFHbXVaSEFzOEs5NThmT1JuQmVqSk1RdTBkenRqa2dLU0NSN1pxRjk5SE4wWFV1bXFZU2lidnBrcTZRbkpibl9Bck1pRU56Zm1mbTU2eWE3bw?oc=5",
+   "publishedAt": "2026-11-11T16:53:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-12T16:06:21+09:00"
   }
  ]
 };
