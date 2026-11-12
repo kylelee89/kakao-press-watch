@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-12T17:08:58+09:00",
- "runCount": 4763,
+ "generatedAt": "2026-11-12T17:29:39+09:00",
+ "runCount": 4764,
  "price": {
-  "price": "31,700",
-  "pct": "-0.94",
-  "at": "2026-11-12T17:09:01+09:00"
+  "price": "31,650",
+  "pct": "-1.09",
+  "at": "2026-11-12T17:29:40+09:00"
  },
  "articles": [
   {
@@ -53956,6 +53956,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-12T16:06:21+09:00"
+  },
+  {
+   "id": "f1b3b70d505fe7bd",
+   "title": "카카오노조, 인적분할 반대 서명 본격 돌입",
+   "outlet": "테크월드",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lLWhITk5NR0RYZlhZQVNkbk5iRi16aWhydlFxNE9NTzBaZUNJTFZkeG1tWW1DNFljN2JybldIRnc1am5uNTNFVEdDWXlvRzJGeXlqNDRSblBEWXBURzF6djVEMTJuOUFf?oc=5",
+   "publishedAt": "2026-11-12T17:06:35+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-12T17:29:39+09:00"
   }
  ]
 };
