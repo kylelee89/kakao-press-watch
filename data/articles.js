@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-12T17:50:11+09:00",
- "runCount": 4765,
+ "generatedAt": "2026-11-12T18:42:43+09:00",
+ "runCount": 4766,
  "price": {
-  "price": "31,650",
-  "pct": "-1.09",
-  "at": "2026-11-12T17:50:13+09:00"
+  "price": "31,900",
+  "pct": "-0.31",
+  "at": "2026-11-12T18:42:44+09:00"
  },
  "articles": [
   {
@@ -53979,6 +53979,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-12T17:29:39+09:00"
+  },
+  {
+   "id": "3ad9c500e1e1e176",
+   "title": "\"삼성전자도 안 하는데…\" 카카오, 인적분할 한 달 연기에도 주주 설득 '난항'",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yU2RnYUpHVzQzSzBUbE1wNm43SjFjcXdabm9KUnJhM3JkQTc1TGw5SlowMmNWVUNIdXJJbXV2a29mNm9nTUY3eXJRcEstdXM?oc=5",
+   "publishedAt": "2026-11-12T10:00:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:에도",
+    "적대어:난항"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "난항"
+    ]
+   },
+   "firstSeenAt": "2026-11-12T18:42:43+09:00"
   }
  ]
 };
