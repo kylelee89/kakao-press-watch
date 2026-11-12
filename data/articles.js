@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-12T18:42:43+09:00",
- "runCount": 4766,
+ "generatedAt": "2026-11-13T03:11:28+09:00",
+ "runCount": 4767,
  "price": {
-  "price": "31,900",
-  "pct": "-0.31",
-  "at": "2026-11-12T18:42:44+09:00"
+  "price": "31,850",
+  "pct": "-0.47",
+  "at": "2026-11-13T03:11:29+09:00"
  },
  "articles": [
   {
@@ -54007,6 +54007,71 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-12T18:42:43+09:00"
+  },
+  {
+   "id": "c902e08c1f064907",
+   "title": "[IT는 지금] 카카오, 홍콩·싱가포르서 해외 IR…글로벌 투자자와 인적분할 공감대 넓힌다 外 : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWMyT0RhdHoxNlY2eE5RRm42V20yTDlMNzVMcDR6X0NUMG9vMkJlM2NpbTlBSkZ5NElXZVREZWY1OHJaYng2QVE2RjVlWUI1RS1FTzhFU0RvNlotbk15TVB1Y3JKaTNfVUZLalRzeEpwY1FFN3lURGlrMmVXUk10ZkowaG9qSFFlRmRxelRISQ?oc=5",
+   "publishedAt": "2026-11-12T21:19:19+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "주가/시장반응"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-13T03:11:28+09:00"
+  },
+  {
+   "id": "8a2b85d54b7a5ebc",
+   "title": "카카오페이증권, AI 기반 이상거래 탐지체계 가동…금융사기 대응 강화",
+   "outlet": "시장경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kam84WGlndDhEczl5S2NQWEVPa09tMDM4SldlVDVLaUhGZWU4dVh0SDZIWjdveGswTmQ1Q0tzVHhNYnJRVTVvQWtFcWpyNkNKQ0s0RlZsTnVYMF8yTEZwR0l1bUpFY2I0VGpBSkwwT1I?oc=5",
+   "publishedAt": "2026-11-12T13:22:28+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-13T03:11:28+09:00"
+  },
+  {
+   "id": "4f98cab8b62195d3",
+   "title": "카카오인베스트먼트, AI 창업팀 발굴…과학기술원 연구성과 사업화 지원",
+   "outlet": "이코노미사이언스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tWWdFWHppeGp2YnZaRmNscnlwRTlKdWFEY2t1WklVU1dVTzR5eVVHSDZoMGllZFhwRHM3d3Y4ZUpnYTFvMlR1WDRGbkFkV0xNNVFfd3ZRam15b2tISWJHX0Z5RmVPSHFvSmZMQkREYw?oc=5",
+   "publishedAt": "2026-11-12T11:37:29+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-13T03:11:28+09:00"
   }
  ]
 };
