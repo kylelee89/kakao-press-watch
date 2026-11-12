@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-12T14:42:44+09:00",
- "runCount": 4756,
+ "generatedAt": "2026-11-12T15:03:44+09:00",
+ "runCount": 4757,
  "price": {
-  "price": "31,750",
-  "pct": "-0.78",
-  "at": "2026-11-12T14:42:46+09:00"
+  "price": "31,800",
+  "pct": "-0.63",
+  "at": "2026-11-12T15:03:47+09:00"
  },
  "articles": [
   {
@@ -53865,6 +53865,27 @@
     ]
    },
    "firstSeenAt": "2026-11-12T11:16:22+09:00"
+  },
+  {
+   "id": "283e5815a4f710cc",
+   "title": "카카오 노조 “분할 반대 서명 첫날 시민 1000명 넘어”",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzRTlxYm1lRlVrdVUzcjhxc0l0VVAxTzMtSGFuQTBZOGdzSnBuclNLakJocjhlQ2dnMmh4RUtUMDFLdmZUZ1ppeTNfMzRYUkxmblN1ZERVZTczcDdpNVR5OE5rM3M?oc=5",
+   "publishedAt": "2026-11-12T14:53:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-12T15:03:44+09:00"
   }
  ]
 }
