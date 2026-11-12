@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-12T10:55:38+09:00",
- "runCount": 4745,
+ "generatedAt": "2026-11-12T11:16:22+09:00",
+ "runCount": 4746,
  "price": {
-  "price": "31,700",
-  "pct": "-0.94",
-  "at": "2026-11-12T10:55:40+09:00"
+  "price": "32,000",
+  "pct": "+0.00",
+  "at": "2026-11-12T11:16:24+09:00"
  },
  "articles": [
   {
@@ -53837,6 +53837,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-12T09:33:25+09:00"
+  },
+  {
+   "id": "d8fd7a6eb29118e7",
+   "title": "카카오 '사활' 인적분할... 기업가치 제고·주주환원 향한 '싸늘한' 시선",
+   "outlet": "시장경제신문",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kRnhNNFpld1F6TnE1ZjVFTlJjYXJKV1FpNTZIdUZKazFuNHU4SlpSa2pIQUVjR2hGVDNmYUU5bU5QN3o4ZHNkU0NPaGVYLWk4enpkcEdlUmNkcjlfeWw5OUJITHVObTYzOTlaMnNrNTI?oc=5",
+   "publishedAt": "2026-11-12T10:50:00+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "회사프레임",
+   "messages": [
+    "인적분할 성격(물적분할 아님)",
+    "주주환원 정책"
+   ],
+   "signals": [
+    "적대어:싸늘"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "싸늘"
+    ]
+   },
+   "firstSeenAt": "2026-11-12T11:16:22+09:00"
   }
  ]
 };
