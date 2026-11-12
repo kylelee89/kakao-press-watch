@@ -1,5 +1,5 @@
 window.KMW_ANALYSTS = {
- "asOf": "2026-11-12T11:16:26+09:00",
+ "asOf": "2026-11-12T11:37:07+09:00",
  "source": "FnGuide 기업모니터(국내, 자동수집) / 리포트 원문 PDF(외국계, 수기)",
  "note": "2026-08-21 인적분할 공시 이후 발간된 리포트만. 국내 직전 목표가는 공시 전 마지막 리포트 기준, 외국계는 리포트에 표기된 값 기준.",
  "priceRef": {
@@ -606,6 +606,26 @@ window.KMW_ANALYSTS = {
    "ratingBase": "BUY",
    "targetBase": 60000,
    "baseDate": "08/07"
+  },
+  {
+   "date": "11/12",
+   "region": "국내",
+   "house": "BNK",
+   "analyst": "이종원",
+   "rating": "매수",
+   "ratingPrev": "매수",
+   "target": 44000,
+   "targetPrev": 61000,
+   "prevDate": "07/03",
+   "rptId": 1149828,
+   "brkCd": 49,
+   "fpath": "1F04920261112_035720_a.pdf",
+   "title": "본업 이익 성장과 AI 투자회수의 교차점",
+   "point": "시장 기대치에 부합하는 이익체력. 이익 성장과 AI 투자비의 균형이 필요한 시점. 멀티플 프리미엄을 상향을 위한 선제조건",
+   "extra": "목표주가 하향",
+   "ratingBase": "매수",
+   "targetBase": 61000,
+   "baseDate": "07/03"
   },
   {
    "date": "11/05",
