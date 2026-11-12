@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-12T09:12:58+09:00",
- "runCount": 4739,
+ "generatedAt": "2026-11-12T09:33:25+09:00",
+ "runCount": 4740,
  "price": {
-  "price": "31,900",
-  "pct": "-0.31",
-  "at": "2026-11-12T09:12:59+09:00"
+  "price": "31,600",
+  "pct": "-1.25",
+  "at": "2026-11-12T09:33:25+09:00"
  },
  "articles": [
   {
@@ -53816,6 +53816,27 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-12T03:37:54+09:00"
+  },
+  {
+   "id": "e73f563431a67b9d",
+   "title": "카카오 계열사, ESG 경영·사업 재편·내비 서비스 개선 추진",
+   "outlet": "웹이코노미",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPTkxTQjlkbERnUWpmUGN6T2ZwSlRZY2ZpOWo3MzFobXZiSEl3X3hIMnZ5dlNyR1BsNEUxc09WelltUFh5aDNDdDAwdUZEa2MxZmxfaEV1a3pjckl2aDBYNHJnbklkdkNoTFYyRDJmdGo5QQ?oc=5",
+   "publishedAt": "2026-11-12T08:52:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-12T09:33:25+09:00"
   }
  ]
 }
