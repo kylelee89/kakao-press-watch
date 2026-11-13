@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-14T01:10:47+09:00",
- "runCount": 4793,
+ "generatedAt": "2026-11-14T07:31:43+09:00",
+ "runCount": 4794,
  "price": {
   "price": "31,900",
   "pct": "+0.63",
-  "at": "2026-11-14T01:10:48+09:00"
+  "at": "2026-11-14T07:31:44+09:00"
  },
  "articles": [
   {
@@ -54118,6 +54118,34 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-13T17:07:13+09:00"
+  },
+  {
+   "id": "3346ed4e59dd0666",
+   "title": "\"삼성전자도 안 하는데…\" 카카오, 인적분할 한 달 연기에도 주주 설득 '난항' : 네이버 블로그",
+   "outlet": "Naver Blog",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOW5YUVBvWE5DZzVpa2tqYkhSeVJ6NkFNOXduZk1UVmZDYWJvdy05YkM0cEsySFpMRm5FOUtaYUgxWnpsNnp3MTc0eHVlUnFEY2p5VEplMXMxdlN0RWtmZU8xRzBtS0hHTzJEbFRBV1RCWmhrd0V5WkwwR3FOeFFodDVTaFNQR0pzZHpGYmh6TQ?oc=5",
+   "publishedAt": "2026-11-13T09:24:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:에도",
+    "적대어:난항"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "난항"
+    ]
+   },
+   "firstSeenAt": "2026-11-14T07:31:43+09:00"
   }
  ]
 };
