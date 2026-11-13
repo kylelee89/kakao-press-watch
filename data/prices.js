@@ -1,5 +1,5 @@
 window.KMW_PRICES = {
-  "generatedAt": "2026-11-13T11:17:16+09:00",
+  "generatedAt": "2026-11-13T11:37:48+09:00",
   "baseDate": "2026-08-20",
   "annDate": "2026-08-21",
   "dates": [
@@ -280,11 +280,11 @@ window.KMW_PRICES = {
         33000,
         33750,
         32350,
-        33150
+        33100
       ],
       "base": 44950,
-      "last": 33150,
-      "cumPct": -26.25,
+      "last": 33100,
+      "cumPct": -26.36,
       "annPct": -5.45,
       "error": null
     },
@@ -354,11 +354,11 @@ window.KMW_PRICES = {
         73800,
         74000,
         77200,
-        79900
+        79800
       ],
       "base": 74700,
-      "last": 79900,
-      "cumPct": 6.96,
+      "last": 79800,
+      "cumPct": 6.83,
       "annPct": -4.55,
       "error": null
     },
@@ -428,11 +428,11 @@ window.KMW_PRICES = {
         11750,
         11890,
         11790,
-        11850
+        11840
       ],
       "base": 8970,
-      "last": 11850,
-      "cumPct": 32.11,
+      "last": 11840,
+      "cumPct": 32.0,
       "annPct": -5.13,
       "error": null
     },
@@ -502,11 +502,11 @@ window.KMW_PRICES = {
         192300,
         195500,
         180900,
-        181600
+        181300
       ],
       "base": 219500,
-      "last": 181600,
-      "cumPct": -17.27,
+      "last": 181300,
+      "cumPct": -17.4,
       "annPct": 1.14,
       "error": null
     },
@@ -576,11 +576,11 @@ window.KMW_PRICES = {
         205500,
         195100,
         200500,
-        200000
+        199950
       ],
       "base": 222500,
-      "last": 200000,
-      "cumPct": -10.11,
+      "last": 199950,
+      "cumPct": -10.13,
       "annPct": -0.22,
       "error": null
     },
@@ -650,11 +650,11 @@ window.KMW_PRICES = {
         211000,
         209500,
         188700,
-        184700
+        184200
       ],
       "base": 220500,
-      "last": 184700,
-      "cumPct": -16.24,
+      "last": 184200,
+      "cumPct": -16.46,
       "annPct": 1.81,
       "error": null
     },
@@ -724,11 +724,11 @@ window.KMW_PRICES = {
         34750,
         33400,
         33400,
-        33050
+        32900
       ],
       "base": 37500,
-      "last": 33050,
-      "cumPct": -11.87,
+      "last": 32900,
+      "cumPct": -12.27,
       "annPct": -1.2,
       "error": null
     },
@@ -798,11 +798,11 @@ window.KMW_PRICES = {
         77400,
         80300,
         68600,
-        72200
+        73000
       ],
       "base": 71900,
-      "last": 72200,
-      "cumPct": 0.42,
+      "last": 73000,
+      "cumPct": 1.53,
       "annPct": 4.59,
       "error": null
     },
@@ -872,11 +872,11 @@ window.KMW_PRICES = {
         143500,
         149100,
         155600,
-        159100
+        158000
       ],
       "base": 173400,
-      "last": 159100,
-      "cumPct": -8.25,
+      "last": 158000,
+      "cumPct": -8.88,
       "annPct": -3.17,
       "error": null
     },
@@ -946,11 +946,11 @@ window.KMW_PRICES = {
         31950,
         31200,
         28800,
-        28700
+        28550
       ],
       "base": 32050,
-      "last": 28700,
-      "cumPct": -10.45,
+      "last": 28550,
+      "cumPct": -10.92,
       "annPct": 0.47,
       "error": null
     },
@@ -1020,11 +1020,11 @@ window.KMW_PRICES = {
         5239.13,
         5375.36,
         5342.73,
-        5411.28
+        5431.86
       ],
       "base": 6852.58,
-      "last": 5411.28,
-      "cumPct": -21.03,
+      "last": 5431.86,
+      "cumPct": -20.73,
       "annPct": 0.88,
       "error": null
     },
@@ -1094,11 +1094,11 @@ window.KMW_PRICES = {
         667.61,
         705.1,
         696.53,
-        718.93
+        720.52
       ],
       "base": 840.89,
-      "last": 718.93,
-      "cumPct": -14.5,
+      "last": 720.52,
+      "cumPct": -14.31,
       "annPct": -4.63,
       "error": null
     },
@@ -1168,11 +1168,11 @@ window.KMW_PRICES = {
         5481.51,
         5413.41,
         5457.22,
-        5471.28
+        5494.52
       ],
       "base": 6852.58,
-      "last": 5471.28,
-      "cumPct": -20.16,
+      "last": 5494.52,
+      "cumPct": -19.82,
       "annPct": -1.97,
       "error": null
     }
