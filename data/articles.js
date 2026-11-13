@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-13T03:11:28+09:00",
- "runCount": 4767,
+ "generatedAt": "2026-11-13T10:14:52+09:00",
+ "runCount": 4768,
  "price": {
-  "price": "31,850",
-  "pct": "-0.47",
-  "at": "2026-11-13T03:11:29+09:00"
+  "price": "32,100",
+  "pct": "+1.26",
+  "at": "2026-11-13T10:15:00+09:00"
  },
  "articles": [
   {
@@ -54072,6 +54072,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-13T03:11:28+09:00"
+  },
+  {
+   "id": "fc1b4d4a0ce7142e",
+   "title": "카카오 인적분할 반대 서명 첫날 시민 1천명 넘어",
+   "outlet": "매일노동뉴스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95Sk1YLUNVUXh4VlBUclNxTElqMG02ZlVnYmI5N0ZpQzI2amFEWVlRUFRmXzBSVWFJR3BWWGJyejdsRkxLa0VTa1BmMFBrbFp3WWpfY0g2Z1JsVGhpREkwcDlYUUF2WG9VNzJmal9sdlk?oc=5",
+   "publishedAt": "2026-11-11T17:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-13T10:14:52+09:00"
   }
  ]
 };
