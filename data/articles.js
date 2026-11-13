@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-13T16:50:14+09:00",
- "runCount": 4788,
+ "generatedAt": "2026-11-13T17:07:13+09:00",
+ "runCount": 4789,
  "price": {
-  "price": "31,800",
-  "pct": "+0.32",
-  "at": "2026-11-13T16:50:15+09:00"
+  "price": "31,750",
+  "pct": "+0.16",
+  "at": "2026-11-13T17:07:16+09:00"
  },
  "articles": [
   {
@@ -54095,6 +54095,29 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-13T10:14:52+09:00"
+  },
+  {
+   "id": "4467e37cb3cde4cf",
+   "title": "카카오, 인적분할 앞두고 해킹…카카오워크 개인정보 유출 '도마'",
+   "outlet": "뉴스토마토",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WaXlPM3RBVDEyNTh5c29ZR0lYU3VnUGdCNXNQTFlSRWxRT3FtX1NZczBBN3QwS2RYcFJnenM2eEdDT0haYlJyblZocFBadnZmZWxDekRZY3QzVUJucjNz?oc=5",
+   "publishedAt": "2026-11-13T16:49:46+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-13T17:07:13+09:00"
   }
  ]
 };
