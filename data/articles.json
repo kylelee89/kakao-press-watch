@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-14T07:31:43+09:00",
- "runCount": 4794,
+ "generatedAt": "2026-11-14T12:05:30+09:00",
+ "runCount": 4795,
  "price": {
   "price": "31,900",
   "pct": "+0.63",
-  "at": "2026-11-14T07:31:44+09:00"
+  "at": "2026-11-14T12:05:31+09:00"
  },
  "articles": [
   {
@@ -54146,6 +54146,31 @@
     ]
    },
    "firstSeenAt": "2026-11-14T07:31:43+09:00"
+  },
+  {
+   "id": "dfceeb80f44e9eab",
+   "title": "카톡 연동 AI 에이전트 '피클' 논란…카카오, 법적 검토 들어간다",
+   "outlet": "인사이트코리아",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EWEhxMk5uRzRrdGVBQWVqd3Q0VjJQWHhESHdUeW9RVHFjX09qVGZLUFh3NUcyT1VqZ3ZQVUJGT09WaUoxXy1sdTN2VWZRbDhBaDdCRGlVZ2Njck9SdkN6NVdpZGEycnRfeVctam50VXhsWknSAXdBVV95cUxNVllCTm51U0pmV0hsdk1DQUJpTEk0Vm9IalYxc3pEaWpVaXdwVjc2UElKd2t2YVZicFlFQ1VSMEp5cHprbXl0TWc4SFFhSFc5MUxrQjg3YkFWa2xRdWVjNWdLNzBXZDVIajZ0ZktLRXJBRDZ4bG5pZw?oc=5",
+   "publishedAt": "2026-11-12T18:24:08+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-11-14T12:05:30+09:00"
   }
  ]
 }
