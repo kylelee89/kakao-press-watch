@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-16T01:59:29+09:00",
- "runCount": 4801,
+ "generatedAt": "2026-11-16T06:41:28+09:00",
+ "runCount": 4802,
  "price": {
   "price": "31,900",
   "pct": "+0.63",
-  "at": "2026-11-16T01:59:30+09:00"
+  "at": "2026-11-16T06:41:29+09:00"
  },
  "articles": [
   {
@@ -54221,6 +54221,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-16T01:59:29+09:00"
+  },
+  {
+   "id": "c801f91d03400171",
+   "title": "인적분할 앞두고 운명의 날…김범수 무죄로 카카오 날개 달까",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUHJZdXR2VzhrV1JtX3J3WlBVWlhlV21RVmJ5eG81WHRJQkI5VU9vYkNZWTBHQlFBR2RsNkNsNDhjbllCLU96WFdJdTA3NEJFRU12b0NoWnBtZ1dQLUxlcEhXRHhtSkJpajlySHFidHNHWlhWN0wtcmpiWlNrN0NjUw?oc=5",
+   "publishedAt": "2026-11-16T06:04:02+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-16T06:41:28+09:00"
   }
  ]
 };
