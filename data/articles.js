@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-15T18:13:18+09:00",
- "runCount": 4800,
+ "generatedAt": "2026-11-16T01:59:29+09:00",
+ "runCount": 4801,
  "price": {
   "price": "31,900",
   "pct": "+0.63",
-  "at": "2026-11-15T18:13:20+09:00"
+  "at": "2026-11-16T01:59:30+09:00"
  },
  "articles": [
   {
@@ -54194,6 +54194,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-15T18:13:18+09:00"
+  },
+  {
+   "id": "d73e0d66e44d54c7",
+   "title": "카카오, 인적분할 앞두고 소액주주 다시 만난다…20일 현장 간담회",
+   "outlet": "ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1td2JtYzY0ak9iMHUwM1dPcjZ6RG5YTGRyTFFxemhvLV9UVHpQTVRyUXhuZUhWdkFJSGtrZmdxR01za0lZaXotZ3BlbFBaMVlwT0t2QTNLSEJGUEZyT2RFOWljdHB1M01H?oc=5",
+   "publishedAt": "2026-10-09T16:00:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-11-16T01:59:29+09:00"
   }
  ]
 };
