@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-15T10:47:22+09:00",
- "runCount": 4799,
+ "generatedAt": "2026-11-15T18:13:18+09:00",
+ "runCount": 4800,
  "price": {
   "price": "31,900",
   "pct": "+0.63",
-  "at": "2026-11-15T10:47:23+09:00"
+  "at": "2026-11-15T18:13:20+09:00"
  },
  "articles": [
   {
@@ -54171,6 +54171,29 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-14T12:05:30+09:00"
+  },
+  {
+   "id": "bfc40072790715a8",
+   "title": "인적분할 나선 카카오…증권가 \"재평",
+   "outlet": "이투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9obWRjODNnWTBtMUp2cENRcGxnTS01T3ctS1VIOVFGY1ZiWmE0T1pnVVVMTU5BbjgwM0RjSlZZaE8zdWFpc0tsYVZaNFFXSXA2cHdWb1lIbHZoX3ZjVC1wYlN1S1ctN3lo?oc=5",
+   "publishedAt": "2026-11-15T00:02:43+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-15T18:13:18+09:00"
   }
  ]
 };
