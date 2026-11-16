@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-16T19:58:20+09:00",
- "runCount": 4833,
+ "generatedAt": "2026-11-17T05:20:12+09:00",
+ "runCount": 4834,
  "price": {
-  "price": "32,300",
-  "pct": "+1.89",
-  "at": "2026-11-16T19:58:21+09:00"
+  "price": "32,400",
+  "pct": "+2.21",
+  "at": "2026-11-17T05:20:14+09:00"
  },
  "articles": [
   {
@@ -54491,6 +54491,27 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-16T18:56:27+09:00"
+  },
+  {
+   "id": "773defa085a7bc72",
+   "title": "카카오 노조 “화장실까지 분할하나”…버스광고로 주총 반대표 결집",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WZXYxcnE3Q0p4R0luNzFKUkptM1h3WTVZYVc1cDU2eVlpQkRhaWFLY3VwazJUYm5BcXVQU21feWc2WDZQNFNwUXYyXzdDR29Yc2NzTFNOcGxjbHpMRjA5QTBXQVo?oc=5",
+   "publishedAt": "2026-11-16T21:22:22+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-17T05:20:12+09:00"
   }
  ]
 };
