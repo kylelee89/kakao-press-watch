@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-16T13:25:47+09:00",
- "runCount": 4813,
+ "generatedAt": "2026-11-16T13:46:30+09:00",
+ "runCount": 4814,
  "price": {
-  "price": "32,350",
-  "pct": "+2.05",
-  "at": "2026-11-16T13:25:49+09:00"
+  "price": "32,450",
+  "pct": "+2.37",
+  "at": "2026-11-16T13:46:33+09:00"
  },
  "articles": [
   {
@@ -54265,6 +54265,28 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-16T11:01:47+09:00"
+  },
+  {
+   "id": "c6a9e83812469b0d",
+   "title": "[리포트 브리핑]카카오, '최대 접점의 에이전트화 도전' 목표가 51,000원 - 교보증권",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00TG44Z0FmY1BWZlhRU1g0cWJ2WFVIQVN5TGhySDRvcFhsTGprY3RtcDVWYXE4aEZEMklwVllkVUNjVWZha2t0ckFId0RzaFF5SFhKeVVEblFOVEM3?oc=5",
+   "publishedAt": "2026-11-16T13:37:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-16T13:46:30+09:00"
   }
  ]
 };
