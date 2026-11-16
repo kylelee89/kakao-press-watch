@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-16T17:12:36+09:00",
- "runCount": 4824,
+ "generatedAt": "2026-11-16T17:33:18+09:00",
+ "runCount": 4825,
  "price": {
   "price": "32,200",
   "pct": "+1.58",
-  "at": "2026-11-16T17:12:38+09:00"
+  "at": "2026-11-16T17:33:20+09:00"
  },
  "articles": [
   {
@@ -54333,6 +54333,56 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-16T17:12:36+09:00"
+  },
+  {
+   "id": "2c345b3a498b1004",
+   "title": "\"화장실까지 분할하나요?\"…카카오 노조, 판교 버스광고로 반발",
+   "outlet": "연합뉴스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTHpfdjhTb1k2RmxjRk5vODBXTms2dGFHVFpMWjQ3VHRRaU1pa0lZVFhEVkhxbHY4cTY0YUdWT0xfaFdrbW5GZkpsVVBValJJRlhYdHRVZFVOODjSAWBBVV95cUxOazdPdl9BZV9wcGF6OXEwVVFMRC0yNC0wQU1tSVA1dkthdC0yX2dQblYza0w0ZDVZekFyWkJDeV9mM2pCUHh1ZmNmTlJCeEJXNUR1amh0dXhucVlqMTNjcW8?oc=5",
+   "publishedAt": "2026-11-16T17:11:55+09:00",
+   "tone": "우려",
+   "toneScore": -3.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "물음표:?",
+    "적대어:반발"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "반발"
+    ]
+   },
+   "firstSeenAt": "2026-11-16T17:33:18+09:00"
+  },
+  {
+   "id": "36fa41bf6fee3d1d",
+   "title": "카카오 노조, 판교 버스에 인적분할 반대 광고…“의결권 결집·연대 지속할 것”",
+   "outlet": "CEO스코어데일리",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XX2tuVE5PWTJ0bEFuTHpmZi1ZTEdYMnN6ZDhfWlFUb0RteUtSbVAxR0hhdlNZcEVKYlh0QjE0N0VkQ2hzWmRKZWJwLVRLaXlCZEt2M0pGNEswallRNWRIejJMWDlTOVhI?oc=5",
+   "publishedAt": "2026-11-16T17:11:42+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-16T17:33:18+09:00"
   }
  ]
 };
