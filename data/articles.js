@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-16T18:35:34+09:00",
- "runCount": 4829,
+ "generatedAt": "2026-11-16T18:56:27+09:00",
+ "runCount": 4830,
  "price": {
-  "price": "32,350",
-  "pct": "+2.05",
-  "at": "2026-11-16T18:35:36+09:00"
+  "price": "32,300",
+  "pct": "+1.89",
+  "at": "2026-11-16T18:56:30+09:00"
  },
  "articles": [
   {
@@ -54437,6 +54437,60 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-16T18:35:34+09:00"
+  },
+  {
+   "id": "d4c1d518b04bddea",
+   "title": "“카카오는 화장실까지 분할하나요?”…노조 ‘인적분할 반대’ 버스 광고",
+   "outlet": "한겨레",
+   "outletGroup": "종합일간",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBveElBRG9JU3NzbE8zVmJGZ1k1X2Rqd3RObWtUeTl4V3Rnb0RDX1RKcDZWY3lUZHhMSGFTWFNhMFRxVXB2Q2M4dFRTZ2pPTzNUcFhQMGRvdDhKQW5SRE1TbA?oc=5",
+   "publishedAt": "2026-11-16T18:40:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?"
+    ]
+   },
+   "firstSeenAt": "2026-11-16T18:56:27+09:00"
+  },
+  {
+   "id": "542f8ca3045e7f70",
+   "title": "\"인적 분할 최대 변수될까\"…카카오 김범수 2심에 쏠리는 눈",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sX29BdkhsTGpnamdXbzFIYUJsTzFobkE4QzktMVk1LXBJaXNlcFgzSE5FSGYzSVh5SnQycnJ1NVZtcDNoSzFlWEFEYzhEUEtmbDFzWEJZUTZadnRFdkg5dFZHUVQ?oc=5",
+   "publishedAt": "2026-11-16T18:54:03+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:될까"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "될까"
+    ]
+   },
+   "firstSeenAt": "2026-11-16T18:56:27+09:00"
   }
  ]
 };
