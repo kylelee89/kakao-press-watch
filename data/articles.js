@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-16T16:51:55+09:00",
- "runCount": 4823,
+ "generatedAt": "2026-11-16T17:12:36+09:00",
+ "runCount": 4824,
  "price": {
   "price": "32,200",
   "pct": "+1.58",
-  "at": "2026-11-16T16:51:57+09:00"
+  "at": "2026-11-16T17:12:38+09:00"
  },
  "articles": [
   {
@@ -54287,6 +54287,52 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-16T13:46:30+09:00"
+  },
+  {
+   "id": "858b5f81c67d81a1",
+   "title": "카카오노조, 인적분할 반대 버스 광고 실시",
+   "outlet": "글로벌이코노믹",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GbHVNSW93V2V6dnI5OTBQU3p2WEZWLUstZkNnR2R5djhoaVh4Q1ctYkFjVVJ2MlhSQzV3VTlRQnlFb3lXVkZoSGtlUU5lUWpRb19TYXFTUW5RQmdQQ09PV0RjWnBEQlAwVm1vQVNwaEthSGlmWkxtSnpLMkVPTUU?oc=5",
+   "publishedAt": "2026-11-16T17:08:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-16T17:12:36+09:00"
+  },
+  {
+   "id": "96604ae709384669",
+   "title": "카카오 노조, 판교 버스에 인적분할 반대 광고",
+   "outlet": "ER 이코노믹리뷰",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmYThqcjc4bWhlZ3d2U3B4Y1VtejRySkdQRUljREJsS0FVSUl5d2NKZEtSU2JQYUw4b2FxTFp4Nk1jdjVudFo1UGJ5cGg3ZU9nWHRicjFaMVpGMWxHbWRGQ3NOMVlhUEFvUmdKeg?oc=5",
+   "publishedAt": "2026-11-16T16:47:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-16T17:12:36+09:00"
   }
  ]
 };
