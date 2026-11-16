@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-16T17:33:18+09:00",
- "runCount": 4825,
+ "generatedAt": "2026-11-16T17:54:01+09:00",
+ "runCount": 4826,
  "price": {
-  "price": "32,200",
-  "pct": "+1.58",
-  "at": "2026-11-16T17:33:20+09:00"
+  "price": "32,300",
+  "pct": "+1.89",
+  "at": "2026-11-16T17:54:03+09:00"
  },
  "articles": [
   {
@@ -54383,6 +54383,33 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-16T17:33:18+09:00"
+  },
+  {
+   "id": "f15602ec3ec33269",
+   "title": "카카오 인적분할 논란 확산…노조, 판교서 서명운동 : 기업·산업",
+   "outlet": "재경일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtWmM0aXg5aVdYVy1sSzBwNnlQTDJrR2R2eWRnV0FsMjR1cm16V1NKczNfNmZmMC1aTnJ6dVZuejVYcHI1T1RJbFJlWQ?oc=5",
+   "publishedAt": "2026-11-16T17:32:22+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:논란"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "논란"
+    ]
+   },
+   "firstSeenAt": "2026-11-16T17:54:01+09:00"
   }
  ]
 }
