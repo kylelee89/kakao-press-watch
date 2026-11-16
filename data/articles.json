@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-16T18:29:35+09:00",
- "runCount": 4828,
+ "generatedAt": "2026-11-16T18:35:34+09:00",
+ "runCount": 4829,
  "price": {
-  "price": "32,300",
-  "pct": "+1.89",
-  "at": "2026-11-16T18:29:36+09:00"
+  "price": "32,350",
+  "pct": "+2.05",
+  "at": "2026-11-16T18:35:36+09:00"
  },
  "articles": [
   {
@@ -54410,6 +54410,33 @@
     ]
    },
    "firstSeenAt": "2026-11-16T17:54:01+09:00"
+  },
+  {
+   "id": "f1d9170180aaee2e",
+   "title": "인적분할 앞둔 카카오…김범수 '사법 리스크' 분수령",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41WHEtcUZqV0NhQWVadFluejNjT1JnbEV3aU42UXFjTmZpemVhYTJOUHdOUWk1RTBlUEd0VkU3WkowZm01QlNpV3pjNVRKV0w0d1pzVlRjMmhEbzRMM1NlMUV4N1A?oc=5",
+   "publishedAt": "2026-11-16T18:30:39+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-16T18:35:34+09:00"
   }
  ]
 }
