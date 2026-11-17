@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-17T12:46:21+09:00",
- "runCount": 4843,
+ "generatedAt": "2026-11-17T13:06:48+09:00",
+ "runCount": 4844,
  "price": {
-  "price": "32,100",
-  "pct": "-1.08",
-  "at": "2026-11-17T12:46:22+09:00"
+  "price": "31,950",
+  "pct": "-1.54",
+  "at": "2026-11-17T13:06:49+09:00"
  },
  "articles": [
   {
@@ -54622,6 +54622,33 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-17T10:20:35+09:00"
+  },
+  {
+   "id": "16b582f9d4c86259",
+   "title": "[단독] 카카오 ‘인적분할‘ 반대 전선 넓어지나…노조·소액주주 연대 가능성 커져",
+   "outlet": "글로벌이코노믹",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0eERDRnhKa0NvaWZrS0NaamE0c0ZkX2RadkptMHlHbTdpeW05UGZlX1RzZmVrTWMzVTFqTjZwUW82Y2xiT2JTX1oyLVNfZnZfRFhGUExCcUQ0bUNxMHNvUlM5V2dvUkhaeWV5aFE1UFVCZ2ZBX2hmYWV5R1BiaDQ?oc=5",
+   "publishedAt": "2026-11-17T12:46:57+09:00",
+   "tone": "중립",
+   "toneScore": -1.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:소액주주"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "소액주주"
+    ]
+   },
+   "firstSeenAt": "2026-11-17T13:06:48+09:00"
   }
  ]
 };
