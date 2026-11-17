@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-17T17:14:17+09:00",
- "runCount": 4856,
+ "generatedAt": "2026-11-17T17:34:53+09:00",
+ "runCount": 4857,
  "price": {
-  "price": "31,750",
-  "pct": "-2.16",
-  "at": "2026-11-17T17:14:19+09:00"
+  "price": "31,650",
+  "pct": "-2.47",
+  "at": "2026-11-17T17:34:54+09:00"
  },
  "articles": [
   {
@@ -54649,6 +54649,40 @@
     ]
    },
    "firstSeenAt": "2026-11-17T13:06:48+09:00"
+  },
+  {
+   "id": "d49cc678709c894a",
+   "title": "[요즘투자] 카카오 주가 왜 이러나?:인적분할과 소액주주 불신이 만든 딜레마",
+   "outlet": "저스트 이코노믹스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16R29OOFJ4ZHQ5Y1VoSkhWOWtTTFE4QWxCRE5wQnR0Z0N5WXNhOUdTeFEwZmhVZVkwOXZnd0JZSEdQTVd2c3diYmlBSHJtLUJDSVE2MGFaUkRHMExUV2xv?oc=5",
+   "publishedAt": "2026-11-17T05:28:00+09:00",
+   "tone": "우려",
+   "toneScore": -5.4,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?",
+    "적대어:소액주주",
+    "적대어:딜레마",
+    "적대어:불신"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "소액주주",
+     "딜레마",
+     "불신"
+    ]
+   },
+   "firstSeenAt": "2026-11-17T17:34:53+09:00"
   }
  ]
 }
