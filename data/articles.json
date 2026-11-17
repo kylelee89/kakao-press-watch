@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-17T05:20:12+09:00",
- "runCount": 4834,
+ "generatedAt": "2026-11-17T10:20:35+09:00",
+ "runCount": 4835,
  "price": {
-  "price": "32,400",
-  "pct": "+2.21",
-  "at": "2026-11-17T05:20:14+09:00"
+  "price": "32,000",
+  "pct": "-1.39",
+  "at": "2026-11-17T10:20:47+09:00"
  },
  "articles": [
   {
@@ -54512,6 +54512,116 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-17T05:20:12+09:00"
+  },
+  {
+   "id": "0c7768ac3e69d4b5",
+   "title": "카카오 인적분할, 사법 리스크 못 피한다…\"쪼개도 그늘 그대로\"",
+   "outlet": "리드경제",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VzNyaUI3VllkLTR5TU9XNFBVNWtQcU9Dak5jME5MUHh4TUdDdGs3aXN5UTd4SERZSmpFRDgyb0V5enZETnlDR3g3VnVmYmFNdFJPUzZZeFF3RlN5VnVhSTZkeDBsUlE5a0JudEE2REE?oc=5",
+   "publishedAt": "2026-11-17T09:47:00+09:00",
+   "tone": "우려",
+   "toneScore": -4.2,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "수사의문:쪼개도",
+    "적대어:리스크",
+    "적대어:그늘"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "쪼개도",
+     "리스크",
+     "그늘"
+    ]
+   },
+   "firstSeenAt": "2026-11-17T10:20:35+09:00"
+  },
+  {
+   "id": "0ac2d0dd48181fac",
+   "title": "카카오노조, 인적분할 반대 버스 광고…12월 주총 앞두고 의결권 결집",
+   "outlet": "테크월드",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uUXNBVkMzeW4wOE9UVDV5MFNpREloWFdwMjd6QXNraHRhRktjdkxUbW1qV1JmQUNuTGZKZk00bjlXQ3p0Rkh4RW5jZ1Q5VlkzaW1ZSmIxTWp6Z3E4Z3FBX0ZiTWxOdkFF?oc=5",
+   "publishedAt": "2026-11-17T09:40:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-17T10:20:35+09:00"
+  },
+  {
+   "id": "966c1888c0a729c5",
+   "title": "카카오 주가 왜 이러나?:인적분할과 소액주주 불신이 만든 딜레마",
+   "outlet": "르몽드디플로마티크",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qSzlpamduZVlwQ0poNGt1STVabHg4ZnpuZG1SeGxzdmJNTGVqZ05FM1Z2a2VLYWRJQzVHNFpGLTg2VjNuMEpGRUtGV01ZLWxVc2Q3dTZxNm1xa1k1QXBoUFN0NTduRmVHNFHSAW5BVV95cUxNTVhrS29hTW9NbGYxcU8xRlItY2FMVlNraU8yTVo3b1hrNUJtcFJPdmE4Q3BjU0xoM3dNcFgwQm53SlcxRkJiMkQ1N1ZrUVZKYUcwLWk4eVc4RTdLc3pmdkZMNXhrSHRVVF8ydjFsUQ?oc=5",
+   "publishedAt": "2026-11-17T08:24:32+09:00",
+   "tone": "우려",
+   "toneScore": -5.4,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?",
+    "적대어:소액주주",
+    "적대어:딜레마",
+    "적대어:불신"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "소액주주",
+     "딜레마",
+     "불신"
+    ]
+   },
+   "firstSeenAt": "2026-11-17T10:20:35+09:00"
+  },
+  {
+   "id": "63018c0d3594c490",
+   "title": "김범수 2심 선고 D-4… 쪼개지는 카카오, 'AI·투자' 두 엔진 날개 달까",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jSWdqWWd4YmFOWmhnZ3Q2U3lJckZ2clNud194UDM1UWx1THA3RGI2ODB0Wnhpd3Z2QTFla05Uc013Z1ZuNmVvTVdFV080SEttdHBYMkJzMWpTbWNHVG5oZNIBeEFVX3lxTE13djNxV0E5d2ZNVFNiZnRYTkdhaDNKWHhsc1pneHVCcXFNbHdXTmRaWF96M3gyZmpfeFhvR29pNFFfdUg4VG9vN1NBSmZxeGJiejAzZ1kydFJEclJEeFhrc0JPUDhzc3dkQi0tcWZkR1ozeHU3RUh4OA?oc=5",
+   "publishedAt": "2026-11-17T06:00:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-17T10:20:35+09:00"
   }
  ]
 }
