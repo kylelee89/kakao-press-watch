@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-18T16:45:34+09:00",
- "runCount": 4883,
+ "generatedAt": "2026-11-18T17:06:15+09:00",
+ "runCount": 4884,
  "price": {
-  "price": "31,850",
-  "pct": "+0.47",
-  "at": "2026-11-18T16:45:36+09:00"
+  "price": "31,800",
+  "pct": "+0.32",
+  "at": "2026-11-18T17:06:18+09:00"
  },
  "articles": [
   {
@@ -54764,6 +54764,40 @@ window.KMW_DATA = {
     ]
    },
    "firstSeenAt": "2026-11-18T15:02:40+09:00"
+  },
+  {
+   "id": "66519834a78fa649",
+   "title": "[카카오家] 카카오 주가 왜 이러나?:인적분할과 소액주주 불신이 만든 딜레마",
+   "outlet": "https://www.climatepol.com/",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xel90NWFwb3Yydjd5ZVNGS19zTUdVMHZ4cUhaZnJSODRESnZLdzJrazBfOU9fSUc1Um40cjVnYWpRY1FPNEU3cEdTSm1ncTFXTXoxTWpVbEl6Ym1KUnl1YjF6ZDZ4dHQzOG5KRA?oc=5",
+   "publishedAt": "2026-11-18T16:43:59+09:00",
+   "tone": "우려",
+   "toneScore": -5.4,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?",
+    "적대어:소액주주",
+    "적대어:딜레마",
+    "적대어:불신"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "소액주주",
+     "딜레마",
+     "불신"
+    ]
+   },
+   "firstSeenAt": "2026-11-18T17:06:15+09:00"
   }
  ]
 };
