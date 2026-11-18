@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-18T14:42:17+09:00",
- "runCount": 4877,
+ "generatedAt": "2026-11-18T15:02:40+09:00",
+ "runCount": 4878,
  "price": {
-  "price": "31,850",
-  "pct": "+0.47",
-  "at": "2026-11-18T14:42:18+09:00"
+  "price": "31,750",
+  "pct": "+0.16",
+  "at": "2026-11-18T15:02:41+09:00"
  },
  "articles": [
   {
@@ -54736,6 +54736,34 @@
     ]
    },
    "firstSeenAt": "2026-11-18T09:08:51+09:00"
+  },
+  {
+   "id": "2bf7150afe31a432",
+   "title": "주총 앞둔 카카오 분할…자사주 소각에도 설득 과제 남았다",
+   "outlet": "매일일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fNkxtZi1NdDNGWFBRcHNKWGRWS2gwVm5qekNPOVlIVVo3bkhqNm9IWWhQcC02UGdCNG5PR3pEUE9rcWhUbGYzdWk0ZFE5ZWZZSUwtbUd1M29BQ1ZhblU3VU1aYzA?oc=5",
+   "publishedAt": "2026-11-18T14:37:38+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "역접:에도",
+    "적대어:과제"
+   ],
+   "frames": [
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "과제"
+    ]
+   },
+   "firstSeenAt": "2026-11-18T15:02:40+09:00"
   }
  ]
 }
