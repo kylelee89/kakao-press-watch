@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-17T18:36:52+09:00",
- "runCount": 4860,
+ "generatedAt": "2026-11-18T09:08:51+09:00",
+ "runCount": 4861,
  "price": {
-  "price": "31,550",
-  "pct": "-2.77",
-  "at": "2026-11-17T18:36:55+09:00"
+  "price": "31,800",
+  "pct": "+0.32",
+  "at": "2026-11-18T09:08:52+09:00"
  },
  "articles": [
   {
@@ -54683,6 +54683,59 @@
     ]
    },
    "firstSeenAt": "2026-11-17T17:34:53+09:00"
+  },
+  {
+   "id": "16668111fdfc5a1c",
+   "title": "카카오 인적분할 난항…해외 IR 나섰지만 국내선 주주·노조 반대 확산",
+   "outlet": "더팩트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zTGJUT1dvbmdacEhXcDMxNFNKNmpKa2xZX2NrMF9wbUNRbnB2bjh5eVBDS0hCTzViNWVtU19keUNzZ0hlS3hRVWZPbk9ZaUh2SUQ4Vm9qYVUxUdIBVEFVX3lxTE5rM21KZGhBcVFVSkhDNUJnd0xoMnE5a1FKYzR5WG1LWEZuTGt3aGZhTUhKOVFPOVlNVHVTR0RJOWdob3g2S1pBUk9nTVZQakdROVNKNg?oc=5",
+   "publishedAt": "2026-11-18T00:00:02+09:00",
+   "tone": "중립",
+   "toneScore": -0.6,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "역접:지만",
+    "적대어:난항"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "난항"
+    ]
+   },
+   "firstSeenAt": "2026-11-18T09:08:51+09:00"
+  },
+  {
+   "id": "5a85abaf36beb9ab",
+   "title": "카카오 'AI 드라이브'… 사법리스크 풀고, 속도 올릴까 - 머니투데이",
+   "outlet": "머니투데이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jQzZFakdTZ3Q5WVlyaXk0NGo2RGVHaEJpVWVtcFRlNmU1QW16SjBLd3F2WUhoWGdDdVJKN2RtMmdSb080R28xWWRhNUhqdkQ4Ynd5RGRiOGdaMkNfZWM2c1RtcVVEWFI4NmNxNXFQYXY0LVl10gF6QVVfeXFMTVdNeVRzR3pZd1o5bkxDWEQ5NHJSYlVPaVdac1BESDlhMjVZd25TWHRneS1RallEVFlBQ0FCWXhwM3R4ZnRwU2k2WUluTFlCck91V1VVODM3ZEQ0TGxVV09hNDFNZ2I2Z2Z4X0czcWEySDhTYXByVE9fYkE?oc=5",
+   "publishedAt": "2026-11-18T03:42:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "AI전략"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-18T09:08:51+09:00"
   }
  ]
 }
