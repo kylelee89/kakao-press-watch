@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-19T09:04:30+09:00",
- "runCount": 4888,
+ "generatedAt": "2026-11-19T09:24:58+09:00",
+ "runCount": 4889,
  "price": {
   "price": "31,800",
   "pct": "+0.00",
-  "at": "2026-11-19T09:04:31+09:00"
+  "at": "2026-11-19T09:25:00+09:00"
  },
  "articles": [
   {
@@ -54798,6 +54798,27 @@
     ]
    },
    "firstSeenAt": "2026-11-18T17:06:15+09:00"
+  },
+  {
+   "id": "5b5823abf3ddd03a",
+   "title": "김범수 2심 선고 D-2···선고 결과 따른 카카오 운명에 업계 '촉각'",
+   "outlet": "시사저널e",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KeTN1SmhPaTZDYkxlRExGM2xRS1RPT1FfUUVrOXdnSFdkNmp0b3QwVDN6MFg5aDc1cVljR1J3VnV0UUpyTE9oOXdDZjhhb2cxU1Vob1BhcUNYN19lRlo0ZVhMeFVHZUVWWURQVG9WOG5tZ9IBdkFVX3lxTE9pQlZCTGRLXzIyVUJTdXFFQ1VCQkRwQkUxU1EzMnNQMF9nZmRaYzFUanlPbUxEVnNGSkoxVjFnM2JyRUtwN1pudFR5WUlOa1BQWnQwQUVkclBPRkJOZkhNZWU2MWtaZkY3LVpSYmd2QlBPTFZrZXc?oc=5",
+   "publishedAt": "2026-11-18T17:38:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-19T09:24:58+09:00"
   }
  ]
 }
