@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-19T17:17:58+09:00",
- "runCount": 4911,
+ "generatedAt": "2026-11-19T17:39:03+09:00",
+ "runCount": 4912,
  "price": {
-  "price": "31,800",
-  "pct": "+0.00",
-  "at": "2026-11-19T17:18:00+09:00"
+  "price": "31,850",
+  "pct": "+0.16",
+  "at": "2026-11-19T17:39:05+09:00"
  },
  "articles": [
   {
@@ -54889,6 +54889,29 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-19T17:17:58+09:00"
+  },
+  {
+   "id": "69619c0b29f3a1d7",
+   "title": "김범수 카카오 창업자 항소심 D-1..사법 족쇄 풀고 인적분할 속도낼까",
+   "outlet": "파이낸셜투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZHA1Yk93bVZ2YzFFTUFzWXJsUWl5bEhMeG5Nb2RERzRxMWNTMmMwNk91OWJwNzRZVWx2Z2t4Vll6ZVA4UU1GS180NmNtZGNydXdEVi10MUpVOFBaSTNOVTQxWXlpRUxhdUHSAW5BVV95cUxNcDZIYTBLTUMwZTgybkZxSHUtNXBIMmVRalZ4ME9nMUFxc2JFT0pBdHBMbTZMR0lwRlpjOTluVFcyYkNDVTEtdWJLald0dU5xdlRXWVJKb3YxRVIyaldmSVYtaHl0RldKYndfSGVWUQ?oc=5",
+   "publishedAt": "2026-11-19T16:44:14+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-19T17:39:03+09:00"
   }
  ]
 }
