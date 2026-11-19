@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-19T16:57:13+09:00",
- "runCount": 4910,
+ "generatedAt": "2026-11-19T17:17:58+09:00",
+ "runCount": 4911,
  "price": {
-  "price": "31,900",
-  "pct": "+0.31",
-  "at": "2026-11-19T16:57:15+09:00"
+  "price": "31,800",
+  "pct": "+0.00",
+  "at": "2026-11-19T17:18:00+09:00"
  },
  "articles": [
   {
@@ -54866,6 +54866,29 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-19T15:55:14+09:00"
+  },
+  {
+   "id": "64a64e9fad676ff8",
+   "title": "텐센트, 카카오 지분 5% 아래로···인적분할 앞두고 주요 주주 이탈",
+   "outlet": "뉴스웨이",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtbldiUUJXWklNemxPTUY4TTlTaEp3U2JUbXRmWjUxZ0RMQlZTS19XWTVGM3RpYlpoWFNsbVhmbHRaVjAwS3laOHE2REFBNEt0cDJVNjhDaWVUakItZ0p1eWkzVGVqa0hieGc?oc=5",
+   "publishedAt": "2026-11-19T16:51:15+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-19T17:17:58+09:00"
   }
  ]
 }
