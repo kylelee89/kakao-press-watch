@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-19T10:47:07+09:00",
- "runCount": 4893,
+ "generatedAt": "2026-11-19T11:07:35+09:00",
+ "runCount": 4894,
  "price": {
-  "price": "31,750",
-  "pct": "-0.16",
-  "at": "2026-11-19T10:47:07+09:00"
+  "price": "31,950",
+  "pct": "+0.47",
+  "at": "2026-11-19T11:07:36+09:00"
  },
  "articles": [
   {
@@ -54819,6 +54819,30 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-19T09:24:58+09:00"
+  },
+  {
+   "id": "38f2ee21e5e8168e",
+   "title": "[리포트 브리핑]카카오, '인적분할 후 카카오 AI 매수 권고' 목표가 39,000원 - 현대차증권",
+   "outlet": "뉴스핌",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9peDVrNjh1NGpjU3JHYm9VZlNJNUxiNkVORnltNVBBWWtieWM2T1ZWOGJBS3dIanh0bXZPdWk0ZWh1T2lsMklVN1VhZ1RvWlhOYUxwSmpDWnM4UDJR?oc=5",
+   "publishedAt": "2026-11-19T10:54:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "밸류에이션"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-19T11:07:35+09:00"
   }
  ]
 };
