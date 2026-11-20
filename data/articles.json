@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-20T13:25:34+09:00",
- "runCount": 4916,
+ "generatedAt": "2026-11-20T13:47:51+09:00",
+ "runCount": 4917,
  "price": {
-  "price": "30,950",
-  "pct": "-2.98",
-  "at": "2026-11-20T13:25:48+09:00"
+  "price": "30,900",
+  "pct": "-3.13",
+  "at": "2026-11-20T13:47:53+09:00"
  },
  "articles": [
   {
@@ -55416,6 +55416,27 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "0b94c5a64a0ea04b",
+   "title": "김범수 \"카카오 혁신 힘 보탤 것\"…2심도 \"시세조종 무죄\"",
+   "outlet": "코리아리포트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fd19iRW1fSmthc0NEWWh2R3NBMkJEZTNwZUN5c0N5cmJpcDlydDJSVVozMjctYnVHUjhaTXdZX0k2WjRZa3R1MEhCUWs0d1U4X2pkY2pNTHNCZlcxeHVsTDc4TmZtbm5mMWVlekNRTGY?oc=5",
+   "publishedAt": "2026-11-20T13:34:59+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:47:51+09:00"
   }
  ]
 }
