@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-20T14:49:44+09:00",
- "runCount": 4920,
+ "generatedAt": "2026-11-20T15:10:30+09:00",
+ "runCount": 4921,
  "price": {
-  "price": "30,900",
-  "pct": "-3.13",
-  "at": "2026-11-20T14:49:47+09:00"
+  "price": "30,950",
+  "pct": "-2.98",
+  "at": "2026-11-20T15:10:32+09:00"
  },
  "articles": [
   {
@@ -55621,6 +55621,54 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-20T14:49:44+09:00"
+  },
+  {
+   "id": "90f1cb64e9609ba3",
+   "title": "김범수, SM 시세조종 2심도 무죄…카카오노조 \"인적분할 직접 답하라\"",
+   "outlet": "www.ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiWXQxTTQ1bU5kb0NnVGpxY2hGUlBQdTlGajFiTDh2bW9WNENmT3R3Q0hwTGMwWkRic3Z6VDlmZFNQc01HMllmb1NzZDBKaXZtSEtDcWcxaTIzSTFpRVhSQjMySXhzaHZw?oc=5",
+   "publishedAt": "2026-11-20T14:53:09+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T15:10:30+09:00"
+  },
+  {
+   "id": "27abb03f664890b0",
+   "title": "카카오 김범수 항소심 20일 선고…미래 성장판 역할 기대 '솔솔'",
+   "outlet": "www.ebn.co.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nUDdLTDhEa0lQUGVzTHpLWUdhTFBiRTEzSHozelVzNC1aSDFTT1pTWlVORjJyUElQLUJRSnQ4TXhjZW5XMl9WTU14RGg0Rm1HZ2V6QmJXVXdveGUwVU95dEs1RWxwd0No?oc=5",
+   "publishedAt": "2026-11-18T13:37:57+09:00",
+   "tone": "중립",
+   "toneScore": 1.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "호재어:기대"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T15:10:30+09:00"
   }
  ]
 };
