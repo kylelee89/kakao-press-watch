@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-20T13:47:51+09:00",
- "runCount": 4917,
+ "generatedAt": "2026-11-20T14:08:32+09:00",
+ "runCount": 4918,
  "price": {
   "price": "30,900",
   "pct": "-3.13",
-  "at": "2026-11-20T13:47:53+09:00"
+  "at": "2026-11-20T14:08:35+09:00"
  },
  "articles": [
   {
@@ -55437,6 +55437,53 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-20T13:47:51+09:00"
+  },
+  {
+   "id": "fa6958ffb17cdda0",
+   "title": "\"과감한 변화 필요\" 김범수…먹구름 걷힌 카카오, 분할·신사업 힘 받나",
+   "outlet": "뉴시스",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03NlcwTGI3a2RCLTdVeHVsN0NjMDMyQVVaTE9FQV9sVFVDa0JSYjF3Z2ltZEdLY3RMdHJjdW85a0c5eGRKZFNqaDFmcnQ5R1o2am8tY09UV1VlekNCa0M3MNIBeEFVX3lxTE9GV3M4em4zbFdnSzUtSEdzTTZpYmlEUFJJeW1aVFdvdU1WM193bG5GN0htNnI5YlNMaDJBTU9nYjgyTXVBNy1OQkp5OFNHUFJBdkhVZndXVzFQYjduVzBueEhIT3dBNURKclg0N1FEM3VwZEptS0VNeA?oc=5",
+   "publishedAt": "2026-11-20T13:50:10+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:먹구름"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "먹구름"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T14:08:32+09:00"
+  },
+  {
+   "id": "6973d654f565a8d4",
+   "title": "카카오 투자자들, 김범수 2심 무죄에 설렘...3년래 주가 보니 ’오너 효과’ 분명 By FinancialPost",
+   "outlet": "Investing.com 한국어",
+   "outletGroup": "증권투자",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uOUp2a2o2QmNqNXp2cDdaVW9PNEtNSmJQUEFYUUZvUC13Ti1UWjZEYjlJTl9Hc0dFcHhVT3hYZ2JwUURYLXZTc3FTRVlOTHc2U05jbE5DdU5CTWZnaXlpbFpWX3pXb0Q3bFpMY0Q4WGQ?oc=5",
+   "publishedAt": "2026-11-20T13:46:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T14:08:32+09:00"
   }
  ]
 }
