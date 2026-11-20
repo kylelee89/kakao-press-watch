@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-20T15:51:56+09:00",
- "runCount": 4923,
+ "generatedAt": "2026-11-20T16:12:41+09:00",
+ "runCount": 4924,
  "price": {
-  "price": "31,000",
-  "pct": "-2.82",
-  "at": "2026-11-20T15:51:59+09:00"
+  "price": "30,800",
+  "pct": "-3.45",
+  "at": "2026-11-20T16:12:43+09:00"
  },
  "articles": [
   {
@@ -55690,6 +55690,32 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-20T15:51:56+09:00"
+  },
+  {
+   "id": "fb0e231abc3a2771",
+   "title": "[초점] 사법 리스크 덜어낸 카카오 김범수…다음 스텝은 AI 중심 '쇄신'",
+   "outlet": "뉴스워치",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OG1pdnlXcFg0WnhRSVpRRi0zWFVSR3NraVZKWjV3SV9MXzNuLUNzQ1FsUF9md2RIQ05lNVpuenpKVkJHa2RzWWhDWWZKcWczRnh1LVJlamgzVGE1TUhvdkhWNU05SFZs?oc=5",
+   "publishedAt": "2026-11-20T15:54:45+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T16:12:41+09:00"
   }
  ]
 };
