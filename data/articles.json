@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-20T15:31:12+09:00",
- "runCount": 4922,
+ "generatedAt": "2026-11-20T15:51:56+09:00",
+ "runCount": 4923,
  "price": {
   "price": "31,000",
   "pct": "-2.82",
-  "at": "2026-11-20T15:31:14+09:00"
+  "at": "2026-11-20T15:51:59+09:00"
  },
  "articles": [
   {
@@ -55669,6 +55669,27 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-20T15:10:30+09:00"
+  },
+  {
+   "id": "d344b7bc321ccefa",
+   "title": "‘SM 시세조종’ 2심도 무죄…김범수 “카카오 혁신에 힘 보탤 것”",
+   "outlet": "서울경제TV",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SMzJadTR4YWZ1UG8xdW5IOS1ISHhZYy11aU1rOG90d3ZUX0VUdUIzSkh4VTdid2JSRGxXdThsanVLdERWQmR4UlljMGFjZjlCbTV5aGVoRmhRX3RQZkxOdXRjQXA?oc=5",
+   "publishedAt": "2026-11-20T11:57:10+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T15:51:56+09:00"
   }
  ]
 }
