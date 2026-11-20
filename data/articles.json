@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-20T16:33:15+09:00",
- "runCount": 4925,
+ "generatedAt": "2026-11-20T16:54:00+09:00",
+ "runCount": 4926,
  "price": {
-  "price": "30,850",
-  "pct": "-3.29",
-  "at": "2026-11-20T16:33:16+09:00"
+  "price": "30,800",
+  "pct": "-3.45",
+  "at": "2026-11-20T16:54:03+09:00"
  },
  "articles": [
   {
@@ -55887,6 +55887,114 @@
     "neg": []
    },
    "firstSeenAt": "2026-11-20T16:33:15+09:00"
+  },
+  {
+   "id": "59e8cb265da455f7",
+   "title": "'SM 시세조종' 혐의 카카오 김범수, 2심도 무죄…사법 리스크 덜었다",
+   "outlet": "SR타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85b2FmM0RGZG5kSkNzdVd3c0MzN1c3bDhrSThSaDFHcXJSWVNTeDRlcGdSX2hxUGxKdlZ3NkY5bVhoNGVfek1CbHVuWnptaU5KekpveTgxc2EtcDUyU0x1Qy1jeUNqN03SAWtBVV95cUxONUxBT3BwbkhCNnJGQVY4TFBKSllLRUZuZmlxcUpERURnSDVfempDUk51X3JLakJndmxiYXVxWW9wWUVUY1RJOGdsWkJMV2lPdHJXTHNYSUtfVGpNM1VnX1lSMGJEX3NFczRDaw?oc=5",
+   "publishedAt": "2026-11-20T15:30:09+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T16:54:00+09:00"
+  },
+  {
+   "id": "edde762629fe78ed",
+   "title": "'무죄' 김범수, 사법 리스크 해소…카카오 분할 앞두고 역할 기대",
+   "outlet": "딜사이트",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NaGxtaGNvVmZaQkY5REdsV0d3cDI2eUtvejk0UWN3VWt3MERlenQwQWNjd0p6enp4OG5PZDJBYU9ETC1lRDdkRHlHWHotWjQ?oc=5",
+   "publishedAt": "2026-11-20T16:27:27+09:00",
+   "tone": "중립",
+   "toneScore": 0.2,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크",
+    "호재어:기대"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [
+     "기대"
+    ],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T16:54:00+09:00"
+  },
+  {
+   "id": "a73b5915bf388fc4",
+   "title": "[특징주] 카카오, 실적 개선·1천500억원 자사주 소각에 10.65% 급등 마감",
+   "outlet": "moneystorm.kr",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ycTFxQ05LZ2t5WmhSWjFqSHdsZFhtTWlhRGtEWVdMNTRaeFFsczVnN0JZR0oyVmRyQW9oM1VmRE9GZ0FzTnVNMFJ6QUVJYzJqOFRfSXRyZ0Z5MlAzbWpucFpaTWtFV2Z0aVE?oc=5",
+   "publishedAt": "2026-11-05T17:00:00+09:00",
+   "tone": "긍정",
+   "toneScore": 3.0,
+   "frame": "중립전달",
+   "messages": [
+    "주주환원 정책"
+   ],
+   "signals": [
+    "등락:10.65% 급등"
+   ],
+   "frames": [
+    "주가/시장반응",
+    "중복상장/주주가치"
+   ],
+   "hits": {
+    "pos": [
+     "10.65% 급등"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T16:54:00+09:00"
+  },
+  {
+   "id": "4d4ca9a017b533e2",
+   "title": "카카오, 사측·주주 갈등 ‘격화’…인적 분할 가시밭길 되나",
+   "outlet": "SR타임스",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03ZnMteFhJRjF2b080TUdjVnZGWVF2S0VuQ2VjSFRELW00UkhPYmJuSjlMYjZZdUpOLXh6TXdrVHAwWEFySjdmSlQ3OTlkb2JhVUpaaUhfd3VzWWFLcjZXZTlmdVc0aTJQOHdn0gFrQVVfeXFMTTdmcy14WElGMXZvTzRNR2NWdkZZUXZLRW5DZWNIVEQtbTRSSE9iYm5KOUxiNll1Sk4teHpNd2tUcDBYQXJKN2ZKVDc5OWRvYmFVSlppSF93dXNZYUtyNldlOWZ1VzRpMlA4d2c?oc=5",
+   "publishedAt": "2026-11-12T08:41:06+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:가시밭"
+   ],
+   "frames": [
+    "기타"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "가시밭"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T16:54:00+09:00"
   }
  ]
 }
