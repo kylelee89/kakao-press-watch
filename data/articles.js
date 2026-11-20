@@ -1,10 +1,10 @@
 window.KMW_DATA = {
- "generatedAt": "2026-11-19T18:40:48+09:00",
- "runCount": 4915,
+ "generatedAt": "2026-11-20T13:25:34+09:00",
+ "runCount": 4916,
  "price": {
-  "price": "31,900",
-  "pct": "+0.31",
-  "at": "2026-11-19T18:40:50+09:00"
+  "price": "30,950",
+  "pct": "-2.98",
+  "at": "2026-11-20T13:25:48+09:00"
  },
  "articles": [
   {
@@ -54935,6 +54935,487 @@ window.KMW_DATA = {
     "neg": []
    },
    "firstSeenAt": "2026-11-19T18:20:19+09:00"
+  },
+  {
+   "id": "11a05a9959f257e0",
+   "title": "사법 리스크 털어낸 김범수, 카카오 AI·신사업 승부수 던지나",
+   "outlet": "시사저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPc3o3aVpSUTRiMmtNX3JCdWdsMHJWQ1VOZFMtRWc5NkdNVGFLUGYzSTFUenJNTW5WRzl5NkZKbWNTSHhIV0hVMnB2OGxXbUxTaUFFZVJjd2xLOVl4Vzl1OEk4S0p5MXZHM3dfdURhNNIBc0FVX3lxTFA1SGIzRmphNC0wazMxZmVVeGhaRXhtNmFOdElBT0FKVU50Qzd1Z1hmZ2h4YWNpZ01UZWhjdmVDMXRTZUtKYS1Gc0ZCNlEwMzNRc1hCNlFBb081TkZyelYxT1lTZk50MW1VaWQtak9KMzBCbjQ?oc=5",
+   "publishedAt": "2026-11-20T12:16:01+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "회사프레임",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "31ed6d15a649a8e3",
+   "title": "'사법 족쇄' 한겹 더 벗은 김범수…카카오 인적분할·AI 전환 탄력",
+   "outlet": "뉴스1",
+   "outletGroup": "통신사",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41ZDdieXJjZ0NPWXlkVUZONl9VVDhSNFZueXRoc3JPRkdHa2h3RTQ3TnBlSV9PbmdJU2pSb1BTclBxQ09oaVNFRFRHOFVvd3dHNVh3UW9VM2FLSFZYcVVNWWNOVnc0a0Fq?oc=5",
+   "publishedAt": "2026-11-20T11:22:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "3d519c0706ea3057",
+   "title": "[현장] 김범수 2심도 무죄…카카오, 인적분할 부담 덜었다",
+   "outlet": "디지털데일리",
+   "outletGroup": "IT전문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GWnRkLVZkeGE2ZVlXX0NkV0hWc1RmenRUMml4alc1aHlCemtiYmliRkFhQjM1TG90OEdFYWg0SWdPRHZ5ZjNhOF9FT05jSWwzaHo1dnF6WHdxdTRHWnpYaWRJZ18?oc=5",
+   "publishedAt": "2026-11-20T11:20:25+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:부담"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "부담"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "ae3bf7a22b9b1c24",
+   "title": "김범수 2심 무죄…사법리스크 덜어낸 카카오, AI사업 속도 내나",
+   "outlet": "매일경제 마켓",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hUUlodDc0ZGFBdW5Gb04tN2hhdnk3aF9hdmNPRDdNaFBGUW1lV29kZmgzcGphaGV2VkM2VDRMRmpZbVNKMWZUaUoxVFBteUtLaFE?oc=5",
+   "publishedAt": "2026-11-20T11:24:58+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "66d330979ca4963f",
+   "title": "김범수 카카오 창업자, 항소심 운명의 날 … 인적분할 첫 분수령",
+   "outlet": "뉴데일리 경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbGNxRmozWjhIUjVINVhBM0dodWtRZjNFejUxQkwtTHkxcjMzTFBxSjgzQmloQ2F6bHBFMnVVajU0N1lNT2d1ZzFMQmV0ZDJTQ3lCWDJrRjdwM0NpdUQ0M19GYzVHUVdGQTlZSHlkdFY2S1hGUndoeWpfQdIBgAFBVV95cUxOR0JrOGJzTmRnX1d0UDUwdFFUNWZPMGlhNTlyYVVtU3VnbEphSmNPaWRwb3F3MHA5bkh5c2xMVmpodEpVNWozV0F4VHdJcEZjZmc4ZkpLOVVCQmRRSTdFYTM1RzctLVdtODJubXFRMERkcGlSemxiYzk4akJscTNNZw?oc=5",
+   "publishedAt": "2026-11-20T07:04:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "4cb2b45d8873746b",
+   "title": "김범수 2심 무죄, 인적분할 앞둔 카카오에 '청신호'",
+   "outlet": "일간투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92aXZmdTl1ZDZKVG1QSDB6bXluMUxUcVNQLXlhcm83MlhPeHVqTWVDUDFXaWFzTkRLZjVzamtSQWFJbVBURzQ1LU5DTnBwWTd0WC01UTdEcUxjbkZHbUJYdU83UE4xOUMybmVz?oc=5",
+   "publishedAt": "2026-11-20T11:37:27+09:00",
+   "tone": "긍정",
+   "toneScore": 2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "호재어:청신호"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [
+     "청신호"
+    ],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "5596f58d5a127b19",
+   "title": "텐센트, 카카오 지분 4.91%로 축소…AI 인적분할 앞두고 1월 주총 표심 변수",
+   "outlet": "시사프리즘",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14LU5jOWo0Q1FBTHFOWmhNblVGNGkzM083MDNqU3BIOTVGdkdhWnEzVUx1Z1hKMjFrdkEzRHRQUVZ3VjFTVkZFZnhpZzBkUXd2SjBzRUxnSXFPMDdiaVhWdWE0bldrUU43?oc=5",
+   "publishedAt": "2026-11-19T16:44:12+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "3eeb156727275b64",
+   "title": "김범수 2심도 무죄…카카오, 사법리스크 털고 AI·인적분할 속도",
+   "outlet": "데일리안",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZHVUZ3JDVTliUnlzY1FJZGk1WmR1UDBQWVc2Z1Zhbk5saEg5THRYZjVJZWF0RzZ1RlpSbk8yMDNadTl5LVh0VmNYQmdITTNrci0xLTFidmJXZU5aeUF6SGNzMkYxMlVWOFl4enBPc1B4bGRWZXJoekVXNVZ1a0ZhTUtuZEpSMzZlRmg3NTlVUHQzYW83RWJGZkFFdmI0UVFLQWdNSlNrX1FzQ095YXIteFY0ZmR2ZlVMVWRxcU51WUxKYmFCVG8zYS1wWVc0TzlRWGVjeGlFYzJNV3dVQU1WMVZJWVlKWEg4MEFCN2pDSFhsa0hzZzR4eVBXQUFOSHBUUTJYWnh3QnNRNnZORW4yT0l0UmNnTmc?oc=5",
+   "publishedAt": "2026-11-20T10:52:00+09:00",
+   "tone": "중립",
+   "toneScore": -1.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "적대어:리스크"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "4779c87676cb0093",
+   "title": "‘김범수 2심 무죄’ 사법리스크 줄인 카카오… AI사업·인적분할 탄력?",
+   "outlet": "세계비즈",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tN2ZudTE1ZGFoNGx4Q0pSRWVDSVl1UzI3Vm13dDRhWHF6VzZ5bG9IVEJ0WG5qOGt2MHd0YndfQTV0LXVVT2Y1aFdybUgzc3phUVNMX1ZCMA?oc=5",
+   "publishedAt": "2026-11-20T11:57:42+09:00",
+   "tone": "우려",
+   "toneScore": -2.0,
+   "frame": "중립전달",
+   "messages": [
+    "인적분할 성격(물적분할 아님)"
+   ],
+   "signals": [
+    "물음표:?",
+    "적대어:리스크"
+   ],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "?",
+     "리스크"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "08877ef589eda48d",
+   "title": "김범수 카카오 창업자, 항소심서 무죄 … 카카오 분할 고비 넘었다",
+   "outlet": "뉴데일리 경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00SEJBeGtUMG5pMHRCZXhFUzNXM0VibncybGtDS2hDZGkwemx2aWNiRmMxX0Z1dW9WMU0tTFZ3NkVmWHRRQWZ6M29ZLW1WVDhwMkkxZVNBSmN5NEs5blRHZVRUMUtSSWV0UzNsLW5KbE5ESGd6b3BNMkRpWdIBgAFBVV95cUxNYzQzeFhkNU9lQmNkQV9vYl9FQzdjTnMySVZxV0MyelI2WFBidG5UZVpPbjNZa2xKM2ZZVy0yWEIzWk1qcXdwblRUTElaejAyZmFwQUdVS21PbUdFdy1zRHF0SlhBSnhmVE9kUDZfX3ZUc19maUlfbVlaVmw1blNRTQ?oc=5",
+   "publishedAt": "2026-11-20T11:41:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "55b18f77bd8626a3",
+   "title": "김범수 'SM 시세조종' 2심도 무죄…카카오 경영 불확실성 완화",
+   "outlet": "디지털투데이",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByS0ZfYkozb2Noclo3ZVBudHY4TG9rQjZTd1BYSE1nLWt0WS1HN21mQVRrRl9TakxBTDExT19HaG82dVpfdGZzQ1dIYU5JMUc1QzMxcTlmOHNpNzBqMlNzQkxsUFlmVE5BbG5NdTJSQk8yb0U?oc=5",
+   "publishedAt": "2026-11-20T10:54:29+09:00",
+   "tone": "중립",
+   "toneScore": -1.5,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [
+    "적대어:불확실"
+   ],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": [
+     "불확실"
+    ]
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "fabd1de7e72fc94f",
+   "title": "카카오 창업자 김범수 오늘 2심 선고…운명의 날",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd21DcWpkQTRKejN2R1Fpb1ltYjZteXJDcjRabU1yblo3akVtckwzQTVrTXliR3AzejhPM2tqN01QSWlQYThTVzYwUVpXMHRUWkVic0JHZk1QVm5fOXdiWVJsSHUyeDV0Sm5OeTZRcC1PbzhtdmE0cDBBNFZRS0ZDYg?oc=5",
+   "publishedAt": "2026-11-20T07:27:56+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "0d9b5a52cd388d30",
+   "title": "‘항소심 무죄’ 김범수 카카오 창업자 “AI시대 재도약 위한 과감한 변화에 힘 보탤 것”",
+   "outlet": "Chosunbiz",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeVk4NUl2WmNFQWFOVi1NbXZaZUhrZFFpSnNUN1F2cjEtTzgtS3IzU0l4bjJYTXdXWjZlcXo1ZE51ZnFKUGJKLVpyU2VkZldZTHg2ZHVrX3pqMHJpM2FnTlRWT1B1LVR4cm13aTh0aU9wVVJuVndiWXctdGplNTdFbFhB0gGWAUFVX3lxTE9pcTVDUGhteEVsUnhGQ25RRV9UV2tFTWRCaUVEX1VYUmhBNnNreTRFRUxrOTFtS0ZuaTczNUpKMm55aGxabnBtenZIV3hmTGx6M19nV0s3UllyZ056RFVPR0M3NkdGRC1lWWN5eUFXaVNPX014ZS1TR2huZUJBajVwNmhSRjQ0amt1RTFucTZrUzBRV09uQQ?oc=5",
+   "publishedAt": "2026-11-20T11:03:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "90d1c3736539de25",
+   "title": "'SM 시세조종' 카카오 김범수, 2심 무죄…AI 중심 재편 탄력 붙나",
+   "outlet": "한국경제",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JNzJLd2pibXEwaFJyempRTGFKOXVFdVN3aDJTQ2FjYWM2NldsbHJIQ1lLT3BOZENtVlVhMXlFU0hPTkdZX09lYVZJZHpYOWZXS2VMWlNzN1pDdw?oc=5",
+   "publishedAt": "2026-11-20T10:44:41+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "23afa743dbdcdba2",
+   "title": "김범수 2심 무죄! 징역 15년 구형 깨고 '3년 사법 족쇄' 풀었다… 카카오AI·카카오X 대격변 시동",
+   "outlet": "내외일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fdFY4X0lBcFpGaEo1WW42eHk1V1hWeXMxZlJTRXhYelcxbWV2cnFLVnYyR0g3VkNXMldtRHZhenhiMWhwdkx3dDlmNkhjbzFNSkVqYjdqYmljUFhXZm1WQ1ZWR1VwZnE2cjFzSWtIZw?oc=5",
+   "publishedAt": "2026-11-20T11:24:26+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "AI전략",
+    "지배구조",
+    "분할구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "0bf80b9dca25c23b",
+   "title": "정신아 카카오 대표 “김범수 무죄, 신뢰 회복 디딤돌 되길” : 기업·산업",
+   "outlet": "재경일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9waTZWbWR2YzAzQ1RQZlE2ZzBZN25VMXNFWVNEUkhxeDU2RzJMZFR5ekJGQlF4MDRXWUxjT2NFUVVtRDBqUmFIaU1VRQ?oc=5",
+   "publishedAt": "2026-11-20T12:00:38+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [
+    "경영진 내정(정신아/김도영)"
+   ],
+   "signals": [],
+   "frames": [
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "6dc641f854d2ce40",
+   "title": "카카오 김범수, 주가조작 혐의 2심도 무죄....\"새로운 성장의 길 열어가야\"",
+   "outlet": "오피니언뉴스",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TZnFjdDFpOHVHbDBzcVBNdzAwcmpXZ1hMclRRek9zMXhFZTlvQmd5elJtSENsbkhkZXpDQ0duTngwMWNta1Nha2xjZGh4djY5SUVJSTExSW8tR2NrU3MycXFnR2FuNnlFalEwWWtpQVI?oc=5",
+   "publishedAt": "2026-11-20T11:34:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "72c3510441a98f82",
+   "title": "'SM 주가조작' 카카오 김범수 2심 무죄…\"인위적 조작 증거 부족\"(종합)",
+   "outlet": "이데일리",
+   "outletGroup": "경제지",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWxPZE4ycHMycVgzQlBNQ2JCWmdvdGdYTDRRVFhHelJ3ZWRyMHpCXzQ4SnlLQkFNTjdVNVBRMlUyLV9LUjc3NVpKZWlaZnYxdzNMRlF2V3YzaHd5cDlDMGhNRE5VS2J6bExCbXdmMGdCd1BHNVBLTkVELWR2b1FPMA?oc=5",
+   "publishedAt": "2026-11-20T11:12:53+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "a5e7950f86c4b57a",
+   "title": "김범수 ‘SM엔터 주가조작’ 2심도 무죄…카카오 AI 전환 본격화 : 기업·산업",
+   "outlet": "재경일보",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yVjl0MFFBOW1RT0ZLT0ZhN3lGbUZUemZCd3lNUFhJUG15M2gxUmRjcmE2NjcwUk8zdWJ4T091MjBnaUhvQjBNSHNDRQ?oc=5",
+   "publishedAt": "2026-11-20T11:55:00+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "AI전략",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
+  },
+  {
+   "id": "28f7c8f9bf324ece",
+   "title": "카카오 김범수 'SM 주가조작' 항소심도 무죄",
+   "outlet": "포쓰저널",
+   "outletGroup": "기타",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10cXNqZE1fRUI4Z1g5dDJCSVlWdktLQUdRMXVaVFdDSnlsNzNXRU85M2dUdDROa0ttbVIxUnJBbjBZZzdmZk83RlJYbFpzYURvY043VUF3RWRNaVZzTDIwTUdIRQ?oc=5",
+   "publishedAt": "2026-11-20T10:35:01+09:00",
+   "tone": "중립",
+   "toneScore": 0.0,
+   "frame": "중립전달",
+   "messages": [],
+   "signals": [],
+   "frames": [
+    "주가/시장반응",
+    "지배구조"
+   ],
+   "hits": {
+    "pos": [],
+    "neg": []
+   },
+   "firstSeenAt": "2026-11-20T13:25:34+09:00"
   }
  ]
 };
